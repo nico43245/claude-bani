@@ -1,0 +1,33 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:1280px; height:769px; overflow:hidden;
+    font-family:ui-sans-serif,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:#12141a; color:#f2f2ef; padding:66px 90px; display:flex; flex-direction:column; }
+  .kicker { font-size:27px; letter-spacing:.2em; text-transform:uppercase;
+    color:#4ade8e; font-weight:700; margin-bottom:16px; }
+  h1 { font-size:62px; line-height:1.03; letter-spacing:-.03em; font-weight:800; margin-bottom:12px; }
+  .sub { font-size:28px; color:#a8a8a2; margin-bottom:38px; font-weight:500; }
+  .funnel { display:flex; flex-direction:column; gap:15px; }
+  .step { display:flex; align-items:center; gap:24px; }
+  .lbl { width:330px; font-size:30px; color:#d6d6d1; font-weight:600; text-align:right; }
+  .track { flex:1; height:52px; background:#1e2128; border-radius:9px; overflow:hidden; }
+  .fill { height:100%; background:linear-gradient(90deg,#4ade8e,#39b673); }
+  .fill.red { background:#d9544f; min-width:7px; }
+  .n { width:120px; font-size:38px; font-weight:800; text-align:right;
+    font-variant-numeric:tabular-nums; }
+  .n.red { color:#ff6b66; }
+  .foot { margin-top:38px; font-size:27px; color:#8e8e88; border-top:2px solid #262932; padding-top:22px; }
+  .foot b { color:#4ade8e; }
+</style></head><body>
+  <div class="kicker">Real project · public source</div>
+  <h1>800 listings scanned.<br>Every fake one rejected.</h1>
+  <div class="sub">Fraud detection that learned new bot farms on its own</div>
+  <div class="funnel">
+    <div class="step"><span class="lbl">Scanned</span><span class="track"><i class="fill" style="width:100%;display:block"></i></span><span class="n">800</span></div>
+    <div class="step"><span class="lbl">Passed fast filters</span><span class="track"><i class="fill" style="width:51%;display:block"></i></span><span class="n">409</span></div>
+    <div class="step"><span class="lbl">Passed deep checks</span><span class="track"><i class="fill" style="width:9%;display:block"></i></span><span class="n">35</span></div>
+    <div class="step"><span class="lbl">Genuinely funded</span><span class="track"><i class="fill red" style="width:2%;display:block"></i></span><span class="n red">6</span></div>
+  </div>
+  <div class="foot">Bot farms caught · self-extending blocklist · <b>full source public</b></div>
+</body></html>

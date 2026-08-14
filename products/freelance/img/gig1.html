@@ -1,0 +1,30 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:1280px; height:769px; overflow:hidden;
+    font-family:ui-sans-serif,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:#12141a; color:#f2f2ef; display:flex; flex-direction:column;
+    justify-content:center; padding:80px 90px; position:relative; }
+  .glow { position:absolute; width:900px; height:900px; border-radius:50%;
+    background:radial-gradient(circle,rgba(74,222,142,.13) 0%,transparent 62%);
+    right:-260px; top:-300px; }
+  .kicker { font-size:30px; letter-spacing:.24em; text-transform:uppercase;
+    color:#4ade8e; font-weight:700; margin-bottom:26px; }
+  h1 { font-size:104px; line-height:.97; letter-spacing:-.035em; font-weight:800; }
+  h1 .alt { color:#4ade8e; }
+  .sub { font-size:39px; color:#a8a8a2; margin-top:32px; font-weight:500; }
+  .row { display:flex; gap:16px; margin-top:52px; flex-wrap:wrap; }
+  .chip { border:2.5px solid #33363f; border-radius:13px; padding:15px 26px;
+    font-size:30px; font-weight:600; color:#e8e8e4; background:#181b22; }
+  .chip.on { border-color:#4ade8e; color:#4ade8e; background:rgba(74,222,142,.09); }
+</style></head><body>
+  <div class="glow"></div>
+  <div class="kicker">Python · Node.js</div>
+  <h1>Custom <span class="alt">web scraper</span><br>built &amp; verified</h1>
+  <div class="sub">Any public site or API → clean CSV, JSON or Excel</div>
+  <div class="row">
+    <div class="chip on">Runs on your data first</div>
+    <div class="chip">Handles pagination</div>
+    <div class="chip">Zero dependencies</div>
+  </div>
+</body></html>

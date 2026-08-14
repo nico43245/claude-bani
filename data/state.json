@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T08:23:43.821Z",
+  "generated_at": "2026-08-14T08:34:16.502Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 17,
+  "events_total": 19,
   "tracks": [
     {
       "track": "bounty",
@@ -24,10 +24,30 @@
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 3
+      "actions": 5
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T08:34:16.500Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Livrat pachet Fiverr complet: configurare camp-cu-camp cu limite verificate programatic + 3 imagini de gig 1280x769 generate si inspectate vizual",
+      "evidence": null,
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T08:34:16.493Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Cont Fiverr creat de utilizator (Google sign-in)",
+      "evidence": null,
+      "agent": "utilizator"
+    },
     {
       "ts": "2026-08-14T08:23:43.819Z",
       "type": "action",
