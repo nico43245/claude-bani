@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T12:50:15.629Z",
+  "generated_at": "2026-08-14T12:53:39.107Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 21,
+  "events_total": 23,
   "tracks": [
     {
       "track": "bounty",
@@ -24,10 +24,30 @@
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 7
+      "actions": 9
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T12:53:39.105Z",
+      "type": "decision",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Phishing confirmat prin WHOIS: domeniu creat 2026-08-07 (7 zile vechime), inregistrat 1 an, registrar Dominet HK, ascuns dupa Cloudflare. Link NEDESCHIS. Raportat si ignorat. Regula stabilita: nicio comanda nu e reala daca nu apare in Orders; niciun link extern nu se deschide.",
+      "evidence": null,
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T12:53:39.098Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Prima activitate pe gig la cateva ore de la publicare: tentativa de phishing de la «rossk9928», cu link extern catre vaskasystems.com si pretentia falsa ca a plasat o comanda",
+      "evidence": null,
+      "agent": "utilizator"
+    },
     {
       "ts": "2026-08-14T12:50:15.627Z",
       "type": "decision",
