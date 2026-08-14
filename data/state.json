@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-14T14:56:30.924Z",
+  "generated_at": "2026-08-14T22:27:53.031Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 60,
+  "events_total": 65,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 7
+      "actions": 8
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 9
+      "actions": 10
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 30
+      "actions": 32
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 14
+      "actions": 15
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T22:27:52.973Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1119 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-14T22:27:05.749Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T22:27:05.749Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 217 proiecte scanate → 47 potrivite, 16 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T22:26:52.376Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 3 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-14T22:26:04.427Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 798 candidați → 0 bounty-uri reale (798 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-14T14:56:30.867Z",
       "type": "action",
@@ -583,62 +633,27 @@
       "desc": "Pista principala confirmata empiric: produs digital validat cu semnale de cerere reala inainte de constructie.",
       "evidence": null,
       "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T07:51:52.374Z",
-      "type": "dead_end",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Piata publica de bounty-uri e o coada, nu o oportunitate: munca e facuta de altii inainte sa ajungi. Radarul ramane pornit ca supraveghere gratuita pentru inventar NOU, dar nu e pista principala.",
-      "evidence": null,
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T07:51:52.373Z",
-      "type": "decision",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar validat pe date reale: 800 candidati → 6 finantate → 0 castigabile. Toate cele 6 erau deja revendicate sau adjudecate.",
-      "evidence": "https://github.com/gyroflow/gyroflow/issues/150",
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-14T07:51:16.440Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 800 candidați → 0 bounty-uri reale (800 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-14T07:47:21.312Z",
-      "type": "opportunity",
-      "track": "bounty",
-      "amount_usd": 200,
-      "status": null,
-      "desc": "Cel mai bun bounty: [MCP] Gmail (activepieces/activepieces)",
-      "evidence": "https://github.com/activepieces/activepieces/issues/8072",
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-14T07:47:21.299Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 800 candidați → 6 bounty-uri reale (794 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
-    "accepted": 4,
+    "accepted": 3,
     "rejected": 843,
     "top": [
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "All Things Agentic Hackathon",
+        "url": "https://allthingsagentichackathon.devpost.com/",
+        "score": 570,
+        "prize_usd": 180000,
+        "slots": 9,
+        "participants": 2848,
+        "per_slot": 316,
+        "days_left": 17,
+        "objective": false
+      },
       {
         "source": "comp-radar",
         "platform": "drivendata",
@@ -646,11 +661,11 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 291,
+        "score": 287,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 517,
-        "per_slot": 172,
+        "participants": 521,
+        "per_slot": 174,
         "days_left": 33,
         "objective": true
       },
@@ -664,54 +679,24 @@
         "score": 81,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1628,
-        "per_slot": 407,
-        "days_left": 11,
+        "participants": 1635,
+        "per_slot": 409,
+        "days_left": 10,
         "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
-        "url": "https://youcam-api.devpost.com/",
-        "score": 6,
-        "prize_usd": 6000,
-        "slots": 2,
-        "participants": 1189,
-        "per_slot": 595,
-        "days_left": 3,
-        "objective": false
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "Hack The Limit",
-        "url": "https://hack-the-limit-1.devpost.com/",
-        "score": 1,
-        "prize_usd": 350,
-        "slots": 1,
-        "participants": 520,
-        "per_slot": 520,
-        "days_left": 16,
-        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 362
+        "count": 365
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 186
+        "count": 185
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 171
+        "count": 169
       },
       {
         "reason": "prea competitiv",
@@ -719,15 +704,19 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 29
+        "count": 28
       },
       {
         "reason": "fără premiu în bani",
-        "count": 13
+        "count": 12
       },
       {
         "reason": "regulament necitibil",
-        "count": 11
+        "count": 8
+      },
+      {
+        "reason": "participare restricționată",
+        "count": 7
       },
       {
         "reason": "premiu prea mic",
@@ -750,11 +739,11 @@
         "count": 4
       },
       {
-        "reason": "participare restricționată",
-        "count": 4
+        "reason": "fork (task sintetic de benchmark)",
+        "count": 3
       },
       {
-        "reason": "fork (task sintetic de benchmark)",
+        "reason": "prea puțin timp de construit",
         "count": 3
       },
       {
@@ -762,12 +751,12 @@
         "count": 2
       },
       {
-        "reason": "prea puțin timp de construit",
+        "reason": "termen necunoscut",
         "count": 2
       },
       {
-        "reason": "termen necunoscut",
-        "count": 2
+        "reason": "premiul nu e în bani",
+        "count": 1
       }
     ]
   }

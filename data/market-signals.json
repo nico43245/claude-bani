@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T14:56:30.865Z",
+  "generated_at": "2026-08-14T22:27:52.971Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -93,6 +93,34 @@
         "score": 104
       },
       {
+        "theme": "hours",
+        "mentions": 81,
+        "engagement": 11,
+        "evidence": [
+          {
+            "text": "I would pay a premium for it. The direct flight is still better than being interrupted halfway through your \"night\", and then having to trudge through a huge tr",
+            "url": "https://news.ycombinator.com/item?id=49096308",
+            "date": "2026-07-29"
+          },
+          {
+            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
+            "url": "https://news.ycombinator.com/item?id=48275865",
+            "date": "2026-05-26"
+          },
+          {
+            "text": "I'm working on some serious data analysis + realtime async code, and I use 200-400 million tokens a day with Claude Code alone (via ccusage). The complexity of ",
+            "url": "https://news.ycombinator.com/item?id=47977651",
+            "date": "2026-05-01"
+          },
+          {
+            "text": ">Built this in about 3 hours Why did you include this? No developer is going to read that and think \"I bet this is polished and well thought-out - take my money",
+            "url": "https://news.ycombinator.com/item?id=46690321",
+            "date": "2026-01-20"
+          }
+        ],
+        "score": 89
+      },
+      {
         "theme": "life",
         "mentions": 21,
         "engagement": 356,
@@ -121,64 +149,8 @@
         "score": 89
       },
       {
-        "theme": "hours",
-        "mentions": 80,
-        "engagement": 11,
-        "evidence": [
-          {
-            "text": "I would pay a premium for it. The direct flight is still better than being interrupted halfway through your \"night\", and then having to trudge through a huge tr",
-            "url": "https://news.ycombinator.com/item?id=49096308",
-            "date": "2026-07-29"
-          },
-          {
-            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
-            "url": "https://news.ycombinator.com/item?id=48275865",
-            "date": "2026-05-26"
-          },
-          {
-            "text": "I'm working on some serious data analysis + realtime async code, and I use 200-400 million tokens a day with Claude Code alone (via ccusage). The complexity of ",
-            "url": "https://news.ycombinator.com/item?id=47977651",
-            "date": "2026-05-01"
-          },
-          {
-            "text": ">Built this in about 3 hours Why did you include this? No developer is going to read that and think \"I bet this is polished and well thought-out - take my money",
-            "url": "https://news.ycombinator.com/item?id=46690321",
-            "date": "2026-01-20"
-          }
-        ],
-        "score": 88
-      },
-      {
-        "theme": "hate",
-        "mentions": 78,
-        "engagement": 13,
-        "evidence": [
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "I would pay $10k for a robot that wakes up when I leave for work, does all the household chores, then goes to sleep before I return home to a house with dishes ",
-            "url": "https://news.ycombinator.com/item?id=48331463",
-            "date": "2026-05-30"
-          },
-          {
-            "text": "As a verbal processor, I hate this. I use whisper v3 large all the time from voice memo dumps that are AI grammar corrected and this would flag when I copy past",
-            "url": "https://news.ycombinator.com/item?id=48940948",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "Were there cheaper and humane ways to get more employees to use AI? (yes). Did many people JUST burn tokens (goodbart law)? (Yes). Would people revert back to t",
-            "url": "https://news.ycombinator.com/item?id=48715787",
-            "date": "2026-06-29"
-          }
-        ],
-        "score": 87
-      },
-      {
         "theme": "spend",
-        "mentions": 78,
+        "mentions": 79,
         "engagement": 11,
         "evidence": [
           {
@@ -200,6 +172,34 @@
             "text": "The auction used to be automated. I could say my max spend is $30 an ad, but if my biggest competitor maxed at $15, I would pay ~$15 + 1. Now I pay $30 Also mad",
             "url": "https://news.ycombinator.com/item?id=49222424",
             "date": "2026-08-08"
+          }
+        ],
+        "score": 87
+      },
+      {
+        "theme": "hate",
+        "mentions": 77,
+        "engagement": 13,
+        "evidence": [
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "I would pay $10k for a robot that wakes up when I leave for work, does all the household chores, then goes to sleep before I return home to a house with dishes ",
+            "url": "https://news.ycombinator.com/item?id=48331463",
+            "date": "2026-05-30"
+          },
+          {
+            "text": "As a verbal processor, I hate this. I use whisper v3 large all the time from voice memo dumps that are AI grammar corrected and this would flag when I copy past",
+            "url": "https://news.ycombinator.com/item?id=48940948",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "Were there cheaper and humane ways to get more employees to use AI? (yes). Did many people JUST burn tokens (goodbart law)? (Yes). Would people revert back to t",
+            "url": "https://news.ycombinator.com/item?id=48715787",
+            "date": "2026-06-29"
           }
         ],
         "score": 86
@@ -287,34 +287,6 @@
           }
         ],
         "score": 81
-      },
-      {
-        "theme": "agent",
-        "mentions": 18,
-        "engagement": 258,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
-            "url": "https://news.ycombinator.com/item?id=48873462",
-            "date": "2026-07-11"
-          },
-          {
-            "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
-            "url": "https://news.ycombinator.com/item?id=49001865",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "Can it finally work with a large codebase? I have GooglePlay / AppStore app coded in Xcode, in C#, ported in Java with Python server. The codebase is large and ",
-            "url": "https://news.ycombinator.com/item?id=44060271",
-            "date": "2025-05-22"
-          }
-        ],
-        "score": 73
       },
       {
         "theme": "it.",
@@ -429,29 +401,29 @@
         "score": 71
       },
       {
-        "theme": "different",
-        "mentions": 35,
-        "engagement": 70,
+        "theme": "agent",
+        "mentions": 17,
+        "engagement": 258,
         "evidence": [
           {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
           },
           {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
+            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
+            "url": "https://news.ycombinator.com/item?id=48873462",
+            "date": "2026-07-11"
           },
           {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
+            "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
+            "url": "https://news.ycombinator.com/item?id=49001865",
+            "date": "2026-07-22"
           },
           {
-            "text": "It was Django. But he had a very different financial situation. And a potentially fraught one as a refugee and foreigner. I would pay the bribe, but I would try",
-            "url": "https://news.ycombinator.com/item?id=48243910",
-            "date": "2026-05-23"
+            "text": "Can it finally work with a large codebase? I have GooglePlay / AppStore app coded in Xcode, in C#, ported in Java with Python server. The codebase is large and ",
+            "url": "https://news.ycombinator.com/item?id=44060271",
+            "date": "2025-05-22"
           }
         ],
         "score": 70
@@ -485,8 +457,36 @@
         "score": 69
       },
       {
+        "theme": "different",
+        "mentions": 33,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It was Django. But he had a very different financial situation. And a potentially fraught one as a refugee and foreigner. I would pay the bribe, but I would try",
+            "url": "https://news.ycombinator.com/item?id=48243910",
+            "date": "2026-05-23"
+          }
+        ],
+        "score": 67
+      },
+      {
         "theme": "videos",
-        "mentions": 17,
+        "mentions": 16,
         "engagement": 233,
         "evidence": [
           {
@@ -510,7 +510,35 @@
             "date": "2026-05-13"
           }
         ],
-        "score": 68
+        "score": 65
+      },
+      {
+        "theme": "search",
+        "mentions": 19,
+        "engagement": 155,
+        "evidence": [
+          {
+            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
+            "url": "https://news.ycombinator.com/item?id=49068074",
+            "date": "2026-07-27"
+          },
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
+            "url": "https://news.ycombinator.com/item?id=49197069",
+            "date": "2026-08-06"
+          },
+          {
+            "text": "youtube really needs to go. like myspace. Ruined if they would offer youtube plus, i would pay: - no ads. none. nothing - videos with sponsored content tagged, ",
+            "url": "https://news.ycombinator.com/item?id=48306991",
+            "date": "2026-05-28"
+          }
+        ],
+        "score": 64
       },
       {
         "theme": "system",
@@ -567,34 +595,6 @@
           }
         ],
         "score": 60
-      },
-      {
-        "theme": "search",
-        "mentions": 17,
-        "engagement": 155,
-        "evidence": [
-          {
-            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
-            "url": "https://news.ycombinator.com/item?id=49068074",
-            "date": "2026-07-27"
-          },
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
-            "url": "https://news.ycombinator.com/item?id=49197069",
-            "date": "2026-08-06"
-          },
-          {
-            "text": "youtube really needs to go. like myspace. Ruined if they would offer youtube plus, i would pay: - no ads. none. nothing - videos with sponsored content tagged, ",
-            "url": "https://news.ycombinator.com/item?id=48306991",
-            "date": "2026-05-28"
-          }
-        ],
-        "score": 59
       },
       {
         "theme": "writing",
@@ -709,34 +709,6 @@
         "score": 52
       },
       {
-        "theme": "project",
-        "mentions": 27,
-        "engagement": 45,
-        "evidence": [
-          {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
-          },
-          {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
-          },
-          {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
-          }
-        ],
-        "score": 51
-      },
-      {
         "theme": "software",
         "mentions": 30,
         "engagement": 35,
@@ -763,6 +735,62 @@
           }
         ],
         "score": 50
+      },
+      {
+        "theme": "computer",
+        "mentions": 11,
+        "engagement": 230,
+        "evidence": [
+          {
+            "text": "There is a story from the early days of Napster where music industry executives discovered the service. One of the executives describes it as: \"We had a laptop ",
+            "url": "https://news.ycombinator.com/item?id=48932907",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
+            "url": "https://news.ycombinator.com/item?id=48664411",
+            "date": "2026-06-24"
+          },
+          {
+            "text": "Pfft, this thread got derailed rather quickly; Lets get it back on track! I welcome our new Credit Card sized computer overlords. I would pay dearly for a credi",
+            "url": "https://news.ycombinator.com/item?id=48253749",
+            "date": "2026-05-24"
+          },
+          {
+            "text": "Yeah, all of them claim that... but I just walk into the bank and say I don't have an Android or Apple 'smart' phone, only a Linux pocket computer (Librem 5). S",
+            "url": "https://news.ycombinator.com/item?id=48781014",
+            "date": "2026-07-03"
+          }
+        ],
+        "score": 50
+      },
+      {
+        "theme": "project",
+        "mentions": 26,
+        "engagement": 45,
+        "evidence": [
+          {
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
+            "url": "https://news.ycombinator.com/item?id=48956474",
+            "date": "2026-07-18"
+          },
+          {
+            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
+            "url": "https://news.ycombinator.com/item?id=48240608",
+            "date": "2026-05-22"
+          },
+          {
+            "text": "What's the best project management tool you have ever used?",
+            "url": "https://news.ycombinator.com/item?id=42501443",
+            "date": "2024-12-24"
+          }
+        ],
+        "score": 49
       },
       {
         "theme": "world",
@@ -819,34 +847,6 @@
           }
         ],
         "score": 49
-      },
-      {
-        "theme": "public",
-        "mentions": 14,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
-          },
-          {
-            "text": "I've been looking for a tool like this that can publish. I was thinking of some way to create a help doc system for end users, but interleaved with technical in",
-            "url": "https://news.ycombinator.com/item?id=44599270",
-            "date": "2025-07-17"
-          },
-          {
-            "text": "I've been looking for a tool like this forever. Trying it for my city (Milan, Italy), and it's pretty accurate. Would it ever be possible to specify which type ",
-            "url": "https://news.ycombinator.com/item?id=42978169",
-            "date": "2025-02-07"
-          }
-        ],
-        "score": 48
       }
     ],
     "loudest": [
@@ -1017,7 +1017,7 @@
     "subjects": [
       {
         "subject": "excel",
-        "queries": 33,
+        "queries": 34,
         "seed_spread": 10,
         "avg_branches": 9,
         "examples": [
@@ -1027,21 +1027,21 @@
           "excel template for expense tracking",
           "excel template for inventory"
         ],
-        "score": 1140
+        "score": 1176
       },
       {
         "subject": "spreadsheet",
-        "queries": 33,
+        "queries": 32,
         "seed_spread": 8,
-        "avg_branches": 9.2,
+        "avg_branches": 9,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking",
-          "excel template for invoices"
+          "google sheets template for apartment hunting"
         ],
-        "score": 921
+        "score": 885
       },
       {
         "subject": "budget",
@@ -1056,6 +1056,20 @@
           "spreadsheet to track spending"
         ],
         "score": 626
+      },
+      {
+        "subject": "reddit",
+        "queries": 16,
+        "seed_spread": 8,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for travel itinerary"
+        ],
+        "score": 459
       },
       {
         "subject": "planner",
@@ -1089,47 +1103,33 @@
         "subject": "google",
         "queries": 22,
         "seed_spread": 5,
-        "avg_branches": 9.8,
+        "avg_branches": 9.5,
         "examples": [
+          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for job applications"
         ],
-        "score": 391
-      },
-      {
-        "subject": "reddit",
-        "queries": 15,
-        "seed_spread": 7,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "excel template for budget",
-          "google sheets template for budget",
-          "google sheets template for travel itinerary"
-        ],
-        "score": 376
+        "score": 387
       },
       {
         "subject": "sheets",
         "queries": 20,
         "seed_spread": 5,
-        "avg_branches": 9.8,
+        "avg_branches": 9.5,
         "examples": [
+          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for job applications"
         ],
-        "score": 356
+        "score": 352
       },
       {
         "subject": "tracking",
-        "queries": 19,
+        "queries": 18,
         "seed_spread": 5,
         "avg_branches": 9.9,
         "examples": [
@@ -1139,7 +1139,7 @@
           "excel template for expense tracking",
           "excel template for inventory"
         ],
-        "score": 339
+        "score": 321
       },
       {
         "subject": "track",
@@ -1156,18 +1156,18 @@
         "score": 252
       },
       {
-        "subject": "pdf",
-        "queries": 14,
-        "seed_spread": 4,
-        "avg_branches": 10,
+        "subject": "download",
+        "queries": 10,
+        "seed_spread": 6,
+        "avg_branches": 9.6,
         "examples": [
-          "printable planner for july 2026",
+          "excel template for project management",
+          "excel template for small business accounting",
+          "excel template for inventory",
           "printable planner for adhd",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for 2025"
+          "checklist format"
         ],
-        "score": 201
+        "score": 212
       },
       {
         "subject": "expenses",
@@ -1184,10 +1184,10 @@
         "score": 191
       },
       {
-        "subject": "printable",
-        "queries": 12,
+        "subject": "pdf",
+        "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 9.6,
+        "avg_branches": 10,
         "examples": [
           "printable planner for july 2026",
           "printable planner for adhd",
@@ -1195,21 +1195,21 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 170
+        "score": 186
       },
       {
-        "subject": "download",
-        "queries": 9,
-        "seed_spread": 5,
-        "avg_branches": 9.6,
+        "subject": "printable",
+        "queries": 11,
+        "seed_spread": 4,
+        "avg_branches": 9.5,
         "examples": [
-          "excel template for project management",
-          "excel template for small business accounting",
-          "excel template for inventory",
+          "printable planner for july 2026",
           "printable planner for adhd",
-          "habit tracker template for google sheets"
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
         ],
-        "score": 159
+        "score": 155
       },
       {
         "subject": "app",
@@ -1254,6 +1254,34 @@
         "score": 128
       },
       {
+        "subject": "planning",
+        "queries": 9,
+        "seed_spread": 4,
+        "avg_branches": 9.8,
+        "examples": [
+          "excel template for budget",
+          "excel template for schedule",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "google sheets template for travel itinerary"
+        ],
+        "score": 128
+      },
+      {
+        "subject": "example",
+        "queries": 6,
+        "seed_spread": 6,
+        "avg_branches": 9.7,
+        "examples": [
+          "google sheets template for wedding guest list",
+          "checklist format",
+          "tracking template for google ads",
+          "budget template for teens",
+          "template management system"
+        ],
+        "score": 128
+      },
+      {
         "subject": "sheet",
         "queries": 12,
         "seed_spread": 3,
@@ -1280,6 +1308,34 @@
           "excel template for expense tracking"
         ],
         "score": 126
+      },
+      {
+        "subject": "daily",
+        "queries": 7,
+        "seed_spread": 5,
+        "avg_branches": 8.3,
+        "examples": [
+          "excel template for schedule",
+          "printable planner for adhd",
+          "habit tracker template for notion",
+          "how do i keep track of my calorie intake",
+          "planner for small business"
+        ],
+        "score": 118
+      },
+      {
+        "subject": "calendar",
+        "queries": 11,
+        "seed_spread": 3,
+        "avg_branches": 9.5,
+        "examples": [
+          "excel template for schedule",
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026"
+        ],
+        "score": 116
       },
       {
         "subject": "tracker",
@@ -1310,6 +1366,20 @@
         "score": 108
       },
       {
+        "subject": "weekly",
+        "queries": 6,
+        "seed_spread": 5,
+        "avg_branches": 8.5,
+        "examples": [
+          "excel template for schedule",
+          "printable planner for the week",
+          "planner printable for free",
+          "habit tracker template for notion",
+          "budget template for biweekly pay"
+        ],
+        "score": 102
+      },
+      {
         "subject": "create",
         "queries": 6,
         "seed_spread": 5,
@@ -1322,62 +1392,6 @@
           "tracking template for google ads"
         ],
         "score": 101
-      },
-      {
-        "subject": "students",
-        "queries": 7,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for students",
-          "notion template for school",
-          "google sheets template for college application",
-          "printable planner for kids"
-        ],
-        "score": 100
-      },
-      {
-        "subject": "planning",
-        "queries": 7,
-        "seed_spread": 4,
-        "avg_branches": 9.7,
-        "examples": [
-          "excel template for budget",
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "google sheets template for travel itinerary",
-          "checklist for wedding planning"
-        ],
-        "score": 99
-      },
-      {
-        "subject": "example",
-        "queries": 5,
-        "seed_spread": 5,
-        "avg_branches": 9.6,
-        "examples": [
-          "google sheets template for wedding guest list",
-          "tracking template for google ads",
-          "budget template for teens",
-          "template management system",
-          "budget planner for small business"
-        ],
-        "score": 88
-      },
-      {
-        "subject": "college",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for students",
-          "notion template for school",
-          "google sheets template for college application",
-          "checklist for college dorm"
-        ],
-        "score": 86
       },
       {
         "subject": "simple",
@@ -1408,48 +1422,6 @@
         "score": 85
       },
       {
-        "subject": "list",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for wedding guest list",
-          "google sheets template for college application",
-          "printable planner for the week",
-          "checklist for college dorm"
-        ],
-        "score": 83
-      },
-      {
-        "subject": "daily",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 8,
-        "examples": [
-          "printable planner for adhd",
-          "habit tracker template for notion",
-          "how do i keep track of my calorie intake",
-          "planner for small business",
-          "best planner for small business"
-        ],
-        "score": 80
-      },
-      {
-        "subject": "application",
-        "queries": 5,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "excel template for job application tracking",
-          "google sheets template for job applications",
-          "google sheets template for college application",
-          "spreadsheet to track job applications",
-          "budget template for grant proposal"
-        ],
-        "score": 72
-      },
-      {
         "subject": "project",
         "queries": 5,
         "seed_spread": 4,
@@ -1464,32 +1436,18 @@
         "score": 71
       },
       {
-        "subject": "calendar",
-        "queries": 10,
-        "seed_spread": 2,
-        "avg_branches": 9.5,
+        "subject": "students",
+        "queries": 6,
+        "seed_spread": 3,
+        "avg_branches": 10,
         "examples": [
-          "printable planner for july 2026",
-          "printable planner for adhd",
+          "notion template for college students",
+          "notion template for students",
+          "notion template for school",
           "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for 2025"
+          "budget template for college student"
         ],
-        "score": 70
-      },
-      {
-        "subject": "weekly",
-        "queries": 5,
-        "seed_spread": 4,
-        "avg_branches": 8.2,
-        "examples": [
-          "printable planner for the week",
-          "planner printable for free",
-          "habit tracker template for notion",
-          "budget template for biweekly pay",
-          "report template to management"
-        ],
-        "score": 67
+        "score": 65
       },
       {
         "subject": "expense",
@@ -1513,11 +1471,37 @@
         "examples": [
           "printable planner for adhd",
           "printable planner for kids",
-          "checklist for traveling",
           "checklist for international travel",
+          "checklist for traveling",
           "checklist for moving out of state"
         ],
         "score": 65
+      },
+      {
+        "subject": "application",
+        "queries": 4,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "excel template for job application tracking",
+          "google sheets template for job applications",
+          "spreadsheet to track job applications",
+          "budget template for grant proposal"
+        ],
+        "score": 57
+      },
+      {
+        "subject": "list",
+        "queries": 4,
+        "seed_spread": 4,
+        "avg_branches": 8.5,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for wedding guest list",
+          "printable planner for the week",
+          "checklist for moving out of state"
+        ],
+        "score": 54
       },
       {
         "subject": "format",
@@ -1525,7 +1509,7 @@
         "seed_spread": 3,
         "avg_branches": 9.2,
         "examples": [
-          "excel template for invoices",
+          "checklist format",
           "budget template for google sheets",
           "budget template for grant proposal",
           "budget template for sheets",
@@ -1534,15 +1518,29 @@
         "score": 52
       },
       {
-        "subject": "university",
+        "subject": "schedule",
+        "queries": 5,
+        "seed_spread": 3,
+        "avg_branches": 8.6,
+        "examples": [
+          "notion template for school",
+          "notion template for work",
+          "excel template for bills and payments",
+          "excel template for schedule",
+          "printable planner for kids"
+        ],
+        "score": 51
+      },
+      {
+        "subject": "school",
         "queries": 4,
         "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "notion template for college students",
-          "notion template for students",
-          "google sheets template for college application",
-          "budget template for college student"
+          "notion template for notes",
+          "notion template for school",
+          "checklist format",
+          "template management system"
         ],
         "score": 43
       },
@@ -1781,19 +1779,19 @@
       },
       {
         "seed": "excel template for",
-        "query": "excel template for invoices",
+        "query": "excel template for schedule",
         "branches": 10,
         "children": [
-          "excel template for invoices",
-          "excel template for invoice tracking",
-          "excel template for invoice entry",
-          "excel template for invoice free",
-          "excel template for billing",
-          "excel spreadsheet for invoices",
-          "excel template for receipts",
-          "excel format for invoices",
-          "excel spreadsheet for invoice tracking",
-          "excel format for invoice in gst"
+          "excel template for schedule planning",
+          "excel template for schedule",
+          "excel template for calendar",
+          "excel template for calendar 2026",
+          "excel template for calendar 2025",
+          "excel template for timetable",
+          "excel template for weekly schedule",
+          "excel template for employee schedule",
+          "excel template for work schedule",
+          "excel template for daily schedule"
         ]
       },
       {
@@ -1879,23 +1877,6 @@
           "google sheet template for stock portfolio",
           "google sheet template for stock management",
           "google sheet template for stock"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
-        "query": "google sheets template for college application",
-        "branches": 10,
-        "children": [
-          "google sheets template for college application",
-          "google sheets template for college list",
-          "google sheets template for college classes",
-          "google sheets template for college assignments",
-          "google sheets template for college",
-          "google sheets template for college students",
-          "google sheets college application template free",
-          "google sheets template for university",
-          "spreadsheet template for college application process",
-          "how to make a college application spreadsheet"
         ]
       },
       {
@@ -1998,6 +1979,23 @@
           "free printable adhd planner for adults pdf",
           "free printable adhd planner for kids",
           "free printable adhd planner for adults pdf download"
+        ]
+      },
+      {
+        "seed": "printable planner for",
+        "query": "printable planner for kids",
+        "branches": 10,
+        "children": [
+          "printable planner for kids",
+          "printable calendar for kids",
+          "printable calendar for kids 2026",
+          "printable calendar for kids 2025",
+          "printable planner for students",
+          "printable calendar for kids to color",
+          "printable calendar for kids free",
+          "printable calendar for kids pdf",
+          "printable calendar for kids schedule",
+          "printable calendar for kids april 2026"
         ]
       }
     ]
