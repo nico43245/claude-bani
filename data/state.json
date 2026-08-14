@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T08:17:59.068Z",
+  "generated_at": "2026-08-14T08:23:43.821Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 14,
+  "events_total": 17,
   "tracks": [
     {
       "track": "bounty",
@@ -19,9 +19,45 @@
       "revenue": 0,
       "cost": 0,
       "actions": 8
+    },
+    {
+      "track": "freelance",
+      "revenue": 0,
+      "cost": 0,
+      "actions": 3
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T08:23:43.819Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Livrat pachet freelance complet: case study public cu date reale, bio de profil, 3 oferte cu preturi si pachete, sabloane de propunere",
+      "evidence": "https://nico43245.github.io/claude-bani/case-study.html",
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T08:23:43.819Z",
+      "type": "decision",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Tipar confirmat pe 4 canale: orice canal FARA frictiune e saturat pe oferta. Valoarea s-a mutat pe platformele cu bariera de intrare (profil, verificare), unde nu pot intra in locul utilizatorului.",
+      "evidence": null,
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T08:23:43.808Z",
+      "type": "dead_end",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Canal HN «Seeking freelancer» eliminat: 1 client la 80 de freelanceri pe 4 luni consecutive",
+      "evidence": null,
+      "agent": "claude"
+    },
     {
       "ts": "2026-08-14T08:17:59.066Z",
       "type": "decision",
