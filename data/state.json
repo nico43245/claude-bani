@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T13:15:14.109Z",
+  "generated_at": "2026-08-14T13:17:17.779Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 32,
+  "events_total": 35,
   "tracks": [
     {
       "track": "bounty",
@@ -24,10 +24,40 @@
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 18
+      "actions": 21
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T13:17:17.776Z",
+      "type": "decision",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Refuzat «Extract TradingView Script Code» ($233): cerea codul sursa ascuns al unui indicator invite-only — furt de proprietate intelectuala. Filtrul l-a ratat initial pentru ca formularea suna pur tehnic; regula adaugata.",
+      "evidence": "https://www.freelancer.com/projects/pine-script/extract-tradingview-script-code",
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T13:17:17.776Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scrise 3 propuneri de licitare: OCR $190, FMX Backup $225, HubSpot Sync $390. Total potential $805.",
+      "evidence": null,
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T13:17:17.766Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Cont Freelancer.com creat si profil completat (8 skill-uri, case study in profil)",
+      "evidence": null,
+      "agent": "utilizator+claude"
+    },
     {
       "ts": "2026-08-14T13:15:14.105Z",
       "type": "opportunity",
