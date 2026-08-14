@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T13:59:13.698Z",
+  "generated_at": "2026-08-14T14:09:00.757Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 49,
+  "events_total": 53,
   "tracks": [
     {
       "track": "bounty",
@@ -30,10 +30,50 @@
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 7
+      "actions": 11
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T14:09:00.755Z",
+      "type": "decision",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "RISC NELĂMURIT 2 — deplasare. Regulamentul: finaliștii trebuie să aibă un membru care prezintă FIZIC la NeurIPS 2026 (Sydney, 6-12 dec.), pe cheltuiala proprie. Un bilet România-Sydney plus cazare depășește premiul locului 3 ($5.000) ca proporție și cere deplasarea utilizatorului. De clarificat dacă e condiție pentru premiu sau doar oportunitate.",
+      "evidence": "https://trainium-frontier.devpost.com/rules",
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T14:09:00.755Z",
+      "type": "decision",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "RISC NELĂMURIT 1 — cost de calcul. Regulamentul garantează credite AWS doar pentru «Academic Teams» (echipe de studenți). Prezentarea spune că primele 100 de echipe primesc «necessary GitHub and AWS resources». Contradicție. Dacă plătim noi timpul pe trn2.3xlarge, premisa cost-zero cade. De confirmat cu organizatorul ÎNAINTE de a investi muncă.",
+      "evidence": "https://trainium-frontier.devpost.com/rules",
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T14:09:00.755Z",
+      "type": "decision",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Faza 1 specificată exact: val_bpb pe un shard de validare fixat (~20M tokeni), 30 min wall-clock pe un singur cip Trn2 (trn2.3xlarge), compilarea exclusă. Top 10 avansează. Departajare: mai puțini parametri, apoi cod mai simplu.",
+      "evidence": "https://trainium-frontier.devpost.com/rules",
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T14:09:00.746Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Înscriere confirmată la AWS Trainium Frontier (128 participanți). Cost $0.",
+      "evidence": "https://trainium-frontier.devpost.com/",
+      "agent": "manual"
+    },
     {
       "ts": "2026-08-14T13:59:13.693Z",
       "type": "opportunity",
