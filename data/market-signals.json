@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:57:29.933Z",
+  "generated_at": "2026-08-14T14:56:30.865Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 33,
+        "mentions": 34,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 119
+        "score": 121
       },
       {
         "theme": "wish",
@@ -233,34 +233,6 @@
         "score": 84
       },
       {
-        "theme": "built",
-        "mentions": 28,
-        "engagement": 164,
-        "evidence": [
-          {
-            "text": "I built cloud transcoding 50x cheaper than AWS/Coconut/others – anyone need it?",
-            "url": "https://news.ycombinator.com/item?id=46473479",
-            "date": "2026-01-03"
-          },
-          {
-            "text": ">Built this in about 3 hours Why did you include this? No developer is going to read that and think \"I bet this is polished and well thought-out - take my money",
-            "url": "https://news.ycombinator.com/item?id=46690321",
-            "date": "2026-01-20"
-          },
-          {
-            "text": "Likewise! I built my personal blog with Astro and host on Cloudflare (username.dev), and feel guilty about taking advantage of such excellent software and free ",
-            "url": "https://news.ycombinator.com/item?id=46649002",
-            "date": "2026-01-16"
-          },
-          {
-            "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
-            "url": "https://news.ycombinator.com/item?id=44767486",
-            "date": "2025-08-02"
-          }
-        ],
-        "score": 83
-      },
-      {
         "theme": "code",
         "mentions": 57,
         "engagement": 41,
@@ -289,6 +261,34 @@
         "score": 82
       },
       {
+        "theme": "built",
+        "mentions": 27,
+        "engagement": 164,
+        "evidence": [
+          {
+            "text": "I built cloud transcoding 50x cheaper than AWS/Coconut/others – anyone need it?",
+            "url": "https://news.ycombinator.com/item?id=46473479",
+            "date": "2026-01-03"
+          },
+          {
+            "text": ">Built this in about 3 hours Why did you include this? No developer is going to read that and think \"I bet this is polished and well thought-out - take my money",
+            "url": "https://news.ycombinator.com/item?id=46690321",
+            "date": "2026-01-20"
+          },
+          {
+            "text": "Likewise! I built my personal blog with Astro and host on Cloudflare (username.dev), and feel guilty about taking advantage of such excellent software and free ",
+            "url": "https://news.ycombinator.com/item?id=46649002",
+            "date": "2026-01-16"
+          },
+          {
+            "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
+            "url": "https://news.ycombinator.com/item?id=44767486",
+            "date": "2025-08-02"
+          }
+        ],
+        "score": 81
+      },
+      {
         "theme": "agent",
         "mentions": 18,
         "engagement": 258,
@@ -312,6 +312,34 @@
             "text": "Can it finally work with a large codebase? I have GooglePlay / AppStore app coded in Xcode, in C#, ported in Java with Python server. The codebase is large and ",
             "url": "https://news.ycombinator.com/item?id=44060271",
             "date": "2025-05-22"
+          }
+        ],
+        "score": 73
+      },
+      {
+        "theme": "it.",
+        "mentions": 61,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Agree. I would pay for it.",
+            "url": "https://news.ycombinator.com/item?id=49030807",
+            "date": "2026-07-24"
+          },
+          {
+            "text": "If anyone knows of a broker who will let you withdraw the proceeds (cash) of a short sale, I will buy the name of the broker off you. I'll also let you know why",
+            "url": "https://news.ycombinator.com/item?id=48951275",
+            "date": "2026-07-17"
           }
         ],
         "score": 73
@@ -345,36 +373,8 @@
         "score": 72
       },
       {
-        "theme": "it.",
-        "mentions": 60,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Agree. I would pay for it.",
-            "url": "https://news.ycombinator.com/item?id=49030807",
-            "date": "2026-07-24"
-          },
-          {
-            "text": "If anyone knows of a broker who will let you withdraw the proceeds (cash) of a short sale, I will buy the name of the broker off you. I'll also let you know why",
-            "url": "https://news.ycombinator.com/item?id=48951275",
-            "date": "2026-07-17"
-          }
-        ],
-        "score": 72
-      },
-      {
         "theme": "them",
-        "mentions": 72,
+        "mentions": 71,
         "engagement": 0,
         "evidence": [
           {
@@ -398,7 +398,7 @@
             "date": "2026-07-27"
           }
         ],
-        "score": 72
+        "score": 71
       },
       {
         "theme": "open-source",
@@ -486,7 +486,7 @@
       },
       {
         "theme": "videos",
-        "mentions": 16,
+        "mentions": 17,
         "engagement": 233,
         "evidence": [
           {
@@ -510,7 +510,7 @@
             "date": "2026-05-13"
           }
         ],
-        "score": 65
+        "score": 68
       },
       {
         "theme": "system",
@@ -1017,548 +1017,561 @@
     "subjects": [
       {
         "subject": "excel",
-        "queries": 30,
-        "seed_spread": 6,
-        "avg_branches": 8,
-        "examples": [
-          "excel template for budget",
-          "excel template for order management",
-          "excel template for budget planning",
-          "excel template for world cup 2026",
-          "excel template for itinerary"
-        ],
-        "score": 597
-      },
-      {
-        "subject": "monthly",
-        "queries": 20,
-        "seed_spread": 8,
-        "avg_branches": 8.6,
-        "examples": [
-          "excel template for budget",
-          "excel template for monthly tasks",
-          "google sheets template for budget",
-          "google sheets template for tracking expenses",
-          "google sheets template for budgeting"
-        ],
-        "score": 545
-      },
-      {
-        "subject": "reddit",
-        "queries": 19,
-        "seed_spread": 7,
-        "avg_branches": 9.1,
-        "examples": [
-          "notion template for college students",
-          "university notion template",
-          "excel template for budget",
-          "excel template for personal finance",
-          "google sheets template for project management"
-        ],
-        "score": 462
-      },
-      {
-        "subject": "business",
-        "queries": 18,
-        "seed_spread": 8,
-        "avg_branches": 5.8,
-        "examples": [
-          "excel template for budget planning",
-          "google sheets template for tracking expenses",
-          "spreadsheet to track income and expenses",
-          "spreadsheet to track expenses",
-          "spreadsheet to track business expenses"
-        ],
-        "score": 426
-      },
-      {
-        "subject": "budget",
-        "queries": 18,
-        "seed_spread": 6,
+        "queries": 33,
+        "seed_spread": 10,
         "avg_branches": 9,
         "examples": [
           "excel template for budget",
-          "excel template for budget planning",
-          "google sheets template for budget",
-          "tracker template for excel",
-          "tracker template for google sheets"
+          "excel template for project management",
+          "excel template for small business accounting",
+          "excel template for expense tracking",
+          "excel template for inventory"
         ],
-        "score": 374
+        "score": 1140
+      },
+      {
+        "subject": "spreadsheet",
+        "queries": 33,
+        "seed_spread": 8,
+        "avg_branches": 9.2,
+        "examples": [
+          "excel template for project management",
+          "excel template for small business accounting",
+          "excel template for expense tracking",
+          "excel template for job application tracking",
+          "excel template for invoices"
+        ],
+        "score": 921
+      },
+      {
+        "subject": "budget",
+        "queries": 25,
+        "seed_spread": 7,
+        "avg_branches": 9.9,
+        "examples": [
+          "excel template for budget",
+          "excel template for expense tracking",
+          "google sheets template for budget",
+          "google sheets template for business expenses",
+          "spreadsheet to track spending"
+        ],
+        "score": 626
+      },
+      {
+        "subject": "planner",
+        "queries": 25,
+        "seed_spread": 5,
+        "avg_branches": 9.2,
+        "examples": [
+          "notion template for students",
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026"
+        ],
+        "score": 436
+      },
+      {
+        "subject": "business",
+        "queries": 17,
+        "seed_spread": 7,
+        "avg_branches": 9.1,
+        "examples": [
+          "excel template for small business accounting",
+          "google sheets template for business expenses",
+          "spreadsheet to track expenses",
+          "spreadsheet to track expenses for small business",
+          "spreadsheet to track spending"
+        ],
+        "score": 413
       },
       {
         "subject": "google",
         "queries": 22,
         "seed_spread": 5,
-        "avg_branches": 8.5,
+        "avg_branches": 9.8,
         "examples": [
-          "google sheets template for project management",
           "google sheets template for budget",
-          "google sheets template for tracking expenses",
-          "google sheets template for budgeting",
-          "google sheets template for job applications"
+          "google sheets template for business expenses",
+          "google sheets template for planning a trip",
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary"
         ],
-        "score": 373
+        "score": 391
       },
       {
-        "subject": "spreadsheet",
-        "queries": 20,
-        "seed_spread": 5,
-        "avg_branches": 6.6,
-        "examples": [
-          "excel template for personal finance",
-          "google sheets template for tracking expenses",
-          "spreadsheet to track income and expenses",
-          "spreadsheet to track expenses",
-          "spreadsheet to track spending"
-        ],
-        "score": 310
-      },
-      {
-        "subject": "personal",
-        "queries": 14,
-        "seed_spread": 6,
+        "subject": "reddit",
+        "queries": 15,
+        "seed_spread": 7,
         "avg_branches": 10,
         "examples": [
-          "excel template for budget",
-          "excel template for personal finance",
-          "google sheets template for budget",
-          "google sheets template for budgeting",
-          "spreadsheet to track spending"
-        ],
-        "score": 301
-      },
-      {
-        "subject": "planner",
-        "queries": 21,
-        "seed_spread": 4,
-        "avg_branches": 6.8,
-        "examples": [
-          "university notion template",
+          "notion template for college students",
           "notion template for school",
-          "printable planner for kids",
-          "printable planner for adhd",
-          "printable planner for july 2026"
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for travel itinerary"
         ],
-        "score": 263
-      },
-      {
-        "subject": "daily",
-        "queries": 13,
-        "seed_spread": 6,
-        "avg_branches": 8.1,
-        "examples": [
-          "excel template for monthly tasks",
-          "spreadsheet to track spending",
-          "printable planner for kids",
-          "printable planner for adhd",
-          "printable planner for 2026"
-        ],
-        "score": 260
-      },
-      {
-        "subject": "download",
-        "queries": 12,
-        "seed_spread": 6,
-        "avg_branches": 9.3,
-        "examples": [
-          "excel template for personal finance",
-          "google sheets template for project management",
-          "google sheets template for travel itinerary",
-          "printable planner for adhd",
-          "printable planner for 2026"
-        ],
-        "score": 251
+        "score": 376
       },
       {
         "subject": "sheets",
-        "queries": 18,
-        "seed_spread": 4,
-        "avg_branches": 8.3,
+        "queries": 20,
+        "seed_spread": 5,
+        "avg_branches": 9.8,
         "examples": [
-          "google sheets template for project management",
           "google sheets template for budget",
-          "google sheets template for tracking expenses",
-          "google sheets template for budgeting",
-          "google sheets template for job applications"
+          "google sheets template for business expenses",
+          "google sheets template for planning a trip",
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary"
         ],
-        "score": 243
+        "score": 356
       },
       {
-        "subject": "management",
-        "queries": 14,
+        "subject": "tracking",
+        "queries": 19,
         "seed_spread": 5,
-        "avg_branches": 7.9,
+        "avg_branches": 9.9,
         "examples": [
-          "notion template for project management",
           "notion template for work",
           "excel template for budget",
-          "excel template for order management",
-          "excel template for product pricing"
+          "excel template for project management",
+          "excel template for expense tracking",
+          "excel template for inventory"
         ],
-        "score": 232
+        "score": 339
+      },
+      {
+        "subject": "track",
+        "queries": 19,
+        "seed_spread": 4,
+        "avg_branches": 8,
+        "examples": [
+          "spreadsheet to track expenses",
+          "spreadsheet to track job applications",
+          "spreadsheet to track expenses for small business",
+          "spreadsheet to track spending",
+          "spreadsheet to track credit card rewards"
+        ],
+        "score": 252
+      },
+      {
+        "subject": "pdf",
+        "queries": 14,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 201
       },
       {
         "subject": "expenses",
         "queries": 9,
         "seed_spread": 6,
-        "avg_branches": 6.8,
+        "avg_branches": 9.7,
         "examples": [
           "excel template for budget",
-          "google sheets template for tracking expenses",
-          "google sheets template for monthly expenses",
-          "spreadsheet to track income and expenses",
-          "spreadsheet to track expenses"
+          "excel template for expense tracking",
+          "google sheets template for business expenses",
+          "spreadsheet to track expenses",
+          "spreadsheet to track expenses for small business"
         ],
-        "score": 169
+        "score": 191
       },
       {
-        "subject": "tracker",
+        "subject": "printable",
         "queries": 12,
-        "seed_spread": 3,
-        "avg_branches": 9.8,
+        "seed_spread": 4,
+        "avg_branches": 9.6,
         "examples": [
-          "excel template for personal finance",
-          "tracker template for excel",
-          "tracker template for google sheets",
-          "tracker template for notion",
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 170
+      },
+      {
+        "subject": "download",
+        "queries": 9,
+        "seed_spread": 5,
+        "avg_branches": 9.6,
+        "examples": [
+          "excel template for project management",
+          "excel template for small business accounting",
+          "excel template for inventory",
+          "printable planner for adhd",
           "habit tracker template for google sheets"
         ],
-        "score": 128
+        "score": 159
       },
       {
-        "subject": "pdf",
-        "queries": 12,
-        "seed_spread": 3,
+        "subject": "app",
+        "queries": 10,
+        "seed_spread": 4,
         "avg_branches": 9.5,
         "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "printable planner for 2026",
-          "printable planner for 2025",
-          "printable week planner"
+          "spreadsheet to track credit card rewards",
+          "how do i keep track of my period",
+          "best spreadsheet for budgeting",
+          "best spreadsheet for ipad",
+          "best spreadsheet for mac"
         ],
-        "score": 127
+        "score": 141
       },
       {
-        "subject": "project",
-        "queries": 7,
+        "subject": "monthly",
+        "queries": 8,
         "seed_spread": 5,
-        "avg_branches": 8.7,
+        "avg_branches": 9.4,
         "examples": [
-          "notion template for project management",
-          "google sheets template for project management",
-          "tracker template for excel",
-          "tracker template for google sheets",
-          "budget template for a project"
+          "google sheets template for budget",
+          "habit tracker template for notion",
+          "budget template for couples",
+          "budget template for biweekly pay",
+          "budget template for sheets"
         ],
-        "score": 120
+        "score": 140
       },
       {
         "subject": "notion",
         "queries": 12,
         "seed_spread": 3,
-        "avg_branches": 7.8,
-        "examples": [
-          "notion template for journaling",
-          "notion template for project management",
-          "notion template for content creators",
-          "notion template for students",
-          "notion template for college students"
-        ],
-        "score": 118
-      },
-      {
-        "subject": "tracking",
-        "queries": 9,
-        "seed_spread": 4,
-        "avg_branches": 7.6,
-        "examples": [
-          "notion template for work",
-          "excel template for budget",
-          "excel template for personal finance",
-          "google sheets template for budget",
-          "google sheets template for tracking expenses"
-        ],
-        "score": 117
-      },
-      {
-        "subject": "track",
-        "queries": 16,
-        "seed_spread": 2,
-        "avg_branches": 5.5,
-        "examples": [
-          "spreadsheet to track income and expenses",
-          "spreadsheet to track expenses",
-          "spreadsheet to track spending",
-          "spreadsheet to track job applications",
-          "spreadsheet to track investments"
-        ],
-        "score": 93
-      },
-      {
-        "subject": "weekly",
-        "queries": 7,
-        "seed_spread": 4,
-        "avg_branches": 7.1,
-        "examples": [
-          "excel template for monthly tasks",
-          "printable planner for kids",
-          "printable planner for students",
-          "printable planner for school",
-          "habit tracker template for notion"
-        ],
-        "score": 89
-      },
-      {
-        "subject": "app",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 7.7,
-        "examples": [
-          "budget template for numbers",
-          "how do i keep track of my period",
-          "how do i keep track of my calorie intake",
-          "best spreadsheet for budgeting",
-          "best spreadsheet for budget"
-        ],
-        "score": 79
-      },
-      {
-        "subject": "simple",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 9.6,
-        "examples": [
-          "spreadsheet to track income and expenses",
-          "spreadsheet to track spending",
-          "spreadsheet to track investments",
-          "habit tracker template for notion",
-          "budget template for excel"
-        ],
-        "score": 74
-      },
-      {
-        "subject": "travel",
-        "queries": 5,
-        "seed_spread": 4,
-        "avg_branches": 7.8,
-        "examples": [
-          "excel template for itinerary",
-          "google sheets template for budget",
-          "google sheets template for travel itinerary",
-          "checklist for business travel",
-          "budget template for business"
-        ],
-        "score": 66
-      },
-      {
-        "subject": "income",
-        "queries": 5,
-        "seed_spread": 3,
-        "avg_branches": 8.4,
-        "examples": [
-          "google sheets template for tracking expenses",
-          "spreadsheet to track income and expenses",
-          "spreadsheet to track expenses",
-          "spreadsheet to track business expenses",
-          "expense tracker template for google sheets"
-        ],
-        "score": 51
-      },
-      {
-        "subject": "application",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 10,
+        "avg_branches": 9.8,
         "examples": [
           "notion template for college students",
-          "university notion template",
-          "excel template for itinerary",
-          "tracker template for google sheets"
+          "notion template for writing a book",
+          "notion template for content creators",
+          "notion template for students",
+          "notion template for project management"
         ],
-        "score": 43
-      },
-      {
-        "subject": "couples",
-        "queries": 6,
-        "seed_spread": 2,
-        "avg_branches": 10,
-        "examples": [
-          "google sheets template for budget",
-          "google sheets template for budgeting",
-          "budget template for excel",
-          "budget template for google sheets",
-          "budget template for sheets"
-        ],
-        "score": 43
-      },
-      {
-        "subject": "job",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 7.3,
-        "examples": [
-          "google sheets template for job applications",
-          "spreadsheet to track job applications",
-          "tracker template for excel",
-          "tracker template for google sheets"
-        ],
-        "score": 39
+        "score": 128
       },
       {
         "subject": "sheet",
-        "queries": 3,
+        "queries": 12,
+        "seed_spread": 3,
+        "avg_branches": 9.5,
+        "examples": [
+          "excel template for project management",
+          "excel template for small business accounting",
+          "excel template for expense tracking",
+          "excel template for job application tracking",
+          "google sheets template for budget"
+        ],
+        "score": 127
+      },
+      {
+        "subject": "management",
+        "queries": 9,
+        "seed_spread": 4,
+        "avg_branches": 9.3,
+        "examples": [
+          "notion template for project management",
+          "notion template for work",
+          "excel template for budget",
+          "excel template for project management",
+          "excel template for expense tracking"
+        ],
+        "score": 126
+      },
+      {
+        "subject": "tracker",
+        "queries": 10,
         "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "excel template for personal finance",
-          "habit tracker template for excel",
-          "budget template for free"
+          "excel template for expense tracking",
+          "excel template for job application tracking",
+          "google sheets template for business expenses",
+          "tracker template for google sheets",
+          "tracker template for notion"
         ],
-        "score": 32
+        "score": 108
       },
       {
-        "subject": "plan",
-        "queries": 4,
-        "seed_spread": 2,
+        "subject": "income",
+        "queries": 6,
+        "seed_spread": 5,
         "avg_branches": 10,
         "examples": [
-          "budget template for business",
-          "budget template for a project",
-          "management template",
-          "template management project"
+          "excel template for expense tracking",
+          "google sheets template for business expenses",
+          "spreadsheet to track expenses",
+          "spreadsheet to track spending",
+          "how do i keep track of business expenses"
         ],
-        "score": 29
+        "score": 108
       },
       {
-        "subject": "printable",
-        "queries": 8,
-        "seed_spread": 1,
-        "avg_branches": 7.4,
+        "subject": "create",
+        "queries": 6,
+        "seed_spread": 5,
+        "avg_branches": 8.3,
         "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "printable planner for july 2026",
-          "printable planner for 2026",
-          "printable planner for 2025"
+          "notion template for writing a book",
+          "google sheets template for planning a trip",
+          "google sheets template for job applications",
+          "spreadsheet to track debt payoff",
+          "tracking template for google ads"
         ],
-        "score": 26
-      },
-      {
-        "subject": "habit",
-        "queries": 7,
-        "seed_spread": 1,
-        "avg_branches": 9.7,
-        "examples": [
-          "tracker template for excel",
-          "tracker template for google sheets",
-          "tracker template for notion",
-          "habit tracker template for google sheets",
-          "habit tracker template for notion"
-        ],
-        "score": 25
+        "score": 101
       },
       {
         "subject": "students",
-        "queries": 4,
-        "seed_spread": 2,
-        "avg_branches": 5.5,
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 10,
         "examples": [
-          "notion template for students",
           "notion template for college students",
-          "printable planner for students",
-          "printable planner for school"
+          "notion template for students",
+          "notion template for school",
+          "google sheets template for college application",
+          "printable planner for kids"
         ],
-        "score": 23
+        "score": 100
       },
       {
-        "subject": "adhd",
-        "queries": 3,
-        "seed_spread": 2,
+        "subject": "planning",
+        "queries": 7,
+        "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for toddlers"
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "google sheets template for travel itinerary",
+          "checklist for wedding planning"
         ],
-        "score": 21
+        "score": 99
       },
       {
-        "subject": "budgeting",
-        "queries": 3,
-        "seed_spread": 2,
-        "avg_branches": 7.3,
-        "examples": [
-          "google sheets template for budgeting",
-          "best spreadsheet for budgeting",
-          "best spreadsheet for budgeting reddit"
-        ],
-        "score": 19
-      },
-      {
-        "subject": "checklist",
-        "queries": 8,
-        "seed_spread": 1,
-        "avg_branches": 3,
-        "examples": [
-          "checklist for business travel",
-          "checklist for spiritual warfare",
-          "checklist for toddlers",
-          "checklist for child abuse evaluation",
-          "checklist for auditing internal audit process"
-        ],
-        "score": 19
-      },
-      {
-        "subject": "apple",
-        "queries": 3,
-        "seed_spread": 2,
-        "avg_branches": 7.3,
-        "examples": [
-          "budget template for numbers",
-          "how do i keep track of my steps on my apple watch",
-          "how do i keep track of my steps"
-        ],
-        "score": 19
-      },
-      {
-        "subject": "manager",
-        "queries": 3,
-        "seed_spread": 2,
-        "avg_branches": 5,
-        "examples": [
-          "checklist for onboarding new employees",
-          "template manager",
-          "template manager building gadget"
-        ],
-        "score": 17
-      },
-      {
-        "subject": "owner",
+        "subject": "example",
         "queries": 5,
-        "seed_spread": 1,
-        "avg_branches": 5.6,
+        "seed_spread": 5,
+        "avg_branches": 9.6,
         "examples": [
-          "planner for small business owner",
-          "planner for small business",
-          "best planner for small business owner",
-          "best planner for small business",
-          "best planner for small business owner 2025"
+          "google sheets template for wedding guest list",
+          "tracking template for google ads",
+          "budget template for teens",
+          "template management system",
+          "budget planner for small business"
         ],
-        "score": 15
+        "score": 88
+      },
+      {
+        "subject": "college",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for students",
+          "notion template for school",
+          "google sheets template for college application",
+          "checklist for college dorm"
+        ],
+        "score": 86
+      },
+      {
+        "subject": "simple",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 9.8,
+        "examples": [
+          "habit tracker template for notion",
+          "budget template for grant proposal",
+          "budget template for sheets",
+          "best spreadsheet for ipad",
+          "best spreadsheet for budgeting free"
+        ],
+        "score": 86
+      },
+      {
+        "subject": "docs",
+        "queries": 8,
+        "seed_spread": 3,
+        "avg_branches": 9.6,
+        "examples": [
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary",
+          "google sheets template for inventory"
+        ],
+        "score": 85
+      },
+      {
+        "subject": "list",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 9,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for wedding guest list",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for college dorm"
+        ],
+        "score": 83
+      },
+      {
+        "subject": "daily",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 8,
+        "examples": [
+          "printable planner for adhd",
+          "habit tracker template for notion",
+          "how do i keep track of my calorie intake",
+          "planner for small business",
+          "best planner for small business"
+        ],
+        "score": 80
+      },
+      {
+        "subject": "application",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "excel template for job application tracking",
+          "google sheets template for job applications",
+          "google sheets template for college application",
+          "spreadsheet to track job applications",
+          "budget template for grant proposal"
+        ],
+        "score": 72
+      },
+      {
+        "subject": "project",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 9.6,
+        "examples": [
+          "notion template for project management",
+          "excel template for project management",
+          "tracker template for google sheets",
+          "tracker template for excel",
+          "budget template for grant proposal"
+        ],
+        "score": 71
+      },
+      {
+        "subject": "calendar",
+        "queries": 10,
+        "seed_spread": 2,
+        "avg_branches": 9.5,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 70
+      },
+      {
+        "subject": "weekly",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 8.2,
+        "examples": [
+          "printable planner for the week",
+          "planner printable for free",
+          "habit tracker template for notion",
+          "budget template for biweekly pay",
+          "report template to management"
+        ],
+        "score": 67
       },
       {
         "subject": "expense",
-        "queries": 4,
-        "seed_spread": 1,
-        "avg_branches": 9.8,
+        "queries": 6,
+        "seed_spread": 3,
+        "avg_branches": 10,
         "examples": [
-          "tracker template for excel",
+          "excel template for expense tracking",
+          "google sheets template for business expenses",
           "tracker template for google sheets",
           "tracker template for notion",
-          "expense tracker template for google sheets"
+          "tracker template for excel"
         ],
-        "score": 14
+        "score": 65
+      },
+      {
+        "subject": "kids",
+        "queries": 6,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for adhd",
+          "printable planner for kids",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
+        ],
+        "score": 65
+      },
+      {
+        "subject": "format",
+        "queries": 5,
+        "seed_spread": 3,
+        "avg_branches": 9.2,
+        "examples": [
+          "excel template for invoices",
+          "budget template for google sheets",
+          "budget template for grant proposal",
+          "budget template for sheets",
+          "report template to management"
+        ],
+        "score": 52
+      },
+      {
+        "subject": "university",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for students",
+          "google sheets template for college application",
+          "budget template for college student"
+        ],
+        "score": 43
+      },
+      {
+        "subject": "plan",
+        "queries": 6,
+        "seed_spread": 2,
+        "avg_branches": 10,
+        "examples": [
+          "budget template for college student",
+          "budget template for teens",
+          "budget template for biweekly pay",
+          "planner for small business owner",
+          "best planner for small business owner"
+        ],
+        "score": 43
+      },
+      {
+        "subject": "software",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 9.5,
+        "examples": [
+          "notion template for project management",
+          "best spreadsheet for ipad",
+          "best spreadsheet for mac",
+          "scheduler for small business"
+        ],
+        "score": 42
       }
     ],
     "richest_veins": [
@@ -1569,48 +1582,65 @@
         "children": [
           "notion template for college students free",
           "notion template for college students",
-          "notion template for college",
-          "notion template for college notes",
+          "notion templates for college students aesthetic free",
+          "notion templates for college students aesthetic",
+          "notion templates for college students reddit",
+          "notion template for university students",
+          "notion template for university students free",
+          "notion templates for university students reddit",
           "best notion template for college students",
-          "best notion template for college students reddit",
-          "notion template for college application",
-          "notion template for college student",
-          "notion template for college classes",
-          "notion template for college reddit"
+          "best notion template for college students reddit"
         ]
       },
       {
         "seed": "notion template for",
-        "query": "notion template for work",
+        "query": "notion template for content creators",
         "branches": 10,
         "children": [
-          "notion template for work tracking",
-          "notion template for work organization",
-          "notion template for work",
-          "notion template for work schedule",
-          "notion template for work management",
-          "notion template for work tasks",
-          "notion template for work free",
-          "notion template for work projects",
-          "notion template for work notes",
-          "notion template for work and life"
+          "notion template for content creators free",
+          "notion template for content creators",
+          "notion template for content creation",
+          "notion template for youtube creators",
+          "notion template for youtube creators free",
+          "best notion template for content creators",
+          "free notion template for content creation",
+          "best notion template for content creation",
+          "notion template for youtube content creation",
+          "creating a notion template"
         ]
       },
       {
         "seed": "notion template for",
-        "query": "university notion template",
+        "query": "notion template for students",
         "branches": 10,
         "children": [
-          "university notion template free",
-          "university notion template aesthetic free",
-          "university notion template",
-          "university notion template reddit",
-          "university notion template aesthetic",
-          "notion university template pinterest",
-          "university student notion template",
-          "university hub notion template",
-          "university planner notion template",
-          "university application notion template"
+          "notion template for students free",
+          "notion template for students",
+          "notion templates for students aesthetic",
+          "notion templates for students university",
+          "notion templates for student planner",
+          "notion template for college students",
+          "best notion template for students",
+          "notion template for medical students",
+          "notion templates for uni students",
+          "notion templates for phd students"
+        ]
+      },
+      {
+        "seed": "notion template for",
+        "query": "notion template for notes",
+        "branches": 10,
+        "children": [
+          "notion template for notes",
+          "notion template for notes taking",
+          "notion template for book notes",
+          "notion template for class notes",
+          "notion template for study notes",
+          "notion template for meeting notes",
+          "notion template for coding notes",
+          "notion template for lecture notes",
+          "best notion template for notes",
+          "notion template for school notes"
         ]
       },
       {
@@ -1619,15 +1649,32 @@
         "branches": 10,
         "children": [
           "notion template for school",
-          "notion template for school free",
           "notion template for school assignments",
           "notion template for school notes",
+          "notion template for school free",
           "notion template for school schedule",
           "notion template for school work",
-          "notion template for medical school",
-          "notion template for high school",
-          "notion template school planner",
-          "best notion template for high school"
+          "notion templates for school aesthetic",
+          "notion templates for school reddit",
+          "notion templates for school aesthetic free",
+          "notion template for college students"
+        ]
+      },
+      {
+        "seed": "notion template for",
+        "query": "notion template for work",
+        "branches": 10,
+        "children": [
+          "notion template for work organization",
+          "notion template for work tracking",
+          "notion template for work",
+          "notion template for work management",
+          "notion template for work tasks",
+          "notion template for work free",
+          "notion template for work projects",
+          "notion template for work notes",
+          "notion template for work schedule",
+          "notion template for work and life"
         ]
       },
       {
@@ -1635,67 +1682,118 @@
         "query": "excel template for budget",
         "branches": 10,
         "children": [
-          "excel template for budget planning",
-          "excel template for budget management",
-          "excel template for budget",
           "excel template for budget tracking",
+          "excel template for budget management",
+          "excel template for budget planning",
+          "excel template for budget vs actual",
           "excel template for budget expenses",
+          "excel template for budget",
           "excel template for budget free",
+          "excel template for budget proposal",
           "excel template for budget reddit",
-          "excel template for budget forecast",
-          "excel template for budget monthly",
-          "excel template for budget personal"
+          "excel template for budget forecast"
         ]
       },
       {
         "seed": "excel template for",
-        "query": "excel template for itinerary",
+        "query": "excel template for project management",
         "branches": 10,
         "children": [
-          "excel template for itinerary",
-          "excel template for travel itinerary",
-          "excel template for trip itinerary",
-          "free excel template for itinerary",
-          "best excel template for travel itinerary",
-          "excel template for vacation itinerary",
-          "excel template for holiday itinerary",
-          "template excel itinerary liburan",
-          "free excel template for travel itinerary",
-          "travel itinerary template excel for visa application"
+          "excel template for project management free",
+          "excel template for project management free download",
+          "excel template for project management tracking",
+          "excel template for project management",
+          "excel template for project management gantt chart",
+          "excel template for project management timeline",
+          "excel template for project management gantt",
+          "excel template for project management download",
+          "excel sheet for project management",
+          "excel spreadsheet for project management"
         ]
       },
       {
         "seed": "excel template for",
-        "query": "excel template for product pricing",
+        "query": "excel template for small business accounting",
         "branches": 10,
         "children": [
-          "excel template for product pricing",
-          "excel template for product inventory",
-          "excel template for product costing",
-          "excel template for product catalog",
-          "excel product roadmap template",
-          "excel template for product list",
-          "excel template for product management",
-          "excel template for product backlog",
-          "free excel template for product pricing",
-          "excel template for product comparison"
+          "excel template for small business accounting",
+          "excel sheet for small business accounting",
+          "excel template for small business bookkeeping",
+          "best excel template for small business accounting",
+          "free excel template for small business accounting",
+          "excel spreadsheet for small business bookkeeping",
+          "free excel template for small business bookkeeping",
+          "excel accounting template for small business free download",
+          "basic accounting excel template for small business",
+          "spreadsheet for small business accounting"
         ]
       },
       {
         "seed": "excel template for",
-        "query": "excel template for personal finance",
+        "query": "excel template for expense tracking",
         "branches": 10,
         "children": [
-          "excel template for personal finance management",
-          "personal finance template excel",
-          "excel template for personal finance tracking",
-          "excel template for personal finance free",
-          "excel template for personal finance tracker",
-          "excel template for personal finance free download",
-          "excel template for personal finance reddit",
-          "best excel template for personal finance",
-          "excel spreadsheet template for personal finance",
-          "excel sheet template for personal finance"
+          "excel template for expense tracking",
+          "excel template for expense tracker",
+          "excel template for budget tracking",
+          "excel sheet for expense tracking",
+          "excel spreadsheet for expense tracking",
+          "excel template for cost tracking",
+          "excel template for expense management",
+          "excel template for tracking expenses and income",
+          "excel template for tracking expenses and savings",
+          "excel template for tracking expenses free"
+        ]
+      },
+      {
+        "seed": "excel template for",
+        "query": "excel template for inventory",
+        "branches": 10,
+        "children": [
+          "excel template for inventory management",
+          "excel template for inventory tracking",
+          "excel template for inventory and sales",
+          "excel template for inventory free download",
+          "excel template for inventory in and out",
+          "excel template for inventory list",
+          "excel template for inventory management free",
+          "excel template for inventory with pictures",
+          "excel template for inventory",
+          "excel template for inventory count"
+        ]
+      },
+      {
+        "seed": "excel template for",
+        "query": "excel template for job application tracking",
+        "branches": 10,
+        "children": [
+          "excel template for job application tracking",
+          "excel template for job application tracker",
+          "excel sheet for job application tracking",
+          "spreadsheet template for job application tracking",
+          "excel template for job tracking",
+          "excel template for application tracking",
+          "excel job application tracker template free",
+          "spreadsheet for job application tracking",
+          "excel spreadsheet for job tracking",
+          "excel template for work tracking"
+        ]
+      },
+      {
+        "seed": "excel template for",
+        "query": "excel template for invoices",
+        "branches": 10,
+        "children": [
+          "excel template for invoices",
+          "excel template for invoice tracking",
+          "excel template for invoice entry",
+          "excel template for invoice free",
+          "excel template for billing",
+          "excel spreadsheet for invoices",
+          "excel template for receipts",
+          "excel format for invoices",
+          "excel spreadsheet for invoice tracking",
+          "excel format for invoice in gst"
         ]
       },
       {
@@ -1707,29 +1805,97 @@
           "google sheets template for budget",
           "google sheets template for budget free",
           "google sheets template for budget reddit",
-          "google sheets template for monthly budget",
-          "google sheets template for personal budget",
-          "google sheets template for travel budget",
-          "google sheets template for family budget",
-          "google sheets wedding budget template",
-          "google sheets template for couples budget"
+          "google sheet template for budget planning",
+          "google docs templates for budget",
+          "does google sheets have a budget template",
+          "how to use google sheets budget template",
+          "making a budget with google sheets",
+          "how to use google sheets monthly budget template"
         ]
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for budgeting",
+        "query": "google sheets template for business expenses",
         "branches": 10,
         "children": [
-          "google sheets template for budgeting",
-          "google sheets template for budgeting reddit",
-          "budgeting template for google sheets free",
-          "best google sheets template for budgeting",
-          "google sheets template for monthly budgeting",
-          "google sheets template for personal budgeting",
-          "google sheets budgeting template for couples",
-          "is there a google.sheets template.for budgeting",
-          "budgeting template for google sheets fully customizable",
-          "budgeting template for google sheets fully customizable free"
+          "google sheets template for business expenses and income",
+          "google sheets template for business expenses",
+          "google sheets template for business expenses free",
+          "google sheets template for tracking business expenses",
+          "google sheets template for small business expenses",
+          "google sheets template for business income and expenses free",
+          "google sheets expense tracker template for business",
+          "how to use google sheets budget template",
+          "does google sheets have a budget template",
+          "how to make a business expense spreadsheet"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for job applications",
+        "branches": 10,
+        "children": [
+          "google sheets template for job applications",
+          "google sheets template for job application tracking",
+          "google sheets template for job search",
+          "google spreadsheet template for job applications",
+          "google docs template for job application tracking",
+          "google docs template for job application",
+          "how do i find templates in google sheets",
+          "does google sheets have templates",
+          "how to add template to google sheets",
+          "can i create a template in google sheets"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for inventory",
+        "branches": 10,
+        "children": [
+          "google sheets template for inventory tracking",
+          "google sheets template for inventory management",
+          "google sheets template for inventory",
+          "google sheets template for inventory free",
+          "google sheets template for stock tracking",
+          "google sheets template for stock trading",
+          "google docs template for inventory",
+          "google sheet template for stock portfolio",
+          "google sheet template for stock management",
+          "google sheet template for stock"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for college application",
+        "branches": 10,
+        "children": [
+          "google sheets template for college application",
+          "google sheets template for college list",
+          "google sheets template for college classes",
+          "google sheets template for college assignments",
+          "google sheets template for college",
+          "google sheets template for college students",
+          "google sheets college application template free",
+          "google sheets template for university",
+          "spreadsheet template for college application process",
+          "how to make a college application spreadsheet"
         ]
       },
       {
@@ -1744,9 +1910,26 @@
           "spreadsheet to track expenses google sheets",
           "spreadsheet to track expenses reddit",
           "spreadsheet to track expenses for taxes",
-          "excel spreadsheet to track expenses",
-          "best spreadsheet to track expenses",
-          "spreadsheet to track business expenses"
+          "excel sheet to track expenses",
+          "spreadsheet to track spending",
+          "template to track expenses"
+        ]
+      },
+      {
+        "seed": "spreadsheet to track",
+        "query": "spreadsheet to track job applications",
+        "branches": 10,
+        "children": [
+          "spreadsheet to track job applications",
+          "excel sheet to track job applications",
+          "template to track job applications",
+          "excel sheet to track job applications reddit",
+          "spreadsheet to track job search",
+          "spreadsheet template to track job applications",
+          "google spreadsheet to track job applications",
+          "template to track job search",
+          "excel template to track job applications",
+          "notion template to track job application"
         ]
       },
       {
@@ -1755,15 +1938,15 @@
         "branches": 10,
         "children": [
           "spreadsheet to track spending",
-          "excel spreadsheet to track spending",
-          "free spreadsheet to track spending",
-          "spreadsheet to track monthly spending",
-          "spreadsheet to track daily spending",
-          "best spreadsheet to track spending",
-          "spreadsheet template to track spending",
-          "google spreadsheet to track spending",
-          "simple spreadsheet to track spending",
-          "excel spreadsheet to track personal spending"
+          "spreadsheet to track expenses",
+          "spreadsheet to track expenses and income",
+          "excel sheet to track spending",
+          "spreadsheet to track expenses for small business",
+          "template to track spending",
+          "spreadsheet to track budget",
+          "spreadsheet to track expenses free",
+          "spreadsheet to track expenses google sheets",
+          "spreadsheet to track expenses reddit"
         ]
       },
       {
@@ -1772,219 +1955,49 @@
         "branches": 10,
         "children": [
           "spreadsheet to track investments",
-          "excel spreadsheet to track investments",
+          "spreadsheet to track investment performance",
+          "spreadsheet to track investment property",
+          "excel sheet to track investments",
+          "template to track investments",
+          "spreadsheet to track stocks",
+          "spreadsheet to track portfolio",
           "spreadsheet template to track investments",
           "best spreadsheet to track investments",
-          "free spreadsheet to track investments",
-          "simple spreadsheet to track investments",
-          "spreadsheet to track crypto investments",
-          "spreadsheet to track stock investments",
-          "google spreadsheet to track investments",
-          "how to make a spreadsheet to track investments"
+          "free spreadsheet to track investments"
         ]
       },
       {
         "seed": "printable planner for",
-        "query": "printable planner for kids",
+        "query": "printable planner for july 2026",
         "branches": 10,
         "children": [
-          "printable weekly planner for kids",
-          "free printable planner for kids",
-          "printable day planner for kids",
-          "printable homeschool planner for multiple kids",
-          "free printable daily planner for kids",
+          "printable calendar for july 2026",
+          "printable calendar for july 2026 pdf",
+          "printable calendar for july 2026 free",
+          "printable planner july 2026",
+          "printable calendar for june 2026",
+          "printable calendar for august 2026",
+          "printable calendar for june 2026 pdf",
+          "printable calendar for june 2026 free",
+          "printable calendar for august 2026 pdf",
+          "printable calendar for august 2026 free"
+        ]
+      },
+      {
+        "seed": "printable planner for",
+        "query": "printable planner for adhd",
+        "branches": 10,
+        "children": [
+          "printable planner for adhd",
+          "printable calendar for adhd",
+          "free printable planner for adhd",
+          "printable daily planner for adhd",
+          "printable adhd planner for adults",
+          "free printable daily planner for adhd",
+          "free printable adhd planner for adults",
+          "free printable adhd planner for adults pdf",
           "free printable adhd planner for kids",
-          "adhd planner for kids printable",
-          "monthly planner for kids printable",
-          "meal planner for kids printable",
-          "weekly planner for kids printable pdf free"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for 2026",
-        "branches": 10,
-        "children": [
-          "printable planner for 2026",
-          "free printable planner for 2026",
-          "printable monthly planner for 2026",
-          "printable year planner for 2026",
-          "printable calendar planner for 2026",
-          "printable daily planner for 2026",
-          "planner 2026 printable pdf",
-          "printable planner 2026 pdf free download",
-          "printable planner april 2026",
-          "printable planner june 2026"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for 2025",
-        "branches": 10,
-        "children": [
-          "printable planner for 2025",
-          "printable planner 2025 free",
-          "printable planner calendar 2025",
-          "printable planner december 2025",
-          "printable planner june 2025",
-          "printable planner 2025 pdf",
-          "printable planner 2025 pdf free download",
-          "printable planner 2025 26",
-          "printable planner pages 2025",
-          "printable planner calendar 2025 pdf"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable week planner",
-        "branches": 10,
-        "children": [
-          "printable week planner free",
-          "printable week planner",
-          "printable week planner pdf",
-          "printable week planner template",
-          "printable week planner page",
-          "printable one week planner",
-          "printable 2 week planner",
-          "printable 4 week planner",
-          "printable work week planner",
-          "printable 6 week planner"
-        ]
-      },
-      {
-        "seed": "checklist for",
-        "query": "checklist for toddlers",
-        "branches": 10,
-        "children": [
-          "checklist for toddlers",
-          "checklist for toddlers with autism",
-          "checklist for toddlers first flight",
-          "observation checklist for toddlers",
-          "zoo checklist for toddlers",
-          "morning checklist for toddlers",
-          "bedtime checklist for toddlers",
-          "disney checklist for toddlers",
-          "montessori checklist for toddlers",
-          "adhd checklist for toddlers"
-        ]
-      },
-      {
-        "seed": "tracker template for",
-        "query": "tracker template for excel",
-        "branches": 10,
-        "children": [
-          "tracker template for excel",
-          "habit tracker template for excel",
-          "project tracker in excel template",
-          "task tracker template for excel",
-          "expense tracker template for excel",
-          "budget tracker template for excel",
-          "recruitment tracker template for excel",
-          "bid tracker template for excel",
-          "job tracker template for excel",
-          "issue tracker template for excel"
-        ]
-      },
-      {
-        "seed": "tracker template for",
-        "query": "tracker template for google sheets",
-        "branches": 10,
-        "children": [
-          "tracker template for google sheets",
-          "habit tracker template for google sheets",
-          "expense tracker template for google sheets",
-          "budget tracker template for google sheets",
-          "task tracker template for google sheets",
-          "google sheets template project tracker",
-          "habit tracker template for google sheets free",
-          "money tracker template for google sheets",
-          "tracker template google sheets free",
-          "job application tracker template for google sheets"
-        ]
-      },
-      {
-        "seed": "tracker template for",
-        "query": "habit tracker template for google sheets",
-        "branches": 10,
-        "children": [
-          "habit tracker template for google sheets free",
-          "habit tracker template for google sheets",
-          "habit tracker template google sheets free download",
-          "habit tracker template for excel google sheets",
-          "habit tracker template google sheets free download pdf",
-          "habit tracker template google sheets pdf",
-          "habit tracker template google sheets download",
-          "habit tracker template google sheets reddit",
-          "habit tracker template google sheets 2026",
-          "daily habit tracker template google sheets"
-        ]
-      },
-      {
-        "seed": "tracker template for",
-        "query": "habit tracker template for excel",
-        "branches": 10,
-        "children": [
-          "habit tracker template for excel google sheets",
-          "habit tracker template for excel",
-          "free habit tracker template for excel",
-          "habit tracker template excel free download",
-          "habit tracker template excel free download pdf",
-          "habit tracker template excel download",
-          "habit tracker template excel sheet",
-          "habit tracker template excel free download pdf 2026",
-          "habit tracker template excel free download reddit",
-          "habit tracker template excel reddit"
-        ]
-      },
-      {
-        "seed": "tracker template for",
-        "query": "expense tracker template for google sheets",
-        "branches": 10,
-        "children": [
-          "expense tracker template for google sheets",
-          "free expense tracker template for google sheets",
-          "budget expense tracker template google sheets",
-          "income expense tracker template google sheets",
-          "expense tracker template google sheets reddit",
-          "monthly expense tracker template google sheets",
-          "business expense tracker template google sheets",
-          "daily expense tracker template google sheets",
-          "personal expense tracker template google sheets",
-          "medical expense tracker template google sheets"
-        ]
-      },
-      {
-        "seed": "tracker template for",
-        "query": "habit tracker template for free",
-        "branches": 10,
-        "children": [
-          "habit tracker template for free",
-          "habit tracker excel template for free",
-          "habit tracker template for notion free",
-          "habit tracker template free download",
-          "habit tracker template free download pdf",
-          "habit tracker template free download excel",
-          "habit tracker template free google sheets",
-          "habit tracker template pdf free",
-          "habit tracker template excel free download pdf",
-          "habit tracker template google sheets free download"
-        ]
-      },
-      {
-        "seed": "budget template for",
-        "query": "budget template for excel",
-        "branches": 10,
-        "children": [
-          "budget template for excel free",
-          "budget template for excel",
-          "budget template for excel free download",
-          "budget template excel for business",
-          "budget template excel for company",
-          "budget template excel for couples",
-          "monthly budget template for excel",
-          "best budget template for excel",
-          "personal budget template for excel",
-          "simple budget template for excel"
+          "free printable adhd planner for adults pdf download"
         ]
       }
     ]

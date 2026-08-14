@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-08-14T13:34:00.370Z",
+  "generated_at": "2026-08-14T14:55:43.442Z",
   "scanned": 211,
-  "accepted": 43,
-  "refused_on_ethics": 11,
+  "accepted": 44,
+  "refused_on_ethics": 17,
   "jobs": [
+    {
+      "title": "Simple Microsoft Excel",
+      "url": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "budget_raw": "$431 Average bid",
+      "desc": "Hello, I have a list of details, using those you need to collect a lot of data from a specific website. I will show you how to scrape the details like Name, Email, and Phone numbers, you just need to follow the pattern..",
+      "bids": null,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 431,
+      "hourly": false,
+      "flags": [],
+      "score": 840
+    },
     {
       "title": "Automate Data Integration with Python & Alteryx",
       "url": "https://www.freelancer.com/projects/alteryx/automate-data-integration-with-python",
-      "budget_raw": "$73 Average bid",
+      "budget_raw": "$113 Average bid",
       "desc": "I'm seeking a skilled professional to automate the integration of multiple spreadsheets using Python and Alteryx. Key requirements: - Develop Python scripts to facilitate data integration tasks. - Utilize Alteryx for streamlining and automating workflows. - Ensure accuracy and consistency in the int",
-      "bids": 1,
+      "bids": 8,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 7,
-      "usd": 73,
+      "usd": 113,
       "hourly": false,
       "flags": [],
-      "score": 453
+      "score": 576
     },
     {
       "title": "Advanced Python Scrip Development for Browser Automation",
@@ -77,16 +91,16 @@
     {
       "title": "Autoamtion and web scraping",
       "url": "https://www.freelancer.com/projects/automation/autoamtion-web-scraping",
-      "budget_raw": "$73 Average bid",
+      "budget_raw": "$72 Average bid",
       "desc": "I m looking for a fast-turnaround solution that takes the repetitive data-extraction work off my hands entirely. The goal is simple: I give you a set of target pages, and your script logs in if needed, navigates through the required paths, grabs the specific fields I specify, and deposits the result",
       "bids": 15,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 73,
+      "usd": 72,
       "hourly": false,
       "flags": [],
-      "score": 214
+      "score": 211
     },
     {
       "title": "Org Structure & Email Scraping Agent",
@@ -161,22 +175,6 @@
       "score": 115
     },
     {
-      "title": "University Email Database Compilation",
-      "url": "https://www.freelancer.com/projects/data-extraction/university-email-database-compilation",
-      "budget_raw": "$58 Average bid",
-      "desc": "# Job Post: University Website Data Scraping / Email Extraction I m looking for someone who can help me **extract publicly available email addresses and contact information from university websites**. ### What you ll do * I will provide a list of approximately **60 university** websites. * Visit the",
-      "bids": 19,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 58,
-      "hourly": false,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 99
-    },
-    {
       "title": "AI-Driven Marine Data Aggregation & Analysis",
       "url": "https://www.freelancer.com/projects/data-science/driven-marine-data-aggregation-analysis",
       "budget_raw": "$21 / hr Average bid",
@@ -219,6 +217,20 @@
       "score": 68
     },
     {
+      "title": "TruthSocial Auto Like & Retweet",
+      "url": "https://www.freelancer.com/projects/php/truthsocial-auto-like-retweet",
+      "budget_raw": "$135 Average bid",
+      "desc": "I need a small Python script that uses Selenium to log in to TruthSocial from a Windows machine and automatically place both likes and retweets (re-Truths) on posts I specify. The flow is simple: the script receives login credentials, navigates to each post URL or a chosen hashtag/feed, then perform",
+      "bids": 24,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 135,
+      "hourly": false,
+      "flags": [],
+      "score": 63
+    },
+    {
       "title": "Public Sector Tender Management System",
       "url": "https://www.freelancer.com/projects/documentation/public-sector-tender-management-system",
       "budget_raw": "$177 Average bid",
@@ -231,6 +243,20 @@
       "hourly": false,
       "flags": [],
       "score": 62
+    },
+    {
+      "title": "Excel Text Format Cleanup",
+      "url": "https://www.freelancer.com/projects/excel-macros/excel-text-format-cleanup",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I have an Excel workbook that contains several thousand rows of raw data. The core issue is inconsistent text formatting capitalisation varies, extra spaces appear, and some entries include stray symbols that break downstream look-ups and reports. Your job is to correct those text fields so every ce",
+      "bids": 8,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 8,
+      "hourly": true,
+      "flags": [],
+      "score": 60
     },
     {
       "title": "Excel Data Cleanup & Organization",
@@ -259,6 +285,20 @@
       "hourly": true,
       "flags": [],
       "score": 42
+    },
+    {
+      "title": "Numerical CSV Import to Excel",
+      "url": "https://www.freelancer.com/projects/data-entry/numerical-csv-import-excel",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I have a set of CSV files that hold purely numerical fields, and I need every value placed into a clean Excel workbook with the formatting still recognised as numbers. No extra calculations or text parsing just an accurate, reliable transfer. A reusable method is important. If a concise VBA macro, P",
+      "bids": 10,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 35
     },
     {
       "title": "Virtual Assistant for Admin Tasks",
@@ -303,20 +343,6 @@
       "score": 24
     },
     {
-      "title": "Shopify Product Listing Assistance",
-      "url": "https://www.freelancer.com/projects/seo-writing/shopify-product-listing-assistance",
-      "budget_raw": "$3 / hr Average bid",
-      "desc": "I m ready to load a new line of physical products into my Shopify store and I need a detail-oriented person to handle the entire listing process for me. Every description, specification and image you ll need is already published on each manufacturer s website; your task is to extract that informatio",
-      "bids": null,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 4,
-      "usd": 3,
-      "hourly": true,
-      "flags": [],
-      "score": 23
-    },
-    {
       "title": "Google Forms Market Survey Data",
       "url": "https://www.freelancer.com/projects/analytics/google-forms-market-survey-data",
       "budget_raw": "$211 Average bid",
@@ -331,15 +357,15 @@
       "score": 21
     },
     {
-      "title": "PDF Furniture Take-Off Schedule",
-      "url": "https://www.freelancer.com/projects/google-sheets/pdf-furniture-take-off-schedule",
-      "budget_raw": "$77 Average bid",
-      "desc": "I have a complete set of furniture drawings in PDF format and need a detailed quantity take-off. The focus is strictly on two areas: every loose or built-in furniture piece shown, and all finishes specified on those same drawings. You will review the PDFs, extract each item with its corresponding fi",
-      "bids": 31,
+      "title": "Amazon & Flipkart Medical Listings",
+      "url": "https://www.freelancer.com/projects/amazon/amazon-flipkart-medical-listings-40647332",
+      "budget_raw": "$255 Average bid",
+      "desc": "I want every pharmaceutical and medical-equipment SKU in my catalogue published on both Amazon and Flipkart as quickly as possible. Roughly half already have titles, basic copy and a few images; the rest still need content and clean product photos. You ll start by auditing what I have, flagging the ",
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 77,
+      "fit": 1,
+      "usd": 255,
       "hourly": false,
       "flags": [],
       "score": 20
@@ -359,11 +385,25 @@
       "score": 18
     },
     {
+      "title": "Real-Time Fabric Measurement Tool",
+      "url": "https://www.freelancer.com/projects/opencv/real-time-fabric-measurement-tool",
+      "budget_raw": "$95 Average bid",
+      "desc": "I m building an in-house setup that measures fabric length, width and overall size straight from a live camera feed. I already have the camera hardware in place; what I m missing is a reliable Python solution preferably based on OpenCV or a similarly robust library that can: Detect the edges of the ",
+      "bids": 37,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 95,
+      "hourly": false,
+      "flags": [],
+      "score": 17
+    },
+    {
       "title": "Technology B2C Lead Generation",
       "url": "https://www.freelancer.com/projects/lead-generation/technology-lead-generation",
       "budget_raw": "$6 / hr Average bid",
       "desc": "I need a steady stream of fresh consumer leads in the technology space. My priority is quality over sheer volume: every contact you deliver must include a valid email address and phone number so my team can launch personalised outreach right away. Your approach is up to you scraping public sources, ",
-      "bids": 28,
+      "bids": 29,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -372,49 +412,21 @@
       "flags": [
         "date personale — verifică GDPR și sursa"
       ],
-      "score": 17
-    },
-    {
-      "title": "Amazon & Flipkart Medical Listings",
-      "url": "https://www.freelancer.com/projects/amazon/amazon-flipkart-medical-listings-40647332",
-      "budget_raw": "$185 Average bid",
-      "desc": "I want every pharmaceutical and medical-equipment SKU in my catalogue published on both Amazon and Flipkart as quickly as possible. Roughly half already have titles, basic copy and a few images; the rest still need content and clean product photos. You ll start by auditing what I have, flagging the ",
-      "bids": 13,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 185,
-      "hourly": false,
-      "flags": [],
-      "score": 16
-    },
-    {
-      "title": "Real-Time Fabric Measurement Tool",
-      "url": "https://www.freelancer.com/projects/opencv/real-time-fabric-measurement-tool",
-      "budget_raw": "$94 Average bid",
-      "desc": "I m building an in-house setup that measures fabric length, width and overall size straight from a live camera feed. I already have the camera hardware in place; what I m missing is a reliable Python solution preferably based on OpenCV or a similarly robust library that can: Detect the edges of the ",
-      "bids": 36,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 94,
-      "hourly": false,
-      "flags": [],
-      "score": 16
+      "score": 15
     },
     {
       "title": "EOT Crane Manufacturers Data Scrape",
       "url": "https://www.freelancer.com/projects/scrapy/eot-crane-manufacturers-data-scrape",
       "budget_raw": "$2 / hr Average bid",
       "desc": "I need a clean, reliable scrape of every EOT crane manufacturer that appears on Google Maps. For each company, I want the following captured and neatly organised in a spreadsheet: Company name exactly as shown on Google Maps Full postal address Phone number(s) Email address (when publicly available)",
-      "bids": 30,
+      "bids": 32,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
       "usd": 2,
       "hourly": true,
       "flags": [],
-      "score": 14
+      "score": 12
     },
     {
       "title": "Replicate PDF Layout in Excel",
@@ -431,18 +443,32 @@
       "score": 11
     },
     {
+      "title": "Report Word Processing Specialist",
+      "url": "https://www.freelancer.com/projects/data-entry/report-word-processing-specialist",
+      "budget_raw": "$474 Average bid",
+      "desc": "I'm seeking an experienced freelancer to word process my reports. These reports contain textual content with headings, tables, charts, images, and graphics. Key requirements: - Accurately format and input data according to my template - Modernize the template if necessary - Deliver final reports in ",
+      "bids": 40,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 474,
+      "hourly": false,
+      "flags": [],
+      "score": 9
+    },
+    {
       "title": "Populate Web Form from Spreadsheets",
       "url": "https://www.freelancer.com/projects/data-management/populate-web-form-from-spreadsheets",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I need every record from my existing structured tables copied accurately into an online form. The tables hold mixed data text fields such as names and comments alongside numerical values like prices and IDs so careful attention to formatting is essential. You will open the spreadsheet, match each co",
-      "bids": 29,
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 10
+      "score": 9
     },
     {
       "title": "Large-Corp QuickBooks Accounting & Tax",
@@ -482,6 +508,20 @@
       "verdict": "accept",
       "fit": 2,
       "usd": 13321,
+      "hourly": false,
+      "flags": [],
+      "score": 7
+    },
+    {
+      "title": "AI Integration for Personalized Exam Prep App -- 2",
+      "url": "https://www.freelancer.com/projects/react-native/integration-for-personalized-exam-prep",
+      "budget_raw": "$67 Average bid",
+      "desc": "## AI-Powered Personalized Exam Preparation React Native Expo App I have an existing **React Native Expo mobile application** for government/competitive exam preparation and want to integrate an **AI-powered personalized learning system** that analyzes each student's existing exam activity and provi",
+      "bids": 32,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 67,
       "hourly": false,
       "flags": [],
       "score": 7
@@ -527,50 +567,6 @@
       "hourly": false,
       "flags": [],
       "score": 4
-    },
-    {
-      "title": "50K Verified Email List needed",
-      "url": "https://www.freelancer.com/projects/data-management/verified-email-list-needed",
-      "budget_raw": "$132 Average bid",
-      "desc": "I need a clean, fully verified list of 50,000 email addresses that I can use straight away without worrying about hard bounces or spam-trap issues. I m flexible on the audience mix and regions as long as every address passes industry-standard validation tools such as ZeroBounce, NeverBounce, or Hunt",
-      "bids": 30,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 132,
-      "hourly": false,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 4
-    },
-    {
-      "title": "Excel Names & Address Entry",
-      "url": "https://www.freelancer.com/projects/data-management/excel-names-address-entry",
-      "budget_raw": "$2 / hr Average bid",
-      "desc": "I need a tidy, well-formatted Microsoft Excel workbook built with up to five separate sheets, each populated with text records that I will supply every record includes a person or company name and a full mailing address. Your job is simple but must be flawless: transfer the information exactly as sh",
-      "bids": 19,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 2,
-      "hourly": true,
-      "flags": [],
-      "score": 3
-    },
-    {
-      "title": "Targeted BTinternet Email Leads",
-      "url": "https://www.freelancer.com/projects/data-collection/targeted-btinternet-email-leads",
-      "budget_raw": "$19 Average bid",
-      "desc": "I m looking for a clean, up-to-date list of email addresses that end with Tell me the exact count you already hold for each domain, along with an estimated bounce rate if you have it. The addresses will be used purely for data-entry purposes, so accuracy is more important than volume and no phone nu",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 19,
-      "hourly": false,
-      "flags": [],
-      "score": 1
     }
   ],
   "refused": [
@@ -603,6 +599,10 @@
       "reason": "automatizare LinkedIn — încalcă termenii platformei"
     },
     {
+      "title": "University Email Database Compilation",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
+    },
+    {
       "title": "Daily Nationwide Facebook Auto Leads",
       "reason": "extragere din rețele sociale — încalcă termenii platformei"
     },
@@ -613,6 +613,26 @@
     {
       "title": "Extract TradingView Script Code",
       "reason": "extragerea codului sursă protejat al altcuiva — proprietate intelectuală"
+    },
+    {
+      "title": "Targeted BTinternet Email Leads",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
+    },
+    {
+      "title": "Verified Yahoo Business Emails List",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
+    },
+    {
+      "title": "BatchLead-HubSpot Contact Sync",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
+    },
+    {
+      "title": "Monday CRM to HubSpot Migration",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
+    },
+    {
+      "title": "50K Verified Email List needed",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
       "title": "Build a Bybit Trading bot",

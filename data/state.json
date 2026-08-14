@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-14T14:27:14.484Z",
+  "generated_at": "2026-08-14T14:56:30.924Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 55,
+  "events_total": 60,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 6
+      "actions": 7
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 8
+      "actions": 9
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 28
+      "actions": 30
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 13
+      "actions": 14
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T14:56:30.867Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1119 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-14T14:55:43.443Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T14:55:43.443Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 211 proiecte scanate → 44 potrivite, 17 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T14:55:29.717Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 4 eligibile după citirea regulamentelor (44 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-14T14:54:42.637Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 799 candidați → 0 bounty-uri reale (799 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-14T14:27:14.478Z",
       "type": "action",
@@ -586,39 +636,9 @@
     }
   ],
   "opportunities": {
-    "accepted": 7,
-    "rejected": 841,
+    "accepted": 4,
+    "rejected": 843,
     "top": [
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "AWS Trainium Frontier Competition",
-        "url": "https://trainium-frontier.devpost.com/",
-        "score": 1860,
-        "prize_usd": 40000,
-        "slots": 3,
-        "participants": 128,
-        "per_slot": 43,
-        "days_left": 60,
-        "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "All Things Agentic Hackathon",
-        "url": "https://allthingsagentichackathon.devpost.com/",
-        "score": 600,
-        "prize_usd": 180000,
-        "slots": 9,
-        "participants": 2696,
-        "per_slot": 300,
-        "days_left": 17,
-        "objective": false
-      },
       {
         "source": "comp-radar",
         "platform": "drivendata",
@@ -633,36 +653,6 @@
         "per_slot": 172,
         "days_left": 33,
         "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "Agents for Humans Hackathon",
-        "url": "https://agentsforhumans.devpost.com/",
-        "score": 219,
-        "prize_usd": 40000,
-        "slots": 10,
-        "participants": 1828,
-        "per_slot": 183,
-        "days_left": 30,
-        "objective": false
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "Agentic Cinema: The Blockbuster Hackathon",
-        "url": "https://agentic-cinema.devpost.com/",
-        "score": 192,
-        "prize_usd": 75000,
-        "slots": 15,
-        "participants": 5844,
-        "per_slot": 390,
-        "days_left": 26,
-        "objective": false
       },
       {
         "source": "comp-radar",
@@ -684,21 +674,36 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "CALL-E: Your Code Is Calling",
-        "url": "https://call-e.devpost.com/",
-        "score": 19,
-        "prize_usd": 10000,
-        "slots": 4,
-        "participants": 2130,
-        "per_slot": 533,
-        "days_left": 30,
+        "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
+        "url": "https://youcam-api.devpost.com/",
+        "score": 6,
+        "prize_usd": 6000,
+        "slots": 2,
+        "participants": 1189,
+        "per_slot": 595,
+        "days_left": 3,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "Hack The Limit",
+        "url": "https://hack-the-limit-1.devpost.com/",
+        "score": 1,
+        "prize_usd": 350,
+        "slots": 1,
+        "participants": 520,
+        "per_slot": 520,
+        "days_left": 16,
         "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 361
+        "count": 362
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -706,11 +711,11 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 172
+        "count": 171
       },
       {
         "reason": "prea competitiv",
-        "count": 33
+        "count": 32
       },
       {
         "reason": "fără dovadă de finanțare",
@@ -721,15 +726,15 @@
         "count": 13
       },
       {
-        "reason": "participare restricționată",
-        "count": 10
-      },
-      {
-        "reason": "prea aglomerat",
-        "count": 7
+        "reason": "regulament necitibil",
+        "count": 11
       },
       {
         "reason": "premiu prea mic",
+        "count": 6
+      },
+      {
+        "reason": "prea aglomerat",
         "count": 6
       },
       {
@@ -742,6 +747,10 @@
       },
       {
         "reason": "revendicat activ",
+        "count": 4
+      },
+      {
+        "reason": "participare restricționată",
         "count": 4
       },
       {
@@ -759,10 +768,6 @@
       {
         "reason": "termen necunoscut",
         "count": 2
-      },
-      {
-        "reason": "premiul nu e în bani",
-        "count": 1
       }
     ]
   }
