@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T13:17:17.779Z",
+  "generated_at": "2026-08-14T13:26:20.602Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 35,
+  "events_total": 39,
   "tracks": [
     {
       "track": "bounty",
@@ -24,10 +24,50 @@
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 21
+      "actions": 25
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T13:26:20.600Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Utilizatorul a decis: fara depozit de $20. Cautam doar proiecte care permit licitare gratuita.",
+      "evidence": null,
+      "agent": "utilizator"
+    },
+    {
+      "ts": "2026-08-14T13:26:20.598Z",
+      "type": "decision",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Adaugat numarul de oferte ca semnal principal in gig-radar. Lipsea, si din cauza asta recomandasem doua joburi cu 151 si 127 de oferte — sanse sub 1%. Dupa fix: 93 potrivite -> 41, toate sub 40 de oferte.",
+      "evidence": null,
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T13:25:45.984Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 231,
+      "status": null,
+      "desc": "Cel mai bun job: Advanced Python Scrip Development for Browser Automation",
+      "evidence": "https://www.freelancer.com/projects/web-scraping/advanced-python-scrip-development-for",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T13:25:45.983Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 214 proiecte scanate → 41 potrivite, 11 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
     {
       "ts": "2026-08-14T13:17:17.776Z",
       "type": "decision",

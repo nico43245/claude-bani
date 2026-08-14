@@ -113,11 +113,16 @@ function parseFreelancer(html) {
     .filter(Boolean);
   const budgets = [...html.matchAll(/class="[^"]*JobSearchCard-primary-price[^"]*"[^>]*>(.*?)<\/div>/gs)];
   const descs = [...html.matchAll(/class="[^"]*JobSearchCard-primary-description[^"]*"[^>]*>(.*?)<\/p>/gs)];
+  // Numărul de oferte e semnalul de concurență cel mai important, și lipsea.
+  // Un job de $250 cu 151 de oferte are șanse sub 1% pentru un cont fără
+  // recenzii — bugetul mare atrage mulțimea, deci se anulează singur.
+  const bids = [...html.matchAll(/class="[^"]*JobSearchCard-secondary-entry[^"]*"[^>]*>\s*([\d,]+)\s*bids?/gsi)];
   return titles.map((t, i) => ({
     title: strip(t[2]),
     url: 'https://www.freelancer.com' + t[1],
     budget_raw: strip(budgets[i]?.[1] || ''),
     desc: strip(descs[i]?.[1] || '').slice(0, 300),
+    bids: bids[i] ? parseInt(bids[i][1].replace(/,/g, ''), 10) : null,
   }));
 }
 
@@ -165,11 +170,19 @@ function judge(job) {
   // alege pe cineva cu 200 de evaluări. Ținta reală e banda $80-500, unde
   // bugetul e destul de mare cât să conteze și destul de mic cât să nu atragă
   // agenții consacrate. Peste $600, șansele scad brusc, nu cresc.
+  // Peste 40 de oferte cursa e pierdută pentru un cont fără recenzii, indiferent
+  // cât de bună e propunerea. Cu 6 licitări pe lună, fiecare irosită doare.
+  if (job.bids !== null && job.bids > 40)
+    return { verdict: 'skip', reason: `prea multe oferte (${job.bids})`, fit, usd };
+
   const value = hourly ? usd * 8 : usd;
   const reachable = value <= 600 ? 1 : 600 / value;   // penalizare pentru fantezii
   const sweetSpot = value >= 80 && value <= 500 ? 1.3 : 1;
-  const score = Math.round(fit * fit * Math.min(value, 600) * reachable * sweetSpot / 10);
-  return { verdict: 'accept', fit, usd, hourly, flags, score };
+  // Puține oferte contează mai mult decât un buget mare: bugetul mare atrage
+  // mulțimea care îl anulează. Un job de $120 cu 4 oferte bate unul de $400 cu 130.
+  const crowding = job.bids === null ? 0.6 : Math.max(0.15, 1 - job.bids / 40);
+  const score = Math.round(fit * fit * Math.min(value, 600) * reachable * sweetSpot * crowding / 10);
+  return { verdict: 'accept', fit, usd, hourly, bids: job.bids, flags, score };
 }
 
 async function main() {
