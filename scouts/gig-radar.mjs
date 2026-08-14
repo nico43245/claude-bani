@@ -50,6 +50,12 @@ const REFUSE = [
   { re: /\b(otp|2fa)\b.{0,20}(bypass|bot)|sim.?swap/i, why: 'ocolirea autentificării' },
   { re: /scrap.{0,30}(behind|past).{0,15}(login|paywall)|credential.{0,10}stuff/i, why: 'acces în spatele autentificării' },
   { re: /\b(betting|gambling|casino).{0,20}(bot|automation)|trading bot/i, why: 'automatizare financiară sau de pariuri' },
+  // Ratat inițial: cererea sună pur tehnic („extract the source code"), fără
+  // niciun cuvânt suspect. Semnalul real e că sursa e DESCRISĂ ca ascunsă,
+  // protejată sau invite-only — adică ceva ce autorul a închis intenționat.
+  { re: /(hidden|protected|obfuscated|encrypted|invite.?only|closed).{0,40}(source|script|code|indicator)|(decompile|deobfuscate|reverse.?engineer).{0,25}(script|code|app|indicator)/i,
+    why: 'extragerea codului sursă protejat al altcuiva — proprietate intelectuală' },
+  { re: /\b(crack|keygen|license bypass|nulled|pirated)\b/i, why: 'piraterie software' },
   { re: /\bdark ?web\b|\btor\b.{0,20}(scrap|crawl|audit)/i, why: 'zonă dark web' },
 ];
 

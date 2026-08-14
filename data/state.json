@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T13:02:20.655Z",
+  "generated_at": "2026-08-14T13:15:14.109Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 30,
+  "events_total": 32,
   "tracks": [
     {
       "track": "bounty",
@@ -24,10 +24,30 @@
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 16
+      "actions": 18
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T13:15:14.105Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 442,
+      "status": null,
+      "desc": "Cel mai bun job: BatchLead-HubSpot Contact Sync",
+      "evidence": "https://www.freelancer.com/projects/api/batchlead-hubspot-contact-sync",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T13:15:14.104Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 213 proiecte scanate → 93 potrivite, 11 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
     {
       "ts": "2026-08-14T13:02:20.651Z",
       "type": "decision",
