@@ -41,6 +41,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scouts/bounty-radar.mjs
 
+      - name: Radar joburi freelance
+        continue-on-error: true
+        run: node scouts/gig-radar.mjs
+
       - name: Scout de piață
         continue-on-error: true
         run: node scouts/market-signals.mjs

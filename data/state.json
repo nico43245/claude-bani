@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T12:53:39.107Z",
+  "generated_at": "2026-08-14T13:02:20.655Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 23,
+  "events_total": 30,
   "tracks": [
     {
       "track": "bounty",
@@ -24,10 +24,80 @@
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 9
+      "actions": 16
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T13:02:20.651Z",
+      "type": "decision",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Descoperit canal cu cerere ACTIVA: Freelancer.com si Guru publica proiecte cu buget afisat, accesibile fara cont. 259 proiecte scanate, 93 potrivite, 11 refuzate pe etica. Spre deosebire de Fiverr (astepti sa fii gasit), aici clientul si-a postat deja nevoia si bugetul.",
+      "evidence": "https://www.freelancer.com/jobs/web-scraping/",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T13:01:44.897Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 442,
+      "status": null,
+      "desc": "Cel mai bun job: BatchLead-HubSpot Contact Sync",
+      "evidence": "https://www.freelancer.com/projects/api/batchlead-hubspot-contact-sync",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T13:01:44.897Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 213 proiecte scanate → 93 potrivite, 11 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T13:00:37.271Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 13321,
+      "status": null,
+      "desc": "Cel mai bun job: Gold Claims Recon Specialist",
+      "evidence": "https://www.freelancer.com/projects/geology/gold-claims-recon-specialist",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T13:00:37.270Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 213 proiecte scanate → 96 potrivite, 6 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T12:59:43.847Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 250,
+      "status": null,
+      "desc": "Cel mai bun job: Move 4 Python Services to GitHub",
+      "evidence": "https://www.guru.com/jobs/move-4-python-services-to-github/2120189&SearchUrl=search.aspx?",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T12:59:43.846Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 31 proiecte scanate → 1 potrivite, 1 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
     {
       "ts": "2026-08-14T12:53:39.105Z",
       "type": "decision",
