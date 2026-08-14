@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T08:34:16.502Z",
+  "generated_at": "2026-08-14T12:50:15.629Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 19,
+  "events_total": 21,
   "tracks": [
     {
       "track": "bounty",
@@ -24,10 +24,30 @@
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 5
+      "actions": 7
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T12:50:15.627Z",
+      "type": "decision",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Refuzat Seller Plus Kickstart si orice promovare platita: daca gigul nu prinde organic in 2 saptamani, schimbam gigul, nu platim ca sa compensam.",
+      "evidence": null,
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T12:50:15.618Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "GIG PUBLICAT pe Fiverr: «I will build a custom web scraper or data extraction script in python». Profil complet, 3 pachete ($25/$60/$120), extra livrare rapida +$20.",
+      "evidence": null,
+      "agent": "utilizator+claude"
+    },
     {
       "ts": "2026-08-14T08:34:16.500Z",
       "type": "action",
