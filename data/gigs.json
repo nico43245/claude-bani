@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-08-14T13:25:45.974Z",
-  "scanned": 214,
-  "accepted": 41,
+  "generated_at": "2026-08-14T13:34:00.370Z",
+  "scanned": 211,
+  "accepted": 43,
   "refused_on_ethics": 11,
   "jobs": [
+    {
+      "title": "Automate Data Integration with Python & Alteryx",
+      "url": "https://www.freelancer.com/projects/alteryx/automate-data-integration-with-python",
+      "budget_raw": "$73 Average bid",
+      "desc": "I'm seeking a skilled professional to automate the integration of multiple spreadsheets using Python and Alteryx. Key requirements: - Develop Python scripts to facilitate data integration tasks. - Utilize Alteryx for streamlining and automating workflows. - Ensure accuracy and consistency in the int",
+      "bids": 1,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 7,
+      "usd": 73,
+      "hourly": false,
+      "flags": [],
+      "score": 453
+    },
     {
       "title": "Advanced Python Scrip Development for Browser Automation",
       "url": "https://www.freelancer.com/projects/web-scraping/advanced-python-scrip-development-for",
@@ -61,6 +75,20 @@
       "score": 251
     },
     {
+      "title": "Autoamtion and web scraping",
+      "url": "https://www.freelancer.com/projects/automation/autoamtion-web-scraping",
+      "budget_raw": "$73 Average bid",
+      "desc": "I m looking for a fast-turnaround solution that takes the repetitive data-extraction work off my hands entirely. The goal is simple: I give you a set of target pages, and your script logs in if needed, navigates through the required paths, grabs the specific fields I specify, and deposits the result",
+      "bids": 15,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 6,
+      "usd": 73,
+      "hourly": false,
+      "flags": [],
+      "score": 214
+    },
+    {
       "title": "Org Structure & Email Scraping Agent",
       "url": "https://www.freelancer.com/projects/scrapy/org-structure-email-scraping-agent",
       "budget_raw": "$83 Average bid",
@@ -75,20 +103,6 @@
         "date personale — verifică GDPR și sursa"
       ],
       "score": 204
-    },
-    {
-      "title": "Autoamtion and web scraping",
-      "url": "https://www.freelancer.com/projects/automation/autoamtion-web-scraping",
-      "budget_raw": "$73 Average bid",
-      "desc": "I m looking for a fast-turnaround solution that takes the repetitive data-extraction work off my hands entirely. The goal is simple: I give you a set of target pages, and your script logs in if needed, navigates through the required paths, grabs the specific fields I specify, and deposits the result",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 73,
-      "hourly": false,
-      "flags": [],
-      "score": 164
     },
     {
       "title": "Scraping of hungarian insurance data",
@@ -147,6 +161,22 @@
       "score": 115
     },
     {
+      "title": "University Email Database Compilation",
+      "url": "https://www.freelancer.com/projects/data-extraction/university-email-database-compilation",
+      "budget_raw": "$58 Average bid",
+      "desc": "# Job Post: University Website Data Scraping / Email Extraction I m looking for someone who can help me **extract publicly available email addresses and contact information from university websites**. ### What you ll do * I will provide a list of approximately **60 university** websites. * Visit the",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 58,
+      "hourly": false,
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 99
+    },
+    {
       "title": "AI-Driven Marine Data Aggregation & Analysis",
       "url": "https://www.freelancer.com/projects/data-science/driven-marine-data-aggregation-analysis",
       "budget_raw": "$21 / hr Average bid",
@@ -161,20 +191,18 @@
       "score": 98
     },
     {
-      "title": "University Email Database Compilation",
-      "url": "https://www.freelancer.com/projects/data-extraction/university-email-database-compilation",
-      "budget_raw": "$58 Average bid",
-      "desc": "# Job Post: University Website Data Scraping / Email Extraction I m looking for someone who can help me **extract publicly available email addresses and contact information from university websites**. ### What you ll do * I will provide a list of approximately **60 university** websites. * Visit the",
-      "bids": 19,
+      "title": "Manual Data Entry to Web Form",
+      "url": "https://www.freelancer.com/projects/data-management/manual-data-entry-web-form",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I have a collection of mixed text-and-numeric records that I access through several online databases. Each record needs to be copied, field by field, into an online form that I will provide once the project begins. The work is entirely manual no scraping scripts so accuracy and consistency are param",
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
-      "usd": 58,
-      "hourly": false,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 76
+      "usd": 8,
+      "hourly": true,
+      "flags": [],
+      "score": 78
     },
     {
       "title": "Manual Data Entry to Excel",
@@ -191,20 +219,6 @@
       "score": 68
     },
     {
-      "title": "Synology NAS & ERPNext Integration for Civil Engineering",
-      "url": "https://www.freelancer.com/projects/docker/synology-nas-erpnext-integration-for",
-      "budget_raw": "$2020 Average bid",
-      "desc": "Project Title: Expert Frappe / ERPNext Developer Needed for Synology NAS Integration (Civil Engineering ERP) Project Description & Requirements: Core Objective: Build a custom Frappe app (infrastruct_erp) to manage projects, HR, and document automation for a Civil Engineering consultancy. Environmen",
-      "bids": 40,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 2020,
-      "hourly": false,
-      "flags": [],
-      "score": 67
-    },
-    {
       "title": "Public Sector Tender Management System",
       "url": "https://www.freelancer.com/projects/documentation/public-sector-tender-management-system",
       "budget_raw": "$177 Average bid",
@@ -217,20 +231,6 @@
       "hourly": false,
       "flags": [],
       "score": 62
-    },
-    {
-      "title": "Manual Data Entry to Web Form",
-      "url": "https://www.freelancer.com/projects/data-management/manual-data-entry-web-form",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I have a collection of mixed text-and-numeric records that I access through several online databases. Each record needs to be copied, field by field, into an online form that I will provide once the project begins. The work is entirely manual no scraping scripts so accuracy and consistency are param",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 60
     },
     {
       "title": "Excel Data Cleanup & Organization",
@@ -258,7 +258,49 @@
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 32
+      "score": 42
+    },
+    {
+      "title": "Virtual Assistant for Admin Tasks",
+      "url": "https://www.freelancer.com/projects/microsoft-office/virtual-assistant-for-admin-tasks-40645415",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I m ready to delegate three core duties so I can regain focus on higher-level work. The priorities are clear: keep my inbox under control, keep my data accurate, and keep my calendar running smoothly. I run everything inside the Microsoft Office suite Outlook for mail and scheduling, Excel for recor",
+      "bids": 11,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 27
+    },
+    {
+      "title": "Categorize 10k FMCG Products",
+      "url": "https://www.freelancer.com/projects/data-management/categorize-fmcg-products",
+      "budget_raw": "$75 Average bid",
+      "desc": "I have an Excel master list of roughly ten thousand fast-moving consumer goods. Your task is simple but detail-critical: open the sheet, leave every existing item code untouched, and populate only the Category and Sub-category columns with the correct values from the predefined taxonomy I will send ",
+      "bids": 15,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 75,
+      "hourly": false,
+      "flags": [],
+      "score": 24
+    },
+    {
+      "title": "Excel Skills Assessment Test",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-skills-assessment-test",
+      "budget_raw": "$59 Average bid",
+      "desc": "I'm looking for a 10-minute Excel test to evaluate basic Excel proficiency for work. The test should consist solely of multiple-choice questions, focusing on basic formulas and functions. Ideal Skills and Experience: - Proficiency in Microsoft Excel - Knowledge of basic formulas and functions - Expe",
+      "bids": 9,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 59,
+      "hourly": false,
+      "flags": [],
+      "score": 24
     },
     {
       "title": "Shopify Product Listing Assistance",
@@ -289,46 +331,18 @@
       "score": 21
     },
     {
-      "title": "Virtual Assistant for Admin Tasks",
-      "url": "https://www.freelancer.com/projects/microsoft-office/virtual-assistant-for-admin-tasks-40645415",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I m ready to delegate three core duties so I can regain focus on higher-level work. The priorities are clear: keep my inbox under control, keep my data accurate, and keep my calendar running smoothly. I run everything inside the Microsoft Office suite Outlook for mail and scheduling, Excel for recor",
-      "bids": 11,
+      "title": "PDF Furniture Take-Off Schedule",
+      "url": "https://www.freelancer.com/projects/google-sheets/pdf-furniture-take-off-schedule",
+      "budget_raw": "$77 Average bid",
+      "desc": "I have a complete set of furniture drawings in PDF format and need a detailed quantity take-off. The focus is strictly on two areas: every loose or built-in furniture piece shown, and all finishes specified on those same drawings. You will review the PDFs, extract each item with its corresponding fi",
+      "bids": 31,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 21
-    },
-    {
-      "title": "Categorize 10k FMCG Products",
-      "url": "https://www.freelancer.com/projects/data-management/categorize-fmcg-products",
-      "budget_raw": "$75 Average bid",
-      "desc": "I have an Excel master list of roughly ten thousand fast-moving consumer goods. Your task is simple but detail-critical: open the sheet, leave every existing item code untouched, and populate only the Category and Sub-category columns with the correct values from the predefined taxonomy I will send ",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 75,
+      "fit": 3,
+      "usd": 77,
       "hourly": false,
       "flags": [],
-      "score": 19
-    },
-    {
-      "title": "Excel Skills Assessment Test",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-skills-assessment-test",
-      "budget_raw": "$59 Average bid",
-      "desc": "I'm looking for a 10-minute Excel test to evaluate basic Excel proficiency for work. The test should consist solely of multiple-choice questions, focusing on basic formulas and functions. Ideal Skills and Experience: - Proficiency in Microsoft Excel - Knowledge of basic formulas and functions - Expe",
-      "bids": 9,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 59,
-      "hourly": false,
-      "flags": [],
-      "score": 18
+      "score": 20
     },
     {
       "title": "Excel 365 Cell Color Issue",
@@ -345,6 +359,22 @@
       "score": 18
     },
     {
+      "title": "Technology B2C Lead Generation",
+      "url": "https://www.freelancer.com/projects/lead-generation/technology-lead-generation",
+      "budget_raw": "$6 / hr Average bid",
+      "desc": "I need a steady stream of fresh consumer leads in the technology space. My priority is quality over sheer volume: every contact you deliver must include a valid email address and phone number so my team can launch personalised outreach right away. Your approach is up to you scraping public sources, ",
+      "bids": 28,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 6,
+      "hourly": true,
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 17
+    },
+    {
       "title": "Amazon & Flipkart Medical Listings",
       "url": "https://www.freelancer.com/projects/amazon/amazon-flipkart-medical-listings-40647332",
       "budget_raw": "$185 Average bid",
@@ -355,20 +385,6 @@
       "fit": 1,
       "usd": 185,
       "hourly": false,
-      "flags": [],
-      "score": 16
-    },
-    {
-      "title": "EOT Crane Manufacturers Data Scrape",
-      "url": "https://www.freelancer.com/projects/scrapy/eot-crane-manufacturers-data-scrape",
-      "budget_raw": "$2 / hr Average bid",
-      "desc": "I need a clean, reliable scrape of every EOT crane manufacturer that appears on Google Maps. For each company, I want the following captured and neatly organised in a spreadsheet: Company name exactly as shown on Google Maps Full postal address Phone number(s) Email address (when publicly available)",
-      "bids": 29,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 2,
-      "hourly": true,
       "flags": [],
       "score": 16
     },
@@ -387,48 +403,46 @@
       "score": 16
     },
     {
-      "title": "PDF Furniture Take-Off Schedule",
-      "url": "https://www.freelancer.com/projects/google-sheets/pdf-furniture-take-off-schedule",
-      "budget_raw": "$77 Average bid",
-      "desc": "I have a complete set of furniture drawings in PDF format and need a detailed quantity take-off. The focus is strictly on two areas: every loose or built-in furniture piece shown, and all finishes specified on those same drawings. You will review the PDFs, extract each item with its corresponding fi",
-      "bids": 31,
+      "title": "EOT Crane Manufacturers Data Scrape",
+      "url": "https://www.freelancer.com/projects/scrapy/eot-crane-manufacturers-data-scrape",
+      "budget_raw": "$2 / hr Average bid",
+      "desc": "I need a clean, reliable scrape of every EOT crane manufacturer that appears on Google Maps. For each company, I want the following captured and neatly organised in a spreadsheet: Company name exactly as shown on Google Maps Full postal address Phone number(s) Email address (when publicly available)",
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 77,
-      "hourly": false,
-      "flags": [],
-      "score": 16
-    },
-    {
-      "title": "Technology B2C Lead Generation",
-      "url": "https://www.freelancer.com/projects/lead-generation/technology-lead-generation",
-      "budget_raw": "$6 / hr Average bid",
-      "desc": "I need a steady stream of fresh consumer leads in the technology space. My priority is quality over sheer volume: every contact you deliver must include a valid email address and phone number so my team can launch personalised outreach right away. Your approach is up to you scraping public sources, ",
-      "bids": 28,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 6,
+      "fit": 6,
+      "usd": 2,
       "hourly": true,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 13
+      "flags": [],
+      "score": 14
     },
     {
-      "title": "ESP32-Controlled AI Robot Arm Development",
-      "url": "https://www.freelancer.com/projects/microcontroller-programming/esp-controlled-robot-arm-development",
-      "budget_raw": "$88 Average bid",
-      "desc": "ESP32 Robot Arm + Camera with AI Integration Project Type: Fixed Price Development Budget: $1,500 $2,500 USD Target Timeline: 3 6 weeks after receiving hardware Project Overview I am looking for an experienced ESP32/robotics developer to build a plug-and-play control system connecting: Pre-assembled",
+      "title": "Replicate PDF Layout in Excel",
+      "url": "https://www.freelancer.com/projects/data-entry/replicate-pdf-layout-excel",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I have a PDF document that must look and feel identical once it lives in Excel. Every column width, row height, font style, border, and color should mirror the source so that a quick side-by-side comparison shows no visual difference. I do not need formulas this is purely about presentation but I do",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 11
+    },
+    {
+      "title": "Populate Web Form from Spreadsheets",
+      "url": "https://www.freelancer.com/projects/data-management/populate-web-form-from-spreadsheets",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I need every record from my existing structured tables copied accurately into an online form. The tables hold mixed data text fields such as names and comments alongside numerical values like prices and IDs so careful attention to formatting is essential. You will open the spreadsheet, match each co",
       "bids": 29,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 88,
-      "hourly": false,
+      "usd": 9,
+      "hourly": true,
       "flags": [],
-      "score": 13
+      "score": 10
     },
     {
       "title": "Large-Corp QuickBooks Accounting & Tax",
@@ -454,34 +468,6 @@
       "verdict": "accept",
       "fit": 1,
       "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 8
-    },
-    {
-      "title": "Populate Web Form from Spreadsheets",
-      "url": "https://www.freelancer.com/projects/data-management/populate-web-form-from-spreadsheets",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I need every record from my existing structured tables copied accurately into an online form. The tables hold mixed data text fields such as names and comments alongside numerical values like prices and IDs so careful attention to formatting is essential. You will open the spreadsheet, match each co",
-      "bids": 29,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 8
-    },
-    {
-      "title": "Replicate PDF Layout in Excel",
-      "url": "https://www.freelancer.com/projects/data-entry/replicate-pdf-layout-excel",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I have a PDF document that must look and feel identical once it lives in Excel. Every column width, row height, font style, border, and color should mirror the source so that a quick side-by-side comparison shows no visual difference. I do not need formulas this is purely about presentation but I do",
-      "bids": 19,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 5,
       "hourly": true,
       "flags": [],
       "score": 8
@@ -515,20 +501,6 @@
       "score": 7
     },
     {
-      "title": "Online Text Entry & Markdown Formatting",
-      "url": "https://www.freelancer.com/projects/content-writing/online-text-entry-markdown-formatting",
-      "budget_raw": "$222 Average bid",
-      "desc": "I have a collection of web pages whose text needs to be captured and migrated into my system. Your job is to copy the text content from each specified URL, strip out anything that isn t text (ads, navigation, embedded media), and then deliver the cleaned result as well-structured Markdown or simple ",
-      "bids": 34,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 222,
-      "hourly": false,
-      "flags": [],
-      "score": 4
-    },
-    {
       "title": "Compile History Lecture Notes",
       "url": "https://www.freelancer.com/projects/transcription/compile-history-lecture-notes",
       "budget_raw": "$6 / hr Average bid",
@@ -539,6 +511,20 @@
       "fit": 1,
       "usd": 6,
       "hourly": true,
+      "flags": [],
+      "score": 5
+    },
+    {
+      "title": "Automated Word & Excel Data Feed",
+      "url": "https://www.freelancer.com/projects/word/automated-word-excel-data-feed",
+      "budget_raw": "$16 Average bid",
+      "desc": "My information is still being keyed in manually, so I need a simple data-feed or template set that lets me enter the data once and have it flow automatically into the right places inside Word documents and Excel workbooks. If VBA macros, linked tables, form fields, or any other Microsoft-friendly so",
+      "bids": 18,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 16,
+      "hourly": false,
       "flags": [],
       "score": 4
     },
@@ -571,6 +557,20 @@
       "hourly": true,
       "flags": [],
       "score": 3
+    },
+    {
+      "title": "Targeted BTinternet Email Leads",
+      "url": "https://www.freelancer.com/projects/data-collection/targeted-btinternet-email-leads",
+      "budget_raw": "$19 Average bid",
+      "desc": "I m looking for a clean, up-to-date list of email addresses that end with Tell me the exact count you already hold for each domain, along with an estimated bounce rate if you have it. The addresses will be used purely for data-entry purposes, so accuracy is more important than volume and no phone nu",
+      "bids": 15,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 19,
+      "hourly": false,
+      "flags": [],
+      "score": 1
     }
   ],
   "refused": [

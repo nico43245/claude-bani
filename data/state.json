@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T13:26:20.602Z",
+  "generated_at": "2026-08-14T13:59:13.698Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 39,
+  "events_total": 49,
   "tracks": [
     {
       "track": "bounty",
@@ -24,10 +24,116 @@
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 25
+      "actions": 28
+    },
+    {
+      "track": "competitions",
+      "revenue": 0,
+      "cost": 0,
+      "actions": 7
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T13:59:13.693Z",
+      "type": "opportunity",
+      "track": "competitions",
+      "amount_usd": 40000,
+      "status": null,
+      "desc": "AWS Trainium Frontier: $40.000 cash real (nu credite), România neexclusă, fără restricție de student, hardware furnizat de organizatori, evaluare pe leaderboard public. Faza 1: antrenezi un model în 30 min pe un cip Trainium2; top 10 intră în faza 2. Termen 30 septembrie 2026.",
+      "evidence": "https://trainium-frontier.devpost.com/",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-14T13:59:13.693Z",
+      "type": "decision",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Măsurat pe 45 de competiții: cifrele publicate de Devpost sunt nesigure pe toate cele 3 axe. «Cash» include credite (Galuxium: «no physical cash, fiat currency, or direct liquid capital will be awarded»), majoritatea sunt doar pentru studenți, iar listele de țări excluse apar doar în regulament. Radarul citește regulamentul, nu listarea.",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T13:59:13.693Z",
+      "type": "decision",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Pistă nouă: competiții cu evaluare obiectivă. Criteriul care le face diferite de tot ce am încercat până acum — plata vine dintr-un scor măsurat, nu din persuadarea unui client. Fără licitații, fără reputație, fără audiență.",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T13:59:13.693Z",
+      "type": "dead_end",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Freelance abandonat ca pistă principală la cererea utilizatorului. Motivul e structural, nu de preferință: fiecare dolar cere ca un OM să convingă alt om, deci nu se poate automatiza. Rămâne pornit ca plasă de siguranță.",
+      "evidence": "products/freelance/PROPUNERI.md",
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T13:59:13.692Z",
+      "type": "dead_end",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Topcoder eliminat: API-ul public arată 2 challenge-uri active în toată lumea (restul, teste interne). Platforma e efectiv moartă în august 2026.",
+      "evidence": "api.topcoder.com/v6/challenges?status=Active -> x-total: 2",
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T13:58:17.046Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 45 scanate, 5 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-14T13:56:39.025Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 45 scanate, 9 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-14T13:54:29.810Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 45 scanate, 6 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-14T13:34:00.378Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 73,
+      "status": null,
+      "desc": "Cel mai bun job: Automate Data Integration with Python & Alteryx",
+      "evidence": "https://www.freelancer.com/projects/alteryx/automate-data-integration-with-python",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-14T13:34:00.378Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 211 proiecte scanate → 43 potrivite, 11 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
     {
       "ts": "2026-08-14T13:26:20.600Z",
       "type": "action",
@@ -420,9 +526,65 @@
     }
   ],
   "opportunities": {
-    "accepted": 0,
-    "rejected": 800,
-    "top": [],
+    "accepted": 5,
+    "rejected": 840,
+    "top": [
+      {
+        "source": "comp-radar",
+        "verdict": "accept",
+        "reason": null,
+        "title": "AWS Trainium Frontier Competition",
+        "url": "https://trainium-frontier.devpost.com/",
+        "score": 1905,
+        "prize_usd": 40000,
+        "days_left": 60,
+        "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "verdict": "accept",
+        "reason": null,
+        "title": "All Things Agentic Hackathon",
+        "url": "https://allthingsagentichackathon.devpost.com/",
+        "score": 602,
+        "prize_usd": 180000,
+        "days_left": 17,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "verdict": "accept",
+        "reason": null,
+        "title": "Africa Deep Tech Challenge 2026",
+        "url": "https://adtc-2026.devpost.com/",
+        "score": 81,
+        "prize_usd": 16500,
+        "days_left": 11,
+        "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "verdict": "accept",
+        "reason": null,
+        "title": "CALL-E: Your Code Is Calling",
+        "url": "https://call-e.devpost.com/",
+        "score": 19,
+        "prize_usd": 10000,
+        "days_left": 30,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "verdict": "accept",
+        "reason": null,
+        "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
+        "url": "https://youcam-api.devpost.com/",
+        "score": 6,
+        "prize_usd": 6000,
+        "days_left": 3,
+        "objective": false
+      }
+    ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
@@ -445,6 +607,22 @@
         "count": 29
       },
       {
+        "reason": "premiu prea mic",
+        "count": 10
+      },
+      {
+        "reason": "participare restricționată",
+        "count": 10
+      },
+      {
+        "reason": "fără premiu în bani",
+        "count": 9
+      },
+      {
+        "reason": "prea aglomerat",
+        "count": 8
+      },
+      {
         "reason": "proiect inactiv",
         "count": 5
       },
@@ -463,6 +641,14 @@
       {
         "reason": "deja adjudecat",
         "count": 2
+      },
+      {
+        "reason": "prea puțin timp de construit",
+        "count": 2
+      },
+      {
+        "reason": "premiul nu e în bani",
+        "count": 1
       }
     ]
   }

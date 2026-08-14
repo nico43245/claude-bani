@@ -44,6 +44,11 @@ const REFUSE = [
   { re: /(instagram|facebook|tiktok|twitter|x\.com).{0,30}(bot|automation|mass|auto|scrap|lead|harvest|engagement)/i, why: 'extragere din rețele sociale — încalcă termenii platformei' },
   // Liste masive de contacte personale: GDPR, și aproape întotdeauna alimentează spam.
   { re: /\b\d[\d,.]*\s*(k|m|million|thousand)?\+?\s*(b2b|b2c)?\s*leads?\b|\bleads? (list|database|scrap)/i, why: 'listă masivă de date personale — GDPR și spam' },
+  // Ratate initial ca simple avertismente: „Targeted BTinternet Email Leads",
+  // „University Email Database Compilation". Construirea de liste de adrese
+  // personale e teritoriu GDPR cu executantul răspunzător, și hrănește spam.
+  { re: /(email|e-mail|phone|contact).{0,25}(leads?|database|list|compilation|harvest)|(collect|compile|build|scrape).{0,25}(email|contact).{0,15}(list|database)/i,
+    why: 'colectare de adrese personale — GDPR, iar executantul răspunde' },
   { re: /(fake|buy).{0,15}(review|account|follower|like|upvote|vote)/i, why: 'recenzii sau interacțiuni false' },
   { re: /(quiz|exam|homework|assignment|test).{0,20}(taking|solver|automation|bot)|take my (exam|quiz|class)/i, why: 'fraudă academică' },
   { re: /(bulk|mass).{0,15}(email|dm|message|sms)|email.{0,10}(blast|spam)|cold.?dm.{0,10}bot/i, why: 'spam în masă' },
@@ -161,9 +166,12 @@ function judge(job) {
 
   const { usd, hourly } = parseBudget(job.budget_raw);
   if (usd === null) return { verdict: 'skip', reason: 'fără buget afișat', fit };
-  // Sub $40 nu merită: costul unei livrări bune e același, iar o recenzie
-  // proastă de la un client de $15 face mai mult rău decât banii câștigați.
-  if (!hourly && usd < 40) return { verdict: 'skip', reason: 'buget prea mic', fit, usd };
+  // Pragul era $40, scris când țintam $100 dintr-o singură lovitură. Datele
+  // arată invers: bugetele mari atrag mulțimea care le anulează ($250 → 151
+  // oferte; $73 → 15). Fără recenzii, primul job valorează prin RECENZIA pe
+  // care o produce, nu prin sumă. Sub $10 rămâne exclus — acolo e muncă
+  // manuală în masă, nu inginerie.
+  if (!hourly && usd < 10) return { verdict: 'skip', reason: 'buget derizoriu', fit, usd };
 
   // Scorul e condus de POTRIVIRE, nu de buget — și asta e deliberat.
   // Un proiect de $13.000 e fantezie pentru un cont cu zero recenzii: clientul
@@ -177,7 +185,9 @@ function judge(job) {
 
   const value = hourly ? usd * 8 : usd;
   const reachable = value <= 600 ? 1 : 600 / value;   // penalizare pentru fantezii
-  const sweetSpot = value >= 80 && value <= 500 ? 1.3 : 1;
+  // Banda țintă coboară la $25: joburile mici sunt mai ușor de câștigat fără
+  // recenzii, iar mai multe joburi mici duse la capăt bat unul mare ratat.
+  const sweetSpot = value >= 25 && value <= 500 ? 1.3 : 1;
   // Puține oferte contează mai mult decât un buget mare: bugetul mare atrage
   // mulțimea care îl anulează. Un job de $120 cu 4 oferte bate unul de $400 cu 130.
   const crowding = job.bids === null ? 0.6 : Math.max(0.15, 1 - job.bids / 40);

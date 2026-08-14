@@ -41,6 +41,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scouts/bounty-radar.mjs
 
+      # Pista principală de la 14 august 2026: competiții cu evaluare obiectivă.
+      # Radarul de joburi rămâne pornit ca plasă de siguranță, nu ca pistă activă.
+      - name: Radar competiții
+        continue-on-error: true
+        run: node scouts/comp-radar.mjs
+
       - name: Radar joburi freelance
         continue-on-error: true
         run: node scouts/gig-radar.mjs
