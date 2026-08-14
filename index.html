@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mașina de bani — live</title>
+<style>
+  :root {
+    --bg:#f7f7f5; --panel:#fff; --ink:#1a1a18; --muted:#6b6b66; --line:#e3e3de;
+    --accent:#2f6f4f; --accent-soft:#e7f1ea; --warn:#8a5a1f; --bad:#8a2f2f;
+    --radius:14px;
+  }
+  :root:not([data-theme="light"]) { }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg:#131316; --panel:#1b1b1f; --ink:#ececea; --muted:#9a9a94; --line:#2c2c32;
+      --accent:#6dbf92; --accent-soft:#1e2f26; --warn:#d0a15f; --bad:#d98080;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg:#131316; --panel:#1b1b1f; --ink:#ececea; --muted:#9a9a94; --line:#2c2c32;
+    --accent:#6dbf92; --accent-soft:#1e2f26; --warn:#d0a15f; --bad:#d98080;
+  }
+  * { box-sizing:border-box; }
+  body {
+    margin:0; background:var(--bg); color:var(--ink);
+    font:16px/1.55 ui-sans-serif,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-text-size-adjust:100%;
+  }
+  .wrap { max-width:940px; margin:0 auto; padding:20px 16px 64px; }
+  header { display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-bottom:6px; }
+  h1 { font-size:1.35rem; margin:0; letter-spacing:-.01em; }
+  .sub { color:var(--muted); font-size:.84rem; }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:16px; margin-top:14px; }
+  h2 { font-size:.78rem; text-transform:uppercase; letter-spacing:.07em; color:var(--muted); margin:0 0 12px; font-weight:600; }
+
+  .goal-num { font-size:2.6rem; font-weight:650; letter-spacing:-.03em; line-height:1; }
+  .goal-num small { font-size:1rem; font-weight:400; color:var(--muted); letter-spacing:0; }
+  .bar { height:12px; background:var(--accent-soft); border-radius:99px; overflow:hidden; margin:14px 0 8px; display:flex; }
+  .bar i { display:block; background:var(--accent); height:100%; }
+  .bar i.pending { background:repeating-linear-gradient(45deg,var(--accent),var(--accent) 4px,transparent 4px,transparent 8px); opacity:.55; }
+  .legend { display:flex; gap:16px; flex-wrap:wrap; font-size:.82rem; color:var(--muted); }
+  .legend b { color:var(--ink); font-weight:600; }
+  .dot { display:inline-block; width:8px; height:8px; border-radius:2px; background:var(--accent); margin-right:5px; }
+  .dot.p { opacity:.5; }
+
+  .grid { display:grid; gap:10px; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); }
+  .stat { background:var(--bg); border:1px solid var(--line); border-radius:10px; padding:11px 13px; }
+  .stat .k { font-size:.72rem; color:var(--muted); text-transform:uppercase; letter-spacing:.05em; }
+  .stat .v { font-size:1.3rem; font-weight:600; letter-spacing:-.02em; margin-top:2px; }
+
+  table { width:100%; border-collapse:collapse; font-size:.87rem; }
+  th { text-align:left; font-size:.72rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); font-weight:600; padding:0 8px 7px 0; }
+  td { padding:7px 8px 7px 0; border-top:1px solid var(--line); vertical-align:top; }
+  td.num, th.num { text-align:right; padding-right:0; white-space:nowrap; }
+  .scroll { overflow-x:auto; -webkit-overflow-scrolling:touch; }
+
+  .feed { list-style:none; margin:0; padding:0; }
+  .feed li { display:flex; gap:10px; padding:9px 0; border-top:1px solid var(--line); font-size:.88rem; }
+  .feed li:first-child { border-top:0; }
+  .when { color:var(--muted); font-size:.75rem; white-space:nowrap; font-variant-numeric:tabular-nums; padding-top:2px; min-width:74px; }
+  .tag { display:inline-block; font-size:.66rem; text-transform:uppercase; letter-spacing:.05em; padding:2px 6px; border-radius:5px; background:var(--accent-soft); color:var(--accent); font-weight:600; white-space:nowrap; }
+  .tag.cost { background:transparent; color:var(--warn); border:1px solid var(--warn); }
+  .tag.dead { background:transparent; color:var(--bad); border:1px solid var(--bad); }
+  .tag.rev { background:var(--accent); color:var(--panel); }
+  a { color:var(--accent); }
+  .muted { color:var(--muted); }
+  .empty { color:var(--muted); font-size:.88rem; font-style:italic; }
+  footer { margin-top:22px; font-size:.76rem; color:var(--muted); text-align:center; }
+  .barmini { height:6px; background:var(--accent-soft); border-radius:99px; overflow:hidden; margin-top:5px; }
+  .barmini i { display:block; height:100%; background:var(--bad); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Mașina de bani</h1>
+    <span class="sub" id="stamp">se încarcă…</span>
+  </header>
+  <p class="sub" style="margin:0 0 4px">
+    Fiecare cifră de mai jos vine dintr-un jurnal append-only. Nimic nu se rescrie —
+    inclusiv fundăturile.
+  </p>
+
+  <div class="card">
+    <h2>Progres spre țintă</h2>
+    <div class="goal-num"><span id="realized">$0</span> <small>din <span id="goal">$100</span> încasați</small></div>
+    <div class="bar"><i id="barR" style="width:0"></i><i id="barP" class="pending" style="width:0"></i></div>
+    <div class="legend">
+      <span><span class="dot"></span>încasat <b id="lr">$0</b></span>
+      <span><span class="dot p"></span>promis, neîncasat <b id="lp">$0</b></span>
+      <span>costuri <b id="lc">$0</b></span>
+      <span>net <b id="ln">$0</b></span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Pe scurt</h2>
+    <div class="grid" id="stats"></div>
+  </div>
+
+  <div class="card">
+    <h2>Piste</h2>
+    <div class="scroll"><table id="tracks">
+      <thead><tr><th>Pistă</th><th class="num">Încasat</th><th class="num">Costuri</th><th class="num">Acțiuni</th></tr></thead>
+      <tbody></tbody>
+    </table></div>
+  </div>
+
+  <div class="card">
+    <h2>Oportunități filtrate</h2>
+    <p class="sub" style="margin:-6px 0 12px">
+      Ce a găsit radarul și — mai important — ce a respins și de ce. Un filtru care
+      acceptă tot e inutil; unul care respinge tot e stricat. Motivele arată care din ele e.
+    </p>
+    <div class="grid" style="margin-bottom:14px">
+      <div class="stat"><div class="k">Acceptate</div><div class="v" id="oaccept">0</div></div>
+      <div class="stat"><div class="k">Respinse</div><div class="v" id="oreject">0</div></div>
+    </div>
+    <div id="opps"></div>
+    <div class="scroll" style="margin-top:14px"><table id="reasons">
+      <thead><tr><th>Motiv de respingere</th><th class="num">Câte</th></tr></thead>
+      <tbody></tbody>
+    </table></div>
+  </div>
+
+  <div class="card">
+    <h2>Tot ce s-a întâmplat</h2>
+    <ul class="feed" id="feed"></ul>
+  </div>
+
+  <footer>
+    Actualizat automat de GitHub Actions · construit de Claude ·
+    <a href="https://github.com/nico43245/claude-bani">cod sursă</a>
+  </footer>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const usd = (n) => '$' + (Math.round((n || 0) * 100) / 100).toLocaleString('en-US');
+
+const TAGS = {
+  revenue:   ['venit', 'rev'],
+  cost:      ['cost', 'cost'],
+  action:    ['acțiune', ''],
+  decision:  ['decizie', ''],
+  opportunity:['oportunitate', ''],
+  dead_end:  ['fundătură', 'dead'],
+};
+
+function when(iso) {
+  const d = new Date(iso), now = new Date();
+  const mins = Math.round((now - d) / 60000);
+  if (mins < 1) return 'acum';
+  if (mins < 60) return mins + ' min';
+  if (mins < 1440) return Math.round(mins / 60) + ' h';
+  return d.toLocaleDateString('ro-RO', { day: 'numeric', month: 'short' });
+}
+
+function render(s) {
+  $('stamp').textContent = 'actualizat ' + when(s.generated_at);
+  $('goal').textContent = usd(s.goal_usd);
+  $('realized').textContent = usd(s.realized_usd);
+  $('lr').textContent = usd(s.realized_usd);
+  $('lp').textContent = usd(s.pending_usd);
+  $('lc').textContent = usd(s.costs_usd);
+  $('ln').textContent = usd(s.net_usd);
+
+  const pr = Math.min(100, (s.realized_usd / s.goal_usd) * 100);
+  const pp = Math.min(100 - pr, (s.pending_usd / s.goal_usd) * 100);
+  $('barR').style.width = pr + '%';
+  $('barP').style.width = pp + '%';
+
+  $('stats').innerHTML = [
+    ['Progres', s.progress_pct + '%'],
+    ['Evenimente', s.events_total],
+    ['Costuri totale', usd(s.costs_usd)],
+    ['Piste active', (s.tracks || []).length],
+  ].map(([k, v]) => `<div class="stat"><div class="k">${k}</div><div class="v">${v}</div></div>`).join('');
+
+  $('tracks').tBodies[0].innerHTML = (s.tracks || []).map((t) =>
+    `<tr><td>${t.track}</td><td class="num">${usd(t.revenue)}</td><td class="num">${usd(t.cost)}</td><td class="num">${t.actions}</td></tr>`
+  ).join('') || '<tr><td colspan="4" class="empty">nimic încă</td></tr>';
+
+  const o = s.opportunities || { accepted: 0, rejected: 0, top: [], rejection_reasons: [] };
+  $('oaccept').textContent = o.accepted;
+  $('oreject').textContent = o.rejected;
+
+  $('opps').innerHTML = (o.top || []).length
+    ? '<div class="scroll"><table><thead><tr><th>Oportunitate</th><th class="num">Sumă</th><th class="num">Scor</th></tr></thead><tbody>' +
+      o.top.map((x) =>
+        `<tr><td><a href="${x.url}" target="_blank" rel="noopener">${esc(x.title || '')}</a>` +
+        `<div class="muted" style="font-size:.78rem">${esc(x.repo || '')}${x.difficulty ? ' · ' + x.difficulty : ''}</div></td>` +
+        `<td class="num">${usd(x.amount_usd)}</td><td class="num">${x.score ?? '—'}</td></tr>`
+      ).join('') + '</tbody></table></div>'
+    : '<p class="empty">Nicio oportunitate care să treacă filtrul acum. Vezi motivele de mai jos — piața e plină de momeli, nu de bani.</p>';
+
+  const maxR = Math.max(1, ...(o.rejection_reasons || []).map((r) => r.count));
+  $('reasons').tBodies[0].innerHTML = (o.rejection_reasons || []).slice(0, 14).map((r) =>
+    `<tr><td>${esc(r.reason)}<div class="barmini"><i style="width:${(r.count / maxR) * 100}%"></i></div></td><td class="num">${r.count}</td></tr>`
+  ).join('') || '<tr><td colspan="2" class="empty">—</td></tr>';
+
+  $('feed').innerHTML = (s.activity || []).map((e) => {
+    const [label, cls] = TAGS[e.type] || [e.type, ''];
+    const amt = e.amount_usd ? ` <b>${usd(e.amount_usd)}</b>` : '';
+    const ev = e.evidence ? ` <a href="${e.evidence}" target="_blank" rel="noopener">dovadă</a>` : '';
+    return `<li><span class="when">${when(e.ts)}</span><span>` +
+           `<span class="tag ${cls}">${label}</span>${amt} ${esc(e.desc)}${ev}` +
+           `<div class="muted" style="font-size:.75rem">${esc(e.track)} · ${esc(e.agent)}</div></span></li>`;
+  }).join('') || '<li class="empty">niciun eveniment încă</li>';
+}
+
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+}
+
+fetch('./data/state.json?t=' + Date.now())
+  .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(render)
+  .catch((e) => {
+    $('stamp').textContent = 'nu am putut încărca datele';
+    document.querySelector('.wrap').insertAdjacentHTML('beforeend',
+      `<div class="card"><h2>Eroare</h2><p class="empty">data/state.json nu a putut fi citit (${esc(e.message)}). Rulează <code>node scouts/lib/ledger.mjs</code>.</p></div>`);
+  });
+</script>
+</body>
+</html>

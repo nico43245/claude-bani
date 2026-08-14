@@ -1,0 +1,61 @@
+
+# Scanare automată — de 3 ori pe zi, gratis, la nesfârșit.
+#
+# Nu există niciun API key de plătit aici, și e intenționat. Scouturile sunt cod
+# determinist (scraping, filtrare, scoring), nu apeluri de LLM. Varianta „pun un
+# ANTHROPIC_API_KEY în secrets ca să lucreze agenții singuri" ar genera cost pe
+# fiecare rulare; judecata o fac în sesiune, pe abonamentul deja plătit.
+#
+# GITHUB_TOKEN e furnizat automat de Actions — nu se configurează nimic.
+
+name: scout
+
+on:
+  schedule:
+    - cron: '0 6,14,22 * * *'   # 06:00 / 14:00 / 22:00 UTC
+  workflow_dispatch:            # rulare manuală din tab-ul Actions
+
+permissions:
+  contents: write               # ca să comită rezultatele scanării
+
+concurrency:
+  group: scout
+  cancel-in-progress: false     # o scanare pe jumătate ar corupe ledger-ul
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # Fiecare scout rulează chiar dacă celălalt eșuează: o pistă blocată nu
+      # trebuie să oprească cealaltă pistă.
+      - name: Radar bounty
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scouts/bounty-radar.mjs
+
+      - name: Scout de piață
+        continue-on-error: true
+        run: node scouts/market-signals.mjs
+
+      - name: Recalculează starea dashboard-ului
+        run: node scouts/lib/ledger.mjs
+
+      - name: Commit rezultatele
+        run: |
+          git config user.name  "scout-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Nicio schimbare — nu comit."
+          else
+            git commit -m "scout: scanare $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

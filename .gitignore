@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+*.log
+
+# Nimic sensibil nu are voie în acest repo public. Dacă vreodată apare nevoia de
+# credențiale locale, intră aici și NU se comit niciodată.
+.env
+.env.*
+*.pem
+*.key
+secrets.json
