@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T08:08:15.457Z",
+  "generated_at": "2026-08-14T08:17:59.068Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 10,
+  "events_total": 14,
   "tracks": [
     {
       "track": "bounty",
@@ -18,10 +18,50 @@
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 4
+      "actions": 8
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T08:17:59.066Z",
+      "type": "decision",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Metrica proprie de oferta invalidata prin test de control: interogare foarte ingusta da tot «1.000+ produse». Numarul de produse Etsy nu discrimineaza si nu se foloseste.",
+      "evidence": null,
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T08:17:59.066Z",
+      "type": "dead_end",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Nisa «budget spreadsheet» respinsa: semnal de cerere maxim = saturatie maxima. Un magazin nou fara recenzii aterizeaza sub 26 de anunturi platite si 15 Star Sellers.",
+      "evidence": null,
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T08:17:59.065Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Analiza concurentei: Gumroad 33/36 produse sub 5 recenzii; Etsy 1000+ produse si ~24 reclame platite pe orice interogare, oricat de ingusta",
+      "evidence": null,
+      "agent": "claude"
+    },
+    {
+      "ts": "2026-08-14T08:16:16.885Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Găsitor de goluri: 154 combinații sondate, 104 cu cerere reală, top 20 pe lista scurtă",
+      "evidence": null,
+      "agent": "niche-gaps"
+    },
     {
       "ts": "2026-08-14T08:05:04.093Z",
       "type": "action",
