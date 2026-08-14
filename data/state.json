@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T14:09:00.757Z",
+  "generated_at": "2026-08-14T14:27:14.484Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 53,
+  "events_total": 55,
   "tracks": [
     {
       "track": "bounty",
@@ -30,10 +30,30 @@
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 11
+      "actions": 13
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-14T14:27:14.478Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 7 eligibile după citirea regulamentelor (41 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-14T14:25:26.069Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 7 eligibile după citirea regulamentelor (41 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
     {
       "ts": "2026-08-14T14:09:00.755Z",
       "type": "decision",
@@ -566,62 +586,112 @@
     }
   ],
   "opportunities": {
-    "accepted": 5,
-    "rejected": 840,
+    "accepted": 7,
+    "rejected": 841,
     "top": [
       {
         "source": "comp-radar",
+        "platform": "devpost",
         "verdict": "accept",
         "reason": null,
         "title": "AWS Trainium Frontier Competition",
         "url": "https://trainium-frontier.devpost.com/",
-        "score": 1905,
+        "score": 1860,
         "prize_usd": 40000,
+        "slots": 3,
+        "participants": 128,
+        "per_slot": 43,
         "days_left": 60,
         "objective": true
       },
       {
         "source": "comp-radar",
+        "platform": "devpost",
         "verdict": "accept",
         "reason": null,
         "title": "All Things Agentic Hackathon",
         "url": "https://allthingsagentichackathon.devpost.com/",
-        "score": 602,
+        "score": 600,
         "prize_usd": 180000,
+        "slots": 9,
+        "participants": 2696,
+        "per_slot": 300,
         "days_left": 17,
         "objective": false
       },
       {
         "source": "comp-radar",
+        "platform": "drivendata",
+        "verdict": "accept",
+        "reason": null,
+        "title": "DaT Parkinson's Challenge",
+        "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
+        "score": 291,
+        "prize_usd": 25000,
+        "slots": 3,
+        "participants": 517,
+        "per_slot": 172,
+        "days_left": 33,
+        "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "Agents for Humans Hackathon",
+        "url": "https://agentsforhumans.devpost.com/",
+        "score": 219,
+        "prize_usd": 40000,
+        "slots": 10,
+        "participants": 1828,
+        "per_slot": 183,
+        "days_left": 30,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "Agentic Cinema: The Blockbuster Hackathon",
+        "url": "https://agentic-cinema.devpost.com/",
+        "score": 192,
+        "prize_usd": 75000,
+        "slots": 15,
+        "participants": 5844,
+        "per_slot": 390,
+        "days_left": 26,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
         "verdict": "accept",
         "reason": null,
         "title": "Africa Deep Tech Challenge 2026",
         "url": "https://adtc-2026.devpost.com/",
         "score": 81,
         "prize_usd": 16500,
+        "slots": 4,
+        "participants": 1628,
+        "per_slot": 407,
         "days_left": 11,
         "objective": true
       },
       {
         "source": "comp-radar",
+        "platform": "devpost",
         "verdict": "accept",
         "reason": null,
         "title": "CALL-E: Your Code Is Calling",
         "url": "https://call-e.devpost.com/",
         "score": 19,
         "prize_usd": 10000,
+        "slots": 4,
+        "participants": 2130,
+        "per_slot": 533,
         "days_left": 30,
-        "objective": false
-      },
-      {
-        "source": "comp-radar",
-        "verdict": "accept",
-        "reason": null,
-        "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
-        "url": "https://youcam-api.devpost.com/",
-        "score": 6,
-        "prize_usd": 6000,
-        "days_left": 3,
         "objective": false
       }
     ],
@@ -647,20 +717,20 @@
         "count": 29
       },
       {
-        "reason": "premiu prea mic",
-        "count": 10
+        "reason": "fără premiu în bani",
+        "count": 13
       },
       {
         "reason": "participare restricționată",
         "count": 10
       },
       {
-        "reason": "fără premiu în bani",
-        "count": 9
+        "reason": "prea aglomerat",
+        "count": 7
       },
       {
-        "reason": "prea aglomerat",
-        "count": 8
+        "reason": "premiu prea mic",
+        "count": 6
       },
       {
         "reason": "proiect inactiv",
@@ -684,6 +754,10 @@
       },
       {
         "reason": "prea puțin timp de construit",
+        "count": 2
+      },
+      {
+        "reason": "termen necunoscut",
         "count": 2
       },
       {

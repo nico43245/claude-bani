@@ -140,7 +140,15 @@ function daysLeft(s) {
   return { minute: 0, hour: n / 24, day: n, month: n * 30 }[m[2].toLowerCase()] ?? null;
 }
 
-async function listHackathons(maxPages = 5) {
+// ── Surse ───────────────────────────────────────────────────────────────────
+//
+// Fiecare sursă produce aceeași formă normalizată, ca filtrele să fie scrise o
+// singură dată:
+//   { source, title, url, prize, slots, participants, days, organizer }
+// `slots` = câte premii în bani se dau. Când sursa nu-l publică, rămâne null și
+// filtrul ieftin folosește o prezumție documentată, corectată apoi de deepCheck().
+
+async function fromDevpost(maxPages = 5) {
   const out = [];
   const seen = new Set();
   for (let p = 1; p <= maxPages; p++) {
@@ -151,13 +159,84 @@ async function listHackathons(maxPages = 5) {
     try {
       json = JSON.parse(await get(url));
     } catch (e) {
-      console.error(`  pagina ${p} a eșuat: ${e.message}`);
+      console.error(`  Devpost, pagina ${p} a eșuat: ${e.message}`);
       break;
     }
     const items = json.hackathons ?? [];
     if (!items.length) break;
-    for (const h of items) if (!seen.has(h.id)) (seen.add(h.id), out.push(h));
+    for (const h of items) {
+      if (seen.has(h.id)) continue;
+      seen.add(h.id);
+      out.push({
+        source: 'devpost',
+        title: h.title,
+        url: h.url,
+        prize: money(h.prize_amount),
+        slots: h.prizes_counts?.cash ?? 0,
+        participants: h.registrations_count ?? 0,
+        days: daysLeft(h.time_left_to_submission),
+        organizer: h.organization_name ?? null,
+      });
+    }
     await sleep(1200); // politicos: nu tragem mai repede decât un om care dă scroll
+  }
+  return out;
+}
+
+/**
+ * DrivenData publică fiecare competiție ca un card cu atribute `data-*`, ceea ce
+ * e mult mai de încredere decât textul: `data-joined`, `data-total_prize_purse`,
+ * `data-deadline`, `data-status_active`. Nu trebuie ghicit nimic din proză.
+ *
+ * Ce NU publică e numărul de premii, așa că `slots` rămâne null aici.
+ */
+async function fromDrivenData() {
+  let html;
+  try {
+    html = await get('https://www.drivendata.org/competitions/');
+  } catch (e) {
+    console.error(`  DrivenData a eșuat: ${e.message}`);
+    return [];
+  }
+
+  const out = [];
+  // Cardurile încep toate cu clasa `panel-container`; tăiem acolo și citim
+  // atributele de la începutul fiecărei bucăți, apoi titlul și linkul care urmează.
+  for (const chunk of html.split('panel-container').slice(1)) {
+    const head = chunk.slice(0, 600);
+    const attr = (n) => head.match(new RegExp(`data-${n}="([^"]*)"`))?.[1] ?? null;
+
+    if (attr('status_active') !== '1') continue; // închise sau arhivate
+    const purse = Number(attr('total_prize_purse') ?? 0);
+    if (!purse) continue; // competiții de practică, fără bani
+
+    const link = chunk.match(/<h3[^>]*panel-competition-title[^>]*>\s*<a\s+href="([^"]+)"/);
+    if (!link) continue;
+    const title = chunk
+      .slice(chunk.indexOf(link[0]))
+      .match(/>([^<]{4,200})<\/a>/)?.[1]
+      ?.replace(/&#x27;|&#0?39;/g, "'")
+      .replace(/&amp;/g, '&')
+      .trim();
+    if (!title) continue;
+
+    // `data-deadline` vine ca cheie de sortare („-120260916"); ne interesează
+    // doar data de la coadă, în format AAAALLZZ.
+    const ymd = (attr('deadline') ?? '').match(/(\d{4})(\d{2})(\d{2})$/);
+    const days = ymd
+      ? Math.round((Date.parse(`${ymd[1]}-${ymd[2]}-${ymd[3]}T23:59:00Z`) - Date.now()) / 864e5)
+      : null;
+
+    out.push({
+      source: 'drivendata',
+      title,
+      url: link[1].startsWith('http') ? link[1] : 'https://www.drivendata.org' + link[1],
+      prize: purse,
+      slots: null, // aflat din pagina competiției, în deepCheck()
+      participants: Number(attr('joined') ?? 0),
+      days,
+      organizer: null,
+    });
   }
   return out;
 }
@@ -166,31 +245,45 @@ async function listHackathons(maxPages = 5) {
 
 const no = (reason, detail) => ({ verdict: 'skip', reason, detail: detail ?? null });
 
+// Când sursa nu publică numărul de premii (DrivenData), presupunem 3 — structura
+// obișnuită locul 1/2/3. E o prezumție, nu o măsurătoare, și de aceea deepCheck()
+// o înlocuiește cu numărul real citit din pagină înainte de a calcula scorul.
+const ASSUMED_SLOTS = 3;
+
 /** Filtre ieftine: doar pe datele din listare, fără nicio cerere în plus. */
-function cheapCheck(h) {
-  const cash = h.prizes_counts?.cash ?? 0;
-  if (!cash) return no('fără premiu în bani');
+function cheapCheck(c) {
+  const slots = c.slots ?? ASSUMED_SLOTS;
+  if (!slots) return no('fără premiu în bani');
+  if (!c.prize) return no('fără premiu în bani');
+  if (c.prize < RULES.MIN_PRIZE_USD) return no('premiu prea mic', `${c.prize}`);
 
-  const prize = money(h.prize_amount);
-  if (prize < RULES.MIN_PRIZE_USD) return no('premiu prea mic', `$${prize}`);
+  if (c.days === null) return no('termen necunoscut');
+  if (c.days < RULES.MIN_DAYS_LEFT) return no('prea puțin timp de construit', `${Math.round(c.days)} zile`);
+  if (c.days > RULES.MAX_DAYS_LEFT) return no('termen prea îndepărtat', `${Math.round(c.days)} zile`);
 
-  const d = daysLeft(h.time_left_to_submission);
-  if (d === null) return no('termen necunoscut');
-  if (d < RULES.MIN_DAYS_LEFT) return no('prea puțin timp de construit', `${h.time_left_to_submission}`);
-  if (d > RULES.MAX_DAYS_LEFT) return no('termen prea îndepărtat', `${Math.round(d)} zile`);
-
-  const perSlot = Math.round((h.registrations_count ?? 0) / cash);
+  const perSlot = Math.round(c.participants / slots);
   if (perSlot > RULES.MAX_PARTICIPANTS_PER_SLOT)
     return no('prea aglomerat', `${perSlot} înscriși pe loc de premiu`);
 
-  return { verdict: 'maybe', prize, cash, days: d, perSlot };
+  return { verdict: 'maybe', prize: c.prize, slots, days: c.days, perSlot };
+}
+
+/** Numără premiile în bani dintr-o pagină de competiție („1st place €12,500" etc.). */
+function countPrizeSlots(text) {
+  const places = text.match(
+    /\b(1st|2nd|3rd|4th|5th|first|second|third|fourth|fifth)[- ]?(place|prize)\b/gi,
+  );
+  if (!places) return null;
+  return new Set(places.map((p) => p.toLowerCase().replace(/[- ]/g, ''))).size || null;
 }
 
 /** Filtrul scump: citește regulamentul. Rulează doar pe ce a trecut de cel ieftin. */
-async function deepCheck(h) {
-  const base = h.url.replace(/\/$/, '');
+async function deepCheck(c) {
+  const base = c.url.replace(/\/$/, '');
+  // Devpost ține regulamentul la /rules; DrivenData îl pune pe pagina competiției.
+  const paths = c.source === 'devpost' ? ['/rules', ''] : ['', '/rules'];
   let text = '';
-  for (const path of ['/rules', '']) {
+  for (const path of paths) {
     try {
       text += ' ' + toText(await get(base + path));
     } catch {
@@ -221,7 +314,7 @@ async function deepCheck(h) {
   const zones = text.match(/(excluded|not (available|eligible|open)|prohibited|void in|residents of)[^.]{0,400}/gi) ?? [];
   for (const z of zones) if (HOME_COUNTRY.test(z)) return no('țara noastră e exclusă', z.slice(0, 90));
 
-  return { verdict: 'ok', objective: OBJECTIVE.test(text) };
+  return { verdict: 'ok', objective: OBJECTIVE.test(text), slots: countPrizeSlots(text) };
 }
 
 /**
@@ -232,8 +325,8 @@ async function deepCheck(h) {
  * un premiu de $40.000 împărțit la 5.841 de înscriși pentru un singur loc valorează
  * mai puțin decât $800 în 7 locuri cu 218 înscriși. Formula spune asta direct.
  */
-function score({ prize, cash, perSlot, days, objective }) {
-  const ev = (prize * cash) / Math.max(1, perSlot * cash); // ≈ premiu / înscriși-pe-loc
+function score({ prize, perSlot, days, objective }) {
+  const ev = prize / Math.max(1, perSlot); // premiu total / înscriși pe loc de premiu
   // Evaluarea obiectivă valorează dublu: e singurul tip de competiție unde nu
   // pierdem pentru că n-avem reputație sau audiență.
   const fairness = objective ? 2 : 1;
@@ -247,37 +340,43 @@ function score({ prize, cash, perSlot, days, objective }) {
 async function main() {
   console.log('Radar competiții — caut plată din muncă evaluată, nu din persuasiune.\n');
 
-  const all = await listHackathons();
-  console.log(`${all.length} competiții online deschise.\n`);
+  const [devpost, drivendata] = await Promise.all([fromDevpost(), fromDrivenData()]);
+  const all = [...devpost, ...drivendata];
+  console.log(`${all.length} competiții deschise (Devpost ${devpost.length}, DrivenData ${drivendata.length}).\n`);
 
   const results = [];
   let deep = 0;
 
-  for (const h of all) {
-    const cheap = cheapCheck(h);
+  for (const c of all) {
+    const cheap = cheapCheck(c);
     if (cheap.verdict === 'skip') {
-      results.push({ ...cheap, title: h.title, url: h.url });
+      results.push({ ...cheap, source: c.source, title: c.title, url: c.url });
       continue;
     }
     deep++;
-    const d = await deepCheck(h);
+    const d = await deepCheck(c);
     if (d.verdict === 'skip') {
-      results.push({ ...d, title: h.title, url: h.url });
+      results.push({ ...d, source: c.source, title: c.title, url: c.url });
       continue;
     }
-    const s = score({ ...cheap, objective: d.objective });
+    // Numărul real de premii, citit din pagină, înlocuiește prezumția din filtrul
+    // ieftin — altfel o competiție cu un singur premiu pare de trei ori mai bună.
+    const slots = c.slots ?? d.slots ?? ASSUMED_SLOTS;
+    const perSlot = Math.round(c.participants / slots);
+    const s = score({ prize: cheap.prize, perSlot, days: cheap.days, objective: d.objective });
     results.push({
       verdict: 'accept',
-      title: h.title,
-      url: h.url,
+      source: c.source,
+      title: c.title,
+      url: c.url,
       score: s,
       prize_usd: cheap.prize,
-      slots: cheap.cash,
-      participants: h.registrations_count ?? 0,
-      per_slot: cheap.perSlot,
+      slots,
+      participants: c.participants,
+      per_slot: perSlot,
       days_left: Math.round(cheap.days),
       objective: d.objective,
-      organizer: h.organization_name ?? null,
+      organizer: c.organizer,
     });
   }
 
@@ -288,8 +387,8 @@ async function main() {
 
   for (const a of accepted) {
     console.log(
-      `  ${String(a.score).padStart(5)} | $${a.prize_usd} în ${a.slots} locuri | ` +
-        `${a.per_slot} înscriși/loc | ${a.days_left}z | ` +
+      `  ${String(a.score).padStart(5)} | ${String(a.source).padEnd(10)} | ` +
+        `${a.prize_usd} în ${a.slots} locuri | ${a.per_slot} înscriși/loc | ${a.days_left}z | ` +
         `${a.objective ? 'OBIECTIV' : 'jurizat'} | ${a.title}`,
     );
     console.log(`        ${a.url}`);
@@ -307,12 +406,16 @@ async function main() {
     ...others,
     ...results.map((r) => ({
       source: 'comp-radar',
+      platform: r.source, // devpost / drivendata — de unde vine oportunitatea
       verdict: r.verdict,
       reason: r.reason ?? null,
       title: r.title,
       url: r.url,
       score: r.score ?? 0,
       prize_usd: r.prize_usd ?? 0,
+      slots: r.slots ?? null,
+      participants: r.participants ?? null,
+      per_slot: r.per_slot ?? null,
       days_left: r.days_left ?? null,
       objective: r.objective ?? false,
     })),
