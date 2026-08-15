@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T22:27:05.748Z",
+  "generated_at": "2026-08-15T06:42:51.750Z",
   "scanned": 217,
   "accepted": 47,
-  "refused_on_ethics": 16,
+  "refused_on_ethics": 13,
   "jobs": [
     {
       "title": "Simple Microsoft Excel",
@@ -33,46 +33,46 @@
       "score": 533
     },
     {
-      "title": "Exact Image Text Extraction",
-      "url": "https://www.freelancer.com/projects/optical-character-recognition/exact-image-text-extraction",
-      "budget_raw": "$213 Average bid",
-      "desc": "I have a collection of images that contain printed text, and I need every word reproduced in an editable digital format either Excel or Word without a single character out of place. The task is straightforward but demands meticulous attention: copy the text exactly as it appears, preserving capitali",
-      "bids": 23,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 213,
-      "hourly": false,
-      "flags": [],
-      "score": 294
-    },
-    {
       "title": "Accurate Text Entry From Scans - 10/08/2026 03:23 EDT",
       "url": "https://www.freelancer.com/projects/data-entry/accurate-text-entry-from-scans",
-      "budget_raw": "$188 Average bid",
+      "budget_raw": "$189 Average bid",
       "desc": "I have a collection of uniformly formatted scanned documents that contain text-only information. Your task is to extract that text with zero transcription errors, place it into a well-structured Excel or Google Sheet, and keep the sheet continuously updated as new scans arrive. Because every scan fo",
-      "bids": 22,
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
-      "usd": 188,
+      "usd": 189,
       "hourly": false,
       "flags": [],
-      "score": 275
+      "score": 292
     },
     {
       "title": "Manual Web Data Entry Task -- 2",
       "url": "https://www.freelancer.com/projects/google-sheets/manual-web-data-entry-task",
-      "budget_raw": "$193 Average bid",
+      "budget_raw": "$194 Average bid",
       "desc": "I have a collection of websites that list information I need captured into a spreadsheet. The work is purely manual: open each page, copy the required fields, and paste them into the template I will share (Excel or Google Sheets your choice). No web-scraping tools, browser extensions, or automation ",
       "bids": 24,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
-      "usd": 193,
+      "usd": 194,
       "hourly": false,
       "flags": [],
-      "score": 251
+      "score": 252
+    },
+    {
+      "title": "Daily Power BI Customer Dashboard",
+      "url": "https://www.freelancer.com/projects/power-bi/daily-power-customer-dashboard",
+      "budget_raw": "$259 Average bid",
+      "desc": "I have a set of regularly-updated Excel/CSV files and I need them transformed into a single, interactive Power BI dashboard that spotlights customer sales trends, demographic break-downs, and behavior patterns. Here s the flow I have in mind: the raw files drop into a shared folder each evening, Pow",
+      "bids": 10,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 259,
+      "hourly": false,
+      "flags": [],
+      "score": 227
     },
     {
       "title": "WEB SCRAPE - INSOLVENCY REGISTER UK",
@@ -147,57 +147,57 @@
       "score": 124
     },
     {
-      "title": "Sales & Profit Dashboard",
-      "url": "https://www.freelancer.com/projects/data-analysis/sales-profit-dashboard",
-      "budget_raw": "$218 Average bid",
-      "desc": "Sales & Profitability Dashboard Project Description Overview An interactive Excel-based dashboard that consolidates raw sales transaction data into real-time KPIs, breakdowns, and visualizations for tracking revenue, cost, and profitability performance across regions, product categories, time period",
-      "bids": 22,
+      "title": "Sales & Customer Data Dashboards",
+      "url": "https://www.freelancer.com/projects/data-analysis/sales-customer-data-dashboards",
+      "budget_raw": "$18 / hr Average bid",
+      "desc": "I need to turn two raw datasets sales and customer records into a clean, insight-packed dashboard. Start by profiling the data in Excel or SQL, removing duplicates, filling or flagging missing values, and standardising every date, currency and categorical field so the tables can join cleanly. With t",
+      "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 218,
-      "hourly": false,
+      "usd": 18,
+      "hourly": true,
       "flags": [],
-      "score": 115
+      "score": 110
     },
     {
       "title": "Manual Data Entry to Web Form",
       "url": "https://www.freelancer.com/projects/data-management/manual-data-entry-web-form",
       "budget_raw": "$8 / hr Average bid",
       "desc": "I have a collection of mixed text-and-numeric records that I access through several online databases. Each record needs to be copied, field by field, into an online form that I will provide once the project begins. The work is entirely manual no scraping scripts so accuracy and consistency are param",
-      "bids": 25,
+      "bids": 26,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
       "usd": 8,
       "hourly": true,
       "flags": [],
-      "score": 78
+      "score": 73
+    },
+    {
+      "title": "Customer Trends Power BI Dashboard",
+      "url": "https://www.freelancer.com/projects/data-analysis/customer-trends-power-dashboard",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "Build a single Power BI dashboard that pulls data live from my Excel workbooks and our SQL database, then turns that information into clear insights about customer demographics and customer satisfaction. The data model should merge both sources seamlessly, handle refresh schedules, and expose relati",
+      "bids": 6,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 72
     },
     {
       "title": "Manual Data Entry to Excel",
       "url": "https://www.freelancer.com/projects/data-annotation/manual-data-entry-excel-40642559",
       "budget_raw": "$211 Average bid",
       "desc": "I need several batches of information copied from printed documents into a clean, well-structured Excel spreadsheet. Everything will be typed manually no OCR or automation so close attention to detail and careful double-checking are essential. You will receive scanned PDFs of the originals along wit",
-      "bids": 29,
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 211,
-      "hourly": false,
-      "flags": [],
-      "score": 68
-    },
-    {
-      "title": "Public Sector Tender Management System",
-      "url": "https://www.freelancer.com/projects/documentation/public-sector-tender-management-system",
-      "budget_raw": "$177 Average bid",
-      "desc": "I m building a secure, web-based platform to handle the entire public-sector tender cycle. The core of the application will let registered bidders upload proposals, track their status in real time, and receive automated email or in-app notifications at every milestone. An integrated evaluation modul",
-      "bids": 28,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 177,
       "hourly": false,
       "flags": [],
       "score": 62
@@ -205,16 +205,16 @@
     {
       "title": "Excel Data Cleanup & Organization",
       "url": "https://www.freelancer.com/projects/data-analysis/excel-data-cleanup-organization-40644216",
-      "budget_raw": "$194 Average bid",
+      "budget_raw": "$193 Average bid",
       "desc": "I have a raw Excel workbook that needs a careful sweep before it can be used for reporting. The file holds a few thousand rows spread across several sheets and currently suffers from duplicate records, inconsistent date and number formats, scattered blank cells, and a patchwork of column names. Your",
-      "bids": 32,
+      "bids": 33,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 194,
+      "usd": 193,
       "hourly": false,
       "flags": [],
-      "score": 45
+      "score": 40
     },
     {
       "title": "Streamlined Excel Data Organization",
@@ -245,18 +245,18 @@
       "score": 34
     },
     {
-      "title": "Odoo Developer Tutor Broadcasting & Payment Automation (WhatsApp + Razorpay)",
-      "url": "https://www.freelancer.com/projects/odoo/odoo-developer-tutor-broadcasting",
-      "budget_raw": "$62 Average bid",
-      "desc": "We run an Odoo 19 Enterprise Online SAAS based tutoring management system (Odoo Studio + Python, CRM and a Master Tutor model already built). We need a developer to add two connected features: 1. Tutor Broadcasting System When a parent submits a tuition requirement, it s stored as a CRM lead. From t",
-      "bids": 22,
+      "title": "Numerical CSV Import to Excel",
+      "url": "https://www.freelancer.com/projects/data-entry/numerical-csv-import-excel",
+      "budget_raw": "$6 / hr Average bid",
+      "desc": "I have a set of CSV files that hold purely numerical fields, and I need every value placed into a clean Excel workbook with the formatting still recognised as numbers. No extra calculations or text parsing just an accurate, reliable transfer. A reusable method is important. If a concise VBA macro, P",
+      "bids": 17,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 62,
-      "hourly": false,
+      "usd": 6,
+      "hourly": true,
       "flags": [],
-      "score": 33
+      "score": 32
     },
     {
       "title": "Manual E-Commerce Data Entry",
@@ -273,60 +273,60 @@
       "score": 30
     },
     {
-      "title": "Numerical CSV Import to Excel",
-      "url": "https://www.freelancer.com/projects/data-entry/numerical-csv-import-excel",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I have a set of CSV files that hold purely numerical fields, and I need every value placed into a clean Excel workbook with the formatting still recognised as numbers. No extra calculations or text parsing just an accurate, reliable transfer. A reusable method is important. If a concise VBA macro, P",
-      "bids": 18,
+      "title": "Odoo Developer Tutor Broadcasting & Payment Automation (WhatsApp + Razorpay)",
+      "url": "https://www.freelancer.com/projects/odoo/odoo-developer-tutor-broadcasting",
+      "budget_raw": "$70 Average bid",
+      "desc": "We run an Odoo 19 Enterprise Online SAAS based tutoring management system (Odoo Studio + Python, CRM and a Master Tutor model already built). We need a developer to add two connected features: 1. Tutor Broadcasting System When a parent submits a tuition requirement, it s stored as a CRM lead. From t",
+      "bids": 26,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 5,
-      "hourly": true,
+      "usd": 70,
+      "hourly": false,
       "flags": [],
-      "score": 26
+      "score": 29
     },
     {
-      "title": "Descriptive Database Data Analysis - 14/08/2026 15:33 EDT",
-      "url": "https://www.freelancer.com/projects/big-data-sales/descriptive-database-data-analysis-edt",
-      "budget_raw": "$35 / hr Average bid",
-      "desc": "I need a concise descriptive analysis of the data currently stored in my relational database. The tables are already structured and populated; what I lack is a clear, statistics-driven snapshot that highlights key totals, averages, distributions, and any obvious trends or anomalies. You ll connect d",
-      "bids": 33,
+      "title": "Replicate PDF Layout in Excel",
+      "url": "https://www.freelancer.com/projects/data-entry/replicate-pdf-layout-excel",
+      "budget_raw": "$177 Average bid",
+      "desc": "I have a PDF document that must look and feel identical once it lives in Excel. Every column width, row height, font style, border, and color should mirror the source so that a quick side-by-side comparison shows no visual difference. I do not need formulas this is purely about presentation but I do",
+      "bids": 28,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 35,
-      "hourly": true,
+      "usd": 177,
+      "hourly": false,
       "flags": [],
-      "score": 25
+      "score": 28
     },
     {
       "title": "Categorize 10k FMCG Products",
       "url": "https://www.freelancer.com/projects/data-management/categorize-fmcg-products",
       "budget_raw": "$75 Average bid",
       "desc": "I have an Excel master list of roughly ten thousand fast-moving consumer goods. Your task is simple but detail-critical: open the sheet, leave every existing item code untouched, and populate only the Category and Sub-category columns with the correct values from the predefined taxonomy I will send ",
-      "bids": 15,
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 75,
       "hourly": false,
       "flags": [],
-      "score": 24
+      "score": 23
     },
     {
-      "title": "Excel Skills Assessment Test",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-skills-assessment-test",
-      "budget_raw": "$59 Average bid",
-      "desc": "I'm looking for a 10-minute Excel test to evaluate basic Excel proficiency for work. The test should consist solely of multiple-choice questions, focusing on basic formulas and functions. Ideal Skills and Experience: - Proficiency in Microsoft Excel - Knowledge of basic formulas and functions - Expe",
-      "bids": 9,
+      "title": "Descriptive Database Data Analysis - 14/08/2026 15:33 EDT",
+      "url": "https://www.freelancer.com/projects/big-data-sales/descriptive-database-data-analysis-edt",
+      "budget_raw": "$34 / hr Average bid",
+      "desc": "I need a concise descriptive analysis of the data currently stored in my relational database. The tables are already structured and populated; what I lack is a clear, statistics-driven snapshot that highlights key totals, averages, distributions, and any obvious trends or anomalies. You ll connect d",
+      "bids": 36,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 59,
-      "hourly": false,
+      "usd": 34,
+      "hourly": true,
       "flags": [],
-      "score": 24
+      "score": 21
     },
     {
       "title": "Podcast Transcripts with Timestamped Entries",
@@ -341,6 +341,20 @@
       "hourly": false,
       "flags": [],
       "score": 21
+    },
+    {
+      "title": "Real-Time Call-Center Voice Changer",
+      "url": "https://www.freelancer.com/projects/asterisk-pbx/real-time-call-center-voice",
+      "budget_raw": "$286 Average bid",
+      "desc": "I need a production-ready, real-time voice-changing application for my call-center environment. Agents must be able to switch among six high-quality U.S.-accented voices three male and three female without audible lag while they are on live VoIP calls. Clean, natural-sounding tone modulation is esse",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 286,
+      "hourly": false,
+      "flags": [],
+      "score": 20
     },
     {
       "title": "Statistical Analysis of Research Data",
@@ -373,30 +387,16 @@
     {
       "title": "Amazon & Flipkart Medical Listings",
       "url": "https://www.freelancer.com/projects/amazon/amazon-flipkart-medical-listings-40647332",
-      "budget_raw": "$237 Average bid",
+      "budget_raw": "$241 Average bid",
       "desc": "I want every pharmaceutical and medical-equipment SKU in my catalogue published on both Amazon and Flipkart as quickly as possible. Roughly half already have titles, basic copy and a few images; the rest still need content and clean product photos. You ll start by auditing what I have, flagging the ",
-      "bids": 22,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 237,
-      "hourly": false,
-      "flags": [],
-      "score": 14
-    },
-    {
-      "title": "E-Commerce Sales & Performance Dashboard",
-      "url": "https://www.freelancer.com/projects/business-analytics/commerce-sales-performance-dashboard",
-      "budget_raw": "$191 Average bid",
-      "desc": "I developed an interactive E-Commerce Sales & Performance Dashboard to analyze sales data and help businesses understand their overall performance. Key Features:- Sales and profit performance analysis Monthly and yearly sales trends Product/category-wise sales analysis Customer performance analysis ",
       "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 191,
+      "usd": 241,
       "hourly": false,
       "flags": [],
-      "score": 12
+      "score": 15
     },
     {
       "title": "Excel Reports Specialist",
@@ -413,47 +413,31 @@
       "score": 12
     },
     {
-      "title": "Replicate PDF Layout in Excel",
-      "url": "https://www.freelancer.com/projects/data-entry/replicate-pdf-layout-excel",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I have a PDF document that must look and feel identical once it lives in Excel. Every column width, row height, font style, border, and color should mirror the source so that a quick side-by-side comparison shows no visual difference. I do not need formulas this is purely about presentation but I do",
-      "bids": 20,
+      "title": "E-Commerce Sales & Performance Dashboard",
+      "url": "https://www.freelancer.com/projects/business-analytics/commerce-sales-performance-dashboard",
+      "budget_raw": "$203 Average bid",
+      "desc": "I developed an interactive E-Commerce Sales & Performance Dashboard to analyze sales data and help businesses understand their overall performance. Key Features:- Sales and profit performance analysis Monthly and yearly sales trends Product/category-wise sales analysis Customer performance analysis ",
+      "bids": 23,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 5,
-      "hourly": true,
+      "fit": 1,
+      "usd": 203,
+      "hourly": false,
       "flags": [],
-      "score": 10
+      "score": 11
     },
     {
       "title": "EOT Crane Manufacturers Data Scrape",
       "url": "https://www.freelancer.com/projects/scrapy/eot-crane-manufacturers-data-scrape",
       "budget_raw": "$2 / hr Average bid",
       "desc": "I need a clean, reliable scrape of every EOT crane manufacturer that appears on Google Maps. For each company, I want the following captured and neatly organised in a spreadsheet: Company name exactly as shown on Google Maps Full postal address Phone number(s) Email address (when publicly available)",
-      "bids": 36,
+      "bids": 35,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
       "usd": 2,
       "hourly": true,
       "flags": [],
-      "score": 9
-    },
-    {
-      "title": "Technology B2C Lead Generation",
-      "url": "https://www.freelancer.com/projects/lead-generation/technology-lead-generation",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I need a steady stream of fresh consumer leads in the technology space. My priority is quality over sheer volume: every contact you deliver must include a valid email address and phone number so my team can launch personalised outreach right away. Your approach is up to you scraping public sources, ",
-      "bids": 32,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 5,
-      "hourly": true,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
       "score": 9
     },
     {
@@ -485,29 +469,31 @@
       "score": 8
     },
     {
+      "title": "Technology B2C Lead Generation",
+      "url": "https://www.freelancer.com/projects/lead-generation/technology-lead-generation",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I need a steady stream of fresh consumer leads in the technology space. My priority is quality over sheer volume: every contact you deliver must include a valid email address and phone number so my team can launch personalised outreach right away. Your approach is up to you scraping public sources, ",
+      "bids": 33,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 5,
+      "hourly": true,
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 8
+    },
+    {
       "title": "Gold Claims Recon Specialist",
       "url": "https://www.freelancer.com/projects/geology/gold-claims-recon-specialist",
-      "budget_raw": "$13100 Average bid",
+      "budget_raw": "$13218 Average bid",
       "desc": "I'm seeking a skilled professional to assist with on-the-ground reconnaissance for gold claims in Alaska. Key Tasks: - Utilize government databases, local geological surveys, and historical mining records to research available claims. - Conduct on-the-ground reconnaissance to gather information on h",
-      "bids": 15,
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 13100,
-      "hourly": false,
-      "flags": [],
-      "score": 7
-    },
-    {
-      "title": "Google Forms Market Survey Data",
-      "url": "https://www.freelancer.com/projects/analytics/google-forms-market-survey-data",
-      "budget_raw": "$345 Average bid",
-      "desc": "I have a batch of market-research responses sitting in Google Forms that need to be transferred into a clean, well-structured dataset. Your job is straightforward: pull the raw answers, weed out duplicates or obvious entry errors, standardize any open-ended text (capitalisation, spelling, date forma",
-      "bids": 40,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 345,
+      "usd": 13218,
       "hourly": false,
       "flags": [],
       "score": 7
@@ -517,7 +503,7 @@
       "url": "https://www.freelancer.com/projects/data-collection/facebook-text-data-collection",
       "budget_raw": "$8 / hr Average bid",
       "desc": "I need a reliable contributor who can gather English-language text from Facebook and package it into a clean, well-structured dataset that can be used for downstream AI/NLP experimentation. The assignment is exclusively text-based; no images, audio, or mixed-media assets are required. Scope of work ",
-      "bids": 9,
+      "bids": 10,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -527,11 +513,25 @@
       "score": 6
     },
     {
+      "title": "Excel Data Formatting & Cleanup",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-formatting-cleanup",
+      "budget_raw": "$10 Average bid",
+      "desc": "I have a series of raw Excel spreadsheets that I use strictly for record keeping, but right now they are messy and hard to read. I need you to step in and turn them into a clean, well-structured workbook. You ll receive the data already in .xlsx format, so your first task is to apply the usual house",
+      "bids": 14,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 10,
+      "hourly": false,
+      "flags": [],
+      "score": 6
+    },
+    {
       "title": "Populate Web Form from Spreadsheets",
       "url": "https://www.freelancer.com/projects/data-management/populate-web-form-from-spreadsheets",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I need every record from my existing structured tables copied accurately into an online form. The tables hold mixed data text fields such as names and comments alongside numerical values like prices and IDs so careful attention to formatting is essential. You will open the spreadsheet, match each co",
-      "bids": 35,
+      "bids": 34,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
@@ -555,18 +555,18 @@
       "score": 5
     },
     {
-      "title": "Automated Word & Excel Data Feed",
-      "url": "https://www.freelancer.com/projects/word/automated-word-excel-data-feed",
-      "budget_raw": "$16 Average bid",
-      "desc": "My information is still being keyed in manually, so I need a simple data-feed or template set that lets me enter the data once and have it flow automatically into the right places inside Word documents and Excel workbooks. If VBA macros, linked tables, form fields, or any other Microsoft-friendly so",
-      "bids": 18,
+      "title": "DOCX/PDF Resume Manipulation Test Suite",
+      "url": "https://www.freelancer.com/projects/c-sharp-programming/docx-pdf-resume-manipulation-test",
+      "budget_raw": "$39 Average bid",
+      "desc": "I want to push our resume-parsing engine to its limits by feeding it deliberately tricky files. I will send you a clean r sum in plain text; your job is to engineer multiple adversarial versions of it both DOCX and PDF right from the start using every document-level sleight of hand you know. Hidden ",
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 16,
+      "fit": 1,
+      "usd": 39,
       "hourly": false,
       "flags": [],
-      "score": 4
+      "score": 3
     }
   ],
   "refused": [
@@ -615,20 +615,8 @@
       "reason": "extragere din rețele sociale — încalcă termenii platformei"
     },
     {
-      "title": "BatchLead-HubSpot Contact Sync",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
-    },
-    {
       "title": "VA for Podcast Lead Generation",
       "reason": "listă masivă de date personale — GDPR și spam"
-    },
-    {
-      "title": "Monday CRM to HubSpot Migration",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
-    },
-    {
-      "title": "50K Verified Email List needed",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
       "title": "Build a Bybit Trading bot",
