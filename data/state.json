@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-15T14:27:27.600Z",
+  "generated_at": "2026-08-15T22:26:33.552Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 75,
+  "events_total": 80,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 10
+      "actions": 11
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 12
+      "actions": 13
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 36
+      "actions": 38
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 17
+      "actions": 18
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-15T22:26:33.494Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1117 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-15T22:25:46.417Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-15T22:25:46.417Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 213 proiecte scanate → 49 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-15T22:25:33.287Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 1 eligibile după citirea regulamentelor (47 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-15T22:24:55.354Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 799 candidați → 0 bounty-uri reale (799 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-15T14:27:27.541Z",
       "type": "action",
@@ -583,77 +633,12 @@
       "desc": "Refuzat Seller Plus Kickstart si orice promovare platita: daca gigul nu prinde organic in 2 saptamani, schimbam gigul, nu platim ca sa compensam.",
       "evidence": null,
       "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T12:50:15.618Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "GIG PUBLICAT pe Fiverr: «I will build a custom web scraper or data extraction script in python». Profil complet, 3 pachete ($25/$60/$120), extra livrare rapida +$20.",
-      "evidence": null,
-      "agent": "utilizator+claude"
-    },
-    {
-      "ts": "2026-08-14T08:34:16.500Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Livrat pachet Fiverr complet: configurare camp-cu-camp cu limite verificate programatic + 3 imagini de gig 1280x769 generate si inspectate vizual",
-      "evidence": null,
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T08:34:16.493Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Cont Fiverr creat de utilizator (Google sign-in)",
-      "evidence": null,
-      "agent": "utilizator"
-    },
-    {
-      "ts": "2026-08-14T08:23:43.819Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Livrat pachet freelance complet: case study public cu date reale, bio de profil, 3 oferte cu preturi si pachete, sabloane de propunere",
-      "evidence": "https://nico43245.github.io/claude-bani/case-study.html",
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T08:23:43.819Z",
-      "type": "decision",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Tipar confirmat pe 4 canale: orice canal FARA frictiune e saturat pe oferta. Valoarea s-a mutat pe platformele cu bariera de intrare (profil, verificare), unde nu pot intra in locul utilizatorului.",
-      "evidence": null,
-      "agent": "claude"
     }
   ],
   "opportunities": {
-    "accepted": 3,
-    "rejected": 848,
+    "accepted": 1,
+    "rejected": 846,
     "top": [
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "All Things Agentic Hackathon",
-        "url": "https://allthingsagentichackathon.devpost.com/",
-        "score": 517,
-        "prize_usd": 180000,
-        "slots": 9,
-        "participants": 3132,
-        "per_slot": 348,
-        "days_left": 16,
-        "objective": false
-      },
       {
         "source": "comp-radar",
         "platform": "drivendata",
@@ -661,34 +646,19 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 284,
+        "score": 279,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 528,
-        "per_slot": 176,
+        "participants": 537,
+        "per_slot": 179,
         "days_left": 32,
-        "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "Africa Deep Tech Challenge 2026",
-        "url": "https://adtc-2026.devpost.com/",
-        "score": 80,
-        "prize_usd": 16500,
-        "slots": 4,
-        "participants": 1649,
-        "per_slot": 412,
-        "days_left": 10,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 366
+        "count": 359
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -696,30 +666,30 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 168
+        "count": 177
       },
       {
         "reason": "prea competitiv",
-        "count": 33
+        "count": 31
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 30
+        "count": 28
       },
       {
         "reason": "fără premiu în bani",
-        "count": 14
+        "count": 15
       },
       {
         "reason": "prea aglomerat",
-        "count": 7
-      },
-      {
-        "reason": "premiu prea mic",
-        "count": 6
+        "count": 8
       },
       {
         "reason": "participare restricționată",
+        "count": 7
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 6
       },
       {
@@ -727,24 +697,24 @@
         "count": 5
       },
       {
-        "reason": "proiect inactiv",
+        "reason": "premiu prea mic",
         "count": 5
+      },
+      {
+        "reason": "proiect inactiv",
+        "count": 4
       },
       {
         "reason": "repo prea nou",
-        "count": 5
-      },
-      {
-        "reason": "regulament necitibil",
-        "count": 5
+        "count": 4
       },
       {
         "reason": "revendicat activ",
         "count": 4
       },
       {
-        "reason": "prea puțin timp de construit",
-        "count": 4
+        "reason": "regulament necitibil",
+        "count": 3
       },
       {
         "reason": "deja adjudecat",

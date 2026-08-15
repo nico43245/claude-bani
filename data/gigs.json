@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T14:26:41.239Z",
-  "scanned": 212,
-  "accepted": 43,
-  "refused_on_ethics": 14,
+  "generated_at": "2026-08-15T22:25:46.416Z",
+  "scanned": 213,
+  "accepted": 49,
+  "refused_on_ethics": 12,
   "jobs": [
     {
       "title": "Simple Microsoft Excel",
@@ -75,18 +75,18 @@
       "score": 175
     },
     {
-      "title": "Daily Power BI Customer Dashboard",
-      "url": "https://www.freelancer.com/projects/power-bi/daily-power-customer-dashboard",
-      "budget_raw": "$227 Average bid",
-      "desc": "I have a set of regularly-updated Excel/CSV files and I need them transformed into a single, interactive Power BI dashboard that spotlights customer sales trends, demographic break-downs, and behavior patterns. Here s the flow I have in mind: the raw files drop into a shared folder each evening, Pow",
-      "bids": 17,
+      "title": "International Market & Industry Research Analysis",
+      "url": "https://www.freelancer.com/projects/business-analysis/international-market-industry-research",
+      "budget_raw": "$39 / hr Average bid",
+      "desc": "Conduct comprehensive market and industry research for an international organization. Collect, organize, and analyze business and market data from reliable sources. Prepare professional research reports, competitor analysis, and industry insights. Develop clear Excel/Google Sheets datasets, charts, ",
+      "bids": 23,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 227,
-      "hourly": false,
+      "usd": 39,
+      "hourly": true,
       "flags": [],
-      "score": 153
+      "score": 155
     },
     {
       "title": "Org Structure & Email Scraping Agent",
@@ -109,28 +109,56 @@
       "url": "https://www.freelancer.com/projects/tableau/finance-data-dashboard-analyst",
       "budget_raw": "$5 / hr Average bid",
       "desc": "I run a finance operation that relies on up-to-the-minute market data. What I need now is a streamlined MIS process that turns those feeds into clear, insightful reports and dashboards. You ll work with market data exclusively, shaping it end-to-end: extracting with SQL, modelling in Excel for quick",
-      "bids": 11,
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
       "usd": 5,
       "hourly": true,
       "flags": [],
-      "score": 136
+      "score": 131
+    },
+    {
+      "title": "Daily Power BI Customer Dashboard",
+      "url": "https://www.freelancer.com/projects/power-bi/daily-power-customer-dashboard",
+      "budget_raw": "$223 Average bid",
+      "desc": "I have a set of regularly-updated Excel/CSV files and I need them transformed into a single, interactive Power BI dashboard that spotlights customer sales trends, demographic break-downs, and behavior patterns. Here s the flow I have in mind: the raw files drop into a shared folder each evening, Pow",
+      "bids": 21,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 223,
+      "hourly": false,
+      "flags": [],
+      "score": 124
     },
     {
       "title": "Sales & Customer Data Dashboards",
       "url": "https://www.freelancer.com/projects/data-analysis/sales-customer-data-dashboards",
       "budget_raw": "$18 / hr Average bid",
       "desc": "I need to turn two raw datasets sales and customer records into a clean, insight-packed dashboard. Start by profiling the data in Excel or SQL, removing duplicates, filling or flagging missing values, and standardising every date, currency and categorical field so the tables can join cleanly. With t",
-      "bids": 16,
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 18,
       "hourly": true,
       "flags": [],
-      "score": 101
+      "score": 88
+    },
+    {
+      "title": "Automated YouTube Ad Viewer",
+      "url": "https://www.freelancer.com/projects/automation/automated-youtube-viewer",
+      "budget_raw": "$10 / hr Average bid",
+      "desc": "I earn revenue from reward programs that credit me each time an advertisement is fully viewed on YouTube. What I need is a dependable solution that can watch roughly 1,000 ads per day on that platform without raising red flags or violating YouTube s policies. Here is what matters to me: Every view m",
+      "bids": 5,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 10,
+      "hourly": true,
+      "flags": [],
+      "score": 82
     },
     {
       "title": "Manual Data Entry to Web Form",
@@ -165,28 +193,28 @@
       "url": "https://www.freelancer.com/projects/data-analysis/customer-trends-power-dashboard",
       "budget_raw": "$9 / hr Average bid",
       "desc": "Build a single Power BI dashboard that pulls data live from my Excel workbooks and our SQL database, then turns that information into clear insights about customer demographics and customer satisfaction. The data model should merge both sources seamlessly, handle refresh schedules, and expose relati",
-      "bids": 11,
+      "bids": 13,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 61
+      "score": 57
     },
     {
       "title": "Excel Text Formatting Cleanup",
       "url": "https://www.freelancer.com/projects/data-cleansing/excel-text-formatting-cleanup",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have an Excel workbook that s become messy over time and now needs a thorough text-format refresh. I need every cell that holds text to read consistently no random capitalization, no stray spaces, no columns that shift out of alignment when the file is filtered or sorted. Here s what I expect from",
-      "bids": 12,
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 59
+      "score": 42
     },
     {
       "title": "Excel Data Cleanup & Organization",
@@ -203,18 +231,18 @@
       "score": 40
     },
     {
-      "title": "Numerical CSV Import to Excel",
-      "url": "https://www.freelancer.com/projects/data-entry/numerical-csv-import-excel",
-      "budget_raw": "$6 / hr Average bid",
-      "desc": "I have a set of CSV files that hold purely numerical fields, and I need every value placed into a clean Excel workbook with the formatting still recognised as numbers. No extra calculations or text parsing just an accurate, reliable transfer. A reusable method is important. If a concise VBA macro, P",
-      "bids": 17,
+      "title": "AI OTT TV Show Generator",
+      "url": "https://www.freelancer.com/projects/ai-video-editing/ott-show-generator",
+      "budget_raw": "$57 Average bid",
+      "desc": "I want to build (or license) an AI-driven workflow that can turn written concepts into finished, ready-to-stream TV-show style videos for my OTT platform. The core need is a system that can: Accept a short brief or script and automatically create full-length episodic video content visuals, voice-ove",
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 6,
-      "hourly": true,
+      "usd": 57,
+      "hourly": false,
       "flags": [],
-      "score": 32
+      "score": 37
     },
     {
       "title": "Excel Text Format Cleanup",
@@ -245,20 +273,6 @@
       "score": 30
     },
     {
-      "title": "Excel Sheet Build",
-      "url": "https://www.freelancer.com/projects/data-management/excel-sheet-build",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I need an Excel workbook set up for straightforward data analysis. The core of the job is to structure my raw data clearly, apply the right formulas where useful, and summarise everything with well-designed pivot tables so I can slice the information fast without extra clicks. Once I send the datase",
-      "bids": 10,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 28
-    },
-    {
       "title": "Replicate PDF Layout in Excel",
       "url": "https://www.freelancer.com/projects/data-entry/replicate-pdf-layout-excel",
       "budget_raw": "$177 Average bid",
@@ -273,18 +287,46 @@
       "score": 28
     },
     {
+      "title": "Numerical CSV Import to Excel",
+      "url": "https://www.freelancer.com/projects/data-entry/numerical-csv-import-excel",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I have a set of CSV files that hold purely numerical fields, and I need every value placed into a clean Excel workbook with the formatting still recognised as numbers. No extra calculations or text parsing just an accurate, reliable transfer. A reusable method is important. If a concise VBA macro, P",
+      "bids": 18,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 26
+    },
+    {
+      "title": "Excel Sheet Build",
+      "url": "https://www.freelancer.com/projects/data-management/excel-sheet-build",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I need an Excel workbook set up for straightforward data analysis. The core of the job is to structure my raw data clearly, apply the right formulas where useful, and summarise everything with well-designed pivot tables so I can slice the information fast without extra clicks. Once I send the datase",
+      "bids": 12,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 26
+    },
+    {
       "title": "Freelance Retail Finance Manager Needed",
       "url": "https://www.freelancer.com/projects/financial-analysis/freelance-retail-finance-manager-needed",
-      "budget_raw": "$216 Average bid",
+      "budget_raw": "$231 Average bid",
       "desc": "I m looking for a seasoned Finance & Accounting professional who can step in right away on a part-time, freelance basis and keep our retail books in top shape. The immediate focus is threefold: deliver clear, timely financial reports, build rolling budgets and sales-driven forecasts, and prepare our",
-      "bids": 4,
+      "bids": 5,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 216,
+      "usd": 231,
       "hourly": false,
       "flags": [],
-      "score": 25
+      "score": 26
     },
     {
       "title": "Categorize 10k FMCG Products",
@@ -303,16 +345,16 @@
     {
       "title": "Descriptive Database Data Analysis - 14/08/2026 15:33 EDT",
       "url": "https://www.freelancer.com/projects/big-data-sales/descriptive-database-data-analysis-edt",
-      "budget_raw": "$33 / hr Average bid",
+      "budget_raw": "$32 / hr Average bid",
       "desc": "I need a concise descriptive analysis of the data currently stored in my relational database. The tables are already structured and populated; what I lack is a clear, statistics-driven snapshot that highlights key totals, averages, distributions, and any obvious trends or anomalies. You ll connect d",
-      "bids": 38,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 33,
+      "usd": 32,
       "hourly": true,
       "flags": [],
-      "score": 21
+      "score": 20
     },
     {
       "title": "Podcast Transcripts with Timestamped Entries",
@@ -343,20 +385,6 @@
       "score": 19
     },
     {
-      "title": "Statistical Analysis of Research Data",
-      "url": "https://www.freelancer.com/projects/data-analysis/statistical-analysis-research-data",
-      "budget_raw": "$70 Average bid",
-      "desc": "I need a comprehensive statistical analysis report for my research project data using Excel. The data is observational in nature and is currently organized in an Excel spreadsheet. Requirements: - Descriptive statistics - Cox regression hazard model Ideal Skills and Experience: - Expertise in statis",
-      "bids": 31,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 70,
-      "hourly": false,
-      "flags": [],
-      "score": 18
-    },
-    {
       "title": "Excel 365 Cell Color Issue",
       "url": "https://www.freelancer.com/projects/data-entry/excel-cell-color-issue-38666479",
       "budget_raw": "$157 Average bid",
@@ -369,6 +397,34 @@
       "hourly": false,
       "flags": [],
       "score": 18
+    },
+    {
+      "title": "Statistical Analysis of Research Data",
+      "url": "https://www.freelancer.com/projects/data-analysis/statistical-analysis-research-data",
+      "budget_raw": "$71 Average bid",
+      "desc": "I need a comprehensive statistical analysis report for my research project data using Excel. The data is observational in nature and is currently organized in an Excel spreadsheet. Requirements: - Descriptive statistics - Cox regression hazard model Ideal Skills and Experience: - Expertise in statis",
+      "bids": 32,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 71,
+      "hourly": false,
+      "flags": [],
+      "score": 17
+    },
+    {
+      "title": "Excel Reports Specialist",
+      "url": "https://www.freelancer.com/projects/excel/excel-reports-specialist",
+      "budget_raw": "$3 / hr Average bid",
+      "desc": "I'm seeking an Excel expert to help me create comprehensive reports. Key Requirements: - Proficiency in Excel, especially in report generation. - Experience with financial, sales, or inventory reports. - Skills in charts, pivot tables, and conditional formatting. Ideal Skills and Experience: - Advan",
+      "bids": 11,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 3,
+      "hourly": true,
+      "flags": [],
+      "score": 16
     },
     {
       "title": "Amazon & Flipkart Medical Listings",
@@ -387,65 +443,51 @@
     {
       "title": "Real-Time Call-Center Voice Changer",
       "url": "https://www.freelancer.com/projects/asterisk-pbx/real-time-call-center-voice",
-      "budget_raw": "$285 Average bid",
+      "budget_raw": "$283 Average bid",
       "desc": "I need a production-ready, real-time voice-changing application for my call-center environment. Agents must be able to switch among six high-quality U.S.-accented voices three male and three female without audible lag while they are on live VoIP calls. Clean, natural-sounding tone modulation is esse",
-      "bids": 24,
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 285,
+      "usd": 283,
       "hourly": false,
       "flags": [],
-      "score": 15
+      "score": 12
     },
     {
       "title": "Micro task specialist",
       "url": "https://www.freelancer.com/projects/data-processing/micro-task-specialist-40648806",
       "budget_raw": "$18 / hr Average bid",
       "desc": "Job Title: Micro Task Specialist Overview: Are you a detail-oriented individual with a knack for tackling micro tasks efficiently? We are seeking a skilled Micro Task Specialist to join our dynamic team. As a Micro Task Specialist, you will be at the forefront of optimizing processes, ensuring accur",
-      "bids": 13,
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
       "usd": 18,
       "hourly": true,
       "flags": [],
-      "score": 13
+      "score": 11
     },
     {
       "title": "Power BI Sales Insights Dashboard",
       "url": "https://www.freelancer.com/projects/power-bi/power-sales-insights-dashboard-40648821",
-      "budget_raw": "$526 Average bid",
+      "budget_raw": "$522 Average bid",
       "desc": "I need a clean, interactive dashboard in Power BI that turns my raw sales data into clear, actionable insights. The core dataset is our historical sales (product, region, channel, time-series), and I want the visuals to spotlight trends, seasonality, and any anomalies so my team can make decisions q",
-      "bids": 31,
+      "bids": 32,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 526,
+      "usd": 522,
       "hourly": false,
       "flags": [],
-      "score": 12
-    },
-    {
-      "title": "Excel Reports Specialist",
-      "url": "https://www.freelancer.com/projects/excel/excel-reports-specialist",
-      "budget_raw": "$2 / hr Average bid",
-      "desc": "I'm seeking an Excel expert to help me create comprehensive reports. Key Requirements: - Proficiency in Excel, especially in report generation. - Experience with financial, sales, or inventory reports. - Skills in charts, pivot tables, and conditional formatting. Ideal Skills and Experience: - Advan",
-      "bids": 10,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 2,
-      "hourly": true,
-      "flags": [],
-      "score": 11
+      "score": 10
     },
     {
       "title": "EOT Crane Manufacturers Data Scrape",
       "url": "https://www.freelancer.com/projects/scrapy/eot-crane-manufacturers-data-scrape",
       "budget_raw": "$2 / hr Average bid",
       "desc": "I need a clean, reliable scrape of every EOT crane manufacturer that appears on Google Maps. For each company, I want the following captured and neatly organised in a spreadsheet: Company name exactly as shown on Google Maps Full postal address Phone number(s) Email address (when publicly available)",
-      "bids": 35,
+      "bids": 37,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
@@ -473,7 +515,7 @@
       "url": "https://www.freelancer.com/projects/lead-generation/technology-lead-generation",
       "budget_raw": "$5 / hr Average bid",
       "desc": "I need a steady stream of fresh consumer leads in the technology space. My priority is quality over sheer volume: every contact you deliver must include a valid email address and phone number so my team can launch personalised outreach right away. Your approach is up to you scraping public sources, ",
-      "bids": 33,
+      "bids": 34,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -482,7 +524,7 @@
       "flags": [
         "date personale — verifică GDPR și sursa"
       ],
-      "score": 8
+      "score": 7
     },
     {
       "title": "Gold Claims Recon Specialist",
@@ -503,7 +545,7 @@
       "url": "https://www.freelancer.com/projects/data-collection/facebook-text-data-collection",
       "budget_raw": "$8 / hr Average bid",
       "desc": "I need a reliable contributor who can gather English-language text from Facebook and package it into a clean, well-structured dataset that can be used for downstream AI/NLP experimentation. The assignment is exclusively text-based; no images, audio, or mixed-media assets are required. Scope of work ",
-      "bids": 11,
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -513,60 +555,18 @@
       "score": 6
     },
     {
-      "title": "Excel Data Formatting & Cleanup",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-formatting-cleanup",
-      "budget_raw": "$10 Average bid",
-      "desc": "I have a series of raw Excel spreadsheets that I use strictly for record keeping, but right now they are messy and hard to read. I need you to step in and turn them into a clean, well-structured workbook. You ll receive the data already in .xlsx format, so your first task is to apply the usual house",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 10,
-      "hourly": false,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Intraday Nifty Trend Algo",
-      "url": "https://www.freelancer.com/projects/backtesting/intraday-nifty-trend-algo",
-      "budget_raw": "$246 Average bid",
-      "desc": "I need a complete, ready-to-deploy algorithm that trades Nifty and Bank Nifty on an intraday basis using a pure trend-following logic. The core of the job is to translate the strategy into clean, well-commented code, run solid back-tests, and hand over something I can plug straight into my trading s",
-      "bids": 38,
+      "title": "Handwritten Notes into Formatted PDF",
+      "url": "https://www.freelancer.com/projects/word-processing/handwritten-notes-into-formatted-pdf",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a set of handwritten notes that I need turned into a clean, professional-looking PDF. Every word must be faithfully transcribed, but the document also has to follow a clear structure: use headings and subheadings where my margins or underlines indicate new sections, and convert my sketched ta",
+      "bids": 13,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 246,
-      "hourly": false,
-      "flags": [],
-      "score": 5
-    },
-    {
-      "title": "Compile History Lecture Notes",
-      "url": "https://www.freelancer.com/projects/transcription/compile-history-lecture-notes",
-      "budget_raw": "$6 / hr Average bid",
-      "desc": "I have a collection of handwritten history lectures that I need turned into a clean, easy-to-follow digital document. You will receive clear scans of each page; your job is to transcribe everything accurately and organise the content into numbered lists, keeping the logical flow of the lectures inta",
-      "bids": 10,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 6,
+      "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 5
-    },
-    {
-      "title": "DOCX/PDF Resume Manipulation Test Suite",
-      "url": "https://www.freelancer.com/projects/c-sharp-programming/docx-pdf-resume-manipulation-test",
-      "budget_raw": "$38 Average bid",
-      "desc": "I want to push our resume-parsing engine to its limits by feeding it deliberately tricky files. I will send you a clean r sum in plain text; your job is to engineer multiple adversarial versions of it both DOCX and PDF right from the start using every document-level sleight of hand you know. Hidden ",
-      "bids": 22,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 38,
-      "hourly": false,
-      "flags": [],
-      "score": 2
+      "score": 6
     }
   ],
   "refused": [
@@ -607,20 +607,12 @@
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
-      "title": "Verified Yahoo Business Emails List",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
-    },
-    {
       "title": "Facebook Leads to Odoo Integration",
       "reason": "extragere din rețele sociale — încalcă termenii platformei"
     },
     {
       "title": "500K U.S. Finance Contacts",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
-    },
-    {
-      "title": "VA for Podcast Lead Generation",
-      "reason": "listă masivă de date personale — GDPR și spam"
     },
     {
       "title": "Build a Bybit Trading bot",

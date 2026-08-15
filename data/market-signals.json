@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-15T14:27:27.540Z",
+  "generated_at": "2026-08-15T22:26:33.491Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1118,
+    "signals_total": 1117,
     "themes": [
       {
         "theme": "app",
@@ -94,9 +94,14 @@
       },
       {
         "theme": "hours",
-        "mentions": 81,
+        "mentions": 82,
         "engagement": 11,
         "evidence": [
+          {
+            "text": "I spent hours pouring over their tables previously and it's still somewhat random depending on your capacity, batch and such... Like, I recall seeing how HGST f",
+            "url": "https://news.ycombinator.com/item?id=49313590",
+            "date": "2026-08-15"
+          },
           {
             "text": "I would pay a premium for it. The direct flight is still better than being interrupted halfway through your \"night\", and then having to trudge through a huge tr",
             "url": "https://news.ycombinator.com/item?id=49096308",
@@ -111,42 +116,9 @@
             "text": "I'm working on some serious data analysis + realtime async code, and I use 200-400 million tokens a day with Claude Code alone (via ccusage). The complexity of ",
             "url": "https://news.ycombinator.com/item?id=47977651",
             "date": "2026-05-01"
-          },
-          {
-            "text": ">Built this in about 3 hours Why did you include this? No developer is going to read that and think \"I bet this is polished and well thought-out - take my money",
-            "url": "https://news.ycombinator.com/item?id=46690321",
-            "date": "2026-01-20"
           }
         ],
-        "score": 89
-      },
-      {
-        "theme": "life",
-        "mentions": 21,
-        "engagement": 356,
-        "evidence": [
-          {
-            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
-            "url": "https://news.ycombinator.com/item?id=48347725",
-            "date": "2026-05-31"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "^ this. the last thing i want is to add to my workload. take my money and make my life easier, even if it means that for one hour every couple months i can't do",
-            "url": "https://news.ycombinator.com/item?id=46636409",
-            "date": "2026-01-15"
-          },
-          {
-            "text": "> Cheetahs experienced diverse catastrophes (see what I did there?) Almost stopped reading after that one (I groaned, it's still to early!) but feel that's when",
-            "url": "https://news.ycombinator.com/item?id=48960185",
-            "date": "2026-07-18"
-          }
-        ],
-        "score": 89
+        "score": 90
       },
       {
         "theme": "spend",
@@ -205,60 +177,32 @@
         "score": 86
       },
       {
-        "theme": "apps",
-        "mentions": 26,
-        "engagement": 194,
+        "theme": "life",
+        "mentions": 20,
+        "engagement": 356,
         "evidence": [
           {
-            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
-            "url": "https://news.ycombinator.com/item?id=48578995",
-            "date": "2026-06-18"
+            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
+            "url": "https://news.ycombinator.com/item?id=48347725",
+            "date": "2026-05-31"
           },
           {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
           },
           {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
+            "text": "^ this. the last thing i want is to add to my workload. take my money and make my life easier, even if it means that for one hour every couple months i can't do",
+            "url": "https://news.ycombinator.com/item?id=46636409",
+            "date": "2026-01-15"
           },
           {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
+            "text": "> Cheetahs experienced diverse catastrophes (see what I did there?) Almost stopped reading after that one (I groaned, it's still to early!) but feel that's when",
+            "url": "https://news.ycombinator.com/item?id=48960185",
+            "date": "2026-07-18"
           }
         ],
-        "score": 84
-      },
-      {
-        "theme": "code",
-        "mentions": 58,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
-            "url": "https://news.ycombinator.com/item?id=48522853",
-            "date": "2026-06-14"
-          },
-          {
-            "text": "I really wish there were better options to PMPP... It's by far the most up-to-date book, but I totally agree the writing is sort of bad and some of the code exa",
-            "url": "https://news.ycombinator.com/item?id=48173658",
-            "date": "2026-05-17"
-          }
-        ],
-        "score": 83
+        "score": 86
       },
       {
         "theme": "built",
@@ -287,6 +231,62 @@
           }
         ],
         "score": 81
+      },
+      {
+        "theme": "code",
+        "mentions": 56,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
+            "url": "https://news.ycombinator.com/item?id=48522853",
+            "date": "2026-06-14"
+          },
+          {
+            "text": "I really wish there were better options to PMPP... It's by far the most up-to-date book, but I totally agree the writing is sort of bad and some of the code exa",
+            "url": "https://news.ycombinator.com/item?id=48173658",
+            "date": "2026-05-17"
+          }
+        ],
+        "score": 81
+      },
+      {
+        "theme": "apps",
+        "mentions": 24,
+        "engagement": 194,
+        "evidence": [
+          {
+            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
+            "url": "https://news.ycombinator.com/item?id=48578995",
+            "date": "2026-06-18"
+          },
+          {
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
+          },
+          {
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
+          },
+          {
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
+          }
+        ],
+        "score": 80
       },
       {
         "theme": "it.",
@@ -681,6 +681,34 @@
         "score": 55
       },
       {
+        "theme": "launch",
+        "mentions": 8,
+        "engagement": 799,
+        "evidence": [
+          {
+            "text": "> launch costs alone make it infeasible Last time I did the math, launch costs were well balanced against permitting delays (mediated by interest rates). The br",
+            "url": "https://news.ycombinator.com/item?id=48428964",
+            "date": "2026-06-06"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+            "url": "https://news.ycombinator.com/item?id=44891090",
+            "date": "2025-08-13"
+          },
+          {
+            "text": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+            "url": "https://news.ycombinator.com/item?id=47794514",
+            "date": "2026-04-16"
+          }
+        ],
+        "score": 53
+      },
+      {
         "theme": "without",
         "mentions": 46,
         "engagement": 9,
@@ -816,34 +844,6 @@
             "text": "Reminder the only benchmark that really matters is the one that measures the ability for the model to do real world tasks that someone would pay for on Upwork t",
             "url": "https://news.ycombinator.com/item?id=48313769",
             "date": "2026-05-28"
-          }
-        ],
-        "score": 49
-      },
-      {
-        "theme": "research",
-        "mentions": 11,
-        "engagement": 219,
-        "evidence": [
-          {
-            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
-            "url": "https://news.ycombinator.com/item?id=48824680",
-            "date": "2026-07-07"
-          },
-          {
-            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
-            "url": "https://news.ycombinator.com/item?id=49048747",
-            "date": "2026-07-25"
-          },
-          {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
-          },
-          {
-            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
-            "url": "https://news.ycombinator.com/item?id=46567113",
-            "date": "2026-01-10"
           }
         ],
         "score": 49
