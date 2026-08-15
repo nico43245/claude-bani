@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-15T06:43:39.122Z",
+  "generated_at": "2026-08-15T14:27:27.600Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 70,
+  "events_total": 75,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 9
+      "actions": 10
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 11
+      "actions": 12
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 34
+      "actions": 36
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 16
+      "actions": 17
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-15T14:27:27.541Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1118 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-15T14:26:41.239Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-15T14:26:41.239Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 212 proiecte scanate → 43 potrivite, 14 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-15T14:26:27.941Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 3 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-15T14:25:46.570Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 803 candidați → 0 bounty-uri reale (803 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-15T06:43:39.066Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Tipar confirmat pe 4 canale: orice canal FARA frictiune e saturat pe oferta. Valoarea s-a mutat pe platformele cu bariera de intrare (profil, verificare), unde nu pot intra in locul utilizatorului.",
       "evidence": null,
       "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T08:23:43.808Z",
-      "type": "dead_end",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Canal HN «Seeking freelancer» eliminat: 1 client la 80 de freelanceri pe 4 luni consecutive",
-      "evidence": null,
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T08:17:59.066Z",
-      "type": "decision",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Metrica proprie de oferta invalidata prin test de control: interogare foarte ingusta da tot «1.000+ produse». Numarul de produse Etsy nu discrimineaza si nu se foloseste.",
-      "evidence": null,
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T08:17:59.066Z",
-      "type": "dead_end",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Nisa «budget spreadsheet» respinsa: semnal de cerere maxim = saturatie maxima. Un magazin nou fara recenzii aterizeaza sub 26 de anunturi platite si 15 Star Sellers.",
-      "evidence": null,
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T08:17:59.065Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Analiza concurentei: Gumroad 33/36 produse sub 5 recenzii; Etsy 1000+ produse si ~24 reclame platite pe orice interogare, oricat de ingusta",
-      "evidence": null,
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T08:16:16.885Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Găsitor de goluri: 154 combinații sondate, 104 cu cerere reală, top 20 pe lista scurtă",
-      "evidence": null,
-      "agent": "niche-gaps"
     }
   ],
   "opportunities": {
     "accepted": 3,
-    "rejected": 846,
+    "rejected": 848,
     "top": [
       {
         "source": "comp-radar",
@@ -646,12 +646,12 @@
         "reason": null,
         "title": "All Things Agentic Hackathon",
         "url": "https://allthingsagentichackathon.devpost.com/",
-        "score": 542,
+        "score": 517,
         "prize_usd": 180000,
         "slots": 9,
-        "participants": 2989,
-        "per_slot": 332,
-        "days_left": 17,
+        "participants": 3132,
+        "per_slot": 348,
+        "days_left": 16,
         "objective": false
       },
       {
@@ -661,12 +661,12 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 286,
+        "score": 284,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 525,
-        "per_slot": 175,
-        "days_left": 33,
+        "participants": 528,
+        "per_slot": 176,
+        "days_left": 32,
         "objective": true
       },
       {
@@ -679,8 +679,8 @@
         "score": 80,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1641,
-        "per_slot": 410,
+        "participants": 1649,
+        "per_slot": 412,
         "days_left": 10,
         "objective": true
       }
@@ -688,7 +688,7 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 368
+        "count": 366
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -696,15 +696,15 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 167
+        "count": 168
       },
       {
         "reason": "prea competitiv",
-        "count": 32
+        "count": 33
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 29
+        "count": 30
       },
       {
         "reason": "fără premiu în bani",
@@ -723,6 +723,10 @@
         "count": 6
       },
       {
+        "reason": "fork (task sintetic de benchmark)",
+        "count": 5
+      },
+      {
         "reason": "proiect inactiv",
         "count": 5
       },
@@ -731,19 +735,15 @@
         "count": 5
       },
       {
-        "reason": "prea puțin timp de construit",
+        "reason": "regulament necitibil",
         "count": 5
-      },
-      {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 4
       },
       {
         "reason": "revendicat activ",
         "count": 4
       },
       {
-        "reason": "regulament necitibil",
+        "reason": "prea puțin timp de construit",
         "count": 4
       },
       {

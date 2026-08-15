@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:43:39.065Z",
+  "generated_at": "2026-08-15T14:27:27.540Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 34,
+        "mentions": 35,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 121
+        "score": 123
       },
       {
         "theme": "wish",
@@ -317,6 +317,34 @@
         "score": 73
       },
       {
+        "theme": "them",
+        "mentions": 73,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
+            "url": "https://news.ycombinator.com/item?id=49206893",
+            "date": "2026-08-07"
+          },
+          {
+            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
+            "url": "https://news.ycombinator.com/item?id=49134029",
+            "date": "2026-08-01"
+          },
+          {
+            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
+            "url": "https://news.ycombinator.com/item?id=49068074",
+            "date": "2026-07-27"
+          }
+        ],
+        "score": 73
+      },
+      {
         "theme": "language",
         "mentions": 17,
         "engagement": 290,
@@ -343,34 +371,6 @@
           }
         ],
         "score": 72
-      },
-      {
-        "theme": "them",
-        "mentions": 71,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
-            "url": "https://news.ycombinator.com/item?id=49206893",
-            "date": "2026-08-07"
-          },
-          {
-            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
-            "url": "https://news.ycombinator.com/item?id=49134029",
-            "date": "2026-08-01"
-          },
-          {
-            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
-            "url": "https://news.ycombinator.com/item?id=49068074",
-            "date": "2026-07-27"
-          }
-        ],
-        "score": 71
       },
       {
         "theme": "open-source",
@@ -486,7 +486,7 @@
       },
       {
         "theme": "videos",
-        "mentions": 16,
+        "mentions": 17,
         "engagement": 233,
         "evidence": [
           {
@@ -510,7 +510,7 @@
             "date": "2026-05-13"
           }
         ],
-        "score": 65
+        "score": 68
       },
       {
         "theme": "search",
@@ -1058,20 +1058,6 @@
         "score": 626
       },
       {
-        "subject": "reddit",
-        "queries": 16,
-        "seed_spread": 8,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "excel template for budget",
-          "google sheets template for budget",
-          "google sheets template for travel itinerary"
-        ],
-        "score": 459
-      },
-      {
         "subject": "planner",
         "queries": 25,
         "seed_spread": 5,
@@ -1112,6 +1098,20 @@
           "google sheets template for travel itinerary"
         ],
         "score": 391
+      },
+      {
+        "subject": "reddit",
+        "queries": 15,
+        "seed_spread": 7,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for travel itinerary"
+        ],
+        "score": 376
       },
       {
         "subject": "sheets",
@@ -1184,6 +1184,20 @@
         "score": 191
       },
       {
+        "subject": "printable",
+        "queries": 12,
+        "seed_spread": 4,
+        "avg_branches": 9.6,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 170
+      },
+      {
         "subject": "download",
         "queries": 9,
         "seed_spread": 5,
@@ -1196,20 +1210,6 @@
           "habit tracker template for google sheets"
         ],
         "score": 159
-      },
-      {
-        "subject": "printable",
-        "queries": 11,
-        "seed_spread": 4,
-        "avg_branches": 9.5,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for adhd",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for 2025"
-        ],
-        "score": 155
       },
       {
         "subject": "app",
@@ -1408,6 +1408,20 @@
         "score": 88
       },
       {
+        "subject": "college",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for students",
+          "notion template for school",
+          "google sheets template for college application",
+          "checklist for college dorm"
+        ],
+        "score": 86
+      },
+      {
         "subject": "simple",
         "queries": 6,
         "seed_spread": 4,
@@ -1436,18 +1450,18 @@
         "score": 85
       },
       {
-        "subject": "kids",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
+        "subject": "list",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 9,
         "examples": [
-          "printable planner for adhd",
-          "printable planner for kids",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
+          "excel template for inventory",
+          "google sheets template for wedding guest list",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for college dorm"
         ],
-        "score": 75
+        "score": 83
       },
       {
         "subject": "application",
@@ -1478,20 +1492,6 @@
         "score": 71
       },
       {
-        "subject": "list",
-        "queries": 5,
-        "seed_spread": 4,
-        "avg_branches": 8.8,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for wedding guest list",
-          "google sheets template for college application",
-          "printable planner for the week",
-          "checklist for moving out of state"
-        ],
-        "score": 69
-      },
-      {
         "subject": "expense",
         "queries": 6,
         "seed_spread": 3,
@@ -1506,18 +1506,18 @@
         "score": 65
       },
       {
-        "subject": "college",
-        "queries": 5,
+        "subject": "kids",
+        "queries": 6,
         "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "notion template for college students",
-          "notion template for students",
-          "notion template for school",
-          "google sheets template for college application",
-          "budget template for college student"
+          "printable planner for adhd",
+          "printable planner for kids",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
-        "score": 54
+        "score": 65
       },
       {
         "subject": "schedule",
