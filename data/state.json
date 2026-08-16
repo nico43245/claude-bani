@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-15T22:26:33.552Z",
+  "generated_at": "2026-08-16T06:45:14.675Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 80,
+  "events_total": 85,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 11
+      "actions": 12
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 13
+      "actions": 14
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 38
+      "actions": 40
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 18
+      "actions": 19
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-16T06:45:14.616Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1117 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-16T06:44:28.208Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 1077,
+      "status": null,
+      "desc": "Cel mai bun job: Stock Market Scanner in Python",
+      "evidence": "https://www.freelancer.com/projects/cuda/stock-market-scanner-python",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-16T06:44:28.207Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 206 proiecte scanate → 43 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-16T06:44:14.051Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 3 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-16T06:43:33.150Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 792 candidați → 0 bounty-uri reale (792 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-15T22:26:33.494Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Radar joburi: 213 proiecte scanate → 96 potrivite, 6 refuzate pe motive etice",
       "evidence": null,
       "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T12:59:43.847Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 250,
-      "status": null,
-      "desc": "Cel mai bun job: Move 4 Python Services to GitHub",
-      "evidence": "https://www.guru.com/jobs/move-4-python-services-to-github/2120189&SearchUrl=search.aspx?",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T12:59:43.846Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 31 proiecte scanate → 1 potrivite, 1 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T12:53:39.105Z",
-      "type": "decision",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Phishing confirmat prin WHOIS: domeniu creat 2026-08-07 (7 zile vechime), inregistrat 1 an, registrar Dominet HK, ascuns dupa Cloudflare. Link NEDESCHIS. Raportat si ignorat. Regula stabilita: nicio comanda nu e reala daca nu apare in Orders; niciun link extern nu se deschide.",
-      "evidence": null,
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T12:53:39.098Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Prima activitate pe gig la cateva ore de la publicare: tentativa de phishing de la «rossk9928», cu link extern catre vaskasystems.com si pretentia falsa ca a plasat o comanda",
-      "evidence": null,
-      "agent": "utilizator"
-    },
-    {
-      "ts": "2026-08-14T12:50:15.627Z",
-      "type": "decision",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Refuzat Seller Plus Kickstart si orice promovare platita: daca gigul nu prinde organic in 2 saptamani, schimbam gigul, nu platim ca sa compensam.",
-      "evidence": null,
-      "agent": "claude"
     }
   ],
   "opportunities": {
-    "accepted": 1,
-    "rejected": 846,
+    "accepted": 3,
+    "rejected": 837,
     "top": [
       {
         "source": "comp-radar",
@@ -646,19 +646,49 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 279,
+        "score": 278,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 537,
-        "per_slot": 179,
+        "participants": 540,
+        "per_slot": 180,
         "days_left": 32,
+        "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "VoltHacks",
+        "url": "https://volthacks.devpost.com/",
+        "score": 104,
+        "prize_usd": 32785,
+        "slots": 5,
+        "participants": 1578,
+        "per_slot": 316,
+        "days_left": 21,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "Africa Deep Tech Challenge 2026",
+        "url": "https://adtc-2026.devpost.com/",
+        "score": 80,
+        "prize_usd": 16500,
+        "slots": 4,
+        "participants": 1656,
+        "per_slot": 414,
+        "days_left": 9,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 359
+        "count": 357
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -666,38 +696,42 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 177
+        "count": 175
       },
       {
         "reason": "prea competitiv",
-        "count": 31
+        "count": 32
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 28
+        "count": 24
       },
       {
         "reason": "fără premiu în bani",
-        "count": 15
-      },
-      {
-        "reason": "prea aglomerat",
-        "count": 8
-      },
-      {
-        "reason": "participare restricționată",
-        "count": 7
+        "count": 14
       },
       {
         "reason": "prea puțin timp de construit",
-        "count": 6
+        "count": 8
       },
       {
         "reason": "fork (task sintetic de benchmark)",
         "count": 5
       },
       {
+        "reason": "prea aglomerat",
+        "count": 5
+      },
+      {
         "reason": "premiu prea mic",
+        "count": 5
+      },
+      {
+        "reason": "participare restricționată",
+        "count": 5
+      },
+      {
+        "reason": "regulament necitibil",
         "count": 5
       },
       {
@@ -711,10 +745,6 @@
       {
         "reason": "revendicat activ",
         "count": 4
-      },
-      {
-        "reason": "regulament necitibil",
-        "count": 3
       },
       {
         "reason": "deja adjudecat",
