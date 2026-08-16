@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-16T14:27:35.360Z",
+  "generated_at": "2026-08-16T22:25:25.872Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1119,
+    "signals_total": 1118,
     "themes": [
       {
         "theme": "app",
-        "mentions": 35,
+        "mentions": 34,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 123
+        "score": 121
       },
       {
         "theme": "wish",
@@ -205,34 +205,6 @@
         "score": 86
       },
       {
-        "theme": "apps",
-        "mentions": 25,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
-            "url": "https://news.ycombinator.com/item?id=48578995",
-            "date": "2026-06-18"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          }
-        ],
-        "score": 82
-      },
-      {
         "theme": "built",
         "mentions": 27,
         "engagement": 164,
@@ -289,8 +261,64 @@
         "score": 81
       },
       {
+        "theme": "apps",
+        "mentions": 24,
+        "engagement": 194,
+        "evidence": [
+          {
+            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
+            "url": "https://news.ycombinator.com/item?id=48578995",
+            "date": "2026-06-18"
+          },
+          {
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
+          },
+          {
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
+          },
+          {
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
+          }
+        ],
+        "score": 80
+      },
+      {
+        "theme": "it.",
+        "mentions": 61,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Agree. I would pay for it.",
+            "url": "https://news.ycombinator.com/item?id=49030807",
+            "date": "2026-07-24"
+          }
+        ],
+        "score": 73
+      },
+      {
         "theme": "them",
-        "mentions": 74,
+        "mentions": 73,
         "engagement": 0,
         "evidence": [
           {
@@ -312,34 +340,6 @@
             "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
             "url": "https://news.ycombinator.com/item?id=49068074",
             "date": "2026-07-27"
-          }
-        ],
-        "score": 74
-      },
-      {
-        "theme": "it.",
-        "mentions": 61,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Agree. I would pay for it.",
-            "url": "https://news.ycombinator.com/item?id=49030807",
-            "date": "2026-07-24"
-          },
-          {
-            "text": "If anyone knows of a broker who will let you withdraw the proceeds (cash) of a short sale, I will buy the name of the broker off you. I'll also let you know why",
-            "url": "https://news.ycombinator.com/item?id=48951275",
-            "date": "2026-07-17"
           }
         ],
         "score": 73
@@ -514,7 +514,7 @@
       },
       {
         "theme": "search",
-        "mentions": 19,
+        "mentions": 20,
         "engagement": 155,
         "evidence": [
           {
@@ -538,7 +538,7 @@
             "date": "2026-05-28"
           }
         ],
-        "score": 64
+        "score": 66
       },
       {
         "theme": "system",
@@ -625,6 +625,34 @@
         "score": 59
       },
       {
+        "theme": "without",
+        "mentions": 50,
+        "engagement": 9,
+        "evidence": [
+          {
+            "text": "Show HN: Remove your data from 100 platforms without signing up",
+            "url": "https://news.ycombinator.com/item?id=46453387",
+            "date": "2026-01-01"
+          },
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          },
+          {
+            "text": "Cars and airplanes were probably the tech stocks before the transistor. But don’t sell pharmaceutical stocks short as the correct stock at the start of a hot dr",
+            "url": "https://news.ycombinator.com/item?id=48755000",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "very interesting thought experiment here. I wonder how much it would take in a monthly subscription to offset the money they make in ads? picturing an Instagram",
+            "url": "https://news.ycombinator.com/item?id=48611307",
+            "date": "2026-06-20"
+          }
+        ],
+        "score": 56
+      },
+      {
         "theme": "company",
         "mentions": 23,
         "engagement": 80,
@@ -679,34 +707,6 @@
           }
         ],
         "score": 55
-      },
-      {
-        "theme": "without",
-        "mentions": 47,
-        "engagement": 9,
-        "evidence": [
-          {
-            "text": "Show HN: Remove your data from 100 platforms without signing up",
-            "url": "https://news.ycombinator.com/item?id=46453387",
-            "date": "2026-01-01"
-          },
-          {
-            "text": "Cars and airplanes were probably the tech stocks before the transistor. But don’t sell pharmaceutical stocks short as the correct stock at the start of a hot dr",
-            "url": "https://news.ycombinator.com/item?id=48755000",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "very interesting thought experiment here. I wonder how much it would take in a monthly subscription to offset the money they make in ads? picturing an Instagram",
-            "url": "https://news.ycombinator.com/item?id=48611307",
-            "date": "2026-06-20"
-          },
-          {
-            "text": "If you ask people what they want, they'll request some impossible combination of attributes without consideration of any tradeoffs. They will also try to push a",
-            "url": "https://news.ycombinator.com/item?id=48229476",
-            "date": "2026-05-21"
-          }
-        ],
-        "score": 53
       },
       {
         "theme": "launch",
@@ -821,29 +821,29 @@
         "score": 50
       },
       {
-        "theme": "project",
-        "mentions": 26,
-        "engagement": 45,
+        "theme": "world",
+        "mentions": 22,
+        "engagement": 58,
         "evidence": [
           {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
+            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
+            "url": "https://news.ycombinator.com/item?id=48916578",
+            "date": "2026-07-15"
           },
           {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
+            "text": "> Again, the investment needed boogles the mind, around 10B currently, for a single drug. These are made up numbers though. 99% of that is overheads of a massiv",
+            "url": "https://news.ycombinator.com/item?id=48770902",
+            "date": "2026-07-03"
           },
           {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
+            "text": "it usually takes a little longer than this, but yeah, everything in the world eventually caves in for whatever makes more money. you can't tell me you're surpri",
+            "url": "https://news.ycombinator.com/item?id=48533671",
+            "date": "2026-06-14"
           },
           {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
+            "text": "Reminder the only benchmark that really matters is the one that measures the ability for the model to do real world tasks that someone would pay for on Upwork t",
+            "url": "https://news.ycombinator.com/item?id=48313769",
+            "date": "2026-05-28"
           }
         ],
         "score": 49
@@ -1243,7 +1243,7 @@
         "subject": "notion",
         "queries": 12,
         "seed_spread": 3,
-        "avg_branches": 9.8,
+        "avg_branches": 9.7,
         "examples": [
           "notion template for college students",
           "notion template for writing a book",
@@ -1443,9 +1443,9 @@
         "examples": [
           "printable planner for adhd",
           "printable planner for kids",
-          "checklist for moving out of state",
           "checklist for traveling",
-          "checklist for international travel"
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 75
       },
@@ -1590,23 +1590,6 @@
           "notion templates for university students reddit",
           "best notion template for college students",
           "best notion template for college students reddit"
-        ]
-      },
-      {
-        "seed": "notion template for",
-        "query": "notion template for content creators",
-        "branches": 10,
-        "children": [
-          "notion template for content creators free",
-          "notion template for content creators",
-          "notion template for content creation",
-          "notion template for youtube creators",
-          "notion template for youtube creators free",
-          "best notion template for content creators",
-          "free notion template for content creation",
-          "best notion template for content creation",
-          "notion template for youtube content creation",
-          "creating a notion template"
         ]
       },
       {
@@ -1998,6 +1981,23 @@
           "free printable adhd planner for adults pdf",
           "free printable adhd planner for kids",
           "free printable adhd planner for adults pdf download"
+        ]
+      },
+      {
+        "seed": "printable planner for",
+        "query": "printable planner for kids",
+        "branches": 10,
+        "children": [
+          "printable planner for kids",
+          "printable calendar for kids",
+          "printable calendar for kids 2026",
+          "printable calendar for kids 2025",
+          "printable planner for students",
+          "printable calendar for kids to color",
+          "printable calendar for kids free",
+          "printable calendar for kids pdf",
+          "printable calendar for kids schedule",
+          "printable calendar for kids april 2026"
         ]
       }
     ]

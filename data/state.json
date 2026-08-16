@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-16T14:27:35.422Z",
+  "generated_at": "2026-08-16T22:25:25.933Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 90,
+  "events_total": 95,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 13
+      "actions": 14
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 15
+      "actions": 16
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 42
+      "actions": 44
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 20
+      "actions": 21
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-16T22:25:25.874Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1118 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-16T22:24:38.079Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-16T22:24:38.079Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 203 proiecte scanate → 43 potrivite, 9 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-16T22:24:24.571Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 3 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-16T22:23:34.262Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 747 candidați → 0 bounty-uri reale (747 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-16T14:27:35.361Z",
       "type": "action",
@@ -583,77 +633,12 @@
       "desc": "Radar joburi: 214 proiecte scanate → 41 potrivite, 11 refuzate pe motive etice",
       "evidence": null,
       "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T13:17:17.776Z",
-      "type": "decision",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Refuzat «Extract TradingView Script Code» ($233): cerea codul sursa ascuns al unui indicator invite-only — furt de proprietate intelectuala. Filtrul l-a ratat initial pentru ca formularea suna pur tehnic; regula adaugata.",
-      "evidence": "https://www.freelancer.com/projects/pine-script/extract-tradingview-script-code",
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T13:17:17.776Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scrise 3 propuneri de licitare: OCR $190, FMX Backup $225, HubSpot Sync $390. Total potential $805.",
-      "evidence": null,
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T13:17:17.766Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Cont Freelancer.com creat si profil completat (8 skill-uri, case study in profil)",
-      "evidence": null,
-      "agent": "utilizator+claude"
-    },
-    {
-      "ts": "2026-08-14T13:15:14.105Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 442,
-      "status": null,
-      "desc": "Cel mai bun job: BatchLead-HubSpot Contact Sync",
-      "evidence": "https://www.freelancer.com/projects/api/batchlead-hubspot-contact-sync",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T13:15:14.104Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 213 proiecte scanate → 93 potrivite, 11 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
     }
   ],
   "opportunities": {
-    "accepted": 5,
-    "rejected": 834,
+    "accepted": 3,
+    "rejected": 792,
     "top": [
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "All Things Agentic Hackathon",
-        "url": "https://allthingsagentichackathon.devpost.com/",
-        "score": 449,
-        "prize_usd": 180000,
-        "slots": 9,
-        "participants": 3612,
-        "per_slot": 401,
-        "days_left": 15,
-        "objective": false
-      },
       {
         "source": "comp-radar",
         "platform": "drivendata",
@@ -661,11 +646,11 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 276,
+        "score": 272,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 543,
-        "per_slot": 181,
+        "participants": 551,
+        "per_slot": 184,
         "days_left": 31,
         "objective": true
       },
@@ -674,14 +659,14 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "COMPSPHERE 11",
-        "url": "https://compsphere11.devpost.com/",
-        "score": 96,
-        "prize_usd": 1247,
-        "slots": 7,
-        "participants": 89,
-        "per_slot": 13,
-        "days_left": 30,
+        "title": "Agentic Cinema: The Blockbuster Hackathon",
+        "url": "https://agentic-cinema.devpost.com/",
+        "score": 184,
+        "prize_usd": 75000,
+        "slots": 15,
+        "participants": 6124,
+        "per_slot": 408,
+        "days_left": 24,
         "objective": false
       },
       {
@@ -694,55 +679,48 @@
         "score": 79,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1663,
-        "per_slot": 416,
-        "days_left": 9,
+        "participants": 1672,
+        "per_slot": 418,
+        "days_left": 8,
         "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "CALL-E: Your Code Is Calling",
-        "url": "https://call-e.devpost.com/",
-        "score": 18,
-        "prize_usd": 10000,
-        "slots": 4,
-        "participants": 2186,
-        "per_slot": 547,
-        "days_left": 29,
-        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 342
-      },
-      {
-        "reason": "organizație-fermă cunoscută",
-        "count": 195
+        "count": 300
       },
       {
         "reason": "repo-fermă învățat automat",
         "count": 185
       },
       {
+        "reason": "organizație-fermă cunoscută",
+        "count": 180
+      },
+      {
+        "reason": "fork (task sintetic de benchmark)",
+        "count": 31
+      },
+      {
         "reason": "prea competitiv",
-        "count": 30
+        "count": 27
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 22
+        "count": 14
       },
       {
         "reason": "fără premiu în bani",
-        "count": 13
+        "count": 12
+      },
+      {
+        "reason": "regulament necitibil",
+        "count": 7
       },
       {
         "reason": "prea puțin timp de construit",
-        "count": 8
+        "count": 6
       },
       {
         "reason": "prea aglomerat",
@@ -751,10 +729,6 @@
       {
         "reason": "participare restricționată",
         "count": 6
-      },
-      {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 5
       },
       {
         "reason": "premiu prea mic",
@@ -769,15 +743,7 @@
         "count": 4
       },
       {
-        "reason": "repo prea nou",
-        "count": 2
-      },
-      {
         "reason": "deja adjudecat",
-        "count": 2
-      },
-      {
-        "reason": "regulament necitibil",
         "count": 2
       },
       {
