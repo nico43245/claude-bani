@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-16T06:45:14.614Z",
+  "generated_at": "2026-08-16T14:27:35.360Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1117,
+    "signals_total": 1119,
     "themes": [
       {
         "theme": "app",
@@ -1443,9 +1443,9 @@
         "examples": [
           "printable planner for adhd",
           "printable planner for kids",
+          "checklist for moving out of state",
           "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
+          "checklist for international travel"
         ],
         "score": 75
       },

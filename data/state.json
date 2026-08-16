@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-16T06:45:14.675Z",
+  "generated_at": "2026-08-16T14:27:35.422Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 85,
+  "events_total": 90,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 12
+      "actions": 13
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 14
+      "actions": 15
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 40
+      "actions": 42
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 19
+      "actions": 20
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-16T14:27:35.361Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1119 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-16T14:26:46.504Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 27,
+      "status": null,
+      "desc": "Cel mai bun job: Advanced Excel Automation for Inventory Management",
+      "evidence": "https://www.freelancer.com/projects/business-analysis/advanced-excel-automation-for-inventory",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-16T14:26:46.504Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 207 proiecte scanate → 45 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-16T14:26:33.090Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 5 eligibile după citirea regulamentelor (43 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-16T14:25:51.100Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 791 candidați → 0 bounty-uri reale (791 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-16T06:45:14.616Z",
       "type": "action",
@@ -583,62 +633,27 @@
       "desc": "Radar joburi: 213 proiecte scanate → 93 potrivite, 11 refuzate pe motive etice",
       "evidence": null,
       "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T13:02:20.651Z",
-      "type": "decision",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Descoperit canal cu cerere ACTIVA: Freelancer.com si Guru publica proiecte cu buget afisat, accesibile fara cont. 259 proiecte scanate, 93 potrivite, 11 refuzate pe etica. Spre deosebire de Fiverr (astepti sa fii gasit), aici clientul si-a postat deja nevoia si bugetul.",
-      "evidence": "https://www.freelancer.com/jobs/web-scraping/",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T13:01:44.897Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 442,
-      "status": null,
-      "desc": "Cel mai bun job: BatchLead-HubSpot Contact Sync",
-      "evidence": "https://www.freelancer.com/projects/api/batchlead-hubspot-contact-sync",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T13:01:44.897Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 213 proiecte scanate → 93 potrivite, 11 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T13:00:37.271Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 13321,
-      "status": null,
-      "desc": "Cel mai bun job: Gold Claims Recon Specialist",
-      "evidence": "https://www.freelancer.com/projects/geology/gold-claims-recon-specialist",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-14T13:00:37.270Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 213 proiecte scanate → 96 potrivite, 6 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
     }
   ],
   "opportunities": {
-    "accepted": 3,
-    "rejected": 837,
+    "accepted": 5,
+    "rejected": 834,
     "top": [
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "All Things Agentic Hackathon",
+        "url": "https://allthingsagentichackathon.devpost.com/",
+        "score": 449,
+        "prize_usd": 180000,
+        "slots": 9,
+        "participants": 3612,
+        "per_slot": 401,
+        "days_left": 15,
+        "objective": false
+      },
       {
         "source": "comp-radar",
         "platform": "drivendata",
@@ -646,12 +661,12 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 278,
+        "score": 276,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 540,
-        "per_slot": 180,
-        "days_left": 32,
+        "participants": 543,
+        "per_slot": 181,
+        "days_left": 31,
         "objective": true
       },
       {
@@ -659,14 +674,14 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "VoltHacks",
-        "url": "https://volthacks.devpost.com/",
-        "score": 104,
-        "prize_usd": 32785,
-        "slots": 5,
-        "participants": 1578,
-        "per_slot": 316,
-        "days_left": 21,
+        "title": "COMPSPHERE 11",
+        "url": "https://compsphere11.devpost.com/",
+        "score": 96,
+        "prize_usd": 1247,
+        "slots": 7,
+        "participants": 89,
+        "per_slot": 13,
+        "days_left": 30,
         "objective": false
       },
       {
@@ -676,50 +691,69 @@
         "reason": null,
         "title": "Africa Deep Tech Challenge 2026",
         "url": "https://adtc-2026.devpost.com/",
-        "score": 80,
+        "score": 79,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1656,
-        "per_slot": 414,
+        "participants": 1663,
+        "per_slot": 416,
         "days_left": 9,
         "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "CALL-E: Your Code Is Calling",
+        "url": "https://call-e.devpost.com/",
+        "score": 18,
+        "prize_usd": 10000,
+        "slots": 4,
+        "participants": 2186,
+        "per_slot": 547,
+        "days_left": 29,
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 357
+        "count": 342
+      },
+      {
+        "reason": "organizație-fermă cunoscută",
+        "count": 195
       },
       {
         "reason": "repo-fermă învățat automat",
         "count": 185
       },
       {
-        "reason": "organizație-fermă cunoscută",
-        "count": 175
-      },
-      {
         "reason": "prea competitiv",
-        "count": 32
+        "count": 30
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 24
+        "count": 22
       },
       {
         "reason": "fără premiu în bani",
-        "count": 14
+        "count": 13
       },
       {
         "reason": "prea puțin timp de construit",
         "count": 8
       },
       {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 5
+        "reason": "prea aglomerat",
+        "count": 6
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "participare restricționată",
+        "count": 6
+      },
+      {
+        "reason": "fork (task sintetic de benchmark)",
         "count": 5
       },
       {
@@ -727,19 +761,7 @@
         "count": 5
       },
       {
-        "reason": "participare restricționată",
-        "count": 5
-      },
-      {
-        "reason": "regulament necitibil",
-        "count": 5
-      },
-      {
         "reason": "proiect inactiv",
-        "count": 4
-      },
-      {
-        "reason": "repo prea nou",
         "count": 4
       },
       {
@@ -747,7 +769,15 @@
         "count": 4
       },
       {
+        "reason": "repo prea nou",
+        "count": 2
+      },
+      {
         "reason": "deja adjudecat",
+        "count": 2
+      },
+      {
+        "reason": "regulament necitibil",
         "count": 2
       },
       {
