@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:25:25.872Z",
+  "generated_at": "2026-08-17T07:01:46.261Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -234,7 +234,7 @@
       },
       {
         "theme": "code",
-        "mentions": 56,
+        "mentions": 55,
         "engagement": 41,
         "evidence": [
           {
@@ -258,7 +258,7 @@
             "date": "2026-05-17"
           }
         ],
-        "score": 81
+        "score": 80
       },
       {
         "theme": "apps",
@@ -345,34 +345,6 @@
         "score": 73
       },
       {
-        "theme": "language",
-        "mentions": 17,
-        "engagement": 290,
-        "evidence": [
-          {
-            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
-            "url": "https://news.ycombinator.com/item?id=45086249",
-            "date": "2025-08-31"
-          },
-          {
-            "text": "I loved using Warp. I used it daily for over a year. Setup workflow scripts and customizations, it worked almost exactly how I wanted it to. Then one day, I ope",
-            "url": "https://news.ycombinator.com/item?id=47942149",
-            "date": "2026-04-28"
-          },
-          {
-            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
-            "url": "https://news.ycombinator.com/item?id=46929160",
-            "date": "2026-02-07"
-          },
-          {
-            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
-            "url": "https://news.ycombinator.com/item?id=45075127",
-            "date": "2025-08-30"
-          }
-        ],
-        "score": 72
-      },
-      {
         "theme": "open-source",
         "mentions": 11,
         "engagement": 961,
@@ -427,6 +399,34 @@
           }
         ],
         "score": 70
+      },
+      {
+        "theme": "language",
+        "mentions": 16,
+        "engagement": 290,
+        "evidence": [
+          {
+            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
+            "url": "https://news.ycombinator.com/item?id=45086249",
+            "date": "2025-08-31"
+          },
+          {
+            "text": "I loved using Warp. I used it daily for over a year. Setup workflow scripts and customizations, it worked almost exactly how I wanted it to. Then one day, I ope",
+            "url": "https://news.ycombinator.com/item?id=47942149",
+            "date": "2026-04-28"
+          },
+          {
+            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
+            "url": "https://news.ycombinator.com/item?id=46929160",
+            "date": "2026-02-07"
+          },
+          {
+            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
+            "url": "https://news.ycombinator.com/item?id=45075127",
+            "date": "2025-08-30"
+          }
+        ],
+        "score": 69
       },
       {
         "theme": "browser",
@@ -542,7 +542,7 @@
       },
       {
         "theme": "system",
-        "mentions": 25,
+        "mentions": 24,
         "engagement": 92,
         "evidence": [
           {
@@ -566,7 +566,7 @@
             "date": "2026-06-27"
           }
         ],
-        "score": 63
+        "score": 61
       },
       {
         "theme": "stop",
@@ -595,34 +595,6 @@
           }
         ],
         "score": 60
-      },
-      {
-        "theme": "writing",
-        "mentions": 22,
-        "engagement": 96,
-        "evidence": [
-          {
-            "text": "I really wish there were better options to PMPP... It's by far the most up-to-date book, but I totally agree the writing is sort of bad and some of the code exa",
-            "url": "https://news.ycombinator.com/item?id=48173658",
-            "date": "2026-05-17"
-          },
-          {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
-          },
-          {
-            "text": "Two years ago, I spent time studying the Windows NT kernel internals and ended up writing a comparison against Unix here: https://blogsystem5.substack.com/p/win",
-            "url": "https://news.ycombinator.com/item?id=48725771",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
-          }
-        ],
-        "score": 59
       },
       {
         "theme": "without",
@@ -704,6 +676,34 @@
             "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
             "url": "https://news.ycombinator.com/item?id=46425971",
             "date": "2025-12-29"
+          }
+        ],
+        "score": 55
+      },
+      {
+        "theme": "writing",
+        "mentions": 20,
+        "engagement": 96,
+        "evidence": [
+          {
+            "text": "I really wish there were better options to PMPP... It's by far the most up-to-date book, but I totally agree the writing is sort of bad and some of the code exa",
+            "url": "https://news.ycombinator.com/item?id=48173658",
+            "date": "2026-05-17"
+          },
+          {
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
+          },
+          {
+            "text": "Two years ago, I spent time studying the Windows NT kernel internals and ended up writing a comparison against Unix here: https://blogsystem5.substack.com/p/win",
+            "url": "https://news.ycombinator.com/item?id=48725771",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
+            "url": "https://news.ycombinator.com/item?id=47437681",
+            "date": "2026-03-19"
           }
         ],
         "score": 55
@@ -1031,7 +1031,7 @@
       },
       {
         "subject": "spreadsheet",
-        "queries": 32,
+        "queries": 33,
         "seed_spread": 8,
         "avg_branches": 9.2,
         "examples": [
@@ -1039,9 +1039,9 @@
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking",
-          "google sheets template for business expenses"
+          "excel template for invoices"
         ],
-        "score": 892
+        "score": 921
       },
       {
         "subject": "budget",
@@ -1056,20 +1056,6 @@
           "spreadsheet to track spending"
         ],
         "score": 626
-      },
-      {
-        "subject": "reddit",
-        "queries": 16,
-        "seed_spread": 8,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "excel template for budget",
-          "google sheets template for budget",
-          "google sheets template for travel itinerary"
-        ],
-        "score": 459
       },
       {
         "subject": "planner",
@@ -1105,13 +1091,27 @@
         "seed_spread": 5,
         "avg_branches": 9.8,
         "examples": [
+          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for job applications"
         ],
         "score": 391
+      },
+      {
+        "subject": "reddit",
+        "queries": 15,
+        "seed_spread": 7,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "excel template for budget",
+          "google sheets template for travel itinerary",
+          "google sheets template for budget"
+        ],
+        "score": 376
       },
       {
         "subject": "sheets",
@@ -1119,17 +1119,17 @@
         "seed_spread": 5,
         "avg_branches": 9.8,
         "examples": [
+          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for job applications"
         ],
         "score": 356
       },
       {
         "subject": "tracking",
-        "queries": 18,
+        "queries": 19,
         "seed_spread": 5,
         "avg_branches": 9.9,
         "examples": [
@@ -1139,7 +1139,7 @@
           "excel template for expense tracking",
           "excel template for inventory"
         ],
-        "score": 321
+        "score": 339
       },
       {
         "subject": "track",
@@ -1157,9 +1157,9 @@
       },
       {
         "subject": "pdf",
-        "queries": 14,
+        "queries": 15,
         "seed_spread": 4,
-        "avg_branches": 10,
+        "avg_branches": 9.9,
         "examples": [
           "printable planner for july 2026",
           "printable planner for adhd",
@@ -1167,7 +1167,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 201
+        "score": 215
       },
       {
         "subject": "expenses",
@@ -1184,6 +1184,20 @@
         "score": 191
       },
       {
+        "subject": "printable",
+        "queries": 12,
+        "seed_spread": 4,
+        "avg_branches": 9.6,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 170
+      },
+      {
         "subject": "download",
         "queries": 9,
         "seed_spread": 5,
@@ -1196,20 +1210,6 @@
           "habit tracker template for google sheets"
         ],
         "score": 159
-      },
-      {
-        "subject": "printable",
-        "queries": 11,
-        "seed_spread": 4,
-        "avg_branches": 9.5,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for adhd",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for 2025"
-        ],
-        "score": 155
       },
       {
         "subject": "app",
@@ -1243,7 +1243,7 @@
         "subject": "notion",
         "queries": 12,
         "seed_spread": 3,
-        "avg_branches": 9.7,
+        "avg_branches": 9.8,
         "examples": [
           "notion template for college students",
           "notion template for writing a book",
@@ -1282,48 +1282,6 @@
         "score": 126
       },
       {
-        "subject": "daily",
-        "queries": 7,
-        "seed_spread": 5,
-        "avg_branches": 8.3,
-        "examples": [
-          "excel template for schedule",
-          "printable planner for adhd",
-          "habit tracker template for notion",
-          "how do i keep track of my calorie intake",
-          "planner for small business"
-        ],
-        "score": 118
-      },
-      {
-        "subject": "calendar",
-        "queries": 11,
-        "seed_spread": 3,
-        "avg_branches": 9.5,
-        "examples": [
-          "excel template for schedule",
-          "printable planner for july 2026",
-          "printable planner for adhd",
-          "printable planner for kids",
-          "printable planner for 2026"
-        ],
-        "score": 116
-      },
-      {
-        "subject": "planning",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 9.8,
-        "examples": [
-          "excel template for budget",
-          "excel template for schedule",
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "google sheets template for travel itinerary"
-        ],
-        "score": 114
-      },
-      {
         "subject": "tracker",
         "queries": 10,
         "seed_spread": 3,
@@ -1352,20 +1310,6 @@
         "score": 108
       },
       {
-        "subject": "weekly",
-        "queries": 6,
-        "seed_spread": 5,
-        "avg_branches": 8.5,
-        "examples": [
-          "excel template for schedule",
-          "printable planner for the week",
-          "planner printable for free",
-          "habit tracker template for notion",
-          "budget template for biweekly pay"
-        ],
-        "score": 102
-      },
-      {
         "subject": "create",
         "queries": 6,
         "seed_spread": 5,
@@ -1392,6 +1336,20 @@
           "printable planner for kids"
         ],
         "score": 100
+      },
+      {
+        "subject": "planning",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
+        "examples": [
+          "excel template for budget",
+          "google sheets template for travel itinerary",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "checklist for wedding planning"
+        ],
+        "score": 99
       },
       {
         "subject": "example",
@@ -1427,27 +1385,27 @@
         "seed_spread": 3,
         "avg_branches": 9.6,
         "examples": [
+          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for planning a trip",
           "google sheets template for job applications",
-          "google sheets template for travel itinerary",
           "google sheets template for inventory"
         ],
         "score": 85
       },
       {
-        "subject": "kids",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
+        "subject": "daily",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 8,
         "examples": [
           "printable planner for adhd",
-          "printable planner for kids",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
+          "habit tracker template for notion",
+          "how do i keep track of my calorie intake",
+          "planner for small business",
+          "best planner for small business"
         ],
-        "score": 75
+        "score": 80
       },
       {
         "subject": "application",
@@ -1478,6 +1436,20 @@
         "score": 71
       },
       {
+        "subject": "calendar",
+        "queries": 10,
+        "seed_spread": 2,
+        "avg_branches": 9.5,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 70
+      },
+      {
         "subject": "list",
         "queries": 5,
         "seed_spread": 4,
@@ -1492,6 +1464,20 @@
         "score": 69
       },
       {
+        "subject": "weekly",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 8.2,
+        "examples": [
+          "printable planner for the week",
+          "planner printable for free",
+          "habit tracker template for notion",
+          "budget template for biweekly pay",
+          "report template to management"
+        ],
+        "score": 67
+      },
+      {
         "subject": "expense",
         "queries": 6,
         "seed_spread": 3,
@@ -1502,6 +1488,20 @@
           "tracker template for google sheets",
           "tracker template for notion",
           "tracker template for excel"
+        ],
+        "score": 65
+      },
+      {
+        "subject": "kids",
+        "queries": 6,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for adhd",
+          "printable planner for kids",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 65
       },
@@ -1520,18 +1520,18 @@
         "score": 54
       },
       {
-        "subject": "schedule",
+        "subject": "format",
         "queries": 5,
         "seed_spread": 3,
-        "avg_branches": 8.6,
+        "avg_branches": 9.2,
         "examples": [
-          "notion template for school",
-          "notion template for work",
-          "excel template for bills and payments",
-          "excel template for schedule",
-          "printable planner for kids"
+          "excel template for invoices",
+          "budget template for google sheets",
+          "budget template for grant proposal",
+          "budget template for sheets",
+          "report template to management"
         ],
-        "score": 51
+        "score": 52
       },
       {
         "subject": "university",
@@ -1590,6 +1590,23 @@
           "notion templates for university students reddit",
           "best notion template for college students",
           "best notion template for college students reddit"
+        ]
+      },
+      {
+        "seed": "notion template for",
+        "query": "notion template for content creators",
+        "branches": 10,
+        "children": [
+          "notion template for content creators free",
+          "notion template for content creators",
+          "notion template for content creation",
+          "notion template for youtube creators",
+          "notion template for youtube creators free",
+          "best notion template for content creators",
+          "free notion template for content creation",
+          "best notion template for content creation",
+          "notion template for youtube content creation",
+          "creating a notion template"
         ]
       },
       {
@@ -1764,19 +1781,36 @@
       },
       {
         "seed": "excel template for",
-        "query": "excel template for schedule",
+        "query": "excel template for invoices",
         "branches": 10,
         "children": [
-          "excel template for schedule planning",
-          "excel template for schedule",
-          "excel template for calendar",
-          "excel template for calendar 2026",
-          "excel template for calendar 2025",
-          "excel template for timetable",
-          "excel template for weekly schedule",
-          "excel template for employee schedule",
-          "excel template for work schedule",
-          "excel template for daily schedule"
+          "excel template for invoices",
+          "excel template for invoice tracking",
+          "excel template for invoice entry",
+          "excel template for invoice free",
+          "excel template for billing",
+          "excel spreadsheet for invoices",
+          "excel template for receipts",
+          "excel format for invoices",
+          "excel spreadsheet for invoice tracking",
+          "excel format for invoice in gst"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
         ]
       },
       {
@@ -1828,23 +1862,6 @@
           "does google sheets have templates",
           "how to add template to google sheets",
           "can i create a template in google sheets"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
-        "query": "google sheets template for travel itinerary",
-        "branches": 10,
-        "children": [
-          "google sheets template for travel itinerary",
-          "google docs template for travel itinerary",
-          "google sheets template for travel planning",
-          "google sheets template for trip itinerary",
-          "free google sheets template for travel itinerary",
-          "google sheets template for trip planning",
-          "google docs template for travel planning",
-          "google docs template for trip itinerary",
-          "google docs template for trip planning",
-          "google sheets travel itinerary template reddit"
         ]
       },
       {
@@ -1981,23 +1998,6 @@
           "free printable adhd planner for adults pdf",
           "free printable adhd planner for kids",
           "free printable adhd planner for adults pdf download"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for kids",
-        "branches": 10,
-        "children": [
-          "printable planner for kids",
-          "printable calendar for kids",
-          "printable calendar for kids 2026",
-          "printable calendar for kids 2025",
-          "printable planner for students",
-          "printable calendar for kids to color",
-          "printable calendar for kids free",
-          "printable calendar for kids pdf",
-          "printable calendar for kids schedule",
-          "printable calendar for kids april 2026"
         ]
       }
     ]
