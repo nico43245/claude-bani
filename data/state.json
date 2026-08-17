@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-17T14:34:10.800Z",
+  "generated_at": "2026-08-17T22:29:33.611Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 105,
+  "events_total": 110,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 16
+      "actions": 17
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 18
+      "actions": 19
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 48
+      "actions": 50
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 23
+      "actions": 24
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-17T22:29:33.554Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1117 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-17T22:28:45.813Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-17T22:28:45.812Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 215 proiecte scanate → 39 potrivite, 13 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-17T22:28:32.088Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 47 scanate, 3 eligibile după citirea regulamentelor (44 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-17T22:27:39.678Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 776 candidați → 0 bounty-uri reale (776 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-17T14:34:10.743Z",
       "type": "action",
@@ -583,62 +633,27 @@
       "desc": "Faza 1 specificată exact: val_bpb pe un shard de validare fixat (~20M tokeni), 30 min wall-clock pe un singur cip Trn2 (trn2.3xlarge), compilarea exclusă. Top 10 avansează. Departajare: mai puțini parametri, apoi cod mai simplu.",
       "evidence": "https://trainium-frontier.devpost.com/rules",
       "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T14:09:00.746Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Înscriere confirmată la AWS Trainium Frontier (128 participanți). Cost $0.",
-      "evidence": "https://trainium-frontier.devpost.com/",
-      "agent": "manual"
-    },
-    {
-      "ts": "2026-08-14T13:59:13.693Z",
-      "type": "opportunity",
-      "track": "competitions",
-      "amount_usd": 40000,
-      "status": null,
-      "desc": "AWS Trainium Frontier: $40.000 cash real (nu credite), România neexclusă, fără restricție de student, hardware furnizat de organizatori, evaluare pe leaderboard public. Faza 1: antrenezi un model în 30 min pe un cip Trainium2; top 10 intră în faza 2. Termen 30 septembrie 2026.",
-      "evidence": "https://trainium-frontier.devpost.com/",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-14T13:59:13.693Z",
-      "type": "decision",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Măsurat pe 45 de competiții: cifrele publicate de Devpost sunt nesigure pe toate cele 3 axe. «Cash» include credite (Galuxium: «no physical cash, fiat currency, or direct liquid capital will be awarded»), majoritatea sunt doar pentru studenți, iar listele de țări excluse apar doar în regulament. Radarul citește regulamentul, nu listarea.",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T13:59:13.693Z",
-      "type": "decision",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Pistă nouă: competiții cu evaluare obiectivă. Criteriul care le face diferite de tot ce am încercat până acum — plata vine dintr-un scor măsurat, nu din persuadarea unui client. Fără licitații, fără reputație, fără audiență.",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T13:59:13.693Z",
-      "type": "dead_end",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Freelance abandonat ca pistă principală la cererea utilizatorului. Motivul e structural, nu de preferință: fiecare dolar cere ca un OM să convingă alt om, deci nu se poate automatiza. Rămâne pornit ca plasă de siguranță.",
-      "evidence": "products/freelance/PROPUNERI.md",
-      "agent": "claude"
     }
   ],
   "opportunities": {
-    "accepted": 2,
+    "accepted": 3,
     "rejected": 820,
     "top": [
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "All Things Agentic Hackathon",
+        "url": "https://allthingsagentichackathon.devpost.com/",
+        "score": 356,
+        "prize_usd": 180000,
+        "slots": 9,
+        "participants": 4543,
+        "per_slot": 505,
+        "days_left": 14,
+        "objective": false
+      },
       {
         "source": "comp-radar",
         "platform": "drivendata",
@@ -646,11 +661,11 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 266,
+        "score": 263,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 565,
-        "per_slot": 188,
+        "participants": 570,
+        "per_slot": 190,
         "days_left": 30,
         "objective": true
       },
@@ -664,20 +679,20 @@
         "score": 78,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1684,
-        "per_slot": 421,
-        "days_left": 8,
+        "participants": 1691,
+        "per_slot": 423,
+        "days_left": 7,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 329
+        "count": 328
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 185
+        "count": 190
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -689,27 +704,27 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 25
+        "count": 24
       },
       {
         "reason": "fără premiu în bani",
-        "count": 13
+        "count": 15
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 10
+        "count": 9
       },
       {
         "reason": "regulament necitibil",
-        "count": 8
+        "count": 9
       },
       {
         "reason": "participare restricționată",
-        "count": 7
+        "count": 6
       },
       {
         "reason": "prea aglomerat",
-        "count": 6
+        "count": 5
       },
       {
         "reason": "premiu prea mic",
@@ -724,16 +739,16 @@
         "count": 4
       },
       {
-        "reason": "prea puțin timp de construit",
-        "count": 4
-      },
-      {
         "reason": "deja adjudecat",
         "count": 2
       },
       {
         "reason": "termen necunoscut",
         "count": 2
+      },
+      {
+        "reason": "prea puțin timp de construit",
+        "count": 1
       },
       {
         "reason": "premiul nu e în bani",
