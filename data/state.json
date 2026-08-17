@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-17T07:01:46.314Z",
+  "generated_at": "2026-08-17T14:34:10.800Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 100,
+  "events_total": 105,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 15
+      "actions": 16
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 17
+      "actions": 18
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 46
+      "actions": 48
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 22
+      "actions": 23
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-17T14:34:10.743Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1118 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-17T14:33:22.959Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-17T14:33:22.959Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 220 proiecte scanate → 44 potrivite, 11 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-17T14:33:07.903Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 2 eligibile după citirea regulamentelor (46 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-17T14:32:21.508Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 774 candidați → 0 bounty-uri reale (774 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-17T07:01:46.262Z",
       "type": "action",
@@ -583,77 +633,12 @@
       "desc": "Freelance abandonat ca pistă principală la cererea utilizatorului. Motivul e structural, nu de preferință: fiecare dolar cere ca un OM să convingă alt om, deci nu se poate automatiza. Rămâne pornit ca plasă de siguranță.",
       "evidence": "products/freelance/PROPUNERI.md",
       "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T13:59:13.692Z",
-      "type": "dead_end",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Topcoder eliminat: API-ul public arată 2 challenge-uri active în toată lumea (restul, teste interne). Platforma e efectiv moartă în august 2026.",
-      "evidence": "api.topcoder.com/v6/challenges?status=Active -> x-total: 2",
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T13:58:17.046Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 45 scanate, 5 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-14T13:56:39.025Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 45 scanate, 9 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-14T13:54:29.810Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 45 scanate, 6 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-14T13:34:00.378Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 73,
-      "status": null,
-      "desc": "Cel mai bun job: Automate Data Integration with Python & Alteryx",
-      "evidence": "https://www.freelancer.com/projects/alteryx/automate-data-integration-with-python",
-      "agent": "gig-radar"
     }
   ],
   "opportunities": {
-    "accepted": 4,
-    "rejected": 791,
+    "accepted": 2,
+    "rejected": 820,
     "top": [
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "All Things Agentic Hackathon",
-        "url": "https://allthingsagentichackathon.devpost.com/",
-        "score": 397,
-        "prize_usd": 180000,
-        "slots": 9,
-        "participants": 4073,
-        "per_slot": 453,
-        "days_left": 15,
-        "objective": false
-      },
       {
         "source": "comp-radar",
         "platform": "drivendata",
@@ -661,28 +646,13 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 269,
+        "score": 266,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 557,
-        "per_slot": 186,
-        "days_left": 31,
+        "participants": 565,
+        "per_slot": 188,
+        "days_left": 30,
         "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "VoltHacks",
-        "url": "https://volthacks.devpost.com/",
-        "score": 102,
-        "prize_usd": 32785,
-        "slots": 5,
-        "participants": 1601,
-        "per_slot": 320,
-        "days_left": 20,
-        "objective": false
       },
       {
         "source": "comp-radar",
@@ -691,11 +661,11 @@
         "reason": null,
         "title": "Africa Deep Tech Challenge 2026",
         "url": "https://adtc-2026.devpost.com/",
-        "score": 79,
+        "score": 78,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1678,
-        "per_slot": 420,
+        "participants": 1684,
+        "per_slot": 421,
         "days_left": 8,
         "objective": true
       }
@@ -703,23 +673,23 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 301
+        "count": 329
+      },
+      {
+        "reason": "organizație-fermă cunoscută",
+        "count": 185
       },
       {
         "reason": "repo-fermă învățat automat",
         "count": 185
       },
       {
-        "reason": "organizație-fermă cunoscută",
-        "count": 182
-      },
-      {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 31
+        "count": 30
       },
       {
         "reason": "prea competitiv",
-        "count": 26
+        "count": 25
       },
       {
         "reason": "fără premiu în bani",
@@ -727,22 +697,22 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 12
+        "count": 10
       },
       {
         "reason": "regulament necitibil",
-        "count": 9
-      },
-      {
-        "reason": "prea puțin timp de construit",
-        "count": 5
-      },
-      {
-        "reason": "premiu prea mic",
-        "count": 5
+        "count": 8
       },
       {
         "reason": "participare restricționată",
+        "count": 7
+      },
+      {
+        "reason": "prea aglomerat",
+        "count": 6
+      },
+      {
+        "reason": "premiu prea mic",
         "count": 5
       },
       {
@@ -754,7 +724,7 @@
         "count": 4
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "prea puțin timp de construit",
         "count": 4
       },
       {
