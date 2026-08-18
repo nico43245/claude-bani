@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-17T22:29:33.611Z",
+  "generated_at": "2026-08-18T06:48:41.401Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 110,
+  "events_total": 115,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 17
+      "actions": 18
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 19
+      "actions": 20
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 50
+      "actions": 52
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 24
+      "actions": 25
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-18T06:48:41.344Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1117 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-18T06:47:54.965Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 50,
+      "status": null,
+      "desc": "Cel mai bun job: Am lioration Qualit Gestion Donn es",
+      "evidence": "https://www.freelancer.com/projects/data-analysis/lioration-qualit-gestion-donn",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-18T06:47:54.965Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 212 proiecte scanate → 40 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-18T06:47:41.846Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 46 scanate, 4 eligibile după citirea regulamentelor (42 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-18T06:46:53.509Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 778 candidați → 0 bounty-uri reale (778 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-17T22:29:33.554Z",
       "type": "action",
@@ -583,77 +633,12 @@
       "desc": "Scanare radar: 799 candidați → 0 bounty-uri reale (799 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-14T14:27:14.478Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 48 scanate, 7 eligibile după citirea regulamentelor (41 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-14T14:25:26.069Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 48 scanate, 7 eligibile după citirea regulamentelor (41 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-14T14:09:00.755Z",
-      "type": "decision",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "RISC NELĂMURIT 2 — deplasare. Regulamentul: finaliștii trebuie să aibă un membru care prezintă FIZIC la NeurIPS 2026 (Sydney, 6-12 dec.), pe cheltuiala proprie. Un bilet România-Sydney plus cazare depășește premiul locului 3 ($5.000) ca proporție și cere deplasarea utilizatorului. De clarificat dacă e condiție pentru premiu sau doar oportunitate.",
-      "evidence": "https://trainium-frontier.devpost.com/rules",
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T14:09:00.755Z",
-      "type": "decision",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "RISC NELĂMURIT 1 — cost de calcul. Regulamentul garantează credite AWS doar pentru «Academic Teams» (echipe de studenți). Prezentarea spune că primele 100 de echipe primesc «necessary GitHub and AWS resources». Contradicție. Dacă plătim noi timpul pe trn2.3xlarge, premisa cost-zero cade. De confirmat cu organizatorul ÎNAINTE de a investi muncă.",
-      "evidence": "https://trainium-frontier.devpost.com/rules",
-      "agent": "claude"
-    },
-    {
-      "ts": "2026-08-14T14:09:00.755Z",
-      "type": "decision",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Faza 1 specificată exact: val_bpb pe un shard de validare fixat (~20M tokeni), 30 min wall-clock pe un singur cip Trn2 (trn2.3xlarge), compilarea exclusă. Top 10 avansează. Departajare: mai puțini parametri, apoi cod mai simplu.",
-      "evidence": "https://trainium-frontier.devpost.com/rules",
-      "agent": "claude"
     }
   ],
   "opportunities": {
-    "accepted": 3,
+    "accepted": 4,
     "rejected": 820,
     "top": [
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "All Things Agentic Hackathon",
-        "url": "https://allthingsagentichackathon.devpost.com/",
-        "score": 356,
-        "prize_usd": 180000,
-        "slots": 9,
-        "participants": 4543,
-        "per_slot": 505,
-        "days_left": 14,
-        "objective": false
-      },
       {
         "source": "comp-radar",
         "platform": "drivendata",
@@ -661,11 +646,11 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 263,
+        "score": 262,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 570,
-        "per_slot": 190,
+        "participants": 574,
+        "per_slot": 191,
         "days_left": 30,
         "objective": true
       },
@@ -674,25 +659,55 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "Africa Deep Tech Challenge 2026",
-        "url": "https://adtc-2026.devpost.com/",
-        "score": 78,
-        "prize_usd": 16500,
+        "title": "Agentic Cinema: The Blockbuster Hackathon",
+        "url": "https://agentic-cinema.devpost.com/",
+        "score": 179,
+        "prize_usd": 75000,
+        "slots": 15,
+        "participants": 6291,
+        "per_slot": 419,
+        "days_left": 23,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "Agents for Humans Hackathon",
+        "url": "https://agentsforhumans.devpost.com/",
+        "score": 118,
+        "prize_usd": 40000,
+        "slots": 10,
+        "participants": 3395,
+        "per_slot": 340,
+        "days_left": 28,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "CALL-E: Your Code Is Calling",
+        "url": "https://call-e.devpost.com/",
+        "score": 18,
+        "prize_usd": 10000,
         "slots": 4,
-        "participants": 1691,
-        "per_slot": 423,
-        "days_left": 7,
-        "objective": true
+        "participants": 2227,
+        "per_slot": 557,
+        "days_left": 27,
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 328
+        "count": 329
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 190
+        "count": 191
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -700,27 +715,27 @@
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 30
+        "count": 29
       },
       {
         "reason": "prea competitiv",
-        "count": 24
+        "count": 26
       },
       {
         "reason": "fără premiu în bani",
-        "count": 15
+        "count": 14
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 9
-      },
-      {
-        "reason": "regulament necitibil",
-        "count": 9
+        "count": 8
       },
       {
         "reason": "participare restricționată",
-        "count": 6
+        "count": 7
+      },
+      {
+        "reason": "regulament necitibil",
+        "count": 7
       },
       {
         "reason": "prea aglomerat",
