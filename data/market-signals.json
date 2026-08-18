@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:48:41.343Z",
+  "generated_at": "2026-08-18T14:38:27.297Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -42,6 +42,11 @@
         "engagement": 11,
         "evidence": [
           {
+            "text": "Absolutely love Fastmail. I badly wish that they added a few key enterprise features: mandatory 2FA, SSO, provisioning, and more robust audit logs. If you’re re",
+            "url": "https://news.ycombinator.com/item?id=49344997",
+            "date": "2026-08-18"
+          },
+          {
             "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
             "url": "https://news.ycombinator.com/item?id=48746602",
             "date": "2026-07-01"
@@ -50,11 +55,6 @@
             "text": "I'd wish the EU would pay for California separatism as much as the US is supporting breaking up the EU (Orban, AfD in Germany, Farage, ..)",
             "url": "https://news.ycombinator.com/item?id=48458783",
             "date": "2026-06-09"
-          },
-          {
-            "text": "I really wish there were better options to PMPP... It's by far the most up-to-date book, but I totally agree the writing is sort of bad and some of the code exa",
-            "url": "https://news.ycombinator.com/item?id=48173658",
-            "date": "2026-05-17"
           },
           {
             "text": "Like the icon. Like the name. Like the concept. Not something I would pay to use, but I'm sure this would be useful to others. Wish you luck.",
@@ -150,7 +150,7 @@
       },
       {
         "theme": "hate",
-        "mentions": 78,
+        "mentions": 77,
         "engagement": 13,
         "evidence": [
           {
@@ -174,7 +174,7 @@
             "date": "2026-06-29"
           }
         ],
-        "score": 87
+        "score": 86
       },
       {
         "theme": "life",
@@ -233,34 +233,6 @@
         "score": 81
       },
       {
-        "theme": "code",
-        "mentions": 55,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
-            "url": "https://news.ycombinator.com/item?id=48522853",
-            "date": "2026-06-14"
-          },
-          {
-            "text": "I really wish there were better options to PMPP... It's by far the most up-to-date book, but I totally agree the writing is sort of bad and some of the code exa",
-            "url": "https://news.ycombinator.com/item?id=48173658",
-            "date": "2026-05-17"
-          }
-        ],
-        "score": 80
-      },
-      {
         "theme": "apps",
         "mentions": 24,
         "engagement": 194,
@@ -287,6 +259,34 @@
           }
         ],
         "score": 80
+      },
+      {
+        "theme": "code",
+        "mentions": 54,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
+            "url": "https://news.ycombinator.com/item?id=48522853",
+            "date": "2026-06-14"
+          },
+          {
+            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
+            "url": "https://news.ycombinator.com/item?id=48275865",
+            "date": "2026-05-26"
+          }
+        ],
+        "score": 79
       },
       {
         "theme": "them",
@@ -597,34 +597,6 @@
         "score": 59
       },
       {
-        "theme": "writing",
-        "mentions": 21,
-        "engagement": 96,
-        "evidence": [
-          {
-            "text": "I really wish there were better options to PMPP... It's by far the most up-to-date book, but I totally agree the writing is sort of bad and some of the code exa",
-            "url": "https://news.ycombinator.com/item?id=48173658",
-            "date": "2026-05-17"
-          },
-          {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
-          },
-          {
-            "text": "Two years ago, I spent time studying the Windows NT kernel internals and ended up writing a comparison against Unix here: https://blogsystem5.substack.com/p/win",
-            "url": "https://news.ycombinator.com/item?id=48725771",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
-          }
-        ],
-        "score": 57
-      },
-      {
         "theme": "company",
         "mentions": 23,
         "engagement": 80,
@@ -704,6 +676,34 @@
             "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
             "url": "https://news.ycombinator.com/item?id=46425971",
             "date": "2025-12-29"
+          }
+        ],
+        "score": 55
+      },
+      {
+        "theme": "writing",
+        "mentions": 20,
+        "engagement": 96,
+        "evidence": [
+          {
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
+          },
+          {
+            "text": "Two years ago, I spent time studying the Windows NT kernel internals and ended up writing a comparison against Unix here: https://blogsystem5.substack.com/p/win",
+            "url": "https://news.ycombinator.com/item?id=48725771",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
+            "url": "https://news.ycombinator.com/item?id=47437681",
+            "date": "2026-03-19"
+          },
+          {
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
           }
         ],
         "score": 55
