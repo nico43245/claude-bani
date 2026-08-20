@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T22:29:08.048Z",
-  "scanned": 204,
+  "generated_at": "2026-08-20T06:51:42.385Z",
+  "scanned": 207,
   "accepted": 45,
-  "refused_on_ethics": 9,
+  "refused_on_ethics": 10,
   "jobs": [
     {
       "title": "Simple Microsoft Excel",
@@ -19,6 +19,20 @@
       "score": 560
     },
     {
+      "title": "Virtual CFO, US & Australian GAAP Reporting, MIS & Finance Automation",
+      "url": "https://www.freelancer.com/projects/financial-analysis/virtual-cfo-australian-gaap-reporting",
+      "budget_raw": "$261 Average bid",
+      "desc": "Project Overview- We are looking for an experienced Virtual CFO / Finance professional with strong expertise in US GAAP, Australian Accounting Standards (AASB), financial reporting, FP&A, management reporting and finance automation. The objective is to establish a robust finance and reporting framew",
+      "bids": 3,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 4,
+      "usd": 261,
+      "hourly": false,
+      "flags": [],
+      "score": 502
+    },
+    {
       "title": "Automate Data Integration with Python & Alteryx",
       "url": "https://www.freelancer.com/projects/alteryx/automate-data-integration-with-python",
       "budget_raw": "$102 Average bid",
@@ -33,102 +47,74 @@
       "score": 406
     },
     {
-      "title": "Excel Intelligence Dashboard Update, Validation & Enhancement",
-      "url": "https://www.freelancer.com/projects/excel/excel-intelligence-dashboard-update",
-      "budget_raw": "$327 Average bid",
-      "desc": "Excel Intelligence Dashboard Update, Validation & Enhancement I am looking for an experienced Excel Dashboard / Data Visualization specialist to help me finalize and improve an existing offshore operations and well-monitoring dashboard. The dashboard is already approximately 90% completed. I built m",
-      "bids": 18,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 327,
-      "hourly": false,
-      "flags": [],
-      "score": 210
-    },
-    {
-      "title": "Automated Excel Performance Dashboard",
-      "url": "https://www.freelancer.com/projects/data-analysis/automated-excel-performance-dashboard",
-      "budget_raw": "$188 Average bid",
-      "desc": "I need a single Excel workbook that turns my monthly sales and inventory figures into clear, automated insights. Once I drop raw data into a dedicated sheet, every other page in the file should refresh instantly, giving me: Dynamic graphs and charts that highlight month-to-month performance shifts C",
-      "bids": 31,
+      "title": "OCR WhatsApp Photo Data Extractor",
+      "url": "https://www.freelancer.com/projects/optical-character-recognition/ocr-whatsapp-photo-data-extractor",
+      "budget_raw": "$72 Average bid",
+      "desc": "I receive a steady flow of vehicle-related photos on WhatsApp and I need the key information both the licence-plate number and the odometer reading pulled out automatically. Your task is to build an AI-powered vision pipeline (Tesseract, EasyOCR, Google Vision, or any equivalent you trust) that inge",
+      "bids": 15,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 188,
+      "usd": 72,
       "hourly": false,
       "flags": [],
-      "score": 198
+      "score": 211
     },
     {
       "title": "24/7 Python CLI on AWS with claude ai",
       "url": "https://www.freelancer.com/projects/devops/python-cli-aws-with-claude",
       "budget_raw": "$313 Average bid",
       "desc": "I need my existing Python-based CLI and the accompanying Claude code deployed on AWS so the script can run non-stop, recover automatically from any failure, and alert me the moment something goes wrong. At the moment I do not have an AWS account in place, so part of the job involves guiding me throu",
-      "bids": 23,
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 313,
       "hourly": false,
       "flags": [],
-      "score": 156
+      "score": 137
+    },
+    {
+      "title": "Automated Excel Performance Dashboard",
+      "url": "https://www.freelancer.com/projects/data-analysis/automated-excel-performance-dashboard",
+      "budget_raw": "$188 Average bid",
+      "desc": "I need a single Excel workbook that turns my monthly sales and inventory figures into clear, automated insights. Once I drop raw data into a dedicated sheet, every other page in the file should refresh instantly, giving me: Dynamic graphs and charts that highlight month-to-month performance shifts C",
+      "bids": 34,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 6,
+      "usd": 188,
+      "hourly": false,
+      "flags": [],
+      "score": 132
     },
     {
       "title": "AI-Driven Customer Data Analytics Pipeline",
       "url": "https://www.freelancer.com/projects/big-data-sales/driven-customer-data-analytics-pipeline",
-      "budget_raw": "$10 / hr Average bid",
+      "budget_raw": "$9 / hr Average bid",
       "desc": "I need an automated AI-driven customer data analytics pipeline that can process data from CSV files and a live PostgreSQL database. The solution should: - Automatically clean, validate, and standardize raw customer data. - Combine CRM, support ticket, and purchase-history data. - Use Python, SQL, pa",
-      "bids": 25,
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 10,
+      "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 140
-    },
-    {
-      "title": "Backend-Focused Inventory System Development",
-      "url": "https://www.freelancer.com/projects/fastapi/backend-focused-inventory-system",
-      "budget_raw": "$413 Average bid",
-      "desc": "We are building a new inventory management platform at Zryth Solutions and need a full-stack developer who can dive deep into the back-end first. The application stack is Python with Django and FastAPI on the server side and React.js on the client. Solid CS fundamentals are a must because clean arch",
-      "bids": 40,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 4,
-      "usd": 413,
-      "hourly": false,
-      "flags": [],
-      "score": 129
-    },
-    {
-      "title": "AI Automation Architect / Claude Code Wizard Wanted",
-      "url": "https://www.freelancer.com/projects/ai-automation/automation-architect-claude-code-wizard",
-      "budget_raw": "$943 Average bid",
-      "desc": "I m an IT professional and Product Owner looking for a highly skilled AI automation builder who knows how to take an idea, figure out the best technical approach, build the automation, test it, and get it working. I m not looking for someone who simply knows how to use ChatGPT or Claude. I m looking",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 943,
-      "hourly": false,
-      "flags": [],
-      "score": 129
+      "score": 84
     },
     {
       "title": "Medical Device Data Analysis -- 2",
       "url": "https://www.freelancer.com/projects/data-analysis/medical-device-data-analysis",
       "budget_raw": "$26 / hr Average bid",
       "desc": "I need a data analyst to help analyse the output data values from various sensors of an electro-medical device, to fine tune its performance. The project needs to be completed within a month. Key tasks includes: - Analyzing existing medical device data in csv format - Identifying trends and patterns",
-      "bids": 5,
+      "bids": 10,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 26,
       "hourly": true,
       "flags": [],
-      "score": 95
+      "score": 81
     },
     {
       "title": "Automated YouTube Ad Viewer",
@@ -145,18 +131,60 @@
       "score": 75
     },
     {
+      "title": "Excel Intelligence Dashboard Update, Validation & Enhancement",
+      "url": "https://www.freelancer.com/projects/excel/excel-intelligence-dashboard-update",
+      "budget_raw": "$232 Average bid",
+      "desc": "Excel Intelligence Dashboard Update, Validation & Enhancement I am looking for an experienced Excel Dashboard / Data Visualization specialist to help me finalize and improve an existing offshore operations and well-monitoring dashboard. The dashboard is already approximately 90% completed. I built m",
+      "bids": 29,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 232,
+      "hourly": false,
+      "flags": [],
+      "score": 75
+    },
+    {
+      "title": "Handwritten Notes to Excel",
+      "url": "https://www.freelancer.com/projects/data-management/handwritten-notes-excel-40656291",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I need a careful eye to turn a collection of handwritten notes into a clean, well-structured Excel spreadsheet. Each page contains text-only information; no calculations or numbers just words that must be typed exactly as written. I will supply scanned images of the notes along with a sample .xlsx t",
+      "bids": 5,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 74
+    },
+    {
+      "title": "Daily Email Data Entry",
+      "url": "https://www.freelancer.com/projects/copy-typing/daily-email-data-entry",
+      "budget_raw": "$373 Average bid",
+      "desc": "I need a reliable assistant to extract text-based information from incoming emails and record it in a structured spreadsheet. Each day I ll forward or grant you access to a monitored mailbox; you will open every new message, pull the required fields, and add them to the shared Google Sheets file (Ex",
+      "bids": 25,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 373,
+      "hourly": false,
+      "flags": [],
+      "score": 73
+    },
+    {
       "title": "Beginner-Friendly HR Recruitment Project",
       "url": "https://www.freelancer.com/projects/candidate-screening/beginner-friendly-recruitment-project",
       "budget_raw": "$8 / hr Average bid",
       "desc": "For my MBA coursework I must design a compact HR recruitment package that zeroes in on requirement extraction for entry-level roles in the technology sector. I already know the broad steps job description analysis, candidate screening criteria, and a simple end-to-end hiring flow but I need you to s",
-      "bids": 4,
+      "bids": 5,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 8,
       "hourly": true,
       "flags": [],
-      "score": 67
+      "score": 66
     },
     {
       "title": "Social Media Data Mining",
@@ -173,10 +201,10 @@
       "score": 63
     },
     {
-      "title": "Clean Messy Excel Data",
-      "url": "https://www.freelancer.com/projects/data-analysis/clean-messy-excel-data",
+      "title": "Locate 2,000 Business Emails",
+      "url": "https://www.freelancer.com/projects/data-collection/locate-business-emails",
       "budget_raw": "$8 / hr Average bid",
-      "desc": "I have several Excel spreadsheets that need a thorough clean-up. The main problem is rows sprinkled with missing values, and my goal is to eliminate those incomplete records entirely so every remaining row is analysis-ready. Please import each file, identify any blank cells in any column, and remove",
+      "desc": "I have a spreadsheet with roughly 2,000 business contacts that includes each person s full name and the company they work for. I now need a clean, usable email address for every one of them. Here s what I m looking for: You ll research and locate a valid business-grade email for each contact, matchi",
       "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
@@ -191,14 +219,28 @@
       "url": "https://www.freelancer.com/projects/data-analysis/clean-messy-excel-data-edt",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have several Excel spreadsheets that need a thorough clean-up. The main problem is rows sprinkled with missing values, and my goal is to eliminate those incomplete records entirely so every remaining row is analysis-ready. Please import each file, identify any blank cells in any column, and remove",
-      "bids": 17,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 48
+      "score": 46
+    },
+    {
+      "title": "Clean Messy Excel Data",
+      "url": "https://www.freelancer.com/projects/data-analysis/clean-messy-excel-data",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have several Excel spreadsheets that need a thorough clean-up. The main problem is rows sprinkled with missing values, and my goal is to eliminate those incomplete records entirely so every remaining row is analysis-ready. Please import each file, identify any blank cells in any column, and remove",
+      "bids": 18,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 46
     },
     {
       "title": "Professional Web Scraping and Data Management",
@@ -213,34 +255,6 @@
       "hourly": false,
       "flags": [],
       "score": 44
-    },
-    {
-      "title": "Sales Data Cleanup & Standardization",
-      "url": "https://www.freelancer.com/projects/data-analysis/sales-data-cleanup-standardization",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have an Excel workbook packed with sales records collected from several sources and the date fields are all over the place some are U.S. style, others European, some are stored as text, and a handful even show up as serial numbers. I need every date in every sales-related column brought into one c",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 42
-    },
-    {
-      "title": "Odoo Sales & Accounting Customization",
-      "url": "https://www.freelancer.com/projects/odoo/odoo-sales-accounting-customization-40653452",
-      "budget_raw": "$7 / hr Average bid",
-      "desc": "I m looking for an experienced Odoo developer to tailor my current system. Here s where I need your expertise: Sales the priority is a bespoke workflow that reflects the way orders actually move through my business. It will involve adding status steps, automating field updates, and making sure the p",
-      "bids": null,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 7,
-      "hourly": true,
-      "flags": [],
-      "score": 39
     },
     {
       "title": "Survey Trend Analysis Specialist Needed",
@@ -259,13 +273,13 @@
     {
       "title": "US Trucking Insurance Specialist",
       "url": "https://www.freelancer.com/projects/insurance/trucking-insurance-specialist",
-      "budget_raw": "$398 Average bid",
+      "budget_raw": "$406 Average bid",
       "desc": "I m expanding our transportation insurance desk and need a seasoned specialist who already understands the moving parts of a trucking portfolio. Day to day you ll take full ownership of three core functions: processing new and ongoing claims, keeping every policy touch-point current, and recording t",
-      "bids": 12,
+      "bids": 13,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 398,
+      "usd": 406,
       "hourly": false,
       "flags": [],
       "score": 36
@@ -275,14 +289,14 @@
       "url": "https://www.freelancer.com/projects/data-analysis/clean-messy-excel-data-edt-40657844",
       "budget_raw": "$8 / hr Average bid",
       "desc": "I have several Excel spreadsheets that need a thorough clean-up. The main problem is rows sprinkled with missing values, and my goal is to eliminate those incomplete records entirely so every remaining row is analysis-ready. Please import each file, identify any blank cells in any column, and remove",
-      "bids": 21,
+      "bids": 22,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 8,
       "hourly": true,
       "flags": [],
-      "score": 36
+      "score": 34
     },
     {
       "title": "Lead Gen for Scraping Services",
@@ -315,46 +329,18 @@
       "score": 27
     },
     {
-      "title": "Telegram Button-Driven Reply Bot",
-      "url": "https://www.freelancer.com/projects/api-developmet/telegram-button-driven-reply-bot",
-      "budget_raw": "$25 Average bid",
-      "desc": "I need a professional Telegram Digital Key Store Bot similar to the reference screenshot. Main features: Shop categories, products, pricing and product details Wallet System users can add balance to their wallet Payment Gateway automatic payment verification and wallet credit Key Purchase user selec",
-      "bids": 7,
+      "title": "Parcel ID No. 03042601133 / 16205 Zion Road Boundary Survey Report",
+      "url": "https://www.freelancer.com/projects/land-surveying/parcel-zion-road-boundary-survey",
+      "budget_raw": "$200 Average bid",
+      "desc": "I need a licensed North Carolina land surveyor to establish and document the exact boundary of my property. My primary goal is to confirm and mark every corner, uncover any potential encroachments, and generate an updated legal description that can be filed with the county. I already hold some deeds",
+      "bids": 2,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 25,
+      "fit": 1,
+      "usd": 200,
       "hourly": false,
       "flags": [],
-      "score": 24
-    },
-    {
-      "title": "Power BI Sales & Engagement Dashboard",
-      "url": "https://www.freelancer.com/projects/power-bi/power-sales-engagement-dashboard",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I m looking for a polished, manager-friendly dashboard built in Power BI that can pull live data from both Excel workbooks and a SQL database (MySQL). The core visuals should spotlight two KPI groups sales performance and customer engagement making it easy for our managers to spot trends, drill into",
-      "bids": 21,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 5,
-      "hourly": true,
-      "flags": [],
-      "score": 22
-    },
-    {
-      "title": "Daily Text Entry to Database",
-      "url": "https://www.freelancer.com/projects/airtable/daily-text-entry-database",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I need a reliable assistant who can pull text from designated online resources each day and insert it into my web-based database. The task is straightforward: copy the exact wording I highlight, paste it into the correct fields, then double-check the submission for accuracy before marking it complet",
-      "bids": 19,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 22
+      "score": 25
     },
     {
       "title": "Online Form Filling Assistance",
@@ -371,34 +357,6 @@
       "score": 19
     },
     {
-      "title": "Manual Excel Data Entry - 17/08/2026 06:44 EDT",
-      "url": "https://www.freelancer.com/projects/data-analysis/manual-excel-data-entry-edt",
-      "budget_raw": "$2 / hr Average bid",
-      "desc": "I have a collection of Excel workbooks that need fresh data entered by hand. No macros, web-scraping, or automated imports just careful, manual typing to make sure each value is placed in the correct cell. You will be working exclusively in Excel, focusing only on data input. I have already structur",
-      "bids": 22,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 2,
-      "hourly": true,
-      "flags": [],
-      "score": 18
-    },
-    {
-      "title": "Excel Data Deduplication Expert",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-deduplication-expert",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a customer spreadsheet that needs a careful duplicate sweep. The task is to look only at the Name column, spot both obvious (exact-text) and less obvious (fuzzy) repeats, and then visually flag every duplicate rather than deleting or moving them. A light colour fill or conditional-format rule",
-      "bids": 21,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 18
-    },
-    {
       "title": "Japanese AI Training Expert Needed",
       "url": "https://www.freelancer.com/projects/deep-learning/japanese-training-expert-needed",
       "budget_raw": "$20 / hr Average bid",
@@ -413,18 +371,32 @@
       "score": 17
     },
     {
-      "title": "Copy Website Tables to Excel",
-      "url": "https://www.freelancer.com/projects/data-management/copy-website-tables-excel",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I need all text that appears in the website s structured tables transferred into a clean Excel workbook. Each table on the site has between one and three columns, so the spreadsheet should mirror that simple layout sheet-for-sheet, preserving the original column order and any header labels exactly a",
-      "bids": 31,
+      "title": "Telegram Button-Driven Reply Bot",
+      "url": "https://www.freelancer.com/projects/api-developmet/telegram-button-driven-reply-bot",
+      "budget_raw": "$23 Average bid",
+      "desc": "I need a professional Telegram Digital Key Store Bot similar to the reference screenshot. Main features: Shop categories, products, pricing and product details Wallet System users can add balance to their wallet Payment Gateway automatic payment verification and wallet credit Key Purchase user selec",
+      "bids": 7,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 8,
-      "hourly": true,
+      "usd": 23,
+      "hourly": false,
       "flags": [],
       "score": 17
+    },
+    {
+      "title": "Excel Data Deduplication Expert",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-deduplication-expert",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a customer spreadsheet that needs a careful duplicate sweep. The task is to look only at the Name column, spot both obvious (exact-text) and less obvious (fuzzy) repeats, and then visually flag every duplicate rather than deleting or moving them. A light colour fill or conditional-format rule",
+      "bids": 23,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 16
     },
     {
       "title": "Australian Property Owner Mobile Leads",
@@ -455,18 +427,32 @@
       "score": 11
     },
     {
-      "title": "Web Form Data to Excel",
-      "url": "https://www.freelancer.com/projects/data-management/web-form-data-excel",
-      "budget_raw": "$3 / hr Average bid",
-      "desc": "I have a collection of online forms that regularly capture both text and numerical fields, and I need every record transferred into a clean, well-organized Excel workbook. The task is straightforward entry only no extra validation or cross-checking is necessary on your end; simply mirror what you se",
-      "bids": 25,
+      "title": "Copy Website Tables to Excel",
+      "url": "https://www.freelancer.com/projects/data-management/copy-website-tables-excel",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I need all text that appears in the website s structured tables transferred into a clean Excel workbook. Each table on the site has between one and three columns, so the spreadsheet should mirror that simple layout sheet-for-sheet, preserving the original column order and any header labels exactly a",
+      "bids": 34,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 3,
+      "usd": 8,
       "hourly": true,
       "flags": [],
-      "score": 8
+      "score": 11
+    },
+    {
+      "title": "Manual Excel Data Entry - 17/08/2026 06:44 EDT",
+      "url": "https://www.freelancer.com/projects/data-analysis/manual-excel-data-entry-edt",
+      "budget_raw": "$1 / hr Average bid",
+      "desc": "I have a collection of Excel workbooks that need fresh data entered by hand. No macros, web-scraping, or automated imports just careful, manual typing to make sure each value is placed in the correct cell. You will be working exclusively in Excel, focusing only on data input. I have already structur",
+      "bids": 23,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 1,
+      "hourly": true,
+      "flags": [],
+      "score": 9
     },
     {
       "title": "ZOMATA Resutaurant Management Analysis.",
@@ -555,18 +541,32 @@
       "score": 6
     },
     {
-      "title": "VLSI Simulation with XGBoost Model",
-      "url": "https://www.freelancer.com/projects/arduino/vlsi-simulation-with-xgboost-model",
-      "budget_raw": "$6 / hr Average bid",
-      "desc": "I m modeling a VLSI circuit s behaviour entirely through simulation and want to drive the process with an XGBoost Multi-Output Regressor. The goal is to replace portions of a traditional SPICE run with a machine-learning proxy that can predict multiple analog metrics at once (delay, power, noise, et",
-      "bids": 13,
+      "title": "Excel Inventory Management System Creation",
+      "url": "https://www.freelancer.com/projects/data-entry/excel-inventory-management-system-40658949",
+      "budget_raw": "$23 Average bid",
+      "desc": "## Project Overview I created a professional Excel-based inventory management system designed to help a small business organize products, monitor stock levels, and track inventory value efficiently. ### Key Features * Product ID and product information management * Product categories and supplier re",
+      "bids": 16,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 23,
+      "hourly": false,
+      "flags": [],
+      "score": 6
+    },
+    {
+      "title": "Automate GLPI Technician Reports",
+      "url": "https://www.freelancer.com/projects/automation/automate-glpi-technician-reports",
+      "budget_raw": "$55 Average bid",
+      "desc": "I need GLPI to email out daily, weekly, and monthly technician-performance reports without manual intervention. Each report must pull the number of tickets each tech resolved and their average resolution time, then compile that data into a clean PDF ready for management review. Delivery is needed AS",
+      "bids": 9,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 6,
-      "hourly": true,
+      "usd": 55,
+      "hourly": false,
       "flags": [],
-      "score": 4
+      "score": 6
     }
   ],
   "refused": [
@@ -605,6 +605,10 @@
     {
       "title": "City-Specific Social Media Leads Generation",
       "reason": "listă masivă de date personale — GDPR și spam"
+    },
+    {
+      "title": "Verified Email & Mobile Number Collection",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     }
   ]
 }
