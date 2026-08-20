@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-20T06:52:29.065Z",
+  "generated_at": "2026-08-20T14:41:21.311Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 145,
+  "events_total": 150,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 24
+      "actions": 25
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 26
+      "actions": 27
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 64
+      "actions": 66
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 31
+      "actions": 32
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-20T14:41:21.272Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1116 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-20T14:40:32.028Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 261,
+      "status": null,
+      "desc": "Cel mai bun job: Virtual CFO, US & Australian GAAP Reporting, MIS & Finance Automation",
+      "evidence": "https://www.freelancer.com/projects/financial-analysis/virtual-cfo-australian-gaap-reporting",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-20T14:40:32.028Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 207 proiecte scanate → 54 potrivite, 11 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-20T14:40:17.612Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 47 scanate, 2 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-20T14:39:21.183Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 624 candidați → 0 bounty-uri reale (624 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-20T06:52:29.009Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 747 candidați → 0 bounty-uri reale (747 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-16T14:27:35.361Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1119 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-16T14:26:46.504Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 27,
-      "status": null,
-      "desc": "Cel mai bun job: Advanced Excel Automation for Inventory Management",
-      "evidence": "https://www.freelancer.com/projects/business-analysis/advanced-excel-automation-for-inventory",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-16T14:26:46.504Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 207 proiecte scanate → 45 potrivite, 12 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-16T14:26:33.090Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 48 scanate, 5 eligibile după citirea regulamentelor (43 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-16T14:25:51.100Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 791 candidați → 0 bounty-uri reale (791 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 2,
-    "rejected": 810,
+    "rejected": 669,
     "top": [
       {
         "source": "comp-radar",
@@ -646,12 +646,12 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 246,
+        "score": 245,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 610,
-        "per_slot": 203,
-        "days_left": 28,
+        "participants": 611,
+        "per_slot": 204,
+        "days_left": 27,
         "objective": true
       },
       {
@@ -661,11 +661,11 @@
         "reason": null,
         "title": "Africa Deep Tech Challenge 2026",
         "url": "https://adtc-2026.devpost.com/",
-        "score": 46,
+        "score": 45,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1733,
-        "per_slot": 433,
+        "participants": 1742,
+        "per_slot": 436,
         "days_left": 5,
         "objective": true
       }
@@ -673,7 +673,7 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 290
+        "count": 289
       },
       {
         "reason": "organizație-fermă cunoscută",
@@ -681,7 +681,7 @@
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 185
+        "count": 44
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -693,7 +693,7 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 17
+        "count": 19
       },
       {
         "reason": "regulament necitibil",
@@ -701,14 +701,14 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 13
-      },
-      {
-        "reason": "participare restricționată",
-        "count": 6
+        "count": 12
       },
       {
         "reason": "premiu prea mic",
+        "count": 5
+      },
+      {
+        "reason": "participare restricționată",
         "count": 5
       },
       {
@@ -732,12 +732,16 @@
         "count": 2
       },
       {
-        "reason": "premiul nu e în bani",
+        "reason": "prea puțin timp de construit",
         "count": 2
       },
       {
         "reason": "termen necunoscut",
         "count": 2
+      },
+      {
+        "reason": "premiul nu e în bani",
+        "count": 1
       }
     ]
   }

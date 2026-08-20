@@ -1,23 +1,9 @@
 {
-  "generated_at": "2026-08-20T06:51:42.385Z",
+  "generated_at": "2026-08-20T14:40:32.027Z",
   "scanned": 207,
-  "accepted": 45,
-  "refused_on_ethics": 10,
+  "accepted": 54,
+  "refused_on_ethics": 11,
   "jobs": [
-    {
-      "title": "Simple Microsoft Excel",
-      "url": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "budget_raw": "$431 Average bid",
-      "desc": "Hello, I have a list of details, using those you need to collect a lot of data from a specific website. I will show you how to scrape the details like Name, Email, and Phone numbers, you just need to follow the pattern..",
-      "bids": 24,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 431,
-      "hourly": false,
-      "flags": [],
-      "score": 560
-    },
     {
       "title": "Virtual CFO, US & Australian GAAP Reporting, MIS & Finance Automation",
       "url": "https://www.freelancer.com/projects/financial-analysis/virtual-cfo-australian-gaap-reporting",
@@ -47,39 +33,25 @@
       "score": 406
     },
     {
-      "title": "OCR WhatsApp Photo Data Extractor",
-      "url": "https://www.freelancer.com/projects/optical-character-recognition/ocr-whatsapp-photo-data-extractor",
-      "budget_raw": "$72 Average bid",
-      "desc": "I receive a steady flow of vehicle-related photos on WhatsApp and I need the key information both the licence-plate number and the odometer reading pulled out automatically. Your task is to build an AI-powered vision pipeline (Tesseract, EasyOCR, Google Vision, or any equivalent you trust) that inge",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 72,
-      "hourly": false,
-      "flags": [],
-      "score": 211
-    },
-    {
-      "title": "24/7 Python CLI on AWS with claude ai",
-      "url": "https://www.freelancer.com/projects/devops/python-cli-aws-with-claude",
-      "budget_raw": "$313 Average bid",
-      "desc": "I need my existing Python-based CLI and the accompanying Claude code deployed on AWS so the script can run non-stop, recover automatically from any failure, and alert me the moment something goes wrong. At the moment I do not have an AWS account in place, so part of the job involves guiding me throu",
-      "bids": 25,
+      "title": "Senior Accountant for Full Oversight",
+      "url": "https://www.freelancer.com/projects/accounting/senior-accountant-for-full-oversight",
+      "budget_raw": "$211 Average bid",
+      "desc": "I need a seasoned Senior Accountant to take full ownership of our finance function. All day-to-day bookkeeping is done in Tally, so you ll be comfortable working inside that environment while keeping everything synced with Excel for analysis. Your core mandate is to maintain clean, audit-ready books",
+      "bids": 8,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 313,
+      "usd": 211,
       "hourly": false,
       "flags": [],
-      "score": 137
+      "score": 197
     },
     {
       "title": "Automated Excel Performance Dashboard",
       "url": "https://www.freelancer.com/projects/data-analysis/automated-excel-performance-dashboard",
       "budget_raw": "$188 Average bid",
       "desc": "I need a single Excel workbook that turns my monthly sales and inventory figures into clear, automated insights. Once I drop raw data into a dedicated sheet, every other page in the file should refresh instantly, giving me: Dynamic graphs and charts that highlight month-to-month performance shifts C",
-      "bids": 34,
+      "bids": 36,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
@@ -89,32 +61,60 @@
       "score": 132
     },
     {
-      "title": "AI-Driven Customer Data Analytics Pipeline",
-      "url": "https://www.freelancer.com/projects/big-data-sales/driven-customer-data-analytics-pipeline",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I need an automated AI-driven customer data analytics pipeline that can process data from CSV files and a live PostgreSQL database. The solution should: - Automatically clean, validate, and standardize raw customer data. - Combine CRM, support ticket, and purchase-history data. - Use Python, SQL, pa",
-      "bids": 30,
+      "title": "24/7 Python CLI on AWS with claude ai",
+      "url": "https://www.freelancer.com/projects/devops/python-cli-aws-with-claude",
+      "budget_raw": "$315 Average bid",
+      "desc": "I need my existing Python-based CLI and the accompanying Claude code deployed on AWS so the script can run non-stop, recover automatically from any failure, and alert me the moment something goes wrong. At the moment I do not have an AWS account in place, so part of the job involves guiding me throu",
+      "bids": 26,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 315,
+      "hourly": false,
+      "flags": [],
+      "score": 129
+    },
+    {
+      "title": "OCR WhatsApp Photo Data Extractor",
+      "url": "https://www.freelancer.com/projects/optical-character-recognition/ocr-whatsapp-photo-data-extractor",
+      "budget_raw": "$76 Average bid",
+      "desc": "I receive a steady flow of vehicle-related photos on WhatsApp and I need the key information both the licence-plate number and the odometer reading pulled out automatically. Your task is to build an AI-powered vision pipeline (Tesseract, EasyOCR, Google Vision, or any equivalent you trust) that inge",
+      "bids": 26,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 9,
+      "usd": 76,
+      "hourly": false,
+      "flags": [],
+      "score": 124
+    },
+    {
+      "title": "Ongoing Bookkeeping Support Required - Xero, Excel & Bank Reconciliation",
+      "url": "https://www.freelancer.com/projects/accounting/ongoing-bookkeeping-support-required",
+      "budget_raw": "$15 / hr Average bid",
+      "desc": "More details: Which tasks do you need help with? Generating financial reports in Excel What type of financial reports do you need? Profit and Loss Statement How frequently will you need the Profit and Loss Statement? Monthly",
+      "bids": 5,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 15,
       "hourly": true,
       "flags": [],
-      "score": 84
+      "score": 123
     },
     {
       "title": "Medical Device Data Analysis -- 2",
       "url": "https://www.freelancer.com/projects/data-analysis/medical-device-data-analysis",
       "budget_raw": "$26 / hr Average bid",
       "desc": "I need a data analyst to help analyse the output data values from various sensors of an electro-medical device, to fine tune its performance. The project needs to be completed within a month. Key tasks includes: - Analyzing existing medical device data in csv format - Identifying trends and patterns",
-      "bids": 10,
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 26,
       "hourly": true,
       "flags": [],
-      "score": 81
+      "score": 78
     },
     {
       "title": "Automated YouTube Ad Viewer",
@@ -127,20 +127,6 @@
       "fit": 3,
       "usd": 10,
       "hourly": true,
-      "flags": [],
-      "score": 75
-    },
-    {
-      "title": "Excel Intelligence Dashboard Update, Validation & Enhancement",
-      "url": "https://www.freelancer.com/projects/excel/excel-intelligence-dashboard-update",
-      "budget_raw": "$232 Average bid",
-      "desc": "Excel Intelligence Dashboard Update, Validation & Enhancement I am looking for an experienced Excel Dashboard / Data Visualization specialist to help me finalize and improve an existing offshore operations and well-monitoring dashboard. The dashboard is already approximately 90% completed. I built m",
-      "bids": 29,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 232,
-      "hourly": false,
       "flags": [],
       "score": 75
     },
@@ -159,18 +145,18 @@
       "score": 74
     },
     {
-      "title": "Daily Email Data Entry",
-      "url": "https://www.freelancer.com/projects/copy-typing/daily-email-data-entry",
-      "budget_raw": "$373 Average bid",
-      "desc": "I need a reliable assistant to extract text-based information from incoming emails and record it in a structured spreadsheet. Each day I ll forward or grant you access to a monitored mailbox; you will open every new message, pull the required fields, and add them to the shared Google Sheets file (Ex",
-      "bids": 25,
+      "title": "Excel Intelligence Dashboard Update, Validation & Enhancement",
+      "url": "https://www.freelancer.com/projects/excel/excel-intelligence-dashboard-update",
+      "budget_raw": "$229 Average bid",
+      "desc": "Excel Intelligence Dashboard Update, Validation & Enhancement I am looking for an experienced Excel Dashboard / Data Visualization specialist to help me finalize and improve an existing offshore operations and well-monitoring dashboard. The dashboard is already approximately 90% completed. I built m",
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 373,
+      "fit": 3,
+      "usd": 229,
       "hourly": false,
       "flags": [],
-      "score": 73
+      "score": 67
     },
     {
       "title": "Beginner-Friendly HR Recruitment Project",
@@ -187,6 +173,20 @@
       "score": 66
     },
     {
+      "title": "On-Site PLC/Robot Data Integration Expert",
+      "url": "https://www.freelancer.com/projects/plc/site-plc-robot-data-integration",
+      "budget_raw": "$1958 Average bid",
+      "desc": "PLC & Robot Data Integration Engineer Contract Project (4 Months) Project Type:Fixed Price Contract Budget: ₹3,00,000 (slightly negotiable) Duration: 4 months Location: On-site required (Satara, Maharashtra) remote-only freelancers will not be considered Start: Immediate --- Project Overview We run ",
+      "bids": 5,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 1958,
+      "hourly": false,
+      "flags": [],
+      "score": 64
+    },
+    {
       "title": "Social Media Data Mining",
       "url": "https://www.freelancer.com/projects/data-analysis/social-media-data-mining",
       "budget_raw": "$10 / hr Average bid",
@@ -201,32 +201,88 @@
       "score": 63
     },
     {
+      "title": "Automate GeM Portal Tender Data Extraction into Google Sheets",
+      "url": "https://www.freelancer.com/projects/google-sheets/automate-gem-portal-tender-data",
+      "budget_raw": "$4 / hr Average bid",
+      "desc": "I need an end-to-end pipeline that continuously pulls live tender information from the Government e-Marketplace (GeM) portal and posts it straight into a Google Sheet the moment a change occurs. The flow must run unattended, handling connection, extraction and write-back without manual triggers. The",
+      "bids": 16,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 4,
+      "hourly": true,
+      "flags": [],
+      "score": 62
+    },
+    {
+      "title": "AI-Driven Customer Data Analytics Pipeline",
+      "url": "https://www.freelancer.com/projects/big-data-sales/driven-customer-data-analytics-pipeline",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I need an automated AI-driven customer data analytics pipeline that can process data from CSV files and a live PostgreSQL database. The solution should: - Automatically clean, validate, and standardize raw customer data. - Combine CRM, support ticket, and purchase-history data. - Use Python, SQL, pa",
+      "bids": 33,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 6,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 59
+    },
+    {
+      "title": "Automation software Developer",
+      "url": "https://www.freelancer.com/projects/web-scraping/automation-software-developer",
+      "budget_raw": "$1009 Average bid",
+      "desc": "I'm looking to develop a Automation software on a website where we can auto book the date as per requirement with diffrent locations ! In the website there are five major locations which have to auto monitor and auto book as per requirement !",
+      "bids": 33,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 1009,
+      "hourly": false,
+      "flags": [],
+      "score": 56
+    },
+    {
+      "title": "Excel Integration of Live Indian Stock Data",
+      "url": "https://www.freelancer.com/projects/api/excel-integration-live-indian-stock",
+      "budget_raw": "$14 Average bid",
+      "desc": "I'm looking for a Python developer who can integrate real-time Indian stock market data into Excel. I want to use this data to execute trades based on my personal trading logic. Key Requirements: - Pull real-time stock prices from Indian markets (e.g., NSE, BSE). - Integrate this data into Excel in ",
+      "bids": 8,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 7,
+      "usd": 14,
+      "hourly": false,
+      "flags": [],
+      "score": 55
+    },
+    {
+      "title": "project lizard -- 2",
+      "url": "https://www.freelancer.com/projects/google-sheets/project-lizard",
+      "budget_raw": "$18 / hr Average bid",
+      "desc": "I need help keeping our online sales database current. Each weekday I export the latest transaction report from our e-commerce platforms and require every field order number, SKU, customer ID, quantities, totals, payment and shipping status entered into the cloud-based system we use for internal das",
+      "bids": 27,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 18,
+      "hourly": true,
+      "flags": [],
+      "score": 55
+    },
+    {
       "title": "Locate 2,000 Business Emails",
       "url": "https://www.freelancer.com/projects/data-collection/locate-business-emails",
       "budget_raw": "$8 / hr Average bid",
       "desc": "I have a spreadsheet with roughly 2,000 business contacts that includes each person s full name and the company they work for. I now need a clean, usable email address for every one of them. Here s what I m looking for: You ll research and locate a valid business-grade email for each contact, matchi",
-      "bids": 14,
+      "bids": 15,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 8,
       "hourly": true,
       "flags": [],
-      "score": 49
-    },
-    {
-      "title": "Clean Messy Excel Data - 19/08/2026 11:17 EDT",
-      "url": "https://www.freelancer.com/projects/data-analysis/clean-messy-excel-data-edt",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have several Excel spreadsheets that need a thorough clean-up. The main problem is rows sprinkled with missing values, and my goal is to eliminate those incomplete records entirely so every remaining row is analysis-ready. Please import each file, identify any blank cells in any column, and remove",
-      "bids": 18,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 46
+      "score": 47
     },
     {
       "title": "Clean Messy Excel Data",
@@ -257,18 +313,32 @@
       "score": 44
     },
     {
-      "title": "Survey Trend Analysis Specialist Needed",
-      "url": "https://www.freelancer.com/projects/data-analysis/survey-trend-analysis-specialist-needed",
-      "budget_raw": "$209 Average bid",
-      "desc": "I have a raw survey dataset that is ready for deeper exploration. My primary interest is to uncover and clearly present the trends hiding in the responses so that I can turn those insights into actionable decisions. You will receive the full spreadsheet (exported from Google Forms) along with a brie",
-      "bids": 26,
+      "title": "Clean Messy Excel Data - 19/08/2026 11:17 EDT",
+      "url": "https://www.freelancer.com/projects/data-analysis/clean-messy-excel-data-edt",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have several Excel spreadsheets that need a thorough clean-up. The main problem is rows sprinkled with missing values, and my goal is to eliminate those incomplete records entirely so every remaining row is analysis-ready. Please import each file, identify any blank cells in any column, and remove",
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 209,
-      "hourly": false,
+      "fit": 3,
+      "usd": 9,
+      "hourly": true,
       "flags": [],
-      "score": 38
+      "score": 44
+    },
+    {
+      "title": "Precise Spreadsheet Data Entry Support",
+      "url": "https://www.freelancer.com/projects/data-management/precise-spreadsheet-data-entry-support",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I have a steady flow of digital files that must be accurately transferred into Excel or a similar database on a recurring basis. The work is purely data entry no transcription from paper, no web-form scraping just clean, reliable input of figures and text from the digital documents I provide. Here i",
+      "bids": 5,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 41
     },
     {
       "title": "US Trucking Insurance Specialist",
@@ -280,6 +350,20 @@
       "verdict": "accept",
       "fit": 1,
       "usd": 406,
+      "hourly": false,
+      "flags": [],
+      "score": 36
+    },
+    {
+      "title": "Micro task specialist",
+      "url": "https://www.freelancer.com/projects/data-processing/micro-task-specialist-40659422",
+      "budget_raw": "$413 Average bid",
+      "desc": "Job Title: Micro Task Specialist Overview: Are you a detail-oriented individual with a knack for tackling micro tasks efficiently? We are seeking a skilled Micro Task Specialist to join our dynamic team. As a Micro Task Specialist, you will be at the forefront of optimizing processes, ensuring accur",
+      "bids": 13,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 413,
       "hourly": false,
       "flags": [],
       "score": 36
@@ -315,6 +399,78 @@
       "score": 33
     },
     {
+      "title": "Telecalling & Lead Generation Agency Required Insurance Business",
+      "url": "https://www.freelancer.com/projects/lead-generation/telecalling-lead-generation-agency",
+      "budget_raw": "$67 Average bid",
+      "desc": "I am looking for a professional telecalling / lead generation agency to work on a monthly basis for my financial services business. We deal in Life Insurance, Health Insurance and other financial protection products. Scope of Work: Outbound calling to provided / sourced databases Data mining and pro",
+      "bids": 2,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 67,
+      "hourly": false,
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 33
+    },
+    {
+      "title": "Survey Trend Analysis Specialist Needed",
+      "url": "https://www.freelancer.com/projects/data-analysis/survey-trend-analysis-specialist-needed",
+      "budget_raw": "$209 Average bid",
+      "desc": "I have a raw survey dataset that is ready for deeper exploration. My primary interest is to uncover and clearly present the trends hiding in the responses so that I can turn those insights into actionable decisions. You will receive the full spreadsheet (exported from Google Forms) along with a brie",
+      "bids": 28,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 209,
+      "hourly": false,
+      "flags": [],
+      "score": 33
+    },
+    {
+      "title": "Excel Macro Automation Developer",
+      "url": "https://www.freelancer.com/projects/excel-macros/excel-macro-automation-developer",
+      "budget_raw": "$12 Average bid",
+      "desc": "I already keep all of our operational data in a single Excel workbook, yet every update still forces me to run lengthy formulas by hand. I now want that entire data-processing chain especially the complex calculations wrapped into clean, reliable VBA macros. Here is what I need the finished workbook",
+      "bids": 11,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 6,
+      "usd": 12,
+      "hourly": false,
+      "flags": [],
+      "score": 31
+    },
+    {
+      "title": "Daily Email Data Entry",
+      "url": "https://www.freelancer.com/projects/copy-typing/daily-email-data-entry",
+      "budget_raw": "$383 Average bid",
+      "desc": "I need a reliable assistant to extract text-based information from incoming emails and record it in a structured spreadsheet. Each day I ll forward or grant you access to a monitored mailbox; you will open every new message, pull the required fields, and add them to the shared Google Sheets file (Ex",
+      "bids": 40,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 383,
+      "hourly": false,
+      "flags": [],
+      "score": 30
+    },
+    {
+      "title": "Parcel ID No. 03042601133 / 16205 Zion Road Boundary Survey Report",
+      "url": "https://www.freelancer.com/projects/land-surveying/parcel-zion-road-boundary-survey",
+      "budget_raw": "$250 Average bid",
+      "desc": "I need a licensed North Carolina land surveyor to establish and document the exact boundary of my property. My primary goal is to confirm and mark every corner, uncover any potential encroachments, and generate an updated legal description that can be filed with the county. I already hold some deeds",
+      "bids": 4,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 250,
+      "hourly": false,
+      "flags": [],
+      "score": 29
+    },
+    {
       "title": "Affiliate Deal Post Automation",
       "url": "https://www.freelancer.com/projects/api/affiliate-deal-post-automation",
       "budget_raw": "$14 Average bid",
@@ -327,20 +483,6 @@
       "hourly": false,
       "flags": [],
       "score": 27
-    },
-    {
-      "title": "Parcel ID No. 03042601133 / 16205 Zion Road Boundary Survey Report",
-      "url": "https://www.freelancer.com/projects/land-surveying/parcel-zion-road-boundary-survey",
-      "budget_raw": "$200 Average bid",
-      "desc": "I need a licensed North Carolina land surveyor to establish and document the exact boundary of my property. My primary goal is to confirm and mark every corner, uncover any potential encroachments, and generate an updated legal description that can be filed with the county. I already hold some deeds",
-      "bids": 2,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 200,
-      "hourly": false,
-      "flags": [],
-      "score": 25
     },
     {
       "title": "Online Form Filling Assistance",
@@ -373,28 +515,14 @@
     {
       "title": "Telegram Button-Driven Reply Bot",
       "url": "https://www.freelancer.com/projects/api-developmet/telegram-button-driven-reply-bot",
-      "budget_raw": "$23 Average bid",
+      "budget_raw": "$22 Average bid",
       "desc": "I need a professional Telegram Digital Key Store Bot similar to the reference screenshot. Main features: Shop categories, products, pricing and product details Wallet System users can add balance to their wallet Payment Gateway automatic payment verification and wallet credit Key Purchase user selec",
       "bids": 7,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 23,
+      "usd": 22,
       "hourly": false,
-      "flags": [],
-      "score": 17
-    },
-    {
-      "title": "Excel Data Deduplication Expert",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-deduplication-expert",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a customer spreadsheet that needs a careful duplicate sweep. The task is to look only at the Name column, spot both obvious (exact-text) and less obvious (fuzzy) repeats, and then visually flag every duplicate rather than deleting or moving them. A light colour fill or conditional-format rule",
-      "bids": 23,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
       "flags": [],
       "score": 16
     },
@@ -413,6 +541,20 @@
       "score": 15
     },
     {
+      "title": "Excel Data Deduplication Expert",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-deduplication-expert",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a customer spreadsheet that needs a careful duplicate sweep. The task is to look only at the Name column, spot both obvious (exact-text) and less obvious (fuzzy) repeats, and then visually flag every duplicate rather than deleting or moving them. A light colour fill or conditional-format rule",
+      "bids": 24,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 15
+    },
+    {
       "title": "Amazon & Flipkart Medical Listings",
       "url": "https://www.freelancer.com/projects/amazon/amazon-flipkart-medical-listings-40647332",
       "budget_raw": "$234 Average bid",
@@ -425,148 +567,6 @@
       "hourly": false,
       "flags": [],
       "score": 11
-    },
-    {
-      "title": "Copy Website Tables to Excel",
-      "url": "https://www.freelancer.com/projects/data-management/copy-website-tables-excel",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I need all text that appears in the website s structured tables transferred into a clean Excel workbook. Each table on the site has between one and three columns, so the spreadsheet should mirror that simple layout sheet-for-sheet, preserving the original column order and any header labels exactly a",
-      "bids": 34,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 11
-    },
-    {
-      "title": "Manual Excel Data Entry - 17/08/2026 06:44 EDT",
-      "url": "https://www.freelancer.com/projects/data-analysis/manual-excel-data-entry-edt",
-      "budget_raw": "$1 / hr Average bid",
-      "desc": "I have a collection of Excel workbooks that need fresh data entered by hand. No macros, web-scraping, or automated imports just careful, manual typing to make sure each value is placed in the correct cell. You will be working exclusively in Excel, focusing only on data input. I have already structur",
-      "bids": 23,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 1,
-      "hourly": true,
-      "flags": [],
-      "score": 9
-    },
-    {
-      "title": "ZOMATA Resutaurant Management Analysis.",
-      "url": "https://www.freelancer.com/projects/business-analytics/zomata-resutaurant-management-analysis",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "1. Project Overview / Heading Title: Zomato Restaurant Data Analysis Dashboard Domain: Food Delivery / Restaurant Analytics Tool Used: Power BI (dashboard UI se clear hai) Purpose: Zomato platform par available restaurants ka comprehensive analysis price, ratings, delivery time, city & area distribu",
-      "bids": 13,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 7
-    },
-    {
-      "title": "Technology B2C Lead Generation",
-      "url": "https://www.freelancer.com/projects/lead-generation/technology-lead-generation",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I need a steady stream of fresh consumer leads in the technology space. My priority is quality over sheer volume: every contact you deliver must include a valid email address and phone number so my team can launch personalised outreach right away. Your approach is up to you scraping public sources, ",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 5,
-      "hourly": true,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 7
-    },
-    {
-      "title": "Transfer Website JPEGs to Database",
-      "url": "https://www.freelancer.com/projects/database-management/transfer-website-jpegs-database",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I have a collection of JPEG images hosted on a website that need to be copied over and inserted into my database. The task is straightforward: pull each JPEG from the site and upload it to the designated tables and fields so everything is properly stored and retrievable on my end. Accuracy matters I",
-      "bids": 36,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Auto-Login & Chatbot",
-      "url": "https://www.freelancer.com/projects/php/auto-login-chatbot",
-      "budget_raw": "$2 / hr Average bid",
-      "desc": "I need a small application that can log in to multiple streaming platform accounts automatically, each one routed through its own static residential proxy. Credentials for every account and the corresponding proxy details will be supplied in a simple file or database; the script should pick each pai",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 2,
-      "hourly": true,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Facebook Text Data Collection",
-      "url": "https://www.freelancer.com/projects/data-collection/facebook-text-data-collection",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I need a reliable contributor who can gather English-language text from Facebook and package it into a clean, well-structured dataset that can be used for downstream AI/NLP experimentation. The assignment is exclusively text-based; no images, audio, or mixed-media assets are required. Scope of work ",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Gold Claims Recon Specialist",
-      "url": "https://www.freelancer.com/projects/geology/gold-claims-recon-specialist",
-      "budget_raw": "$13029 Average bid",
-      "desc": "I'm seeking a skilled professional to assist with on-the-ground reconnaissance for gold claims in Alaska. Key Tasks: - Utilize government databases, local geological surveys, and historical mining records to research available claims. - Conduct on-the-ground reconnaissance to gather information on h",
-      "bids": 17,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 13029,
-      "hourly": false,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Excel Inventory Management System Creation",
-      "url": "https://www.freelancer.com/projects/data-entry/excel-inventory-management-system-40658949",
-      "budget_raw": "$23 Average bid",
-      "desc": "## Project Overview I created a professional Excel-based inventory management system designed to help a small business organize products, monitor stock levels, and track inventory value efficiently. ### Key Features * Product ID and product information management * Product categories and supplier re",
-      "bids": 16,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 23,
-      "hourly": false,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Automate GLPI Technician Reports",
-      "url": "https://www.freelancer.com/projects/automation/automate-glpi-technician-reports",
-      "budget_raw": "$55 Average bid",
-      "desc": "I need GLPI to email out daily, weekly, and monthly technician-performance reports without manual intervention. Each report must pull the number of tickets each tech resolved and their average resolution time, then compile that data into a clean PDF ready for management review. Delivery is needed AS",
-      "bids": 9,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 55,
-      "hourly": false,
-      "flags": [],
-      "score": 6
     }
   ],
   "refused": [
@@ -591,12 +591,16 @@
       "reason": "listă masivă de date personale — GDPR și spam"
     },
     {
-      "title": "AI Quiz-Taking Automation",
-      "reason": "fraudă academică"
+      "title": "WhatsApp API Bulk Messaging",
+      "reason": "spam în masă"
     },
     {
-      "title": "LinkedIn Connection & Messaging Automation",
-      "reason": "automatizare LinkedIn — încalcă termenii platformei"
+      "title": "WhatsApp API Bulk Marketing Setup",
+      "reason": "spam în masă"
+    },
+    {
+      "title": "TikTok Bot for Advanced Automation",
+      "reason": "extragere din rețele sociale — încalcă termenii platformei"
     },
     {
       "title": "Scalping Crypto Trading Bot Development",
@@ -607,7 +611,7 @@
       "reason": "listă masivă de date personale — GDPR și spam"
     },
     {
-      "title": "Verified Email & Mobile Number Collection",
+      "title": "Bulk Email Database Verification Professional",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     }
   ]
