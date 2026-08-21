@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-21T06:53:27.805Z",
+  "generated_at": "2026-08-21T14:40:12.754Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 160,
+  "events_total": 165,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 27
+      "actions": 28
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 29
+      "actions": 30
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 70
+      "actions": 72
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 34
+      "actions": 35
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-21T14:40:12.702Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1116 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-21T14:39:22.616Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 505,
+      "status": null,
+      "desc": "Cel mai bun job: Automate AI Lecture Notes Rewriting",
+      "evidence": "https://www.freelancer.com/projects/python/automate-lecture-notes-rewriting",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-21T14:39:22.616Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 210 proiecte scanate → 51 potrivite, 13 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-21T14:39:09.278Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 3 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-21T14:38:13.869Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 635 candidați → 0 bounty-uri reale (635 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-21T06:53:27.748Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 776 candidați → 0 bounty-uri reale (776 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-17T14:34:10.743Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1118 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-17T14:33:22.959Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 431,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-17T14:33:22.959Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 220 proiecte scanate → 44 potrivite, 11 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-17T14:33:07.903Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 48 scanate, 2 eligibile după citirea regulamentelor (46 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-17T14:32:21.508Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 774 candidați → 0 bounty-uri reale (774 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 3,
-    "rejected": 676,
+    "rejected": 680,
     "top": [
       {
         "source": "comp-radar",
@@ -646,12 +646,12 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 242,
+        "score": 238,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 620,
-        "per_slot": 207,
-        "days_left": 27,
+        "participants": 629,
+        "per_slot": 210,
+        "days_left": 26,
         "objective": true
       },
       {
@@ -659,14 +659,14 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "VoltHacks",
-        "url": "https://volthacks.devpost.com/",
-        "score": 107,
-        "prize_usd": 35785,
-        "slots": 5,
-        "participants": 1679,
-        "per_slot": 336,
-        "days_left": 16,
+        "title": "Agentic Cinema: The Blockbuster Hackathon",
+        "url": "https://agentic-cinema.devpost.com/",
+        "score": 160,
+        "prize_usd": 75000,
+        "slots": 15,
+        "participants": 7052,
+        "per_slot": 470,
+        "days_left": 19,
         "objective": false
       },
       {
@@ -679,8 +679,8 @@
         "score": 45,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1753,
-        "per_slot": 438,
+        "participants": 1761,
+        "per_slot": 440,
         "days_left": 4,
         "objective": true
       }
@@ -688,11 +688,11 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 291
+        "count": 294
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 195
+        "count": 193
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -704,30 +704,30 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 30
+        "count": 32
       },
       {
         "reason": "prea competitiv",
-        "count": 25
+        "count": 26
       },
       {
         "reason": "fără premiu în bani",
-        "count": 12
+        "count": 13
       },
       {
         "reason": "regulament necitibil",
-        "count": 12
+        "count": 8
       },
       {
         "reason": "participare restricționată",
-        "count": 6
-      },
-      {
-        "reason": "premiu prea mic",
-        "count": 5
+        "count": 7
       },
       {
         "reason": "prea aglomerat",
+        "count": 7
+      },
+      {
+        "reason": "premiu prea mic",
         "count": 5
       },
       {
