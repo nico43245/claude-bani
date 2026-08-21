@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-21T14:40:12.754Z",
+  "generated_at": "2026-08-21T22:29:55.265Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 165,
+  "events_total": 170,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 28
+      "actions": 29
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 30
+      "actions": 31
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 72
+      "actions": 74
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 35
+      "actions": 36
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-21T22:29:55.216Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1115 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-21T22:29:06.404Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 3,
+      "status": null,
+      "desc": "Cel mai bun job: Automation Developer Needed (On-site, New Delhi) GeM Portal Data Extraction into",
+      "evidence": "https://www.freelancer.com/projects/api/automation-developer-needed-site-new",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-21T22:29:06.404Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 206 proiecte scanate → 52 potrivite, 11 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-21T22:28:52.217Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 47 scanate, 3 eligibile după citirea regulamentelor (44 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-21T22:27:57.132Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 635 candidați → 0 bounty-uri reale (635 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-21T14:40:12.702Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 778 candidați → 0 bounty-uri reale (778 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-17T22:29:33.554Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1117 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-17T22:28:45.813Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 431,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-17T22:28:45.812Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 215 proiecte scanate → 39 potrivite, 13 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-17T22:28:32.088Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 47 scanate, 3 eligibile după citirea regulamentelor (44 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-17T22:27:39.678Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 776 candidați → 0 bounty-uri reale (776 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 3,
-    "rejected": 680,
+    "rejected": 679,
     "top": [
       {
         "source": "comp-radar",
@@ -649,7 +649,7 @@
         "score": 238,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 629,
+        "participants": 631,
         "per_slot": 210,
         "days_left": 26,
         "objective": true
@@ -661,11 +661,11 @@
         "reason": null,
         "title": "Agentic Cinema: The Blockbuster Hackathon",
         "url": "https://agentic-cinema.devpost.com/",
-        "score": 160,
+        "score": 153,
         "prize_usd": 75000,
         "slots": 15,
-        "participants": 7052,
-        "per_slot": 470,
+        "participants": 7330,
+        "per_slot": 489,
         "days_left": 19,
         "objective": false
       },
@@ -679,9 +679,9 @@
         "score": 45,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1761,
-        "per_slot": 440,
-        "days_left": 4,
+        "participants": 1763,
+        "per_slot": 441,
+        "days_left": 3,
         "objective": true
       }
     ],
@@ -692,18 +692,18 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 193
+        "count": 192
       },
       {
         "reason": "repo-fermă învățat automat",
         "count": 44
       },
       {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 32
+        "reason": "fără dovadă de finanțare",
+        "count": 33
       },
       {
-        "reason": "fără dovadă de finanțare",
+        "reason": "fork (task sintetic de benchmark)",
         "count": 32
       },
       {
@@ -716,7 +716,7 @@
       },
       {
         "reason": "regulament necitibil",
-        "count": 8
+        "count": 9
       },
       {
         "reason": "participare restricționată",
@@ -724,11 +724,7 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 7
-      },
-      {
-        "reason": "premiu prea mic",
-        "count": 5
+        "count": 6
       },
       {
         "reason": "proiect inactiv",
@@ -740,6 +736,10 @@
       },
       {
         "reason": "revendicat activ",
+        "count": 4
+      },
+      {
+        "reason": "premiu prea mic",
         "count": 4
       },
       {
