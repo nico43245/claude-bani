@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-21T22:29:55.265Z",
+  "generated_at": "2026-08-22T06:44:50.231Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 170,
+  "events_total": 175,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 29
+      "actions": 30
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 31
+      "actions": 32
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 74
+      "actions": 76
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 36
+      "actions": 37
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-22T06:44:50.179Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1115 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-22T06:44:03.774Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-22T06:44:03.774Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 208 proiecte scanate → 54 potrivite, 8 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-22T06:43:50.693Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 3 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-22T06:42:56.517Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 637 candidați → 0 bounty-uri reale (637 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-21T22:29:55.216Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 784 candidați → 0 bounty-uri reale (784 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-18T06:48:41.344Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1117 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-18T06:47:54.965Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 50,
-      "status": null,
-      "desc": "Cel mai bun job: Am lioration Qualit Gestion Donn es",
-      "evidence": "https://www.freelancer.com/projects/data-analysis/lioration-qualit-gestion-donn",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-18T06:47:54.965Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 212 proiecte scanate → 40 potrivite, 12 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-18T06:47:41.846Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 46 scanate, 4 eligibile după citirea regulamentelor (42 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-18T06:46:53.509Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 778 candidați → 0 bounty-uri reale (778 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 3,
-    "rejected": 679,
+    "rejected": 682,
     "top": [
       {
         "source": "comp-radar",
@@ -661,11 +661,11 @@
         "reason": null,
         "title": "Agentic Cinema: The Blockbuster Hackathon",
         "url": "https://agentic-cinema.devpost.com/",
-        "score": 153,
+        "score": 152,
         "prize_usd": 75000,
         "slots": 15,
-        "participants": 7330,
-        "per_slot": 489,
+        "participants": 7395,
+        "per_slot": 493,
         "days_left": 19,
         "objective": false
       },
@@ -679,7 +679,7 @@
         "score": 45,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1763,
+        "participants": 1764,
         "per_slot": 441,
         "days_left": 3,
         "objective": true
@@ -688,19 +688,19 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 294
+        "count": 297
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 192
+        "count": 190
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 44
+        "count": 42
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 33
+        "count": 34
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -720,15 +720,15 @@
       },
       {
         "reason": "participare restricționată",
-        "count": 7
+        "count": 8
+      },
+      {
+        "reason": "proiect inactiv",
+        "count": 6
       },
       {
         "reason": "prea aglomerat",
         "count": 6
-      },
-      {
-        "reason": "proiect inactiv",
-        "count": 4
       },
       {
         "reason": "repo prea nou",

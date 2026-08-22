@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:29:55.215Z",
+  "generated_at": "2026-08-22T06:44:50.178Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 36,
+        "mentions": 35,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-05-27"
           }
         ],
-        "score": 126
+        "score": 123
       },
       {
         "theme": "web",
@@ -94,7 +94,7 @@
       },
       {
         "theme": "hours",
-        "mentions": 82,
+        "mentions": 83,
         "engagement": 11,
         "evidence": [
           {
@@ -118,11 +118,11 @@
             "date": "2026-05-01"
           }
         ],
-        "score": 90
+        "score": 91
       },
       {
         "theme": "spend",
-        "mentions": 79,
+        "mentions": 80,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 87
+        "score": 88
       },
       {
         "theme": "hate",
@@ -205,6 +205,34 @@
         "score": 86
       },
       {
+        "theme": "code",
+        "mentions": 55,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
+            "url": "https://news.ycombinator.com/item?id=48522853",
+            "date": "2026-06-14"
+          },
+          {
+            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
+            "url": "https://news.ycombinator.com/item?id=48275865",
+            "date": "2026-05-26"
+          }
+        ],
+        "score": 80
+      },
+      {
         "theme": "built",
         "mentions": 26,
         "engagement": 164,
@@ -228,34 +256,6 @@
             "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
             "url": "https://news.ycombinator.com/item?id=44767486",
             "date": "2025-08-02"
-          }
-        ],
-        "score": 79
-      },
-      {
-        "theme": "code",
-        "mentions": 54,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
-            "url": "https://news.ycombinator.com/item?id=48522853",
-            "date": "2026-06-14"
-          },
-          {
-            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
-            "url": "https://news.ycombinator.com/item?id=48275865",
-            "date": "2026-05-26"
           }
         ],
         "score": 79
@@ -1156,6 +1156,20 @@
         "score": 270
       },
       {
+        "subject": "pdf",
+        "queries": 14,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 201
+      },
+      {
         "subject": "monthly",
         "queries": 9,
         "seed_spread": 6,
@@ -1170,24 +1184,10 @@
         "score": 189
       },
       {
-        "subject": "pdf",
-        "queries": 13,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for adhd",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for 2025"
-        ],
-        "score": 186
-      },
-      {
         "subject": "printable",
         "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.2,
+        "avg_branches": 9.7,
         "examples": [
           "printable planner for july 2026",
           "printable planner for adhd",
@@ -1195,7 +1195,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 167
+        "score": 170
       },
       {
         "subject": "download",
@@ -1266,6 +1266,20 @@
           "notion template for school"
         ],
         "score": 125
+      },
+      {
+        "subject": "college",
+        "queries": 7,
+        "seed_spread": 5,
+        "avg_branches": 9,
+        "examples": [
+          "notion template for college students",
+          "notion template for students",
+          "notion template for school",
+          "google sheets template for college application",
+          "spreadsheet to track college applications"
+        ],
+        "score": 121
       },
       {
         "subject": "tracker",
@@ -1380,20 +1394,6 @@
         "score": 85
       },
       {
-        "subject": "college",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 8.8,
-        "examples": [
-          "notion template for college students",
-          "notion template for students",
-          "notion template for school",
-          "google sheets template for college application",
-          "spreadsheet to track college applications"
-        ],
-        "score": 82
-      },
-      {
         "subject": "create",
         "queries": 6,
         "seed_spread": 4,
@@ -1406,20 +1406,6 @@
           "tracking template for google ads"
         ],
         "score": 82
-      },
-      {
-        "subject": "kids",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for adhd",
-          "printable planner for kids",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
-        ],
-        "score": 75
       },
       {
         "subject": "income",
@@ -1453,15 +1439,15 @@
         "subject": "list",
         "queries": 5,
         "seed_spread": 4,
-        "avg_branches": 9,
+        "avg_branches": 9.2,
         "examples": [
           "excel template for inventory",
           "google sheets template for college application",
           "printable planner for the week",
-          "checklist for moving out of state",
-          "checklist for kindergarten readiness"
+          "checklist for college dorm",
+          "checklist for moving out of state"
         ],
-        "score": 69
+        "score": 70
       },
       {
         "subject": "weekly",
@@ -1502,6 +1488,20 @@
           "how do i keep track of my calorie intake",
           "best planner for small business",
           "best planner for small business owner 2025"
+        ],
+        "score": 65
+      },
+      {
+        "subject": "kids",
+        "queries": 6,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for adhd",
+          "printable planner for kids",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 65
       },
