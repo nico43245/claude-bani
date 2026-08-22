@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-22T14:26:11.585Z",
+  "generated_at": "2026-08-22T22:26:47.108Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 180,
+  "events_total": 185,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 31
+      "actions": 32
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 33
+      "actions": 34
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 78
+      "actions": 80
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 38
+      "actions": 39
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-22T22:26:47.066Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1115 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-22T22:25:59.204Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 185,
+      "status": null,
+      "desc": "Cel mai bun job: Daily Contact Info Entry",
+      "evidence": "https://www.freelancer.com/projects/data-annotation/daily-contact-info-entry",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-22T22:25:59.204Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 205 proiecte scanate → 52 potrivite, 11 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-22T22:25:44.844Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 47 scanate, 3 eligibile după citirea regulamentelor (44 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-22T22:24:50.426Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 641 candidați → 0 bounty-uri reale (641 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-22T14:26:11.536Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 773 candidați → 0 bounty-uri reale (773 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-18T22:28:24.145Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1117 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-18T22:27:34.631Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 50,
-      "status": null,
-      "desc": "Cel mai bun job: Am lioration Qualit Gestion Donn es",
-      "evidence": "https://www.freelancer.com/projects/data-analysis/lioration-qualit-gestion-donn",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-18T22:27:34.631Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 211 proiecte scanate → 49 potrivite, 9 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-18T22:27:20.565Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 45 scanate, 3 eligibile după citirea regulamentelor (42 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-18T22:26:30.421Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 781 candidați → 0 bounty-uri reale (781 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 3,
-    "rejected": 682,
+    "rejected": 685,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 237,
+        "score": 236,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 632,
-        "per_slot": 211,
+        "participants": 636,
+        "per_slot": 212,
         "days_left": 25,
         "objective": true
       },
@@ -659,14 +659,14 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "Agents for Humans Hackathon",
-        "url": "https://agentsforhumans.devpost.com/",
-        "score": 89,
-        "prize_usd": 40000,
-        "slots": 10,
-        "participants": 4472,
-        "per_slot": 447,
-        "days_left": 23,
+        "title": "Agentic Cinema: The Blockbuster Hackathon",
+        "url": "https://agentic-cinema.devpost.com/",
+        "score": 146,
+        "prize_usd": 75000,
+        "slots": 15,
+        "participants": 7698,
+        "per_slot": 513,
+        "days_left": 18,
         "objective": false
       },
       {
@@ -676,19 +676,19 @@
         "reason": null,
         "title": "Africa Deep Tech Challenge 2026",
         "url": "https://adtc-2026.devpost.com/",
-        "score": 45,
+        "score": 44,
         "prize_usd": 16500,
         "slots": 4,
-        "participants": 1773,
-        "per_slot": 443,
-        "days_left": 3,
+        "participants": 1785,
+        "per_slot": 446,
+        "days_left": 2,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 318
+        "count": 319
       },
       {
         "reason": "organizație-fermă cunoscută",
@@ -700,7 +700,7 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 34
+        "count": 35
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -708,27 +708,27 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 26
+        "count": 27
       },
       {
         "reason": "fără premiu în bani",
-        "count": 14
+        "count": 15
       },
       {
-        "reason": "participare restricționată",
-        "count": 8
+        "reason": "regulament necitibil",
+        "count": 10
       },
       {
         "reason": "proiect inactiv",
         "count": 6
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "participare restricționată",
         "count": 6
       },
       {
-        "reason": "regulament necitibil",
-        "count": 6
+        "reason": "prea aglomerat",
+        "count": 5
       },
       {
         "reason": "repo prea nou",
@@ -739,11 +739,11 @@
         "count": 4
       },
       {
-        "reason": "premiu prea mic",
-        "count": 4
+        "reason": "prea puțin timp de construit",
+        "count": 3
       },
       {
-        "reason": "prea puțin timp de construit",
+        "reason": "premiu prea mic",
         "count": 3
       },
       {
@@ -753,10 +753,6 @@
       {
         "reason": "termen necunoscut",
         "count": 2
-      },
-      {
-        "reason": "premiul nu e în bani",
-        "count": 1
       }
     ]
   }

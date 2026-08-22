@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T14:26:11.535Z",
+  "generated_at": "2026-08-22T22:26:47.065Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -38,7 +38,7 @@
       },
       {
         "theme": "web",
-        "mentions": 24,
+        "mentions": 25,
         "engagement": 537,
         "evidence": [
           {
@@ -62,7 +62,7 @@
             "date": "2026-06-17"
           }
         ],
-        "score": 111
+        "score": 114
       },
       {
         "theme": "wish",
@@ -205,6 +205,34 @@
         "score": 86
       },
       {
+        "theme": "built",
+        "mentions": 27,
+        "engagement": 164,
+        "evidence": [
+          {
+            "text": "I built cloud transcoding 50x cheaper than AWS/Coconut/others – anyone need it?",
+            "url": "https://news.ycombinator.com/item?id=46473479",
+            "date": "2026-01-03"
+          },
+          {
+            "text": ">Built this in about 3 hours Why did you include this? No developer is going to read that and think \"I bet this is polished and well thought-out - take my money",
+            "url": "https://news.ycombinator.com/item?id=46690321",
+            "date": "2026-01-20"
+          },
+          {
+            "text": "Likewise! I built my personal blog with Astro and host on Cloudflare (username.dev), and feel guilty about taking advantage of such excellent software and free ",
+            "url": "https://news.ycombinator.com/item?id=46649002",
+            "date": "2026-01-16"
+          },
+          {
+            "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
+            "url": "https://news.ycombinator.com/item?id=44767486",
+            "date": "2025-08-02"
+          }
+        ],
+        "score": 81
+      },
+      {
         "theme": "code",
         "mentions": 55,
         "engagement": 41,
@@ -233,32 +261,32 @@
         "score": 80
       },
       {
-        "theme": "built",
+        "theme": "search",
         "mentions": 26,
-        "engagement": 164,
+        "engagement": 155,
         "evidence": [
           {
-            "text": "I built cloud transcoding 50x cheaper than AWS/Coconut/others – anyone need it?",
-            "url": "https://news.ycombinator.com/item?id=46473479",
-            "date": "2026-01-03"
+            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
+            "url": "https://news.ycombinator.com/item?id=49360925",
+            "date": "2026-08-19"
           },
           {
-            "text": ">Built this in about 3 hours Why did you include this? No developer is going to read that and think \"I bet this is polished and well thought-out - take my money",
-            "url": "https://news.ycombinator.com/item?id=46690321",
-            "date": "2026-01-20"
+            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
+            "url": "https://news.ycombinator.com/item?id=49068074",
+            "date": "2026-07-27"
           },
           {
-            "text": "Likewise! I built my personal blog with Astro and host on Cloudflare (username.dev), and feel guilty about taking advantage of such excellent software and free ",
-            "url": "https://news.ycombinator.com/item?id=46649002",
-            "date": "2026-01-16"
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
           },
           {
-            "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
-            "url": "https://news.ycombinator.com/item?id=44767486",
-            "date": "2025-08-02"
+            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
+            "url": "https://news.ycombinator.com/item?id=49197069",
+            "date": "2026-08-06"
           }
         ],
-        "score": 79
+        "score": 78
       },
       {
         "theme": "apps",
@@ -287,34 +315,6 @@
           }
         ],
         "score": 78
-      },
-      {
-        "theme": "search",
-        "mentions": 25,
-        "engagement": 155,
-        "evidence": [
-          {
-            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
-            "url": "https://news.ycombinator.com/item?id=49360925",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
-            "url": "https://news.ycombinator.com/item?id=49068074",
-            "date": "2026-07-27"
-          },
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
-            "url": "https://news.ycombinator.com/item?id=49197069",
-            "date": "2026-08-06"
-          }
-        ],
-        "score": 76
       },
       {
         "theme": "it.",
@@ -458,7 +458,7 @@
       },
       {
         "theme": "different",
-        "mentions": 33,
+        "mentions": 34,
         "engagement": 70,
         "evidence": [
           {
@@ -482,7 +482,7 @@
             "date": "2026-08-20"
           }
         ],
-        "score": 67
+        "score": 69
       },
       {
         "theme": "system",
@@ -821,29 +821,29 @@
         "score": 52
       },
       {
-        "theme": "project",
-        "mentions": 28,
-        "engagement": 45,
+        "theme": "software",
+        "mentions": 32,
+        "engagement": 35,
         "evidence": [
           {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
           },
           {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
+            "text": "That would pay for so many millions of dollars of dev time. It would be a big win-win if you could organize that deal. In the tradeoff between more dev time and",
+            "url": "https://news.ycombinator.com/item?id=48680826",
+            "date": "2026-06-26"
           },
           {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
+            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
+            "url": "https://news.ycombinator.com/item?id=48522853",
+            "date": "2026-06-14"
           },
           {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
+            "text": "> [C]onsumers, on the other hand, are mostly looking to waste time, which is why attention- harvesting advertising is the only software business model that work",
+            "url": "https://news.ycombinator.com/item?id=48462105",
+            "date": "2026-06-09"
           }
         ],
         "score": 52
