@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:44:50.178Z",
+  "generated_at": "2026-08-22T14:26:11.535Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -1187,7 +1187,7 @@
         "subject": "printable",
         "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9.2,
         "examples": [
           "printable planner for july 2026",
           "printable planner for adhd",
@@ -1195,7 +1195,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 170
+        "score": 167
       },
       {
         "subject": "download",
@@ -1266,20 +1266,6 @@
           "notion template for school"
         ],
         "score": 125
-      },
-      {
-        "subject": "college",
-        "queries": 7,
-        "seed_spread": 5,
-        "avg_branches": 9,
-        "examples": [
-          "notion template for college students",
-          "notion template for students",
-          "notion template for school",
-          "google sheets template for college application",
-          "spreadsheet to track college applications"
-        ],
-        "score": 121
       },
       {
         "subject": "tracker",
@@ -1394,6 +1380,20 @@
         "score": 85
       },
       {
+        "subject": "college",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 8.8,
+        "examples": [
+          "notion template for college students",
+          "notion template for students",
+          "notion template for school",
+          "google sheets template for college application",
+          "spreadsheet to track college applications"
+        ],
+        "score": 82
+      },
+      {
         "subject": "create",
         "queries": 6,
         "seed_spread": 4,
@@ -1406,6 +1406,20 @@
           "tracking template for google ads"
         ],
         "score": 82
+      },
+      {
+        "subject": "kids",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for adhd",
+          "printable planner for kids",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
+        ],
+        "score": 75
       },
       {
         "subject": "income",
@@ -1434,20 +1448,6 @@
           "budget template for grant proposal"
         ],
         "score": 71
-      },
-      {
-        "subject": "list",
-        "queries": 5,
-        "seed_spread": 4,
-        "avg_branches": 9.2,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "printable planner for the week",
-          "checklist for college dorm",
-          "checklist for moving out of state"
-        ],
-        "score": 70
       },
       {
         "subject": "weekly",
@@ -1492,20 +1492,6 @@
         "score": 65
       },
       {
-        "subject": "kids",
-        "queries": 6,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for adhd",
-          "printable planner for kids",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
-        ],
-        "score": 65
-      },
-      {
         "subject": "budgeting",
         "queries": 6,
         "seed_spread": 3,
@@ -1518,6 +1504,19 @@
           "best spreadsheet for finances"
         ],
         "score": 64
+      },
+      {
+        "subject": "list",
+        "queries": 4,
+        "seed_spread": 4,
+        "avg_branches": 9,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for moving out of state"
+        ],
+        "score": 55
       },
       {
         "subject": "software",
