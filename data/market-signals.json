@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:26:47.065Z",
+  "generated_at": "2026-08-23T06:45:56.699Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -1156,20 +1156,6 @@
         "score": 270
       },
       {
-        "subject": "pdf",
-        "queries": 14,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for adhd",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for 2025"
-        ],
-        "score": 201
-      },
-      {
         "subject": "monthly",
         "queries": 9,
         "seed_spread": 6,
@@ -1182,6 +1168,20 @@
           "budget template for biweekly pay"
         ],
         "score": 189
+      },
+      {
+        "subject": "pdf",
+        "queries": 13,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 186
       },
       {
         "subject": "printable",
@@ -1450,6 +1450,20 @@
         "score": 71
       },
       {
+        "subject": "list",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 9,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for moving out of state",
+          "checklist for kindergarten readiness"
+        ],
+        "score": 69
+      },
+      {
         "subject": "weekly",
         "queries": 5,
         "seed_spread": 4,
@@ -1504,19 +1518,6 @@
           "best spreadsheet for finances"
         ],
         "score": 64
-      },
-      {
-        "subject": "list",
-        "queries": 4,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "printable planner for the week",
-          "checklist for moving out of state"
-        ],
-        "score": 55
       },
       {
         "subject": "software",
