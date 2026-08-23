@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-23T06:45:56.754Z",
+  "generated_at": "2026-08-23T14:28:43.336Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 190,
+  "events_total": 195,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 33
+      "actions": 34
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 35
+      "actions": 36
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 82
+      "actions": 84
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 40
+      "actions": 41
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-23T14:28:43.280Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1115 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-23T14:27:54.585Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 9,
+      "status": null,
+      "desc": "Cel mai bun job: Excel Sales Report & PowerPoint Presentation",
+      "evidence": "https://www.freelancer.com/projects/business-intelligence/excel-sales-report-powerpoint",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-23T14:27:54.585Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 209 proiecte scanate → 58 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-23T14:27:40.902Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 2 eligibile după citirea regulamentelor (46 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-23T14:26:25.196Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 648 candidați → 0 bounty-uri reale (648 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-23T06:45:56.700Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 767 candidați → 0 bounty-uri reale (767 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-19T14:38:57.130Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1117 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-19T14:38:06.897Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 102,
-      "status": null,
-      "desc": "Cel mai bun job: Automate Data Integration with Python & Alteryx",
-      "evidence": "https://www.freelancer.com/projects/alteryx/automate-data-integration-with-python",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-19T14:38:06.897Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 196 proiecte scanate → 42 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-19T14:37:53.359Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 47 scanate, 2 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-19T14:36:59.201Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 771 candidați → 0 bounty-uri reale (771 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
-    "accepted": 4,
-    "rejected": 688,
+    "accepted": 2,
+    "rejected": 694,
     "top": [
       {
         "source": "comp-radar",
@@ -646,83 +646,53 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 235,
+        "score": 234,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 638,
-        "per_slot": 213,
+        "participants": 641,
+        "per_slot": 214,
+        "days_left": 24,
+        "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "COMPSPHERE 12",
+        "url": "https://compsphere12.devpost.com/",
+        "score": 57,
+        "prize_usd": 1247,
+        "slots": 7,
+        "participants": 155,
+        "per_slot": 22,
         "days_left": 25,
-        "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "Agentic Cinema: The Blockbuster Hackathon",
-        "url": "https://agentic-cinema.devpost.com/",
-        "score": 145,
-        "prize_usd": 75000,
-        "slots": 15,
-        "participants": 7771,
-        "per_slot": 518,
-        "days_left": 18,
-        "objective": false
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "Africa Deep Tech Challenge 2026",
-        "url": "https://adtc-2026.devpost.com/",
-        "score": 44,
-        "prize_usd": 16500,
-        "slots": 4,
-        "participants": 1793,
-        "per_slot": 448,
-        "days_left": 2,
-        "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "NextStep Hacks 2026",
-        "url": "https://nextstep2026.devpost.com/",
-        "score": 20,
-        "prize_usd": 1750,
-        "slots": 3,
-        "participants": 262,
-        "per_slot": 87,
-        "days_left": 22,
         "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 316
+        "count": 313
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 172
+        "count": 176
+      },
+      {
+        "reason": "fără dovadă de finanțare",
+        "count": 44
       },
       {
         "reason": "repo-fermă învățat automat",
         "count": 41
       },
       {
-        "reason": "fără dovadă de finanțare",
-        "count": 39
+        "reason": "prea competitiv",
+        "count": 29
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 31
-      },
-      {
-        "reason": "prea competitiv",
         "count": 29
       },
       {
@@ -730,11 +700,11 @@
         "count": 16
       },
       {
-        "reason": "regulament necitibil",
+        "reason": "participare restricționată",
         "count": 8
       },
       {
-        "reason": "participare restricționată",
+        "reason": "regulament necitibil",
         "count": 7
       },
       {
@@ -743,18 +713,18 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 5
+        "count": 6
       },
       {
         "reason": "repo prea nou",
         "count": 4
       },
       {
-        "reason": "revendicat activ",
-        "count": 3
+        "reason": "prea puțin timp de construit",
+        "count": 4
       },
       {
-        "reason": "prea puțin timp de construit",
+        "reason": "revendicat activ",
         "count": 3
       },
       {
