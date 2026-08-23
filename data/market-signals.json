@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T14:28:43.279Z",
+  "generated_at": "2026-08-23T22:26:16.591Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1115,
+    "signals_total": 1114,
     "themes": [
       {
         "theme": "app",
@@ -66,7 +66,7 @@
       },
       {
         "theme": "wish",
-        "mentions": 100,
+        "mentions": 99,
         "engagement": 11,
         "evidence": [
           {
@@ -90,7 +90,7 @@
             "date": "2025-03-15"
           }
         ],
-        "score": 108
+        "score": 107
       },
       {
         "theme": "hours",
@@ -233,6 +233,34 @@
         "score": 81
       },
       {
+        "theme": "apps",
+        "mentions": 24,
+        "engagement": 194,
+        "evidence": [
+          {
+            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
+            "url": "https://news.ycombinator.com/item?id=48578995",
+            "date": "2026-06-18"
+          },
+          {
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
+          },
+          {
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
+          },
+          {
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
+          }
+        ],
+        "score": 80
+      },
+      {
         "theme": "code",
         "mentions": 54,
         "engagement": 41,
@@ -289,36 +317,8 @@
         "score": 78
       },
       {
-        "theme": "apps",
-        "mentions": 23,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
-            "url": "https://news.ycombinator.com/item?id=48578995",
-            "date": "2026-06-18"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          }
-        ],
-        "score": 78
-      },
-      {
         "theme": "it.",
-        "mentions": 65,
+        "mentions": 64,
         "engagement": 18,
         "evidence": [
           {
@@ -342,7 +342,7 @@
             "date": "2026-08-05"
           }
         ],
-        "score": 77
+        "score": 76
       },
       {
         "theme": "language",
@@ -821,29 +821,29 @@
         "score": 52
       },
       {
-        "theme": "software",
-        "mentions": 32,
-        "engagement": 35,
+        "theme": "project",
+        "mentions": 28,
+        "engagement": 45,
         "evidence": [
           {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
           },
           {
-            "text": "That would pay for so many millions of dollars of dev time. It would be a big win-win if you could organize that deal. In the tradeoff between more dev time and",
-            "url": "https://news.ycombinator.com/item?id=48680826",
-            "date": "2026-06-26"
+            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
+            "url": "https://news.ycombinator.com/item?id=48956474",
+            "date": "2026-07-18"
           },
           {
-            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
-            "url": "https://news.ycombinator.com/item?id=48522853",
-            "date": "2026-06-14"
+            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
+            "url": "https://news.ycombinator.com/item?id=48240608",
+            "date": "2026-05-22"
           },
           {
-            "text": "> [C]onsumers, on the other hand, are mostly looking to waste time, which is why attention- harvesting advertising is the only software business model that work",
-            "url": "https://news.ycombinator.com/item?id=48462105",
-            "date": "2026-06-09"
+            "text": "What's the best project management tool you have ever used?",
+            "url": "https://news.ycombinator.com/item?id=42501443",
+            "date": "2024-12-24"
           }
         ],
         "score": 52
@@ -1031,9 +1031,9 @@
       },
       {
         "subject": "spreadsheet",
-        "queries": 31,
+        "queries": 32,
         "seed_spread": 7,
-        "avg_branches": 8.9,
+        "avg_branches": 8.7,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
@@ -1041,7 +1041,7 @@
           "excel template for job application tracking",
           "excel template for invoices"
         ],
-        "score": 747
+        "score": 766
       },
       {
         "subject": "budget",
@@ -1066,8 +1066,8 @@
           "notion template for college students",
           "notion template for school",
           "excel template for budget",
-          "google sheets template for travel itinerary",
-          "google sheets template for budget"
+          "google sheets template for budget",
+          "google sheets template for travel itinerary"
         ],
         "score": 459
       },
@@ -1117,19 +1117,33 @@
         "subject": "google",
         "queries": 21,
         "seed_spread": 4,
-        "avg_branches": 9.6,
+        "avg_branches": 9.3,
         "examples": [
-          "google sheets template for travel itinerary",
+          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for planning a trip",
           "google sheets template for job applications"
         ],
-        "score": 297
+        "score": 294
+      },
+      {
+        "subject": "sheets",
+        "queries": 19,
+        "seed_spread": 4,
+        "avg_branches": 9.3,
+        "examples": [
+          "google sheets template for apartment hunting",
+          "google sheets template for budget",
+          "google sheets template for business expenses",
+          "google sheets template for planning a trip",
+          "google sheets template for job applications"
+        ],
+        "score": 266
       },
       {
         "subject": "tracking",
-        "queries": 19,
+        "queries": 18,
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
@@ -1139,21 +1153,7 @@
           "excel template for job application tracking",
           "excel template for inventory"
         ],
-        "score": 270
-      },
-      {
-        "subject": "sheets",
-        "queries": 19,
-        "seed_spread": 4,
-        "avg_branches": 9.7,
-        "examples": [
-          "google sheets template for travel itinerary",
-          "google sheets template for budget",
-          "google sheets template for business expenses",
-          "google sheets template for planning a trip",
-          "google sheets template for job applications"
-        ],
-        "score": 270
+        "score": 256
       },
       {
         "subject": "pdf",
@@ -1187,7 +1187,7 @@
         "subject": "printable",
         "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9.2,
         "examples": [
           "printable planner for july 2026",
           "printable planner for adhd",
@@ -1195,7 +1195,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 170
+        "score": 167
       },
       {
         "subject": "download",
@@ -1240,20 +1240,6 @@
         "score": 138
       },
       {
-        "subject": "sheet",
-        "queries": 13,
-        "seed_spread": 3,
-        "avg_branches": 9.2,
-        "examples": [
-          "excel template for project management",
-          "excel template for small business accounting",
-          "excel template for expense tracking",
-          "excel template for job application tracking",
-          "google sheets template for budget"
-        ],
-        "score": 136
-      },
-      {
         "subject": "notion",
         "queries": 12,
         "seed_spread": 3,
@@ -1264,6 +1250,20 @@
           "notion template for students",
           "notion template for writing a book",
           "notion template for school"
+        ],
+        "score": 125
+      },
+      {
+        "subject": "sheet",
+        "queries": 12,
+        "seed_spread": 3,
+        "avg_branches": 9.2,
+        "examples": [
+          "excel template for project management",
+          "excel template for small business accounting",
+          "excel template for expense tracking",
+          "excel template for job application tracking",
+          "google sheets template for budget"
         ],
         "score": 125
       },
@@ -1296,20 +1296,6 @@
         "score": 117
       },
       {
-        "subject": "management",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 9.3,
-        "examples": [
-          "notion template for project management",
-          "excel template for budget",
-          "excel template for project management",
-          "excel template for expense tracking",
-          "excel template for inventory"
-        ],
-        "score": 112
-      },
-      {
         "subject": "students",
         "queries": 7,
         "seed_spread": 4,
@@ -1330,9 +1316,9 @@
         "avg_branches": 9.7,
         "examples": [
           "excel template for budget",
-          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for planning a trip",
+          "google sheets template for travel itinerary",
           "checklist for wedding planning"
         ],
         "score": 99
@@ -1364,20 +1350,6 @@
           "best spreadsheet for budgeting free"
         ],
         "score": 86
-      },
-      {
-        "subject": "docs",
-        "queries": 8,
-        "seed_spread": 3,
-        "avg_branches": 9.5,
-        "examples": [
-          "google sheets template for travel itinerary",
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for tracking job applications"
-        ],
-        "score": 85
       },
       {
         "subject": "college",
@@ -1416,10 +1388,38 @@
           "printable planner for adhd",
           "printable planner for kids",
           "checklist for traveling",
-          "checklist for camping",
-          "checklist for international travel"
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 75
+      },
+      {
+        "subject": "docs",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.4,
+        "examples": [
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary",
+          "google sheets template for tracking job applications"
+        ],
+        "score": 74
+      },
+      {
+        "subject": "management",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.1,
+        "examples": [
+          "notion template for project management",
+          "excel template for budget",
+          "excel template for project management",
+          "excel template for expense tracking",
+          "excel template for inventory"
+        ],
+        "score": 73
       },
       {
         "subject": "income",
@@ -1780,23 +1780,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for travel itinerary",
-        "branches": 10,
-        "children": [
-          "google sheets template for travel itinerary",
-          "google docs template for travel itinerary",
-          "google sheets template for travel planning",
-          "google sheets template for trip itinerary",
-          "free google sheets template for travel itinerary",
-          "google sheets template for trip planning",
-          "google docs template for travel planning",
-          "google docs template for trip itinerary",
-          "google docs template for trip planning",
-          "google sheets travel itinerary template reddit"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for budget",
         "branches": 10,
         "children": [
@@ -1865,19 +1848,19 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for inventory",
+        "query": "google sheets template for travel itinerary",
         "branches": 10,
         "children": [
-          "google sheets template for inventory tracking",
-          "google sheets template for inventory management",
-          "google sheets template for inventory",
-          "google sheets template for inventory free",
-          "google sheets template for stock tracking",
-          "google sheets template for stock trading",
-          "google docs template for inventory",
-          "google sheet template for stock portfolio",
-          "google sheet template for stock management",
-          "google sheet template for stock"
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
         ]
       },
       {
@@ -1997,6 +1980,23 @@
           "printable calendar for kids pdf",
           "printable calendar for kids schedule",
           "printable calendar for kids april 2026"
+        ]
+      },
+      {
+        "seed": "printable planner for",
+        "query": "printable planner for 2026",
+        "branches": 10,
+        "children": [
+          "printable planner for 2026",
+          "printable calendar for 2026",
+          "printable calendar for 2026 with holidays",
+          "printable calendar for 2026 free",
+          "printable calendar for 2026 with holidays free",
+          "printable calendar for 2026 and 2027",
+          "printable calendar for 2026 pdf",
+          "printable calendar for 2026 uk",
+          "printable calendar for 2026 australia",
+          "printable calendar for 2026 with holidays pdf"
         ]
       }
     ]
