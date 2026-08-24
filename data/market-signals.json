@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T14:46:54.517Z",
+  "generated_at": "2026-08-24T22:31:09.591Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1114,
+    "signals_total": 1113,
     "themes": [
       {
         "theme": "app",
@@ -38,7 +38,7 @@
       },
       {
         "theme": "web",
-        "mentions": 25,
+        "mentions": 24,
         "engagement": 537,
         "evidence": [
           {
@@ -62,11 +62,11 @@
             "date": "2026-06-17"
           }
         ],
-        "score": 114
+        "score": 111
       },
       {
         "theme": "wish",
-        "mentions": 99,
+        "mentions": 100,
         "engagement": 11,
         "evidence": [
           {
@@ -90,7 +90,7 @@
             "date": "2025-03-15"
           }
         ],
-        "score": 107
+        "score": 108
       },
       {
         "theme": "hours",
@@ -122,7 +122,7 @@
       },
       {
         "theme": "spend",
-        "mentions": 79,
+        "mentions": 80,
         "engagement": 11,
         "evidence": [
           {
@@ -146,11 +146,11 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 87
+        "score": 88
       },
       {
         "theme": "hate",
-        "mentions": 77,
+        "mentions": 78,
         "engagement": 13,
         "evidence": [
           {
@@ -174,7 +174,7 @@
             "date": "2025-12-07"
           }
         ],
-        "score": 86
+        "score": 87
       },
       {
         "theme": "life",
@@ -318,7 +318,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 64,
+        "mentions": 62,
         "engagement": 18,
         "evidence": [
           {
@@ -342,22 +342,17 @@
             "date": "2026-08-05"
           }
         ],
-        "score": 76
+        "score": 74
       },
       {
         "theme": "language",
-        "mentions": 18,
+        "mentions": 17,
         "engagement": 290,
         "evidence": [
           {
             "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
             "url": "https://news.ycombinator.com/item?id=45086249",
             "date": "2025-08-31"
-          },
-          {
-            "text": "I loved using Warp. I used it daily for over a year. Setup workflow scripts and customizations, it worked almost exactly how I wanted it to. Then one day, I ope",
-            "url": "https://news.ycombinator.com/item?id=47942149",
-            "date": "2026-04-28"
           },
           {
             "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
@@ -368,9 +363,14 @@
             "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
             "url": "https://news.ycombinator.com/item?id=45075127",
             "date": "2025-08-30"
+          },
+          {
+            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
+            "url": "https://news.ycombinator.com/item?id=49388758",
+            "date": "2026-08-21"
           }
         ],
-        "score": 75
+        "score": 72
       },
       {
         "theme": "open-source",
@@ -429,34 +429,6 @@
         "score": 70
       },
       {
-        "theme": "browser",
-        "mentions": 16,
-        "engagement": 287,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
-            "url": "https://news.ycombinator.com/item?id=48973899",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This is nice. The controls could use some normalization, but all in all, very crisp. Esp for a non-chrome browser on linux on an ancient cpu. I would pay you 14",
-            "url": "https://news.ycombinator.com/item?id=48791475",
-            "date": "2026-07-05"
-          }
-        ],
-        "score": 69
-      },
-      {
         "theme": "different",
         "mentions": 34,
         "engagement": 70,
@@ -483,6 +455,34 @@
           }
         ],
         "score": 69
+      },
+      {
+        "theme": "browser",
+        "mentions": 15,
+        "engagement": 287,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
+            "url": "https://news.ycombinator.com/item?id=48973899",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This is nice. The controls could use some normalization, but all in all, very crisp. Esp for a non-chrome browser on linux on an ancient cpu. I would pay you 14",
+            "url": "https://news.ycombinator.com/item?id=48791475",
+            "date": "2026-07-05"
+          }
+        ],
+        "score": 66
       },
       {
         "theme": "system",
@@ -569,29 +569,29 @@
         "score": 62
       },
       {
-        "theme": "agent",
-        "mentions": 14,
-        "engagement": 258,
+        "theme": "public",
+        "mentions": 20,
+        "engagement": 126,
         "evidence": [
           {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
           },
           {
-            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
-            "url": "https://news.ycombinator.com/item?id=48873462",
-            "date": "2026-07-11"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
           },
           {
-            "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
-            "url": "https://news.ycombinator.com/item?id=49001865",
-            "date": "2026-07-22"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
           },
           {
-            "text": "Can it finally work with a large codebase? I have GooglePlay / AppStore app coded in Xcode, in C#, ported in Java with Python server. The codebase is large and ",
-            "url": "https://news.ycombinator.com/item?id=44060271",
-            "date": "2025-05-22"
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
           }
         ],
         "score": 61
@@ -625,8 +625,36 @@
         "score": 56
       },
       {
+        "theme": "agent",
+        "mentions": 12,
+        "engagement": 258,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
+            "url": "https://news.ycombinator.com/item?id=48873462",
+            "date": "2026-07-11"
+          },
+          {
+            "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
+            "url": "https://news.ycombinator.com/item?id=49001865",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "Can it finally work with a large codebase? I have GooglePlay / AppStore app coded in Xcode, in C#, ported in Java with Python server. The codebase is large and ",
+            "url": "https://news.ycombinator.com/item?id=44060271",
+            "date": "2025-05-22"
+          }
+        ],
+        "score": 55
+      },
+      {
         "theme": "without",
-        "mentions": 49,
+        "mentions": 48,
         "engagement": 9,
         "evidence": [
           {
@@ -650,39 +678,39 @@
             "date": "2026-07-02"
           }
         ],
-        "score": 55
+        "score": 54
       },
       {
-        "theme": "public",
-        "mentions": 17,
-        "engagement": 126,
+        "theme": "company",
+        "mentions": 21,
+        "engagement": 80,
         "evidence": [
           {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
           },
           {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
           },
           {
-            "text": "I've been looking for a tool like this that can publish. I was thinking of some way to create a help doc system for end users, but interleaved with technical in",
-            "url": "https://news.ycombinator.com/item?id=44599270",
-            "date": "2025-07-17"
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
           },
           {
-            "text": "I've been looking for a tool like this forever. Trying it for my city (Milan, Italy), and it's pretty accurate. Would it ever be possible to specify which type ",
-            "url": "https://news.ycombinator.com/item?id=42978169",
-            "date": "2025-02-07"
+            "text": "Because I’ve looked at what it would cost my company to self-host a SOTA sized model. For us it wasn’t worth it because the hardware is all bought up by frontie",
+            "url": "https://news.ycombinator.com/item?id=48233194",
+            "date": "2026-05-22"
           }
         ],
-        "score": 55
+        "score": 53
       },
       {
         "theme": "agents",
-        "mentions": 18,
+        "mentions": 17,
         "engagement": 112,
         "evidence": [
           {
@@ -706,35 +734,35 @@
             "date": "2025-12-29"
           }
         ],
-        "score": 55
+        "score": 53
       },
       {
-        "theme": "writing",
-        "mentions": 19,
-        "engagement": 96,
+        "theme": "project",
+        "mentions": 29,
+        "engagement": 45,
         "evidence": [
           {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
           },
           {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
+            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
+            "url": "https://news.ycombinator.com/item?id=48956474",
+            "date": "2026-07-18"
           },
           {
-            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
-            "url": "https://news.ycombinator.com/item?id=46567113",
-            "date": "2026-01-10"
+            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
+            "url": "https://news.ycombinator.com/item?id=48240608",
+            "date": "2026-05-22"
           },
           {
-            "text": "I stopped using coding agents after more than one and a half year of active use, it really started to become way too boring, and I’m t a point where I just hate",
-            "url": "https://news.ycombinator.com/item?id=49153129",
-            "date": "2026-08-03"
+            "text": "What's the best project management tool you have ever used?",
+            "url": "https://news.ycombinator.com/item?id=42501443",
+            "date": "2024-12-24"
           }
         ],
-        "score": 54
+        "score": 53
       },
       {
         "theme": "launch",
@@ -793,57 +821,29 @@
         "score": 53
       },
       {
-        "theme": "company",
-        "mentions": 20,
-        "engagement": 80,
+        "theme": "writing",
+        "mentions": 18,
+        "engagement": 96,
         "evidence": [
           {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
           },
           {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
+            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
+            "url": "https://news.ycombinator.com/item?id=47437681",
+            "date": "2026-03-19"
           },
           {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
           },
           {
-            "text": "Because I’ve looked at what it would cost my company to self-host a SOTA sized model. For us it wasn’t worth it because the hardware is all bought up by frontie",
-            "url": "https://news.ycombinator.com/item?id=48233194",
-            "date": "2026-05-22"
-          }
-        ],
-        "score": 52
-      },
-      {
-        "theme": "project",
-        "mentions": 28,
-        "engagement": 45,
-        "evidence": [
-          {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
-          },
-          {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
-          },
-          {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
+            "text": "I stopped using coding agents after more than one and a half year of active use, it really started to become way too boring, and I’m t a point where I just hate",
+            "url": "https://news.ycombinator.com/item?id=49153129",
+            "date": "2026-08-03"
           }
         ],
         "score": 52
@@ -1156,6 +1156,20 @@
         "score": 270
       },
       {
+        "subject": "pdf",
+        "queries": 14,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 201
+      },
+      {
         "subject": "monthly",
         "queries": 9,
         "seed_spread": 6,
@@ -1168,20 +1182,6 @@
           "budget template for biweekly pay"
         ],
         "score": 189
-      },
-      {
-        "subject": "pdf",
-        "queries": 13,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for adhd",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for 2025"
-        ],
-        "score": 186
       },
       {
         "subject": "printable",
@@ -1415,9 +1415,9 @@
         "examples": [
           "printable planner for adhd",
           "printable planner for kids",
+          "checklist for moving out of state",
           "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
+          "checklist for international travel"
         ],
         "score": 75
       },
@@ -1448,20 +1448,6 @@
           "budget template for grant proposal"
         ],
         "score": 71
-      },
-      {
-        "subject": "list",
-        "queries": 5,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "printable planner for the week",
-          "checklist for moving out of state",
-          "checklist for kindergarten readiness"
-        ],
-        "score": 69
       },
       {
         "subject": "weekly",
@@ -1518,6 +1504,19 @@
           "best spreadsheet for finances"
         ],
         "score": 64
+      },
+      {
+        "subject": "list",
+        "queries": 4,
+        "seed_spread": 4,
+        "avg_branches": 9,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for moving out of state"
+        ],
+        "score": 55
       },
       {
         "subject": "software",
