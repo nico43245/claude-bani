@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-08-23T22:25:30.296Z",
-  "scanned": 205,
-  "accepted": 51,
+  "generated_at": "2026-08-24T07:03:53.586Z",
+  "scanned": 207,
+  "accepted": 48,
   "refused_on_ethics": 10,
   "jobs": [
     {
-      "title": "Handwritten Notes to Excel Conversion",
-      "url": "https://www.freelancer.com/projects/data-entry/handwritten-notes-excel-conversion",
-      "budget_raw": "$478 Average bid",
-      "desc": "I need a meticulous typist who can turn a collection of handwritten notes into a clean, well-organized Excel spreadsheet. Every figure, date, and line of text from the pages must be transcribed verbatim and placed into the appropriate columns so that the file is ready for immediate analysis once you",
-      "bids": 25,
+      "title": "OSINT Threat Intelligence Data Analysis",
+      "url": "https://www.freelancer.com/projects/algorithm/osint-threat-intelligence-data-analysis",
+      "budget_raw": "$36 / hr Average bid",
+      "desc": "I need a specialist to turn open-source information and utility data into actionable threat intelligence focused on critical grid and home-automation infrastructure. The engagement centers on three data streams I already collect or can legally obtain: live network-traffic captures, sensor and other ",
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 478,
+      "usd": 36,
+      "hourly": true,
+      "flags": [],
+      "score": 236
+    },
+    {
+      "title": "Handwritten Notes to Excel Conversion",
+      "url": "https://www.freelancer.com/projects/data-entry/handwritten-notes-excel-conversion",
+      "budget_raw": "$490 Average bid",
+      "desc": "I need a meticulous typist who can turn a collection of handwritten notes into a clean, well-organized Excel spreadsheet. Every figure, date, and line of text from the pages must be transcribed verbatim and placed into the appropriate columns so that the file is ready for immediate analysis once you",
+      "bids": 26,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 490,
       "hourly": false,
       "flags": [],
-      "score": 210
+      "score": 201
     },
     {
       "title": "PDF Data Conversion to Excel",
@@ -31,6 +45,20 @@
       "hourly": true,
       "flags": [],
       "score": 135
+    },
+    {
+      "title": "Professional Excel Sales Dashboard",
+      "url": "https://www.freelancer.com/projects/data-analysis/professional-excel-sales-dashboard",
+      "budget_raw": "$166 Average bid",
+      "desc": "My raw sales data lives in several Excel spreadsheets, each with multiple worksheets that thankfully share the same column names. I need this information transformed into a single, polished Excel file that executives can open and immediately understand. Here is what has to happen: Clean and consolid",
+      "bids": 17,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 166,
+      "hourly": false,
+      "flags": [],
+      "score": 112
     },
     {
       "title": "Automation Developer Needed (On-site, New Delhi) GeM Portal Data Extraction into Google Sheets",
@@ -49,44 +77,44 @@
     {
       "title": "Spreadsheet Pro for Solar Product Calculator Dashboard",
       "url": "https://www.freelancer.com/projects/data-visualization/spreadsheet-pro-for-solar-product",
-      "budget_raw": "$164 Average bid",
+      "budget_raw": "$162 Average bid",
       "desc": "Spreedsheet expert to build dasboard for mysolar digital product excel sheet calculators for reussble protected sheetsSolarToolkit Pro a professional digital product (handbook + Excel calculators) for solar installers, engineers, and serious homeowners in Nigeria and Africa. I need an experienced Ex",
-      "bids": 17,
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 164,
+      "usd": 162,
       "hourly": false,
       "flags": [],
-      "score": 110
+      "score": 100
+    },
+    {
+      "title": "Daily AppleScript File Downloader",
+      "url": "https://www.freelancer.com/projects/workflow-automation/daily-applescript-file-downloader",
+      "budget_raw": "$85 Average bid",
+      "desc": "I m looking to set up a simple AppleScript-based workflow that grabs new document files from my own website every day and saves them to a local folder on my Mac. The site doesn t require any authentication, so the script can pull the files directly without needing to handle passwords or tokens. I m ",
+      "bids": 5,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 85,
+      "hourly": false,
+      "flags": [],
+      "score": 87
     },
     {
       "title": "Extract Filtered PDF Tables to Excel",
       "url": "https://www.freelancer.com/projects/data-extraction/extract-filtered-pdf-tables-excel",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I need the tables tucked inside several PDFs copied into a single, tidy Excel workbook, but only the rows that satisfy specific filters should be brought across. I ll hand over a concise rule set (date ranges, status flags, value thresholds, etc.) as soon as we begin; anything outside those paramete",
-      "bids": 25,
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 88
-    },
-    {
-      "title": "Excel Intelligence Dashboard Update, Validation & Enhancement -- 3",
-      "url": "https://www.freelancer.com/projects/excel-intelligence-dashboard-update",
-      "budget_raw": "$122 Average bid",
-      "desc": "Excel Intelligence Dashboard Update, Validation & Enhancement I am looking for an experienced Excel Dashboard / Data Visualization specialist to help me finalize and improve an existing offshore operations and well-monitoring dashboard. The dashboard is already approximately 90% completed. I built m",
-      "bids": 21,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 122,
-      "hourly": false,
-      "flags": [],
-      "score": 68
+      "score": 76
     },
     {
       "title": "Import Customer Data to Database",
@@ -103,34 +131,6 @@
       "score": 68
     },
     {
-      "title": "Product Data Scraper Build",
-      "url": "https://www.freelancer.com/projects/api-developmet/product-data-scraper-build",
-      "budget_raw": "$26 / hr Average bid",
-      "desc": "I need a Scrapy-based spider that reliably collects complete product information across three sources I specify: traditional e-commerce sites, larger multi-vendor marketplaces, and a small set of social-media storefront pages. For every product it reaches, the crawler must capture exactly these fiel",
-      "bids": 29,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 26,
-      "hourly": true,
-      "flags": [],
-      "score": 67
-    },
-    {
-      "title": "Handwritten Notes To Excel",
-      "url": "https://www.freelancer.com/projects/data-management/handwritten-notes-excel-40665450",
-      "budget_raw": "$369 Average bid",
-      "desc": "I need a reliable specialist to turn a stack of handwritten notes (currently saved as PDFs) into a clean, well-structured Excel spreadsheet. All content in the PDFs is text only no numeric data or formulas so each line needs to be typed accurately into the appropriate columns I will provide. Your jo",
-      "bids": 39,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 369,
-      "hourly": false,
-      "flags": [],
-      "score": 65
-    },
-    {
       "title": "Automate Gmail Contacts Export",
       "url": "https://www.freelancer.com/projects/automation/automate-gmail-contacts-export",
       "budget_raw": "$9 / hr Average bid",
@@ -145,60 +145,46 @@
       "score": 64
     },
     {
-      "title": "Daily Contact Info Entry",
-      "url": "https://www.freelancer.com/projects/data-annotation/daily-contact-info-entry",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I need a reliable data-entry partner for a recurring, same-day task. Each weekday morning I will share an Excel spreadsheet that contains fresh customer contact information. Your job is simple and very focused: extract just the Name, Email and Phone Number columns and enter them into my web form, on",
-      "bids": 29,
+      "title": "Product Data Scraper Build",
+      "url": "https://www.freelancer.com/projects/api-developmet/product-data-scraper-build",
+      "budget_raw": "$26 / hr Average bid",
+      "desc": "I need a Scrapy-based spider that reliably collects complete product information across three sources I specify: traditional e-commerce sites, larger multi-vendor marketplaces, and a small set of social-media storefront pages. For every product it reaches, the crawler must capture exactly these fiel",
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 5,
-      "usd": 9,
+      "fit": 3,
+      "usd": 26,
       "hourly": true,
       "flags": [],
-      "score": 64
+      "score": 61
     },
     {
       "title": "PDF Image Extraction & Rebuild",
       "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-image-extraction-rebuild",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a collection of PDFs that contain embedded images. I simply need every image pulled out exactly as-is no cropping, colour correction, or other edits and then placed back into its own PDF, preserving the image s original resolution. Keep each reconverted file under the same base name it had in",
-      "bids": 11,
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 61
+      "score": 59
     },
     {
-      "title": "Excel & Tableau Analysis Support",
-      "url": "https://www.freelancer.com/projects/tableau/excel-tableau-analysis-support",
-      "budget_raw": "$186 Average bid",
-      "desc": "I need an experienced analyst who can move confidently between Excel and Tableau. The raw spreadsheets I m working with require tidying, smart formulas or Power Query steps to surface the right metrics, and then a set of interactive Tableau visuals so my team can explore the results without leaving ",
-      "bids": 17,
+      "title": "Inventory Spreadsheet with Analysis",
+      "url": "https://www.freelancer.com/projects/data-analysis/inventory-spreadsheet-with-analysis",
+      "budget_raw": "$2 / hr Average bid",
+      "desc": "I need a clean, well-structured Excel file that lets me manage inventory day-to-day while also running statistical analysis on the numbers I capture. The workbook should make it simple to enter purchases, sales, current stock levels, reorder points and supplier details, then automatically calculate ",
+      "bids": 7,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 186,
-      "hourly": false,
+      "fit": 6,
+      "usd": 2,
+      "hourly": true,
       "flags": [],
-      "score": 56
-    },
-    {
-      "title": "PineScript Ichimoku Algo Trading",
-      "url": "https://www.freelancer.com/projects/algorithmic-trading/pinescript-ichimoku-algo-trading",
-      "budget_raw": "$87 Average bid",
-      "desc": "I already have a complete PineScript strategy that reads Ichimoku-cloud signals and, in particular, fires when my custom cloud rules and Chikou-span crossovers align. Now I need that strategy to place live trades automatically. Scope Brokers: First choice is Kotak Neo and Master Trust; if an identic",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 87,
-      "hourly": false,
-      "flags": [],
-      "score": 51
+      "score": 48
     },
     {
       "title": "Professional Web Scraping and Data Management",
@@ -215,16 +201,16 @@
       "score": 46
     },
     {
-      "title": "Paper Forms to Excel Data",
-      "url": "https://www.freelancer.com/projects/data-management/paper-forms-excel-data",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a stack of customer forms that record Name, Address and Phone Number in clearly labeled fields. I need every one of those details transcribed into a clean Excel spreadsheet so the information becomes searchable and ready for mail-merge and CRM import. Your job is straightforward: read the pap",
-      "bids": 18,
+      "title": "Fullstack Mentorship for Existing Trading App",
+      "url": "https://www.freelancer.com/projects/full-stack-development/fullstack-mentorship-for-existing",
+      "budget_raw": "$262 Average bid",
+      "desc": "I want to modify my existing trading app built on Python-React-FastAPI-Postgresql and managed through Coolify and code in Github. I want to modify it myself and create backup of DB and Code using Github . I need guidance on doing this modification myself. We can consider it as type of handson projec",
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 9,
-      "hourly": true,
+      "usd": 262,
+      "hourly": false,
       "flags": [],
       "score": 46
     },
@@ -243,18 +229,32 @@
       "score": 44
     },
     {
-      "title": "Fullstack Mentorship for Existing Trading App",
-      "url": "https://www.freelancer.com/projects/full-stack-development/fullstack-mentorship-for-existing",
-      "budget_raw": "$253 Average bid",
-      "desc": "I want to modify my existing trading app built on Python-React-FastAPI-Postgresql and managed through Coolify and code in Github. I want to modify it myself and create backup of DB and Code using Github . I need guidance on doing this modification myself. We can consider it as type of handson projec",
-      "bids": 37,
+      "title": "Paper Forms to Excel Data",
+      "url": "https://www.freelancer.com/projects/data-management/paper-forms-excel-data",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a stack of customer forms that record Name, Address and Phone Number in clearly labeled fields. I need every one of those details transcribed into a clean Excel spreadsheet so the information becomes searchable and ready for mail-merge and CRM import. Your job is straightforward: read the pap",
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 253,
-      "hourly": false,
+      "usd": 9,
+      "hourly": true,
       "flags": [],
       "score": 44
+    },
+    {
+      "title": "Excel & Tableau Analysis Support",
+      "url": "https://www.freelancer.com/projects/tableau/excel-tableau-analysis-support",
+      "budget_raw": "$182 Average bid",
+      "desc": "I need an experienced analyst who can move confidently between Excel and Tableau. The raw spreadsheets I m working with require tidying, smart formulas or Power Query steps to surface the right metrics, and then a set of interactive Tableau visuals so my team can explore the results without leaving ",
+      "bids": 22,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 182,
+      "hourly": false,
+      "flags": [],
+      "score": 43
     },
     {
       "title": "Handwritten Notes Excel Entry",
@@ -271,18 +271,46 @@
       "score": 41
     },
     {
+      "title": "PineScript Ichimoku Algo Trading",
+      "url": "https://www.freelancer.com/projects/algorithmic-trading/pinescript-ichimoku-algo-trading",
+      "budget_raw": "$85 Average bid",
+      "desc": "I already have a complete PineScript strategy that reads Ichimoku-cloud signals and, in particular, fires when my custom cloud rules and Chikou-span crossovers align. Now I need that strategy to place live trades automatically. Scope Brokers: First choice is Kotak Neo and Master Trust; if an identic",
+      "bids": 25,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 85,
+      "hourly": false,
+      "flags": [],
+      "score": 37
+    },
+    {
       "title": "Copy website and all from given website",
       "url": "https://www.freelancer.com/projects/content-writing/copy-website-all-from-given",
       "budget_raw": "$50 Average bid",
       "desc": "I need the product descriptions from my current website reproduced word-for-word on the new site. Only the text is required design, images, pricing and SEO fields are outside the scope of this task. The job involves: Extracting every product description exactly as it appears on the live site, includ",
-      "bids": 14,
+      "bids": 17,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 50,
       "hourly": false,
       "flags": [],
-      "score": 38
+      "score": 34
+    },
+    {
+      "title": "Excel Sales Dashboard & Analysis",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-sales-dashboard-analysis-40666752",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "My monthly sales spreadsheets need to be transformed into clear, insightful visuals and a concise analytical report within the next four weeks. The core of the job is building interactive charts and dashboards in Excel think PivotTables, PivotCharts, slicers, and well-structured formulas followed by",
+      "bids": 11,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 34
     },
     {
       "title": "Automate GeM Portal Tender Data Extraction into Google Sheets",
@@ -329,32 +357,18 @@
       "score": 28
     },
     {
-      "title": "Double Score Clicker App",
-      "url": "https://www.freelancer.com/projects/android-app-development/double-score-clicker-app",
-      "budget_raw": "$53 Average bid",
-      "desc": "I need a developer who is equally comfortable in C++, Java, and Python to build a tailor-made double score clicker application for my Tecno Spark 10 5G. Before writing a single line of code you will remotely analyze my device and the basic clicker concept I already have in mind so we can lock down c",
-      "bids": 22,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 53,
-      "hourly": false,
-      "flags": [],
-      "score": 28
-    },
-    {
       "title": "PDF Text Extraction to Spreadsheet",
       "url": "https://www.freelancer.com/projects/data-extraction/pdf-text-extraction-spreadsheet",
       "budget_raw": "$2 / hr Average bid",
       "desc": "I have a batch of PDFs that contain straightforward, unformatted text. I need every word lifted accurately and placed into a spreadsheet so the content is ready for sorting, filtering, and quick reference later on. The job is simple but demands a sharp eye: no missing characters, line breaks kept wh",
-      "bids": 15,
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
       "usd": 2,
       "hourly": true,
       "flags": [],
-      "score": 25
+      "score": 24
     },
     {
       "title": "Precise Spreadsheet Data Entry Support",
@@ -371,15 +385,15 @@
       "score": 22
     },
     {
-      "title": "Scalable Backend Development for Esyglob",
-      "url": "https://www.freelancer.com/projects/backend-development/scalable-backend-development-for-esyglob",
-      "budget_raw": "$83 Average bid",
-      "desc": "I'm looking for a skilled back-end developer to create scalable backend systems for Esyglob. There is high potential for ongoing work and long-term project expansion. Key Requirements: - Expertise in MongoDB - API development and integration - User authentication and management - Data processing and",
-      "bids": 31,
+      "title": "Double Score Clicker App",
+      "url": "https://www.freelancer.com/projects/android-app-development/double-score-clicker-app",
+      "budget_raw": "$50 Average bid",
+      "desc": "I need a developer who is equally comfortable in C++, Java, and Python to build a tailor-made double score clicker application for my Tecno Spark 10 5G. Before writing a single line of code you will remotely analyze my device and the basic clicker concept I already have in mind so we can lock down c",
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 83,
+      "usd": 50,
       "hourly": false,
       "flags": [],
       "score": 22
@@ -401,16 +415,16 @@
     {
       "title": "WhatsApp Court Data Bot",
       "url": "https://www.freelancer.com/projects/api/whatsapp-court-data-bot",
-      "budget_raw": "$54 Average bid",
+      "budget_raw": "$53 Average bid",
       "desc": "I need a WhatsApp automation bot to assist in pulling legal data and updating clients. The bot should: - Retrieve and send case status updates, court schedules, and judgements/orders from a government court website. - Respond to client queries through interactive menus. Ideal Skills: - Experience wi",
-      "bids": 28,
+      "bids": 29,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 54,
+      "usd": 53,
       "hourly": false,
       "flags": [],
-      "score": 19
+      "score": 17
     },
     {
       "title": "Australian Property Owner Mobile Leads",
@@ -427,32 +441,18 @@
       "score": 15
     },
     {
-      "title": "Professional Excel Sales Dashboard",
-      "url": "https://www.freelancer.com/projects/data-analysis/professional-excel-sales-dashboard",
-      "budget_raw": "$3 / hr Average bid",
-      "desc": "My raw sales data lives in several Excel spreadsheets, each with multiple worksheets that thankfully share the same column names. I need this information transformed into a single, polished Excel file that executives can open and immediately understand. Here is what has to happen: Clean and consolid",
-      "bids": 12,
+      "title": "Scalable Backend Development for Esyglob",
+      "url": "https://www.freelancer.com/projects/backend-development/scalable-backend-development-for-esyglob",
+      "budget_raw": "$78 Average bid",
+      "desc": "I'm looking for a skilled back-end developer to create scalable backend systems for Esyglob. There is high potential for ongoing work and long-term project expansion. Key Requirements: - Expertise in MongoDB - API development and integration - User authentication and management - Data processing and",
+      "bids": 34,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 3,
-      "hourly": true,
-      "flags": [],
-      "score": 15
-    },
-    {
-      "title": "Power BI Sales Dashboard Build",
-      "url": "https://www.freelancer.com/projects/data-analysis/power-sales-dashboard-build",
-      "budget_raw": "$194 Average bid",
-      "desc": "Build a polished Power BI dashboard that presents our key sales KPIs and metrics for the Sales department. The finished report will be shared with employees who are still new to data-driven decision-making, so every visual needs to read clearly at a glance and respond smoothly to simple slicers. Sco",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 194,
+      "usd": 78,
       "hourly": false,
       "flags": [],
-      "score": 13
+      "score": 14
     },
     {
       "title": "Excel Order & Invoice Automation",
@@ -469,6 +469,34 @@
       "score": 12
     },
     {
+      "title": "Power BI Sales Dashboard Build",
+      "url": "https://www.freelancer.com/projects/data-analysis/power-sales-dashboard-build",
+      "budget_raw": "$191 Average bid",
+      "desc": "Build a polished Power BI dashboard that presents our key sales KPIs and metrics for the Sales department. The finished report will be shared with employees who are still new to data-driven decision-making, so every visual needs to read clearly at a glance and respond smoothly to simple slicers. Sco",
+      "bids": 21,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 191,
+      "hourly": false,
+      "flags": [],
+      "score": 12
+    },
+    {
+      "title": "Extract Images, Reconvert to PDF",
+      "url": "https://www.freelancer.com/projects/excel/extract-images-reconvert-pdf",
+      "budget_raw": "$1 / hr Average bid",
+      "desc": "I have a collection of source PDFs that contain embedded images I need isolated. Your task is to locate every image inside each file, pull it out cleanly, and then reconvert those extracted images back into individual PDF files. Please keep the workflow simple and loss-free: no edits or enhancements",
+      "bids": 6,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 4,
+      "usd": 1,
+      "hourly": true,
+      "flags": [],
+      "score": 11
+    },
+    {
       "title": "Manual Excel Data Entry - 17/08/2026 06:44 EDT",
       "url": "https://www.freelancer.com/projects/data-analysis/manual-excel-data-entry-edt",
       "budget_raw": "$1 / hr Average bid",
@@ -479,20 +507,6 @@
       "fit": 5,
       "usd": 1,
       "hourly": true,
-      "flags": [],
-      "score": 7
-    },
-    {
-      "title": "Order Status Numerical Entry",
-      "url": "https://www.freelancer.com/projects/google-sheets/order-status-numerical-entry",
-      "budget_raw": "$59 Average bid",
-      "desc": "I need help updating a master list of customer orders. Every order already has an ID; what s missing is the numerical status code that shows where it is in our fulfilment process. You ll receive clear decoding rules (e.g., 1 = Processing, 2 = Packed, 3 = Shipped, etc.) along with the source file tha",
-      "bids": 2,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 59,
-      "hourly": false,
       "flags": [],
       "score": 7
     },
@@ -515,39 +529,11 @@
       "url": "https://www.freelancer.com/projects/google-sheets/education-info-spreadsheet-entry",
       "budget_raw": "$2 / hr Average bid",
       "desc": "I have a set of personal profiles that need a single piece of data captured: the School / University name listed under each person s education section. Nothing else no contact details, no job history just that institution name. You will enter the information into a spreadsheet; Excel or Google Sheet",
-      "bids": 2,
+      "bids": 10,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 2,
-      "hourly": true,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Convert Scans to Excel Data",
-      "url": "https://www.freelancer.com/projects/abbyy-finereader/convert-scans-excel-data",
-      "budget_raw": "$24 Average bid",
-      "desc": "I have a collection of scanned documents some pages filled with text paragraphs, others packed with numbers, most with a bit of both. My goal is to turn every page into a single, tidy Excel workbook where each field from the scan sits in its own clearly labeled cell. Here s what I need done: Run acc",
-      "bids": 17,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 24,
-      "hourly": false,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Comparative Equity Growth Modeling",
-      "url": "https://www.freelancer.com/projects/data-analysis/comparative-equity-growth-modeling",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I need a robust quantitative framework that will let me measure, visualise, and compare the growth trajectory of multiple equity instruments over time. The model should ingest clean price-action information alongside any fundamental or market-wide inputs that improve explanatory power, then output c",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 9,
       "hourly": true,
       "flags": [],
       "score": 5
@@ -557,7 +543,7 @@
       "url": "https://www.freelancer.com/projects/data-management/transcribe-handwritten-sheets-excel",
       "budget_raw": "$1 / hr Average bid",
       "desc": "I have fewer than 50 loose handwritten sheets that mix numbers with short text notes. I need every line entered accurately into a clean, well-structured Excel workbook so I can filter, sort, and run basic calculations later. Because the pages are loose and the layout varies slightly from sheet to sh",
-      "bids": 10,
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -565,9 +551,27 @@
       "hourly": true,
       "flags": [],
       "score": 5
+    },
+    {
+      "title": "Comparative Equity Growth Modeling",
+      "url": "https://www.freelancer.com/projects/data-analysis/comparative-equity-growth-modeling",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I need a robust quantitative framework that will let me measure, visualise, and compare the growth trajectory of multiple equity instruments over time. The model should ingest clean price-action information alongside any fundamental or market-wide inputs that improve explanatory power, then output c",
+      "bids": 24,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 4
     }
   ],
   "refused": [
+    {
+      "title": "Scrape Contest Entrants For Bulk Message",
+      "reason": "spam în masă"
+    },
     {
       "title": "US YouTube Business Leads Scrape",
       "reason": "listă masivă de date personale — GDPR și spam"
@@ -595,10 +599,6 @@
     {
       "title": "Facebook and Tiktok Accounts Management & Automation Expert",
       "reason": "extragere din rețele sociale — încalcă termenii platformei"
-    },
-    {
-      "title": "High-Volume ReCAPTCHA Solving -- 2",
-      "reason": "rezolvare/ocolire de CAPTCHA"
     },
     {
       "title": "Curate Technology Partnership Email List",
