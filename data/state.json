@@ -1,39 +1,99 @@
 {
-  "generated_at": "2026-08-24T07:04:41.566Z",
+  "generated_at": "2026-08-24T14:46:54.572Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 206,
+  "events_total": 212,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 37
+      "actions": 39
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 38
+      "actions": 39
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 88
+      "actions": 90
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 43
+      "actions": 44
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-24T14:46:54.518Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1114 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-24T14:46:05.922Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 443,
+      "status": null,
+      "desc": "Cel mai bun job: Online CSV Cleaning Tool",
+      "evidence": "https://www.freelancer.com/projects/flask/online-csv-cleaning-tool",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-24T14:46:05.922Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 208 proiecte scanate → 52 potrivite, 9 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-24T14:45:52.188Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 43 scanate, 3 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-24T14:45:00.638Z",
+      "type": "opportunity",
+      "track": "bounty",
+      "amount_usd": 100,
+      "status": null,
+      "desc": "Cel mai bun bounty: RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube (Scottcjn/Rustchain)",
+      "evidence": "https://github.com/Scottcjn/Rustchain/issues/2239",
+      "agent": "bounty-radar"
+    },
+    {
+      "ts": "2026-08-24T14:45:00.638Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 667 candidați → 1 bounty-uri reale (666 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-24T07:04:41.511Z",
       "type": "action",
@@ -573,71 +633,11 @@
       "desc": "Radar joburi: 205 proiecte scanate → 48 potrivite, 11 refuzate pe motive etice",
       "evidence": null,
       "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-20T22:31:35.667Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 47 scanate, 3 eligibile după citirea regulamentelor (44 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-20T22:30:40.498Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 622 candidați → 0 bounty-uri reale (622 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-20T14:41:21.272Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1116 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-20T14:40:32.028Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 261,
-      "status": null,
-      "desc": "Cel mai bun job: Virtual CFO, US & Australian GAAP Reporting, MIS & Finance Automation",
-      "evidence": "https://www.freelancer.com/projects/financial-analysis/virtual-cfo-australian-gaap-reporting",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-20T14:40:32.028Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 207 proiecte scanate → 54 potrivite, 11 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-20T14:40:17.612Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 47 scanate, 2 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
     }
   ],
   "opportunities": {
-    "accepted": 3,
-    "rejected": 710,
+    "accepted": 4,
+    "rejected": 706,
     "top": [
       {
         "source": "comp-radar",
@@ -646,13 +646,28 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 230,
+        "score": 226,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 650,
-        "per_slot": 217,
-        "days_left": 24,
+        "participants": 663,
+        "per_slot": 221,
+        "days_left": 23,
         "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "The Rice University Urban Sustainability Hackathon",
+        "url": "https://rice-urban-sustainability.devpost.com/",
+        "score": 152,
+        "prize_usd": 17500,
+        "slots": 3,
+        "participants": 344,
+        "per_slot": 115,
+        "days_left": 25,
+        "objective": false
       },
       {
         "source": "comp-radar",
@@ -661,12 +676,12 @@
         "reason": null,
         "title": "Agentic Cinema: The Blockbuster Hackathon",
         "url": "https://agentic-cinema.devpost.com/",
-        "score": 140,
+        "score": 139,
         "prize_usd": 75000,
         "slots": 15,
-        "participants": 8027,
-        "per_slot": 535,
-        "days_left": 17,
+        "participants": 8092,
+        "per_slot": 539,
+        "days_left": 16,
         "objective": false
       },
       {
@@ -678,25 +693,25 @@
         "verdict": "accept",
         "amount_usd": 100,
         "funding_source": "algora-pbc",
-        "stars": 720,
+        "stars": 721,
         "language": "Python",
         "age_days": 134,
         "difficulty": "hard",
-        "score": 83
+        "score": 86
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 311
+        "count": 322
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 193
+        "count": 198
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 52
+        "count": 44
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -704,23 +719,19 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 39
-      },
-      {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 17
+        "count": 37
       },
       {
         "reason": "fără premiu în bani",
-        "count": 16
+        "count": 15
       },
       {
-        "reason": "regulament necitibil",
+        "reason": "fork (task sintetic de benchmark)",
         "count": 10
       },
       {
         "reason": "participare restricționată",
-        "count": 7
+        "count": 9
       },
       {
         "reason": "proiect inactiv",
@@ -728,15 +739,19 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 4
+        "count": 6
       },
       {
-        "reason": "repo prea nou",
-        "count": 3
+        "reason": "regulament necitibil",
+        "count": 5
       },
       {
         "reason": "revendicat activ",
         "count": 3
+      },
+      {
+        "reason": "repo prea nou",
+        "count": 2
       },
       {
         "reason": "deja adjudecat",
