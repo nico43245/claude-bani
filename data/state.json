@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-25T14:51:15.000Z",
+  "generated_at": "2026-08-25T22:32:16.696Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 229,
+  "events_total": 234,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 44
+      "actions": 45
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 42
+      "actions": 43
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 96
+      "actions": 98
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 47
+      "actions": 48
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-25T22:32:16.640Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1113 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-25T22:31:27.865Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-25T22:31:27.865Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 220 proiecte scanate → 48 potrivite, 10 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-25T22:31:13.898Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 43 scanate, 3 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-25T22:30:22.717Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 795 candidați → 0 bounty-uri reale (795 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-25T14:51:14.942Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scout de piață: 1115 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
       "evidence": null,
       "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-22T06:44:03.774Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 431,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-22T06:44:03.774Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 208 proiecte scanate → 54 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-22T06:43:50.693Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 48 scanate, 3 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-22T06:42:56.517Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 637 candidați → 0 bounty-uri reale (637 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-21T22:29:55.216Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1115 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
     }
   ],
   "opportunities": {
-    "accepted": 2,
-    "rejected": 690,
+    "accepted": 3,
+    "rejected": 835,
     "top": [
       {
         "source": "comp-radar",
@@ -646,42 +646,57 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 219,
+        "score": 218,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 685,
-        "per_slot": 228,
+        "participants": 686,
+        "per_slot": 229,
         "days_left": 22,
         "objective": true
       },
       {
-        "url": "https://github.com/Scottcjn/Rustchain/issues/2239",
-        "repo": "Scottcjn/Rustchain",
-        "title": "RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube",
-        "comments": 8,
-        "created_at": "2026-04-12T18:25:39Z",
+        "source": "comp-radar",
+        "platform": "devpost",
         "verdict": "accept",
-        "amount_usd": 100,
-        "funding_source": "algora-pbc",
-        "stars": 722,
-        "language": "Python",
-        "age_days": 135,
-        "difficulty": "hard",
-        "score": 84
+        "reason": null,
+        "title": "The WebMCP Challenge",
+        "url": "https://webmcp.devpost.com/",
+        "score": 94,
+        "prize_usd": 35000,
+        "slots": 1,
+        "participants": 373,
+        "per_slot": 373,
+        "days_left": 9,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "COMPSPHERE 12",
+        "url": "https://compsphere12.devpost.com/",
+        "score": 50,
+        "prize_usd": 1247,
+        "slots": 7,
+        "participants": 174,
+        "per_slot": 25,
+        "days_left": 23,
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 322
+        "count": 325
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 195
+        "count": 197
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 41
+        "count": 182
       },
       {
         "reason": "prea competitiv",
@@ -693,26 +708,26 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 14
+        "count": 13
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 9
+        "count": 10
       },
       {
         "reason": "participare restricționată",
-        "count": 9
+        "count": 8
       },
       {
         "reason": "proiect inactiv",
         "count": 7
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "regulament necitibil",
         "count": 7
       },
       {
-        "reason": "regulament necitibil",
+        "reason": "prea aglomerat",
         "count": 6
       },
       {
@@ -720,15 +735,11 @@
         "count": 3
       },
       {
-        "reason": "deja adjudecat",
-        "count": 2
-      },
-      {
-        "reason": "prea puțin timp de construit",
-        "count": 2
-      },
-      {
         "reason": "premiu prea mic",
+        "count": 3
+      },
+      {
+        "reason": "deja adjudecat",
         "count": 2
       },
       {
@@ -741,6 +752,10 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
+        "count": 1
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 1
       }
     ]
