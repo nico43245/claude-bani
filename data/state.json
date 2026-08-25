@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-24T22:31:09.635Z",
+  "generated_at": "2026-08-25T06:54:08.127Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 218,
+  "events_total": 223,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 41
+      "actions": 42
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 40
+      "actions": 41
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 92
+      "actions": 94
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 45
+      "actions": 46
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-25T06:54:08.071Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1113 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-25T06:53:20.762Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 168,
+      "status": null,
+      "desc": "Cel mai bun job: Transcribe Photo Notes to Excel",
+      "evidence": "https://www.freelancer.com/projects/copy-typing/transcribe-photo-notes-excel",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-25T06:53:20.762Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 220 proiecte scanate → 53 potrivite, 8 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-25T06:53:07.288Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 43 scanate, 2 eligibile după citirea regulamentelor (41 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-25T06:52:10.964Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 641 candidați → 0 bounty-uri reale (641 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-24T22:31:09.594Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Cel mai bun job: Automate AI Lecture Notes Rewriting",
       "evidence": "https://www.freelancer.com/projects/python/automate-lecture-notes-rewriting",
       "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-21T14:39:22.616Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 210 proiecte scanate → 51 potrivite, 13 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-21T14:39:09.278Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 48 scanate, 3 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-21T14:38:13.869Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 635 candidați → 0 bounty-uri reale (635 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-21T06:53:27.748Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1117 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-21T06:52:40.821Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 491,
-      "status": null,
-      "desc": "Cel mai bun job: Automate AI Lecture Notes Rewriting",
-      "evidence": "https://www.freelancer.com/projects/python/automate-lecture-notes-rewriting",
-      "agent": "gig-radar"
     }
   ],
   "opportunities": {
-    "accepted": 3,
-    "rejected": 689,
+    "accepted": 2,
+    "rejected": 682,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 224,
+        "score": 221,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 670,
-        "per_slot": 223,
+        "participants": 677,
+        "per_slot": 226,
         "days_left": 23,
         "objective": true
       },
@@ -661,74 +661,59 @@
         "reason": null,
         "title": "Agentic Cinema: The Blockbuster Hackathon",
         "url": "https://agentic-cinema.devpost.com/",
-        "score": 138,
+        "score": 137,
         "prize_usd": 75000,
         "slots": 15,
-        "participants": 8151,
-        "per_slot": 543,
+        "participants": 8191,
+        "per_slot": 546,
         "days_left": 16,
         "objective": false
-      },
-      {
-        "url": "https://github.com/Scottcjn/Rustchain/issues/2239",
-        "repo": "Scottcjn/Rustchain",
-        "title": "RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube",
-        "comments": 8,
-        "created_at": "2026-04-12T18:25:39Z",
-        "verdict": "accept",
-        "amount_usd": 100,
-        "funding_source": "algora-pbc",
-        "stars": 722,
-        "language": "Python",
-        "age_days": 134,
-        "difficulty": "hard",
-        "score": 86
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 318
+        "count": 335
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 196
+        "count": 181
       },
       {
         "reason": "repo-fermă învățat automat",
         "count": 41
       },
       {
-        "reason": "fără dovadă de finanțare",
-        "count": 38
+        "reason": "prea competitiv",
+        "count": 31
       },
       {
-        "reason": "prea competitiv",
-        "count": 35
+        "reason": "fără dovadă de finanțare",
+        "count": 30
       },
       {
         "reason": "fără premiu în bani",
-        "count": 13
-      },
-      {
-        "reason": "participare restricționată",
-        "count": 10
+        "count": 14
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 8
+        "count": 9
       },
       {
-        "reason": "proiect inactiv",
-        "count": 6
+        "reason": "participare restricționată",
+        "count": 9
       },
       {
         "reason": "regulament necitibil",
-        "count": 6
+        "count": 9
+      },
+      {
+        "reason": "proiect inactiv",
+        "count": 7
       },
       {
         "reason": "prea aglomerat",
-        "count": 5
+        "count": 4
       },
       {
         "reason": "revendicat activ",
@@ -736,10 +721,6 @@
       },
       {
         "reason": "deja adjudecat",
-        "count": 2
-      },
-      {
-        "reason": "prea puțin timp de construit",
         "count": 2
       },
       {
@@ -756,6 +737,10 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
+        "count": 1
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 1
       }
     ]

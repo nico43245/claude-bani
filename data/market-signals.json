@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:31:09.591Z",
+  "generated_at": "2026-08-25T06:54:08.069Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -178,7 +178,7 @@
       },
       {
         "theme": "life",
-        "mentions": 20,
+        "mentions": 19,
         "engagement": 356,
         "evidence": [
           {
@@ -202,7 +202,7 @@
             "date": "2026-08-21"
           }
         ],
-        "score": 86
+        "score": 83
       },
       {
         "theme": "built",
@@ -373,6 +373,34 @@
         "score": 72
       },
       {
+        "theme": "them",
+        "mentions": 71,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
+            "url": "https://news.ycombinator.com/item?id=49388579",
+            "date": "2026-08-21"
+          },
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
+            "url": "https://news.ycombinator.com/item?id=49206893",
+            "date": "2026-08-07"
+          },
+          {
+            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
+            "url": "https://news.ycombinator.com/item?id=49134029",
+            "date": "2026-08-01"
+          }
+        ],
+        "score": 71
+      },
+      {
         "theme": "open-source",
         "mentions": 11,
         "engagement": 961,
@@ -401,32 +429,32 @@
         "score": 71
       },
       {
-        "theme": "them",
-        "mentions": 70,
-        "engagement": 0,
+        "theme": "browser",
+        "mentions": 16,
+        "engagement": 287,
         "evidence": [
           {
-            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
-            "url": "https://news.ycombinator.com/item?id=49388579",
-            "date": "2026-08-21"
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
           },
           {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
+            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
+            "url": "https://news.ycombinator.com/item?id=48973899",
+            "date": "2026-07-20"
           },
           {
-            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
-            "url": "https://news.ycombinator.com/item?id=49206893",
-            "date": "2026-08-07"
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
           },
           {
-            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
-            "url": "https://news.ycombinator.com/item?id=49134029",
-            "date": "2026-08-01"
+            "text": "This is nice. The controls could use some normalization, but all in all, very crisp. Esp for a non-chrome browser on linux on an ancient cpu. I would pay you 14",
+            "url": "https://news.ycombinator.com/item?id=48791475",
+            "date": "2026-07-05"
           }
         ],
-        "score": 70
+        "score": 69
       },
       {
         "theme": "different",
@@ -455,34 +483,6 @@
           }
         ],
         "score": 69
-      },
-      {
-        "theme": "browser",
-        "mentions": 15,
-        "engagement": 287,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
-            "url": "https://news.ycombinator.com/item?id=48973899",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This is nice. The controls could use some normalization, but all in all, very crisp. Esp for a non-chrome browser on linux on an ancient cpu. I would pay you 14",
-            "url": "https://news.ycombinator.com/item?id=48791475",
-            "date": "2026-07-05"
-          }
-        ],
-        "score": 66
       },
       {
         "theme": "system",
@@ -1415,9 +1415,9 @@
         "examples": [
           "printable planner for adhd",
           "printable planner for kids",
-          "checklist for moving out of state",
           "checklist for traveling",
-          "checklist for international travel"
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 75
       },
