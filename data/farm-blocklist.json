@@ -9,6 +9,7 @@
   ],
   "repos": [
     "relayhop/sn-monetization-runtime",
-    "ClankerNation/OpenAgents"
+    "ClankerNation/OpenAgents",
+    "NSPG13/agent-bounties"
   ]
 }
