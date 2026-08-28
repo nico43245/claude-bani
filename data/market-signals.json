@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T06:02:48.374Z",
+  "generated_at": "2026-08-28T18:37:13.116Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -178,7 +178,7 @@
       },
       {
         "theme": "life",
-        "mentions": 19,
+        "mentions": 20,
         "engagement": 356,
         "evidence": [
           {
@@ -202,7 +202,7 @@
             "date": "2026-08-21"
           }
         ],
-        "score": 83
+        "score": 86
       },
       {
         "theme": "search",
@@ -262,7 +262,7 @@
       },
       {
         "theme": "code",
-        "mentions": 51,
+        "mentions": 50,
         "engagement": 41,
         "evidence": [
           {
@@ -286,7 +286,7 @@
             "date": "2026-05-26"
           }
         ],
-        "score": 76
+        "score": 75
       },
       {
         "theme": "it.",
@@ -345,6 +345,34 @@
         "score": 73
       },
       {
+        "theme": "them",
+        "mentions": 71,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
+            "url": "https://news.ycombinator.com/item?id=49388579",
+            "date": "2026-08-21"
+          },
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
+            "url": "https://news.ycombinator.com/item?id=49206893",
+            "date": "2026-08-07"
+          },
+          {
+            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
+            "url": "https://news.ycombinator.com/item?id=49134029",
+            "date": "2026-08-01"
+          }
+        ],
+        "score": 71
+      },
+      {
         "theme": "open-source",
         "mentions": 11,
         "engagement": 961,
@@ -371,34 +399,6 @@
           }
         ],
         "score": 71
-      },
-      {
-        "theme": "them",
-        "mentions": 70,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
-            "url": "https://news.ycombinator.com/item?id=49388579",
-            "date": "2026-08-21"
-          },
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
-            "url": "https://news.ycombinator.com/item?id=49206893",
-            "date": "2026-08-07"
-          },
-          {
-            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
-            "url": "https://news.ycombinator.com/item?id=49134029",
-            "date": "2026-08-01"
-          }
-        ],
-        "score": 70
       },
       {
         "theme": "different",
@@ -458,7 +458,7 @@
       },
       {
         "theme": "browser",
-        "mentions": 15,
+        "mentions": 16,
         "engagement": 287,
         "evidence": [
           {
@@ -482,32 +482,32 @@
             "date": "2026-07-05"
           }
         ],
-        "score": 66
+        "score": 69
       },
       {
-        "theme": "public",
-        "mentions": 21,
-        "engagement": 126,
+        "theme": "system",
+        "mentions": 25,
+        "engagement": 92,
         "evidence": [
           {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
           },
           {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
           },
           {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
           },
           {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
+            "text": "This is just one of many papers DeepSeek have released to be able to serve models at extremely cheap prices, unlike the others taking on >$100B+ of debt in buil",
+            "url": "https://news.ycombinator.com/item?id=48696909",
+            "date": "2026-06-27"
           }
         ],
         "score": 63
@@ -541,29 +541,29 @@
         "score": 63
       },
       {
-        "theme": "system",
-        "mentions": 24,
-        "engagement": 92,
+        "theme": "public",
+        "mentions": 20,
+        "engagement": 126,
         "evidence": [
           {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
           },
           {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
           },
           {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
           },
           {
-            "text": "This is just one of many papers DeepSeek have released to be able to serve models at extremely cheap prices, unlike the others taking on >$100B+ of debt in buil",
-            "url": "https://news.ycombinator.com/item?id=48696909",
-            "date": "2026-06-27"
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
           }
         ],
         "score": 61
@@ -626,7 +626,7 @@
       },
       {
         "theme": "without",
-        "mentions": 49,
+        "mentions": 47,
         "engagement": 9,
         "evidence": [
           {
@@ -650,7 +650,7 @@
             "date": "2026-07-02"
           }
         ],
-        "score": 55
+        "score": 53
       },
       {
         "theme": "company",
@@ -1023,9 +1023,9 @@
         "examples": [
           "excel template for budget",
           "excel template for project management",
-          "excel template for job application tracking",
           "excel template for small business accounting",
-          "excel template for expense tracking"
+          "excel template for expense tracking",
+          "excel template for job application tracking"
         ],
         "score": 1023
       },
@@ -1036,9 +1036,9 @@
         "avg_branches": 9.1,
         "examples": [
           "excel template for project management",
-          "excel template for job application tracking",
           "excel template for small business accounting",
           "excel template for expense tracking",
+          "excel template for job application tracking",
           "google sheets template for business expenses"
         ],
         "score": 729
@@ -1135,8 +1135,8 @@
         "examples": [
           "excel template for budget",
           "excel template for project management",
-          "excel template for job application tracking",
           "excel template for expense tracking",
+          "excel template for job application tracking",
           "excel template for inventory"
         ],
         "score": 270
@@ -1171,7 +1171,7 @@
       },
       {
         "subject": "pdf",
-        "queries": 14,
+        "queries": 13,
         "seed_spread": 4,
         "avg_branches": 10,
         "examples": [
@@ -1181,7 +1181,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 201
+        "score": 186
       },
       {
         "subject": "expenses",
@@ -1232,9 +1232,9 @@
         "avg_branches": 9.3,
         "examples": [
           "excel template for project management",
-          "excel template for job application tracking",
           "excel template for small business accounting",
           "excel template for expense tracking",
+          "excel template for job application tracking",
           "google sheets template for budget"
         ],
         "score": 147
@@ -1287,8 +1287,8 @@
         "seed_spread": 3,
         "avg_branches": 9.8,
         "examples": [
-          "excel template for job application tracking",
           "excel template for expense tracking",
+          "excel template for job application tracking",
           "google sheets template for business expenses",
           "google sheets template for tracking job applications",
           "tracker template for google sheets"
@@ -1545,31 +1545,30 @@
         "score": 43
       },
       {
-        "subject": "plan",
-        "queries": 6,
-        "seed_spread": 2,
-        "avg_branches": 10,
+        "subject": "school",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 9.8,
         "examples": [
-          "budget template for college student",
-          "budget template for teens",
-          "budget template for biweekly pay",
-          "planner for small business owner",
-          "best planner for small business owner"
+          "notion template for school",
+          "notion template for medical students",
+          "checklist for kindergarten readiness",
+          "template management system"
         ],
         "score": 43
       },
       {
-        "subject": "job",
+        "subject": "list",
         "queries": 4,
         "seed_spread": 3,
-        "avg_branches": 9.5,
+        "avg_branches": 9.8,
         "examples": [
-          "excel template for job application tracking",
-          "google sheets template for job applications",
-          "google sheets template for tracking job applications",
-          "spreadsheet to track job applications"
+          "excel template for inventory",
+          "google sheets template for college application",
+          "checklist for moving out of state",
+          "checklist for kindergarten readiness"
         ],
-        "score": 42
+        "score": 43
       }
     ],
     "richest_veins": [
@@ -1694,23 +1693,6 @@
       },
       {
         "seed": "excel template for",
-        "query": "excel template for job application tracking",
-        "branches": 10,
-        "children": [
-          "excel template for job application tracking",
-          "excel template for job application tracker",
-          "excel sheet for job application tracking",
-          "spreadsheet template for job application tracking",
-          "excel template for job tracking",
-          "excel template for application tracking",
-          "excel job application tracker template free",
-          "spreadsheet for job application tracking",
-          "excel spreadsheet for job tracking",
-          "excel template for work tracking"
-        ]
-      },
-      {
-        "seed": "excel template for",
         "query": "excel template for small business accounting",
         "branches": 10,
         "children": [
@@ -1741,6 +1723,23 @@
           "excel template for tracking expenses and income",
           "excel template for tracking expenses and savings",
           "excel template for tracking expenses free"
+        ]
+      },
+      {
+        "seed": "excel template for",
+        "query": "excel template for job application tracking",
+        "branches": 10,
+        "children": [
+          "excel template for job application tracking",
+          "excel template for job application tracker",
+          "excel sheet for job application tracking",
+          "spreadsheet template for job application tracking",
+          "excel template for job tracking",
+          "excel template for application tracking",
+          "excel job application tracker template free",
+          "spreadsheet for job application tracking",
+          "excel spreadsheet for job tracking",
+          "excel template for work tracking"
         ]
       },
       {

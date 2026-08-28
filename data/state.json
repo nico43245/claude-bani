@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-28T06:02:48.441Z",
+  "generated_at": "2026-08-28T18:37:13.173Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 259,
+  "events_total": 264,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 50
+      "actions": 51
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 48
+      "actions": 49
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 108
+      "actions": 110
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 53
+      "actions": 54
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-28T18:37:13.117Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1110 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-28T18:36:25.120Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 705,
+      "status": null,
+      "desc": "Cel mai bun job: AI Reference Data Reporter",
+      "evidence": "https://www.freelancer.com/projects/natural-language-processing/reference-data-reporter",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-28T18:36:25.120Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 202 proiecte scanate → 36 potrivite, 8 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-28T18:36:11.518Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 2 eligibile după citirea regulamentelor (46 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-28T18:35:13.980Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 764 candidați → 0 bounty-uri reale (764 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-28T06:02:48.376Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Cel mai bun job: OSINT Threat Intelligence Data Analysis",
       "evidence": "https://www.freelancer.com/projects/algorithm/osint-threat-intelligence-data-analysis",
       "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-24T07:03:53.587Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 207 proiecte scanate → 48 potrivite, 10 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-24T07:03:39.921Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 44 scanate, 2 eligibile după citirea regulamentelor (42 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-24T07:02:46.633Z",
-      "type": "opportunity",
-      "track": "bounty",
-      "amount_usd": 100,
-      "status": null,
-      "desc": "Cel mai bun bounty: RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube (Scottcjn/Rustchain)",
-      "evidence": "https://github.com/Scottcjn/Rustchain/issues/2239",
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-24T07:02:46.633Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 669 candidați → 1 bounty-uri reale (668 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-23T22:26:16.593Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1114 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
     }
   ],
   "opportunities": {
     "accepted": 2,
-    "rejected": 811,
+    "rejected": 810,
     "top": [
       {
         "source": "comp-radar",
@@ -646,12 +646,12 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 204,
+        "score": 200,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 734,
-        "per_slot": 245,
-        "days_left": 20,
+        "participants": 750,
+        "per_slot": 250,
+        "days_left": 19,
         "objective": true
       },
       {
@@ -659,21 +659,21 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "Agentic Cinema: The Blockbuster Hackathon",
-        "url": "https://agentic-cinema.devpost.com/",
-        "score": 132,
-        "prize_usd": 75000,
-        "slots": 15,
-        "participants": 8537,
-        "per_slot": 569,
-        "days_left": 13,
+        "title": "Agents for Humans Hackathon",
+        "url": "https://agentsforhumans.devpost.com/",
+        "score": 69,
+        "prize_usd": 40000,
+        "slots": 10,
+        "participants": 5767,
+        "per_slot": 577,
+        "days_left": 17,
         "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 385
+        "count": 381
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -681,27 +681,27 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 108
+        "count": 118
       },
       {
         "reason": "prea competitiv",
-        "count": 44
+        "count": 37
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 27
+        "count": 28
       },
       {
         "reason": "fără premiu în bani",
         "count": 16
       },
       {
-        "reason": "participare restricționată",
-        "count": 10
+        "reason": "regulament necitibil",
+        "count": 11
       },
       {
-        "reason": "regulament necitibil",
-        "count": 9
+        "reason": "participare restricționată",
+        "count": 8
       },
       {
         "reason": "repo prea nou",
@@ -713,11 +713,11 @@
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 6
+        "count": 5
       },
       {
         "reason": "prea aglomerat",
-        "count": 6
+        "count": 5
       },
       {
         "reason": "deja adjudecat",
@@ -737,6 +737,10 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
+        "count": 1
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 1
       }
     ]
