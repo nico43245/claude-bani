@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-27T17:29:01.633Z",
+  "generated_at": "2026-08-28T06:02:48.374Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1111,
+    "signals_total": 1110,
     "themes": [
       {
         "theme": "app",
-        "mentions": 35,
+        "mentions": 34,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-05-27"
           }
         ],
-        "score": 123
+        "score": 121
       },
       {
         "theme": "web",
@@ -289,36 +289,8 @@
         "score": 76
       },
       {
-        "theme": "apps",
-        "mentions": 22,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
-            "url": "https://news.ycombinator.com/item?id=48578995",
-            "date": "2026-06-18"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          }
-        ],
-        "score": 76
-      },
-      {
         "theme": "it.",
-        "mentions": 60,
+        "mentions": 61,
         "engagement": 18,
         "evidence": [
           {
@@ -342,35 +314,35 @@
             "date": "2026-08-05"
           }
         ],
-        "score": 72
+        "score": 73
       },
       {
-        "theme": "different",
-        "mentions": 36,
-        "engagement": 70,
+        "theme": "apps",
+        "mentions": 21,
+        "engagement": 194,
         "evidence": [
           {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
+            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
+            "url": "https://news.ycombinator.com/item?id=48578995",
+            "date": "2026-06-18"
           },
           {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
           },
           {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
           },
           {
-            "text": "I submitted a long product suggestion to apple a couple years ago for an iPhone nano but they still haven’t taken me up on it lol. They were mad the mini was a ",
-            "url": "https://news.ycombinator.com/item?id=49374703",
-            "date": "2026-08-20"
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
           }
         ],
-        "score": 71
+        "score": 73
       },
       {
         "theme": "open-source",
@@ -424,6 +396,34 @@
             "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
             "url": "https://news.ycombinator.com/item?id=49134029",
             "date": "2026-08-01"
+          }
+        ],
+        "score": 70
+      },
+      {
+        "theme": "different",
+        "mentions": 35,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "I submitted a long product suggestion to apple a couple years ago for an iPhone nano but they still haven’t taken me up on it lol. They were mad the mini was a ",
+            "url": "https://news.ycombinator.com/item?id=49374703",
+            "date": "2026-08-20"
           }
         ],
         "score": 70
@@ -485,6 +485,34 @@
         "score": 66
       },
       {
+        "theme": "public",
+        "mentions": 21,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
+          }
+        ],
+        "score": 63
+      },
+      {
         "theme": "stop",
         "mentions": 16,
         "engagement": 215,
@@ -511,62 +539,6 @@
           }
         ],
         "score": 63
-      },
-      {
-        "theme": "videos",
-        "mentions": 15,
-        "engagement": 233,
-        "evidence": [
-          {
-            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
-            "url": "https://news.ycombinator.com/item?id=48746602",
-            "date": "2026-07-01"
-          },
-          {
-            "text": "No joke, I would pay for this more than i do for premium. Half my feed or suggestions are AI crap. Sadly I have lots of niche interests (various history topics,",
-            "url": "https://news.ycombinator.com/item?id=48300313",
-            "date": "2026-05-27"
-          },
-          {
-            "text": "youtube really needs to go. like myspace. Ruined if they would offer youtube plus, i would pay: - no ads. none. nothing - videos with sponsored content tagged, ",
-            "url": "https://news.ycombinator.com/item?id=48306991",
-            "date": "2026-05-28"
-          },
-          {
-            "text": "The GamersNexus arc is such a YouTube success story: from a dude uploading videos, to superbly rigorous methodology in top tier hardware reviews, to occasional ",
-            "url": "https://news.ycombinator.com/item?id=48116868",
-            "date": "2026-05-13"
-          }
-        ],
-        "score": 62
-      },
-      {
-        "theme": "public",
-        "mentions": 20,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
-          }
-        ],
-        "score": 61
       },
       {
         "theme": "system",
@@ -597,8 +569,36 @@
         "score": 61
       },
       {
+        "theme": "videos",
+        "mentions": 14,
+        "engagement": 233,
+        "evidence": [
+          {
+            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
+            "url": "https://news.ycombinator.com/item?id=48746602",
+            "date": "2026-07-01"
+          },
+          {
+            "text": "No joke, I would pay for this more than i do for premium. Half my feed or suggestions are AI crap. Sadly I have lots of niche interests (various history topics,",
+            "url": "https://news.ycombinator.com/item?id=48300313",
+            "date": "2026-05-27"
+          },
+          {
+            "text": "youtube really needs to go. like myspace. Ruined if they would offer youtube plus, i would pay: - no ads. none. nothing - videos with sponsored content tagged, ",
+            "url": "https://news.ycombinator.com/item?id=48306991",
+            "date": "2026-05-28"
+          },
+          {
+            "text": "The GamersNexus arc is such a YouTube success story: from a dude uploading videos, to superbly rigorous methodology in top tier hardware reviews, to occasional ",
+            "url": "https://news.ycombinator.com/item?id=48116868",
+            "date": "2026-05-13"
+          }
+        ],
+        "score": 59
+      },
+      {
         "theme": "agent",
-        "mentions": 12,
+        "mentions": 13,
         "engagement": 258,
         "evidence": [
           {
@@ -622,7 +622,7 @@
             "date": "2025-05-22"
           }
         ],
-        "score": 55
+        "score": 58
       },
       {
         "theme": "without",
@@ -737,34 +737,6 @@
         "score": 53
       },
       {
-        "theme": "launch",
-        "mentions": 8,
-        "engagement": 799,
-        "evidence": [
-          {
-            "text": "> launch costs alone make it infeasible Last time I did the math, launch costs were well balanced against permitting delays (mediated by interest rates). The br",
-            "url": "https://news.ycombinator.com/item?id=48428964",
-            "date": "2026-06-06"
-          },
-          {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
-          },
-          {
-            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-            "url": "https://news.ycombinator.com/item?id=44891090",
-            "date": "2025-08-13"
-          },
-          {
-            "text": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
-            "url": "https://news.ycombinator.com/item?id=47794514",
-            "date": "2026-04-16"
-          }
-        ],
-        "score": 53
-      },
-      {
         "theme": "trust",
         "mentions": 8,
         "engagement": 770,
@@ -791,6 +763,34 @@
           }
         ],
         "score": 53
+      },
+      {
+        "theme": "research",
+        "mentions": 12,
+        "engagement": 219,
+        "evidence": [
+          {
+            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
+            "url": "https://news.ycombinator.com/item?id=48824680",
+            "date": "2026-07-07"
+          },
+          {
+            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
+            "url": "https://news.ycombinator.com/item?id=49048747",
+            "date": "2026-07-25"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
+          }
+        ],
+        "score": 52
       },
       {
         "theme": "writing",
@@ -1023,9 +1023,9 @@
         "examples": [
           "excel template for budget",
           "excel template for project management",
+          "excel template for job application tracking",
           "excel template for small business accounting",
-          "excel template for expense tracking",
-          "excel template for job application tracking"
+          "excel template for expense tracking"
         ],
         "score": 1023
       },
@@ -1036,9 +1036,9 @@
         "avg_branches": 9.1,
         "examples": [
           "excel template for project management",
+          "excel template for job application tracking",
           "excel template for small business accounting",
           "excel template for expense tracking",
-          "excel template for job application tracking",
           "google sheets template for business expenses"
         ],
         "score": 729
@@ -1135,8 +1135,8 @@
         "examples": [
           "excel template for budget",
           "excel template for project management",
-          "excel template for expense tracking",
           "excel template for job application tracking",
+          "excel template for expense tracking",
           "excel template for inventory"
         ],
         "score": 270
@@ -1171,7 +1171,7 @@
       },
       {
         "subject": "pdf",
-        "queries": 13,
+        "queries": 14,
         "seed_spread": 4,
         "avg_branches": 10,
         "examples": [
@@ -1181,7 +1181,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 186
+        "score": 201
       },
       {
         "subject": "expenses",
@@ -1232,9 +1232,9 @@
         "avg_branches": 9.3,
         "examples": [
           "excel template for project management",
+          "excel template for job application tracking",
           "excel template for small business accounting",
           "excel template for expense tracking",
-          "excel template for job application tracking",
           "google sheets template for budget"
         ],
         "score": 147
@@ -1287,8 +1287,8 @@
         "seed_spread": 3,
         "avg_branches": 9.8,
         "examples": [
-          "excel template for expense tracking",
           "excel template for job application tracking",
+          "excel template for expense tracking",
           "google sheets template for business expenses",
           "google sheets template for tracking job applications",
           "tracker template for google sheets"
@@ -1545,30 +1545,31 @@
         "score": 43
       },
       {
-        "subject": "school",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 9.8,
+        "subject": "plan",
+        "queries": 6,
+        "seed_spread": 2,
+        "avg_branches": 10,
         "examples": [
-          "notion template for school",
-          "notion template for medical students",
-          "checklist for kindergarten readiness",
-          "template management system"
+          "budget template for college student",
+          "budget template for teens",
+          "budget template for biweekly pay",
+          "planner for small business owner",
+          "best planner for small business owner"
         ],
         "score": 43
       },
       {
-        "subject": "list",
+        "subject": "job",
         "queries": 4,
         "seed_spread": 3,
-        "avg_branches": 9.8,
+        "avg_branches": 9.5,
         "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "checklist for moving out of state",
-          "checklist for kindergarten readiness"
+          "excel template for job application tracking",
+          "google sheets template for job applications",
+          "google sheets template for tracking job applications",
+          "spreadsheet to track job applications"
         ],
-        "score": 43
+        "score": 42
       }
     ],
     "richest_veins": [
@@ -1693,6 +1694,23 @@
       },
       {
         "seed": "excel template for",
+        "query": "excel template for job application tracking",
+        "branches": 10,
+        "children": [
+          "excel template for job application tracking",
+          "excel template for job application tracker",
+          "excel sheet for job application tracking",
+          "spreadsheet template for job application tracking",
+          "excel template for job tracking",
+          "excel template for application tracking",
+          "excel job application tracker template free",
+          "spreadsheet for job application tracking",
+          "excel spreadsheet for job tracking",
+          "excel template for work tracking"
+        ]
+      },
+      {
+        "seed": "excel template for",
         "query": "excel template for small business accounting",
         "branches": 10,
         "children": [
@@ -1723,23 +1741,6 @@
           "excel template for tracking expenses and income",
           "excel template for tracking expenses and savings",
           "excel template for tracking expenses free"
-        ]
-      },
-      {
-        "seed": "excel template for",
-        "query": "excel template for job application tracking",
-        "branches": 10,
-        "children": [
-          "excel template for job application tracking",
-          "excel template for job application tracker",
-          "excel sheet for job application tracking",
-          "spreadsheet template for job application tracking",
-          "excel template for job tracking",
-          "excel template for application tracking",
-          "excel job application tracker template free",
-          "spreadsheet for job application tracking",
-          "excel spreadsheet for job tracking",
-          "excel template for work tracking"
         ]
       },
       {
