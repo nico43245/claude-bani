@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-08-29T03:36:16.976Z",
+  "generated_at": "2026-08-29T12:30:41.528Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1109,
+    "signals_total": 1108,
     "themes": [
       {
         "theme": "app",
-        "mentions": 34,
+        "mentions": 35,
         "engagement": 332,
         "evidence": [
+          {
+            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
+            "url": "https://news.ycombinator.com/item?id=49488605",
+            "date": "2026-08-29"
+          },
           {
             "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
             "url": "https://news.ycombinator.com/item?id=48578995",
@@ -27,14 +32,9 @@
             "text": "«Please shut up and take my money». Jokes aside - can’t wait. Your book The Lean Startup helped me so much. I read it tens of times. It’s one of the reason I go",
             "url": "https://news.ycombinator.com/item?id=48487432",
             "date": "2026-06-11"
-          },
-          {
-            "text": "I have been one of the very early users. Maybe from the first weeks (if not days). It used to be such a good app and service. So good that I used to ask my frie",
-            "url": "https://news.ycombinator.com/item?id=48288422",
-            "date": "2026-05-27"
           }
         ],
-        "score": 121
+        "score": 123
       },
       {
         "theme": "web",
@@ -345,6 +345,34 @@
         "score": 73
       },
       {
+        "theme": "language",
+        "mentions": 17,
+        "engagement": 290,
+        "evidence": [
+          {
+            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
+            "url": "https://news.ycombinator.com/item?id=45086249",
+            "date": "2025-08-31"
+          },
+          {
+            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
+            "url": "https://news.ycombinator.com/item?id=46929160",
+            "date": "2026-02-07"
+          },
+          {
+            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
+            "url": "https://news.ycombinator.com/item?id=45075127",
+            "date": "2025-08-30"
+          },
+          {
+            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
+            "url": "https://news.ycombinator.com/item?id=49388758",
+            "date": "2026-08-21"
+          }
+        ],
+        "score": 72
+      },
+      {
         "theme": "different",
         "mentions": 36,
         "engagement": 70,
@@ -401,62 +429,6 @@
         "score": 71
       },
       {
-        "theme": "them",
-        "mentions": 70,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
-            "url": "https://news.ycombinator.com/item?id=49388579",
-            "date": "2026-08-21"
-          },
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
-            "url": "https://news.ycombinator.com/item?id=49206893",
-            "date": "2026-08-07"
-          },
-          {
-            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
-            "url": "https://news.ycombinator.com/item?id=49134029",
-            "date": "2026-08-01"
-          }
-        ],
-        "score": 70
-      },
-      {
-        "theme": "language",
-        "mentions": 16,
-        "engagement": 290,
-        "evidence": [
-          {
-            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
-            "url": "https://news.ycombinator.com/item?id=45086249",
-            "date": "2025-08-31"
-          },
-          {
-            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
-            "url": "https://news.ycombinator.com/item?id=46929160",
-            "date": "2026-02-07"
-          },
-          {
-            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
-            "url": "https://news.ycombinator.com/item?id=45075127",
-            "date": "2025-08-30"
-          },
-          {
-            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
-            "url": "https://news.ycombinator.com/item?id=49388758",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 69
-      },
-      {
         "theme": "browser",
         "mentions": 16,
         "engagement": 287,
@@ -480,6 +452,34 @@
             "text": "This is nice. The controls could use some normalization, but all in all, very crisp. Esp for a non-chrome browser on linux on an ancient cpu. I would pay you 14",
             "url": "https://news.ycombinator.com/item?id=48791475",
             "date": "2026-07-05"
+          }
+        ],
+        "score": 69
+      },
+      {
+        "theme": "them",
+        "mentions": 69,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
+            "url": "https://news.ycombinator.com/item?id=49388579",
+            "date": "2026-08-21"
+          },
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
+            "url": "https://news.ycombinator.com/item?id=49206893",
+            "date": "2026-08-07"
+          },
+          {
+            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
+            "url": "https://news.ycombinator.com/item?id=49134029",
+            "date": "2026-08-01"
           }
         ],
         "score": 69
@@ -709,34 +709,6 @@
         "score": 53
       },
       {
-        "theme": "project",
-        "mentions": 29,
-        "engagement": 45,
-        "evidence": [
-          {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
-          },
-          {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
-          },
-          {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
-          }
-        ],
-        "score": 53
-      },
-      {
         "theme": "computer",
         "mentions": 12,
         "engagement": 230,
@@ -793,6 +765,34 @@
         "score": 53
       },
       {
+        "theme": "project",
+        "mentions": 28,
+        "engagement": 45,
+        "evidence": [
+          {
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
+            "url": "https://news.ycombinator.com/item?id=48956474",
+            "date": "2026-07-18"
+          },
+          {
+            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
+            "url": "https://news.ycombinator.com/item?id=48240608",
+            "date": "2026-05-22"
+          },
+          {
+            "text": "What's the best project management tool you have ever used?",
+            "url": "https://news.ycombinator.com/item?id=42501443",
+            "date": "2024-12-24"
+          }
+        ],
+        "score": 52
+      },
+      {
         "theme": "writing",
         "mentions": 18,
         "engagement": 96,
@@ -822,9 +822,14 @@
       },
       {
         "theme": "world",
-        "mentions": 23,
+        "mentions": 24,
         "engagement": 58,
         "evidence": [
+          {
+            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
+            "url": "https://news.ycombinator.com/item?id=49488605",
+            "date": "2026-08-29"
+          },
           {
             "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
             "url": "https://news.ycombinator.com/item?id=48916578",
@@ -839,14 +844,9 @@
             "text": "it usually takes a little longer than this, but yeah, everything in the world eventually caves in for whatever makes more money. you can't tell me you're surpri",
             "url": "https://news.ycombinator.com/item?id=48533671",
             "date": "2026-06-14"
-          },
-          {
-            "text": "Reminder the only benchmark that really matters is the one that measures the ability for the model to do real world tasks that someone would pay for on Upwork t",
-            "url": "https://news.ycombinator.com/item?id=48313769",
-            "date": "2026-05-28"
           }
         ],
-        "score": 50
+        "score": 51
       }
     ],
     "loudest": [
@@ -1033,15 +1033,15 @@
         "subject": "spreadsheet",
         "queries": 30,
         "seed_spread": 7,
-        "avg_branches": 8.9,
+        "avg_branches": 9.1,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking",
-          "google sheets template for apartment hunting"
+          "google sheets template for business expenses"
         ],
-        "score": 723
+        "score": 729
       },
       {
         "subject": "budget",
@@ -1117,15 +1117,15 @@
         "subject": "google",
         "queries": 21,
         "seed_spread": 4,
-        "avg_branches": 9.3,
+        "avg_branches": 9.7,
         "examples": [
-          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for job applications"
+          "google sheets template for college application"
         ],
-        "score": 294
+        "score": 298
       },
       {
         "subject": "tracking",
@@ -1145,15 +1145,15 @@
         "subject": "sheets",
         "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 9.4,
+        "avg_branches": 9.7,
         "examples": [
-          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for job applications"
+          "google sheets template for college application"
         ],
-        "score": 267
+        "score": 270
       },
       {
         "subject": "monthly",
@@ -1310,6 +1310,20 @@
         "score": 116
       },
       {
+        "subject": "students",
+        "queries": 8,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for medical students",
+          "notion template for students",
+          "google sheets template for college application"
+        ],
+        "score": 115
+      },
+      {
         "subject": "planning",
         "queries": 8,
         "seed_spread": 4,
@@ -1317,8 +1331,8 @@
         "examples": [
           "excel template for budget",
           "google sheets template for budget",
-          "google sheets template for planning a trip",
           "google sheets template for travel itinerary",
+          "google sheets template for planning a trip",
           "checklist for wedding planning"
         ],
         "score": 114
@@ -1352,16 +1366,30 @@
         "score": 100
       },
       {
+        "subject": "application",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
+        "examples": [
+          "excel template for job application tracking",
+          "google sheets template for college application",
+          "google sheets template for job applications",
+          "google sheets template for tracking job applications",
+          "spreadsheet to track job applications"
+        ],
+        "score": 85
+      },
+      {
         "subject": "docs",
         "queries": 8,
         "seed_spread": 3,
         "avg_branches": 9.5,
         "examples": [
           "google sheets template for budget",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
           "google sheets template for job applications",
-          "google sheets template for travel itinerary",
-          "google sheets template for inventory"
+          "google sheets template for tracking job applications"
         ],
         "score": 85
       },
@@ -1378,20 +1406,6 @@
           "tracking template for google ads"
         ],
         "score": 82
-      },
-      {
-        "subject": "students",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for medical students",
-          "notion template for students",
-          "printable planner for kids"
-        ],
-        "score": 75
       },
       {
         "subject": "expense",
@@ -1431,20 +1445,6 @@
           "excel template for project management",
           "tracker template for google sheets",
           "tracker template for excel",
-          "budget template for grant proposal"
-        ],
-        "score": 71
-      },
-      {
-        "subject": "application",
-        "queries": 5,
-        "seed_spread": 4,
-        "avg_branches": 9.6,
-        "examples": [
-          "excel template for job application tracking",
-          "google sheets template for job applications",
-          "google sheets template for tracking job applications",
-          "spreadsheet to track job applications",
           "budget template for grant proposal"
         ],
         "score": 71
@@ -1504,6 +1504,20 @@
         "score": 55
       },
       {
+        "subject": "college",
+        "queries": 5,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "google sheets template for college application",
+          "budget template for college student"
+        ],
+        "score": 54
+      },
+      {
         "subject": "software",
         "queries": 5,
         "seed_spread": 3,
@@ -1516,6 +1530,19 @@
           "scheduler for small business"
         ],
         "score": 51
+      },
+      {
+        "subject": "university",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for students",
+          "google sheets template for college application",
+          "budget template for college student"
+        ],
+        "score": 43
       },
       {
         "subject": "plan",
@@ -1543,32 +1570,6 @@
           "spreadsheet to track job applications"
         ],
         "score": 42
-      },
-      {
-        "subject": "financial",
-        "queries": 5,
-        "seed_spread": 2,
-        "avg_branches": 7.6,
-        "examples": [
-          "excel template to manage personal finance",
-          "planner for small business owner",
-          "planner for small business",
-          "financial planner for small business owners",
-          "budget planner for small business"
-        ],
-        "score": 33
-      },
-      {
-        "subject": "sample",
-        "queries": 3,
-        "seed_spread": 3,
-        "avg_branches": 9.3,
-        "examples": [
-          "notion template for project management",
-          "budget template for grant proposal",
-          "template management system"
-        ],
-        "score": 32
       }
     ],
     "richest_veins": [
@@ -1812,23 +1813,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for job applications",
-        "branches": 10,
-        "children": [
-          "google sheets template for job applications",
-          "google sheets template for job application tracking",
-          "google sheets template for job search",
-          "google spreadsheet template for job applications",
-          "google docs template for job application tracking",
-          "google docs template for job application",
-          "how do i find templates in google sheets",
-          "does google sheets have templates",
-          "how to add template to google sheets",
-          "can i create a template in google sheets"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for travel itinerary",
         "branches": 10,
         "children": [
@@ -1842,6 +1826,40 @@
           "google docs template for trip itinerary",
           "google docs template for trip planning",
           "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for college application",
+        "branches": 10,
+        "children": [
+          "google sheets template for college application",
+          "google sheets template for college classes",
+          "google sheets template for college list",
+          "google sheets template for college assignments",
+          "google sheets template for college",
+          "google sheets template for college students",
+          "google sheets template for college search",
+          "google sheets college application template free",
+          "google sheets template for university",
+          "spreadsheet template for college application process"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for job applications",
+        "branches": 10,
+        "children": [
+          "google sheets template for job applications",
+          "google sheets template for job application tracking",
+          "google sheets template for job search",
+          "google spreadsheet template for job applications",
+          "google docs template for job application tracking",
+          "google docs template for job application",
+          "how do i find templates in google sheets",
+          "does google sheets have templates",
+          "how to add template to google sheets",
+          "can i create a template in google sheets"
         ]
       },
       {
@@ -1978,23 +1996,6 @@
           "free printable adhd planner for adults pdf",
           "free printable adhd planner for kids",
           "free printable adhd planner for adults pdf download"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for kids",
-        "branches": 10,
-        "children": [
-          "printable planner for kids",
-          "printable calendar for kids",
-          "printable calendar for kids 2026",
-          "printable calendar for kids 2025",
-          "printable planner for students",
-          "printable calendar for kids to color",
-          "printable calendar for kids free",
-          "printable calendar for kids pdf",
-          "printable calendar for kids schedule",
-          "printable calendar for kids april 2026"
         ]
       }
     ]
