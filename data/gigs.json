@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T18:36:25.120Z",
-  "scanned": 202,
-  "accepted": 36,
-  "refused_on_ethics": 8,
+  "generated_at": "2026-08-29T03:35:29.914Z",
+  "scanned": 201,
+  "accepted": 31,
+  "refused_on_ethics": 9,
   "jobs": [
     {
       "title": "AI Reference Data Reporter",
@@ -33,6 +33,20 @@
       "score": 774
     },
     {
+      "title": "Python Web Stream Processing",
+      "url": "https://www.freelancer.com/projects/web-development/python-web-stream-processing",
+      "budget_raw": "$562 Average bid",
+      "desc": "I m building a Python-powered web application focused on data processing specifically stream data processing and I need your help to get the first working version online. What I need A server-side component in Python that accepts a live data stream, performs on-the-fly transformations (filtering, ag",
+      "bids": null,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 4,
+      "usd": 562,
+      "hourly": false,
+      "flags": [],
+      "score": 540
+    },
+    {
       "title": "SDN Engineering Expertise with OVS/OVN",
       "url": "https://www.freelancer.com/projects/amazon-web-services/sdn-engineering-expertise-with-ovs",
       "budget_raw": "$64 / hr Average bid",
@@ -45,34 +59,6 @@
       "hourly": true,
       "flags": [],
       "score": 392
-    },
-    {
-      "title": "2,500 Tech Hiring Decision-Maker Leads",
-      "url": "https://www.freelancer.com/projects/lead-generation/tech-hiring-decision-maker-leads",
-      "budget_raw": "$387 Average bid",
-      "desc": "### $50 USD Need 2,500 Verified IT Decision-Maker Leads I m looking for an experienced lead researcher/scraper to build a **fresh, accurate list of 2,500 decision-maker contacts** for my recruitment agency. ### Target Companies * **Information Technology / Software / Tech companies only** * Located ",
-      "bids": 8,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 387,
-      "hourly": false,
-      "flags": [],
-      "score": 362
-    },
-    {
-      "title": "AI WhatsApp Message Parser",
-      "url": "https://www.freelancer.com/projects/python/whatsapp-message-parser",
-      "budget_raw": "$518 Average bid",
-      "desc": "My existing scraper is already funneling every post from more than 500 WhatsApp groups into a single raw_messages table. Each row carries the full text, a group-id, timestamp, and sender phone, but that is where the structure ends. I now need a new script that will read each incoming row, pass the t",
-      "bids": 33,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 518,
-      "hourly": false,
-      "flags": [],
-      "score": 326
     },
     {
       "title": "WEB SCRAPE - INSOLVENCY REGISTER UK",
@@ -89,46 +75,32 @@
       "score": 234
     },
     {
-      "title": "Shopify Odoo Multichannel Integration",
-      "url": "https://www.freelancer.com/projects/shopify-site/shopify-odoo-multichannel-integration",
-      "budget_raw": "$14 / hr Average bid",
-      "desc": "I m ready to connect my existing Shopify store with our Odoo (sh) so that every part of our multichannel operation Website, in-store POS, and CRM runs from a single source of truth. Inventory & stock Real-time stock synchronisation between Shopify and Odoo, including multi-location levels. Automated",
-      "bids": null,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 14,
-      "hourly": true,
-      "flags": [],
-      "score": 218
-    },
-    {
-      "title": "Custom Excel Scheduling Spreadsheet",
-      "url": "https://www.freelancer.com/projects/excel-macros/custom-excel-scheduling-spreadsheet",
-      "budget_raw": "$429 Average bid",
-      "desc": "I'm looking for a skilled Excel developer to create a customizable scheduling spreadsheet. This will be used by 2-10 users. Essential features: - Customizable templates - Color-coded schedules Ideal Skills and Experience: - Proficiency in Excel - Experience with creating dynamic and user-friendly sp",
-      "bids": 4,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 429,
-      "hourly": false,
-      "flags": [],
-      "score": 201
-    },
-    {
-      "title": "Excel Automation and Task Tracking",
-      "url": "https://www.freelancer.com/projects/pdf/excel-automation-task-tracking",
-      "budget_raw": "$26 / hr Average bid",
-      "desc": "I need an Excel automation solution to track daily, weekly, and monthly tasks. I also need to be able to generate PDF reports with a single click. Requirements: - Track daily, weekly, and monthly tasks - Automate data entry in Excel - Generate customizable PDF reports Ideal Skills and Experience: - ",
-      "bids": 22,
+      "title": "AI Three-Way Invoice Automation",
+      "url": "https://www.freelancer.com/projects/machine-learning/three-way-invoice-automation",
+      "budget_raw": "$643 Average bid",
+      "desc": "I want to put the entire accounts-payable flow on autopilot with a machine-learning core. Bills arrive as scanned documents; from there the system must: Deliverables Accurately capture every header and line-item field from the scan, ready for export. Run a true three-way match quantity ordered vs. r",
+      "bids": 31,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 26,
-      "hourly": true,
+      "usd": 643,
+      "hourly": false,
       "flags": [],
-      "score": 110
+      "score": 113
+    },
+    {
+      "title": "Web Portal Session Automation Enhancement",
+      "url": "https://www.freelancer.com/projects/selenium/web-portal-session-automation",
+      "budget_raw": "$250 Average bid",
+      "desc": "Project Title: Browser Automation Engineer Web Portal Session Management System Project Type: Desktop Automation Development Project Overview We are building a desktop automation system for a secure web portal used in business process optimization. The system is designed to manage multiple concurren",
+      "bids": 32,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 4,
+      "usd": 250,
+      "hourly": false,
+      "flags": [],
+      "score": 104
     },
     {
       "title": "Regional Business PIN Code List",
@@ -145,18 +117,18 @@
       "score": 98
     },
     {
-      "title": "Web Portal Session Automation Enhancement",
-      "url": "https://www.freelancer.com/projects/selenium/web-portal-session-automation",
-      "budget_raw": "$250 Average bid",
-      "desc": "Project Title: Browser Automation Engineer Web Portal Session Management System Project Type: Desktop Automation Development Project Overview We are building a desktop automation system for a secure web portal used in business process optimization. The system is designed to manage multiple concurren",
-      "bids": 33,
+      "title": "Custom Excel Scheduling Spreadsheet",
+      "url": "https://www.freelancer.com/projects/excel-macros/custom-excel-scheduling-spreadsheet",
+      "budget_raw": "$428 Average bid",
+      "desc": "I'm looking for a skilled Excel developer to create a customizable scheduling spreadsheet. This will be used by 2-10 users. Essential features: - Customizable templates - Color-coded schedules Ideal Skills and Experience: - Proficiency in Excel - Experience with creating dynamic and user-friendly sp",
+      "bids": 23,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 4,
-      "usd": 250,
+      "fit": 2,
+      "usd": 428,
       "hourly": false,
       "flags": [],
-      "score": 91
+      "score": 95
     },
     {
       "title": "Targeted Email Address Scraping",
@@ -175,62 +147,62 @@
       "score": 91
     },
     {
-      "title": "Company Contact Data Extraction",
-      "url": "https://www.freelancer.com/projects/google-search/company-contact-data-extraction",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have around 1,000 company names and need a reliable freelancer to search Google and company websites and collect accurate contact details. Required Data: Company Name Official Email ID Mobile Number only No Landline Source URL Excel or Google Sheets Payment: ₹1 per valid lead. Before starting the ",
-      "bids": 26,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 9,
-      "hourly": true,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 82
-    },
-    {
-      "title": "Enrich 74 UK Hospital Leads",
-      "url": "https://www.freelancer.com/projects/crm/enrich-hospital-leads",
-      "budget_raw": "$338 - $1015",
-      "desc": "I already hold a spreadsheet of 74 hospital groups across the South-East of the UK. It lists only the group names, so the task is to turn that raw list into a fully usable prospect database. Primary objective Complete every missing contact detail, with special attention to email addresses, direct ph",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 338,
-      "hourly": false,
-      "flags": [],
-      "score": 66
-    },
-    {
       "title": "Excel Formatting Across Multiple Sheets",
       "url": "https://www.freelancer.com/projects/excel-macros/excel-formatting-across-multiple-sheets",
       "budget_raw": "$8 / hr Average bid",
       "desc": "I need a quick, clean refresh of the text layout in one workbook that holds roughly 6 10 tabs. On each tab only certain rows or columns need work, but every affected area must come out looking consistent. Here is what I m after: update the font, size, and colour so everything matches our house style",
-      "bids": 11,
+      "bids": 3,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 8,
       "hourly": true,
       "flags": [],
-      "score": 54
+      "score": 69
     },
     {
       "title": "Developer Needed for Alibaba Outreach Automation",
       "url": "https://www.freelancer.com/projects/api/developer-needed-for-alibaba-outreach",
       "budget_raw": "$142 Average bid",
       "desc": "We're looking for a developer to build a tool that automates outreach to suppliers via Alibaba's chat/messaging interface at scale. We already have one automation tool in place and want a second one built independently (different approach/stack preferred to reduce single-point-of-failure risk). Requ",
-      "bids": 30,
+      "bids": 24,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 142,
       "hourly": false,
       "flags": [],
-      "score": 42
+      "score": 66
+    },
+    {
+      "title": "Printed Numbers to Google Sheets -- 2",
+      "url": "https://www.freelancer.com/projects/google-sheets/printed-numbers-google-sheets",
+      "budget_raw": "$66 Average bid",
+      "desc": "I have a collection of printed reports that contain nothing but numbers totals, percentages, and a few IDs spread across several pages. I will send you high-resolution scans; your job is to key every figure into the Google Sheet template I ll share. The sheet already has the correct column headings,",
+      "bids": 8,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 66,
+      "hourly": false,
+      "flags": [],
+      "score": 62
+    },
+    {
+      "title": "Company Contact Data Extraction",
+      "url": "https://www.freelancer.com/projects/google-search/company-contact-data-extraction",
+      "budget_raw": "$10 / hr Average bid",
+      "desc": "I have around 1,000 company names and need a reliable freelancer to search Google and company websites and collect accurate contact details. Required Data: Company Name Official Email ID Mobile Number only No Landline Source URL Excel or Google Sheets Payment: ₹1 per valid lead. Before starting the ",
+      "bids": 31,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 10,
+      "hourly": true,
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 58
     },
     {
       "title": "Data Migration Model Creation",
@@ -249,72 +221,44 @@
     {
       "title": "Python Developer Ongoing Role for AI Agent Fleet (Self-Correcting Agents + Landing-Page Quality) -- 3",
       "url": "https://www.freelancer.com/projects/python/python-developer-ongoing-role-for-40674450",
-      "budget_raw": "$3528 Average bid",
+      "budget_raw": "$3542 Average bid",
       "desc": "We run a fleet of autonomous AI agents (Python, FastAPI, Celery, PostgreSQL, Docker) operating roughly 10 small-business platforms in Saudi Arabia (e-commerce store builder, logistics/booking, tutoring/education, personal & business finance tracking, real estate, and a few more), aimed at real payin",
       "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 3528,
+      "usd": 3542,
       "hourly": false,
       "flags": [],
       "score": 34
-    },
-    {
-      "title": "Access Insurance Plan Comparator Tool",
-      "url": "https://www.freelancer.com/projects/data-analysis/access-insurance-plan-comparator-tool",
-      "budget_raw": "$73 Average bid",
-      "desc": "I need a streamlined Microsoft Access database that lets me enter multiple insurance policies by hand and instantly see how they stack up. The focus is clear: side-by-side comparison of premium costs, coverage details, and even any customer review notes I type in. Here is what I have in mind: clean ",
-      "bids": 24,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 73,
-      "hourly": false,
-      "flags": [],
-      "score": 34
-    },
-    {
-      "title": "ICD-10 Inpatient Coding Project",
-      "url": "https://www.freelancer.com/projects/medical-coding/icd-inpatient-coding-project",
-      "budget_raw": "$482 Average bid",
-      "desc": "I need a certified coder to assign accurate ICD-10 codes to a series of general-medicine inpatient charts. You will receive complete electronic health records admission notes, progress notes, discharge summaries, imaging and lab reports and return a coded file for each encounter. The focus is strict",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 482,
-      "hourly": false,
-      "flags": [],
-      "score": 31
-    },
-    {
-      "title": "Mail Merge in Microsoft Word",
-      "url": "https://www.freelancer.com/projects/microsoft-word/mail-merge-microsoft-word",
-      "budget_raw": "$103 Average bid",
-      "desc": "I have a Microsoft Access database that feeds 100 1000 records with several custom data fields. I need these records merged into a Microsoft Word letter template and printed perfectly onto a pre-printed continuous-feed form. The job involves: Connecting the Access table to Word so the merge can be r",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 103,
-      "hourly": false,
-      "flags": [],
-      "score": 27
     },
     {
       "title": "Online Database Text Entry",
       "url": "https://www.freelancer.com/projects/data-annotation/online-database-text-entry",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have several online databases that contain the text information I need consolidated into a single spreadsheet. I will supply the URLs (and, where necessary, login details) together with a simple column-mapping guide. Your task is to pull the required text fields nothing numeric into my template, k",
-      "bids": 16,
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 22
+      "score": 26
+    },
+    {
+      "title": "Payroll Tax Specialist for Small Business 2025 and 2026",
+      "url": "https://www.freelancer.com/projects/payroll-tax-specialist-for-small",
+      "budget_raw": "$105 Average bid",
+      "desc": "I run a small business that still calculates wages and tax withholdings in plain spreadsheets. I now need an experienced employer-side payroll tax specialist who can step in and: Verify every calculation and deduction for federal, state, and local payroll taxes against those amounts shown in my appl",
+      "bids": 22,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 105,
+      "hourly": false,
+      "flags": [],
+      "score": 25
     },
     {
       "title": "USSB Directory Data Scraping",
@@ -331,16 +275,16 @@
       "score": 18
     },
     {
-      "title": "Indonesian Telegram Chatbot Responder",
-      "url": "https://www.freelancer.com/projects/chatbot-development/indonesian-telegram-chatbot-responder",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I need a Telegram bot that can take over my channel s incoming messages and answer them exclusively in Indonesian. Two core functions matter most to me: Automated replies triggered by specific keywords I will supply. Flexible customer-support style responses for questions that don t match those keyw",
-      "bids": 38,
+      "title": "Beam & Column Steel Takeoff",
+      "url": "https://www.freelancer.com/projects/cad-drafting-review/beam-column-steel-takeoff",
+      "budget_raw": "$23 Average bid",
+      "desc": "I have a full set of CAD files for a project whose structural scope is limited to beams and columns, and I need an accurate steel take-off with a detailed breakdown of quantities. Your task is to extract every relevant member from the drawings, calculate weights and lengths, include connection plate",
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 10,
-      "hourly": true,
+      "usd": 23,
+      "hourly": false,
       "flags": [],
       "score": 14
     },
@@ -363,7 +307,7 @@
       "url": "https://www.freelancer.com/projects/content-writing/copy-website-all-from-given",
       "budget_raw": "$51 Average bid",
       "desc": "I need the product descriptions from my current website reproduced word-for-word on the new site. Only the text is required design, images, pricing and SEO fields are outside the scope of this task. The job involves: Extracting every product description exactly as it appears on the live site, includ",
-      "bids": 37,
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -387,20 +331,6 @@
       "score": 9
     },
     {
-      "title": "Comprehensive India Importers List",
-      "url": "https://www.freelancer.com/projects/data-collection/comprehensive-india-importers-list",
-      "budget_raw": "$24 Average bid",
-      "desc": "I need a current, consolidated database of every importer active in India, pulled directly from both Volza and Panjiva. Because you already hold subscriptions to these platforms, you can export the raw data, merge the two sources, remove duplicates, and hand back one clean file. Core details I expec",
-      "bids": 24,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 24,
-      "hourly": false,
-      "flags": [],
-      "score": 9
-    },
-    {
       "title": "Sales Data Visualization Dashboard",
       "url": "https://www.freelancer.com/projects/data-visualization/sales-data-visualization-dashboard-40674132",
       "budget_raw": "$486 Average bid",
@@ -417,16 +347,44 @@
     {
       "title": "Labelbox Workflow Integration Lead",
       "url": "https://www.freelancer.com/projects/automation/labelbox-workflow-integration-lead",
-      "budget_raw": "$41 Average bid",
+      "budget_raw": "$46 Average bid",
       "desc": "I m ready to hand over full ownership of our Labelbox environment everything from first-time project design through day-to-day operations so I can focus on strategy instead of configuration tickets. Your primary mandate is to architect production-ready Labelbox projects. That means taking my high-le",
-      "bids": 26,
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 41,
+      "usd": 46,
       "hourly": false,
       "flags": [],
-      "score": 7
+      "score": 8
+    },
+    {
+      "title": "Quotex OTC & Live Signals Dashboard",
+      "url": "https://www.freelancer.com/projects/web-development/quotex-otc-live-signals-dashboard",
+      "budget_raw": "$231 Average bid",
+      "desc": "I need a single dashboard that can stream BOTH Quotex OTC signals and regular live-market signals in real time. The OTC section must not be locked to fixed intervals; I want the flexibility to switch among M1, M5 and any other custom timeframe that proves useful. For standard live quotes, identical ",
+      "bids": 36,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 231,
+      "hourly": false,
+      "flags": [],
+      "score": 5
+    },
+    {
+      "title": "UK Hospital Lead Enrichment",
+      "url": "https://www.freelancer.com/projects/data-analysis/hospital-lead-enrichment",
+      "budget_raw": "$14 Average bid",
+      "desc": "I have a spreadsheet of 74 UK hospitals that currently shows only the facility name and location. I need each record expanded so it becomes immediately usable for outreach. For every hospital on the list, please add: the correct contact person s full name and current title (ideally someone in admini",
+      "bids": 10,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 14,
+      "hourly": false,
+      "flags": [],
+      "score": 4
     },
     {
       "title": "Meesho Product Upload Specialist",
@@ -443,60 +401,32 @@
       "score": 4
     },
     {
-      "title": "Quotex OTC & Live Signals Dashboard",
-      "url": "https://www.freelancer.com/projects/web-development/quotex-otc-live-signals-dashboard",
-      "budget_raw": "$230 Average bid",
-      "desc": "I need a single dashboard that can stream BOTH Quotex OTC signals and regular live-market signals in real time. The OTC section must not be locked to fixed intervals; I want the flexibility to switch among M1, M5 and any other custom timeframe that proves useful. For standard live quotes, identical ",
-      "bids": 36,
+      "title": "UK Trades Meta Ads Leads",
+      "url": "https://www.freelancer.com/projects/lead-generation/trades-meta-ads-leads",
+      "budget_raw": "$34 Average bid",
+      "desc": "I need a clean, well-researched list of independent trade businesses across England, Scotland and Wales that are actively running Meta (Facebook / Instagram) ads to win new customers. The focus is on genuine sole traders or very small outfits absolutely no national chains or franchise groups. Scope ",
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 230,
+      "usd": 34,
       "hourly": false,
       "flags": [],
-      "score": 4
+      "score": 3
     },
     {
       "title": "Premium Habit Tracker Development",
       "url": "https://www.freelancer.com/projects/google-sheets/premium-habit-tracker-development",
-      "budget_raw": "$10 Average bid",
+      "budget_raw": "$11 Average bid",
       "desc": "Create a Premium Habit Tracker Template in Excel & Google Sheets I am building a digital productivity brand called Warm Wisdom, focused on habits, consistency, productivity, and personal growth. I currently have a habit tracker template, but I want to rebuild it from scratch into a much more polishe",
-      "bids": 1,
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 10,
+      "usd": 11,
       "hourly": false,
       "flags": [],
-      "score": 4
-    },
-    {
-      "title": "Environmental Multi-Sensor Data Analysis, KPI & Dashboard Competition",
-      "url": "https://www.freelancer.com/contest/environmental-multisensor-data-analysis-kpi-amp-dashboard-competition-2781475",
-      "budget_raw": "$101 Average bid",
-      "desc": "I m sharing a rich, multi-sensor environmental dataset and I want to see just how much actionable knowledge you can squeeze out of it. Your mission is to surface at least 35 meaningful KPIs and supporting metrics, lay every calculation bare, explain why each one matters to real-world decision-making",
-      "bids": 29,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 101,
-      "hourly": false,
-      "flags": [],
-      "score": 4
-    },
-    {
-      "title": "SEMrush Traffic URLs Export",
-      "url": "https://www.freelancer.com/projects/semrush/semrush-traffic-urls-export",
-      "budget_raw": "$32 Average bid",
-      "desc": "I need a complete pull of every URL that appears in SEMrush s Top Pages by Traffic report for one specific domain. The site is large expect up to 500 000 distinct pages who can have subscription agency provide report of top pages website urls",
-      "bids": 24,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 32,
-      "hourly": false,
-      "flags": [],
-      "score": 2
+      "score": 3
     },
     {
       "title": "Move 5 Python Services to GitHub",
@@ -540,6 +470,10 @@
     {
       "title": "Enhance Python Trading Bots Infrastructure",
       "reason": "automatizare financiară sau de pariuri"
+    },
+    {
+      "title": "U.S. Lead Generation Find Businesses Needing High-Volume Applicants",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
       "title": "Hairdressing Products Contacts Database Build",
