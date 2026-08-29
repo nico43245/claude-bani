@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T17:35:19.965Z",
-  "scanned": 204,
-  "accepted": 34,
-  "refused_on_ethics": 8,
+  "generated_at": "2026-08-29T23:59:01.675Z",
+  "scanned": 205,
+  "accepted": 36,
+  "refused_on_ethics": 6,
   "jobs": [
     {
       "title": "Simple Microsoft Excel",
@@ -77,16 +77,16 @@
     {
       "title": "Excel Automation and Task Tracking",
       "url": "https://www.freelancer.com/projects/pdf/excel-automation-task-tracking",
-      "budget_raw": "$103 Average bid",
+      "budget_raw": "$105 Average bid",
       "desc": "I need an Excel automation solution to track daily, weekly, and monthly tasks. I also need to be able to generate PDF reports with a single click. Requirements: - Track daily, weekly, and monthly tasks - Automate data entry in Excel - Generate customizable PDF reports Ideal Skills and Experience: - ",
       "bids": 22,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 103,
+      "usd": 105,
       "hourly": false,
       "flags": [],
-      "score": 54
+      "score": 55
     },
     {
       "title": "Indian B2B Lead Generation & Mining",
@@ -203,15 +203,15 @@
       "score": 23
     },
     {
-      "title": "Automated Database Data Entry -- 2",
-      "url": "https://www.freelancer.com/projects/api/automated-database-data-entry",
-      "budget_raw": "$212 Average bid",
-      "desc": "I need an automated workflow that pulls records from a specified online database and inserts them into my existing system with the right formatting and field mapping. The task covers designing the script or tool, setting up secure connection/authentication, and ensuring the incoming data is consiste",
-      "bids": 32,
+      "title": "Trading Business Annual Management Excel System",
+      "url": "https://www.freelancer.com/projects/data-analysis/trading-business-annual-management-excel",
+      "budget_raw": "$80 Average bid",
+      "desc": "### Project Description I m looking for an experienced Excel professional to create a **complete yearly business planning and management Excel workbook for a trading company**. The workbook should cover the company s full-year operations and provide an organized system for planning, tracking, and an",
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 212,
+      "usd": 80,
       "hourly": false,
       "flags": [],
       "score": 22
@@ -231,44 +231,16 @@
       "score": 22
     },
     {
-      "title": "PDF & Image Conversion to Word/Excel",
-      "url": "https://www.freelancer.com/projects/data-entry/pdf-image-conversion-word-excel",
-      "budget_raw": "$62 Average bid",
-      "desc": "I have a collection of 50-200 source files that mixes standard PDFs, high-resolution image scans, and a handful of handwritten pages. Every page needs to be faithfully transcribed into editable formats Word for narrative text and Excel for any tabular data while preserving the look, layout, and stru",
-      "bids": 14,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 62,
-      "hourly": false,
-      "flags": [],
-      "score": 21
-    },
-    {
       "title": "Online Database Text Entry",
       "url": "https://www.freelancer.com/projects/data-annotation/online-database-text-entry",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have several online databases that contain the text information I need consolidated into a single spreadsheet. I will supply the URLs (and, where necessary, login details) together with a simple column-mapping guide. Your task is to pull the required text fields nothing numeric into my template, k",
-      "bids": 18,
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 9,
       "hourly": true,
-      "flags": [],
-      "score": 21
-    },
-    {
-      "title": "Infrastructure Quantity Estimation Specialist",
-      "url": "https://www.freelancer.com/projects/autocad/infrastructure-quantity-estimation",
-      "budget_raw": "$410 Average bid",
-      "desc": "I m looking for precise, professional support with quantity estimation for current and upcoming infrastructure projects. My main focus is generating accurate Bills of Quantities and material take-offs that can feed directly into our civil infrastructure design process. You will receive the latest dr",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 410,
-      "hourly": false,
       "flags": [],
       "score": 20
     },
@@ -301,18 +273,46 @@
       "score": 18
     },
     {
-      "title": "Beam & Column Steel Takeoff",
-      "url": "https://www.freelancer.com/projects/cad-drafting-review/beam-column-steel-takeoff",
-      "budget_raw": "$23 Average bid",
-      "desc": "I have a full set of CAD files for a project whose structural scope is limited to beams and columns, and I need an accurate steel take-off with a detailed breakdown of quantities. Your task is to extract every relevant member from the drawings, calculate weights and lengths, include connection plate",
-      "bids": 19,
+      "title": "Infrastructure Quantity Estimation Specialist",
+      "url": "https://www.freelancer.com/projects/autocad/infrastructure-quantity-estimation",
+      "budget_raw": "$411 Average bid",
+      "desc": "I m looking for precise, professional support with quantity estimation for current and upcoming infrastructure projects. My main focus is generating accurate Bills of Quantities and material take-offs that can feed directly into our civil infrastructure design process. You will receive the latest dr",
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 23,
+      "fit": 1,
+      "usd": 411,
       "hourly": false,
       "flags": [],
-      "score": 11
+      "score": 17
+    },
+    {
+      "title": "Automated Database Data Entry -- 2",
+      "url": "https://www.freelancer.com/projects/api/automated-database-data-entry",
+      "budget_raw": "$208 Average bid",
+      "desc": "I need an automated workflow that pulls records from a specified online database and inserts them into my existing system with the right formatting and field mapping. The task covers designing the script or tool, setting up secure connection/authentication, and ensuring the incoming data is consiste",
+      "bids": 34,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 208,
+      "hourly": false,
+      "flags": [],
+      "score": 16
+    },
+    {
+      "title": "PDF & Image Conversion to Word/Excel",
+      "url": "https://www.freelancer.com/projects/data-entry/pdf-image-conversion-word-excel",
+      "budget_raw": "$61 Average bid",
+      "desc": "I have a collection of 50-200 source files that mixes standard PDFs, high-resolution image scans, and a handful of handwritten pages. Every page needs to be faithfully transcribed into editable formats Word for narrative text and Excel for any tabular data while preserving the look, layout, and stru",
+      "bids": 21,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 61,
+      "hourly": false,
+      "flags": [],
+      "score": 15
     },
     {
       "title": "High-Quality B2B Outreach List Creation",
@@ -345,25 +345,25 @@
       "score": 9
     },
     {
-      "title": "High-Volume Personalized Email Outreach",
-      "url": "https://www.freelancer.com/projects/sendgrid/high-volume-personalized-email-outreach",
-      "budget_raw": "$104 Average bid",
-      "desc": "I have out to roughly 1,600 business owners about 54 messages a day and I want every email to greet the recipient by name while keeping the body identical. I will supply an Excel/CSV file with the owners names and email addresses; you will take it from there. First, I need a single, formal and profe",
-      "bids": 38,
+      "title": "Beam & Column Steel Takeoff",
+      "url": "https://www.freelancer.com/projects/cad-drafting-review/beam-column-steel-takeoff",
+      "budget_raw": "$21 Average bid",
+      "desc": "I have a full set of CAD files for a project whose structural scope is limited to beams and columns, and I need an accurate steel take-off with a detailed breakdown of quantities. Your task is to extract every relevant member from the drawings, calculate weights and lengths, include connection plate",
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 104,
+      "fit": 3,
+      "usd": 21,
       "hourly": false,
       "flags": [],
-      "score": 8
+      "score": 9
     },
     {
       "title": "Labelbox Workflow Integration Lead",
       "url": "https://www.freelancer.com/projects/automation/labelbox-workflow-integration-lead",
       "budget_raw": "$46 Average bid",
       "desc": "I m ready to hand over full ownership of our Labelbox environment everything from first-time project design through day-to-day operations so I can focus on strategy instead of configuration tickets. Your primary mandate is to architect production-ready Labelbox projects. That means taking my high-le",
-      "bids": 28,
+      "bids": 29,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
@@ -377,7 +377,7 @@
       "url": "https://www.freelancer.com/projects/excel-macros/custom-excel-scheduling-spreadsheet",
       "budget_raw": "$86 Average bid",
       "desc": "I'm looking for a skilled Excel developer to create a customizable scheduling spreadsheet. This will be used by 2-10 users. Essential features: - Customizable templates - Color-coded schedules Ideal Skills and Experience: - Proficiency in Excel - Experience with creating dynamic and user-friendly sp",
-      "bids": 37,
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
@@ -385,6 +385,20 @@
       "hourly": false,
       "flags": [],
       "score": 7
+    },
+    {
+      "title": "Comprehensive India Importers List",
+      "url": "https://www.freelancer.com/projects/data-collection/comprehensive-india-importers-list",
+      "budget_raw": "$23 Average bid",
+      "desc": "I need a current, consolidated database of every importer active in India, pulled directly from both Volza and Panjiva. Because you already hold subscriptions to these platforms, you can export the raw data, merge the two sources, remove duplicates, and hand back one clean file. Core details I expec",
+      "bids": 28,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 23,
+      "hourly": false,
+      "flags": [],
+      "score": 6
     },
     {
       "title": "UK Hospital Lead Enrichment",
@@ -415,6 +429,20 @@
       "score": 5
     },
     {
+      "title": "Comprehensive Yearly Business Excel Workbook",
+      "url": "https://www.freelancer.com/projects/data-analysis/comprehensive-yearly-business-excel",
+      "budget_raw": "$19 Average bid",
+      "desc": "### Project Description I m looking for an experienced Excel professional to create a **complete yearly business planning and management Excel workbook for a trading company**. The workbook should cover the company s full-year operations and provide an organized system for planning, tracking, and an",
+      "bids": 13,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 19,
+      "hourly": false,
+      "flags": [],
+      "score": 5
+    },
+    {
       "title": "Meesho Product Upload Specialist",
       "url": "https://www.freelancer.com/projects/data-entry/meesho-product-upload-specialist",
       "budget_raw": "$63 Average bid",
@@ -429,32 +457,18 @@
       "score": 4
     },
     {
-      "title": "Premium Habit Tracker Development",
-      "url": "https://www.freelancer.com/projects/google-sheets/premium-habit-tracker-development",
-      "budget_raw": "$13 Average bid",
-      "desc": "Create a Premium Habit Tracker Template in Excel & Google Sheets I am building a digital productivity brand called Warm Wisdom, focused on habits, consistency, productivity, and personal growth. I currently have a habit tracker template, but I want to rebuild it from scratch into a much more polishe",
-      "bids": 13,
+      "title": "Environmental Multi-Sensor Data Analysis, KPI & Dashboard Competition",
+      "url": "https://www.freelancer.com/contest/environmental-multisensor-data-analysis-kpi-amp-dashboard-competition-2781475",
+      "budget_raw": "$101 Average bid",
+      "desc": "I m sharing a rich, multi-sensor environmental dataset and I want to see just how much actionable knowledge you can squeeze out of it. Your mission is to surface at least 35 meaningful KPIs and supporting metrics, lay every calculation bare, explain why each one matters to real-world decision-making",
+      "bids": 36,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 13,
+      "fit": 1,
+      "usd": 101,
       "hourly": false,
       "flags": [],
-      "score": 4
-    },
-    {
-      "title": "Excel Workbook for Durgapujo Competition",
-      "url": "https://www.freelancer.com/projects/excel-macros/excel-workbook-for-durgapujo-competition",
-      "budget_raw": "$10 Average bid",
-      "desc": "I'm looking for an Excel workbook to streamline the management of a Durgapujo competition. This will primarily be used by back office staff. Essential Functionalities: - Data Entry Forms: To input participant details, scores from events, and track expenses. - Automatic Scoring: To calculate scores b",
-      "bids": 6,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 10,
-      "hourly": false,
-      "flags": [],
-      "score": 3
+      "score": 2
     },
     {
       "title": "10K Large Finance CEO Leads",
@@ -467,6 +481,20 @@
       "fit": 1,
       "usd": 30,
       "hourly": false,
+      "flags": [],
+      "score": 1
+    },
+    {
+      "title": "New York Graveyard Shift Philippines Based Virtual Assistant",
+      "url": "https://www.freelancer.com/projects/crm/graveyard-shift-sales-needed",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "Hello, We need a Philippines-based virtual assistant who can stay in sync with our New York graveyard schedule (roughly 9 p.m.-6 a.m. PH time) while I focus on closing deals for our litigation support firm. Your day-to-day will revolve around three essentials: Keeping our CRM data clean and current ",
+      "bids": 31,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 5,
+      "hourly": true,
       "flags": [],
       "score": 1
     },
@@ -502,19 +530,11 @@
       "reason": "recenzii sau interacțiuni false"
     },
     {
-      "title": "US YouTube Business Leads Scrape",
-      "reason": "listă masivă de date personale — GDPR și spam"
-    },
-    {
       "title": "Bulk Email-to-Word Conversion",
       "reason": "spam în masă"
     },
     {
       "title": "U.S. Lead Generation Find Businesses Needing High-Volume Applicants",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
-    },
-    {
-      "title": "Hairdressing Products Contacts Database Build",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     }
   ]
