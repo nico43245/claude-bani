@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:30:41.528Z",
+  "generated_at": "2026-08-29T17:36:09.319Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -1059,7 +1059,7 @@
       },
       {
         "subject": "reddit",
-        "queries": 19,
+        "queries": 18,
         "seed_spread": 8,
         "avg_branches": 10,
         "examples": [
@@ -1069,7 +1069,7 @@
           "excel template for budget",
           "excel template for monthly expenses"
         ],
-        "score": 545
+        "score": 516
       },
       {
         "subject": "planner",
@@ -1119,11 +1119,11 @@
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
+          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for college application"
+          "google sheets template for job applications"
         ],
         "score": 298
       },
@@ -1147,11 +1147,11 @@
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
+          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for college application"
+          "google sheets template for job applications"
         ],
         "score": 270
       },
@@ -1171,7 +1171,7 @@
       },
       {
         "subject": "pdf",
-        "queries": 13,
+        "queries": 14,
         "seed_spread": 4,
         "avg_branches": 10,
         "examples": [
@@ -1181,7 +1181,21 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 186
+        "score": 201
+      },
+      {
+        "subject": "printable",
+        "queries": 13,
+        "seed_spread": 4,
+        "avg_branches": 9.2,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 181
       },
       {
         "subject": "expenses",
@@ -1210,20 +1224,6 @@
           "printable planner for adhd"
         ],
         "score": 177
-      },
-      {
-        "subject": "printable",
-        "queries": 11,
-        "seed_spread": 4,
-        "avg_branches": 9.5,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for adhd",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for 2025"
-        ],
-        "score": 155
       },
       {
         "subject": "sheet",
@@ -1324,20 +1324,6 @@
         "score": 115
       },
       {
-        "subject": "planning",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 9.8,
-        "examples": [
-          "excel template for budget",
-          "google sheets template for budget",
-          "google sheets template for travel itinerary",
-          "google sheets template for planning a trip",
-          "checklist for wedding planning"
-        ],
-        "score": 114
-      },
-      {
         "subject": "management",
         "queries": 8,
         "seed_spread": 4,
@@ -1366,15 +1352,43 @@
         "score": 100
       },
       {
+        "subject": "planning",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
+        "examples": [
+          "excel template for budget",
+          "google sheets template for travel itinerary",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "checklist for wedding planning"
+        ],
+        "score": 99
+      },
+      {
+        "subject": "college",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "google sheets template for college application",
+          "checklist for college dorm"
+        ],
+        "score": 86
+      },
+      {
         "subject": "application",
         "queries": 6,
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
           "excel template for job application tracking",
-          "google sheets template for college application",
           "google sheets template for job applications",
           "google sheets template for tracking job applications",
+          "google sheets template for college application",
           "spreadsheet to track job applications"
         ],
         "score": 85
@@ -1385,11 +1399,11 @@
         "seed_spread": 3,
         "avg_branches": 9.5,
         "examples": [
-          "google sheets template for budget",
           "google sheets template for travel itinerary",
+          "google sheets template for budget",
           "google sheets template for planning a trip",
           "google sheets template for job applications",
-          "google sheets template for tracking job applications"
+          "google sheets template for inventory"
         ],
         "score": 85
       },
@@ -1429,8 +1443,8 @@
         "examples": [
           "printable planner for adhd",
           "printable planner for kids",
-          "checklist for international travel",
           "checklist for traveling",
+          "checklist for international travel",
           "checklist for moving out of state"
         ],
         "score": 75
@@ -1504,20 +1518,6 @@
         "score": 55
       },
       {
-        "subject": "college",
-        "queries": 5,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "google sheets template for college application",
-          "budget template for college student"
-        ],
-        "score": 54
-      },
-      {
         "subject": "software",
         "queries": 5,
         "seed_spread": 3,
@@ -1545,6 +1545,19 @@
         "score": 43
       },
       {
+        "subject": "list",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for college application",
+          "checklist for moving out of state",
+          "checklist for college dorm"
+        ],
+        "score": 43
+      },
+      {
         "subject": "plan",
         "queries": 6,
         "seed_spread": 2,
@@ -1557,19 +1570,6 @@
           "best planner for small business owner"
         ],
         "score": 43
-      },
-      {
-        "subject": "job",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 9.5,
-        "examples": [
-          "excel template for job application tracking",
-          "google sheets template for job applications",
-          "google sheets template for tracking job applications",
-          "spreadsheet to track job applications"
-        ],
-        "score": 42
       }
     ],
     "richest_veins": [
@@ -1779,6 +1779,23 @@
       },
       {
         "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
         "query": "google sheets template for budget",
         "branches": 10,
         "children": [
@@ -1813,40 +1830,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for travel itinerary",
-        "branches": 10,
-        "children": [
-          "google sheets template for travel itinerary",
-          "google docs template for travel itinerary",
-          "google sheets template for travel planning",
-          "google sheets template for trip itinerary",
-          "free google sheets template for travel itinerary",
-          "google sheets template for trip planning",
-          "google docs template for travel planning",
-          "google docs template for trip itinerary",
-          "google docs template for trip planning",
-          "google sheets travel itinerary template reddit"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
-        "query": "google sheets template for college application",
-        "branches": 10,
-        "children": [
-          "google sheets template for college application",
-          "google sheets template for college classes",
-          "google sheets template for college list",
-          "google sheets template for college assignments",
-          "google sheets template for college",
-          "google sheets template for college students",
-          "google sheets template for college search",
-          "google sheets college application template free",
-          "google sheets template for university",
-          "spreadsheet template for college application process"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for job applications",
         "branches": 10,
         "children": [
@@ -1877,6 +1860,23 @@
           "google sheet template for stock portfolio",
           "google sheet template for stock management",
           "google sheet template for stock"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for college application",
+        "branches": 10,
+        "children": [
+          "google sheets template for college application",
+          "google sheets template for college classes",
+          "google sheets template for college list",
+          "google sheets template for college assignments",
+          "google sheets template for college",
+          "google sheets template for college students",
+          "google sheets template for college search",
+          "google sheets college application template free",
+          "google sheets template for university",
+          "spreadsheet template for college application process"
         ]
       },
       {
