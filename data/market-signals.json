@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:31:42.721Z",
+  "generated_at": "2026-08-30T18:01:33.458Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -38,7 +38,7 @@
       },
       {
         "theme": "web",
-        "mentions": 24,
+        "mentions": 25,
         "engagement": 537,
         "evidence": [
           {
@@ -62,7 +62,7 @@
             "date": "2026-06-17"
           }
         ],
-        "score": 111
+        "score": 114
       },
       {
         "theme": "wish",
@@ -94,7 +94,7 @@
       },
       {
         "theme": "hours",
-        "mentions": 82,
+        "mentions": 83,
         "engagement": 11,
         "evidence": [
           {
@@ -118,11 +118,11 @@
             "date": "2026-05-01"
           }
         ],
-        "score": 90
+        "score": 91
       },
       {
         "theme": "spend",
-        "mentions": 79,
+        "mentions": 80,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 87
+        "score": 88
       },
       {
         "theme": "hate",
@@ -205,34 +205,6 @@
         "score": 86
       },
       {
-        "theme": "search",
-        "mentions": 27,
-        "engagement": 155,
-        "evidence": [
-          {
-            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
-            "url": "https://news.ycombinator.com/item?id=49360925",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
-            "url": "https://news.ycombinator.com/item?id=49068074",
-            "date": "2026-07-27"
-          },
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
-            "url": "https://news.ycombinator.com/item?id=49197069",
-            "date": "2026-08-06"
-          }
-        ],
-        "score": 80
-      },
-      {
         "theme": "built",
         "mentions": 26,
         "engagement": 164,
@@ -259,6 +231,34 @@
           }
         ],
         "score": 79
+      },
+      {
+        "theme": "search",
+        "mentions": 26,
+        "engagement": 155,
+        "evidence": [
+          {
+            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
+            "url": "https://news.ycombinator.com/item?id=49360925",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
+            "url": "https://news.ycombinator.com/item?id=49068074",
+            "date": "2026-07-27"
+          },
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
+            "url": "https://news.ycombinator.com/item?id=49197069",
+            "date": "2026-08-06"
+          }
+        ],
+        "score": 78
       },
       {
         "theme": "code",
@@ -318,7 +318,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 63,
+        "mentions": 62,
         "engagement": 18,
         "evidence": [
           {
@@ -342,7 +342,7 @@
             "date": "2026-08-05"
           }
         ],
-        "score": 75
+        "score": 74
       },
       {
         "theme": "language",
@@ -485,34 +485,6 @@
         "score": 69
       },
       {
-        "theme": "system",
-        "mentions": 25,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "This is just one of many papers DeepSeek have released to be able to serve models at extremely cheap prices, unlike the others taking on >$100B+ of debt in buil",
-            "url": "https://news.ycombinator.com/item?id=48696909",
-            "date": "2026-06-27"
-          }
-        ],
-        "score": 63
-      },
-      {
         "theme": "stop",
         "mentions": 16,
         "engagement": 215,
@@ -567,6 +539,34 @@
           }
         ],
         "score": 61
+      },
+      {
+        "theme": "system",
+        "mentions": 23,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
+          },
+          {
+            "text": "This is just one of many papers DeepSeek have released to be able to serve models at extremely cheap prices, unlike the others taking on >$100B+ of debt in buil",
+            "url": "https://news.ycombinator.com/item?id=48696909",
+            "date": "2026-06-27"
+          }
+        ],
+        "score": 59
       },
       {
         "theme": "videos",
@@ -625,34 +625,6 @@
         "score": 58
       },
       {
-        "theme": "without",
-        "mentions": 47,
-        "engagement": 9,
-        "evidence": [
-          {
-            "text": "Show HN: Remove your data from 100 platforms without signing up",
-            "url": "https://news.ycombinator.com/item?id=46453387",
-            "date": "2026-01-01"
-          },
-          {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
-          },
-          {
-            "text": "Cars and airplanes were probably the tech stocks before the transistor. But don’t sell pharmaceutical stocks short as the correct stock at the start of a hot dr",
-            "url": "https://news.ycombinator.com/item?id=48755000",
-            "date": "2026-07-02"
-          }
-        ],
-        "score": 53
-      },
-      {
         "theme": "company",
         "mentions": 21,
         "engagement": 80,
@@ -709,32 +681,32 @@
         "score": 53
       },
       {
-        "theme": "trust",
-        "mentions": 8,
-        "engagement": 770,
+        "theme": "without",
+        "mentions": 46,
+        "engagement": 9,
         "evidence": [
           {
-            "text": "The first thing I would do with any sort of weird issue remotely associated with my brain is to get an MRI. I would pay for it out of pocket if my doctor denied",
-            "url": "https://news.ycombinator.com/item?id=48388346",
-            "date": "2026-06-03"
+            "text": "Show HN: Remove your data from 100 platforms without signing up",
+            "url": "https://news.ycombinator.com/item?id=46453387",
+            "date": "2026-01-01"
           },
           {
-            "text": "My issue is it claims to be end-to-end encrypted, which is really weird. Sure, TLS between you and your bank's server is end-to-end encrypted. But that puts you",
-            "url": "https://news.ycombinator.com/item?id=46646451",
-            "date": "2026-01-16"
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
           },
           {
-            "text": "I wish there was a way to do it without all the problems of having cameras on people's faces. The tech of AR glasses would be pretty neat to get working given I",
-            "url": "https://news.ycombinator.com/item?id=49247977",
-            "date": "2026-08-10"
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
           },
           {
-            "text": "I always get the highest end components I can find, and I try to stick with Asus and not the cheapest PSU. I've never had anything fail, and I do this every 5 y",
-            "url": "https://news.ycombinator.com/item?id=49222347",
-            "date": "2026-08-08"
+            "text": "Cars and airplanes were probably the tech stocks before the transistor. But don’t sell pharmaceutical stocks short as the correct stock at the start of a hot dr",
+            "url": "https://news.ycombinator.com/item?id=48755000",
+            "date": "2026-07-02"
           }
         ],
-        "score": 53
+        "score": 52
       },
       {
         "theme": "project",
@@ -844,6 +816,34 @@
             "text": "> [C]onsumers, on the other hand, are mostly looking to waste time, which is why attention- harvesting advertising is the only software business model that work",
             "url": "https://news.ycombinator.com/item?id=48462105",
             "date": "2026-06-09"
+          }
+        ],
+        "score": 50
+      },
+      {
+        "theme": "computer",
+        "mentions": 11,
+        "engagement": 230,
+        "evidence": [
+          {
+            "text": "There is a story from the early days of Napster where music industry executives discovered the service. One of the executives describes it as: \"We had a laptop ",
+            "url": "https://news.ycombinator.com/item?id=48932907",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
+            "url": "https://news.ycombinator.com/item?id=48664411",
+            "date": "2026-06-24"
+          },
+          {
+            "text": "Pfft, this thread got derailed rather quickly; Lets get it back on track! I welcome our new Credit Card sized computer overlords. I would pay dearly for a credi",
+            "url": "https://news.ycombinator.com/item?id=48253749",
+            "date": "2026-05-24"
+          },
+          {
+            "text": "Yeah, all of them claim that... but I just walk into the bank and say I don't have an Android or Apple 'smart' phone, only a Linux pocket computer (Librem 5). S",
+            "url": "https://news.ycombinator.com/item?id=48781014",
+            "date": "2026-07-03"
           }
         ],
         "score": 50
@@ -1121,9 +1121,9 @@
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for college application"
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary"
         ],
         "score": 298
       },
@@ -1149,9 +1149,9 @@
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for college application"
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary"
         ],
         "score": 270
       },
@@ -1373,8 +1373,8 @@
         "examples": [
           "excel template for budget",
           "google sheets template for budget",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
+          "google sheets template for travel itinerary",
           "checklist for wedding planning"
         ],
         "score": 99
@@ -1386,9 +1386,9 @@
         "avg_branches": 9.7,
         "examples": [
           "excel template for job application tracking",
-          "google sheets template for college application",
           "google sheets template for job applications",
           "google sheets template for tracking job applications",
+          "google sheets template for college application",
           "spreadsheet to track job applications"
         ],
         "score": 85
@@ -1400,10 +1400,10 @@
         "avg_branches": 9.5,
         "examples": [
           "google sheets template for budget",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
           "google sheets template for job applications",
-          "google sheets template for tracking job applications"
+          "google sheets template for travel itinerary",
+          "google sheets template for inventory"
         ],
         "score": 85
       },
@@ -1813,40 +1813,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for travel itinerary",
-        "branches": 10,
-        "children": [
-          "google sheets template for travel itinerary",
-          "google docs template for travel itinerary",
-          "google sheets template for travel planning",
-          "google sheets template for trip itinerary",
-          "free google sheets template for travel itinerary",
-          "google sheets template for trip planning",
-          "google docs template for travel planning",
-          "google docs template for trip itinerary",
-          "google docs template for trip planning",
-          "google sheets travel itinerary template reddit"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
-        "query": "google sheets template for college application",
-        "branches": 10,
-        "children": [
-          "google sheets template for college application",
-          "google sheets template for college classes",
-          "google sheets template for college list",
-          "google sheets template for college assignments",
-          "google sheets template for college",
-          "google sheets template for college students",
-          "google sheets template for college search",
-          "google sheets college application template free",
-          "google sheets template for university",
-          "spreadsheet template for college application process"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for job applications",
         "branches": 10,
         "children": [
@@ -1864,6 +1830,23 @@
       },
       {
         "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
         "query": "google sheets template for inventory",
         "branches": 10,
         "children": [
@@ -1877,6 +1860,23 @@
           "google sheet template for stock portfolio",
           "google sheet template for stock management",
           "google sheet template for stock"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for college application",
+        "branches": 10,
+        "children": [
+          "google sheets template for college application",
+          "google sheets template for college classes",
+          "google sheets template for college list",
+          "google sheets template for college assignments",
+          "google sheets template for college",
+          "google sheets template for college students",
+          "google sheets template for college search",
+          "google sheets college application template free",
+          "google sheets template for university",
+          "spreadsheet template for college application process"
         ]
       },
       {
