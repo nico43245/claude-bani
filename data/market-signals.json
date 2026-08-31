@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:02:57.860Z",
+  "generated_at": "2026-08-31T19:55:07.933Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 33,
+        "mentions": 32,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 119
+        "score": 116
       },
       {
         "theme": "web",
@@ -149,34 +149,6 @@
         "score": 88
       },
       {
-        "theme": "hate",
-        "mentions": 77,
-        "engagement": 13,
-        "evidence": [
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "I would pay $10k for a robot that wakes up when I leave for work, does all the household chores, then goes to sleep before I return home to a house with dishes ",
-            "url": "https://news.ycombinator.com/item?id=48331463",
-            "date": "2026-05-30"
-          },
-          {
-            "text": "As a verbal processor, I hate this. I use whisper v3 large all the time from voice memo dumps that are AI grammar corrected and this would flag when I copy past",
-            "url": "https://news.ycombinator.com/item?id=48940948",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "> Why is there no outreach to other minorities in tech, like the Amish, for example? They are certainly more underrepresented than women in the python community",
-            "url": "https://news.ycombinator.com/item?id=46184602",
-            "date": "2025-12-07"
-          }
-        ],
-        "score": 86
-      },
-      {
         "theme": "life",
         "mentions": 20,
         "engagement": 356,
@@ -203,6 +175,34 @@
           }
         ],
         "score": 86
+      },
+      {
+        "theme": "hate",
+        "mentions": 76,
+        "engagement": 13,
+        "evidence": [
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "I would pay $10k for a robot that wakes up when I leave for work, does all the household chores, then goes to sleep before I return home to a house with dishes ",
+            "url": "https://news.ycombinator.com/item?id=48331463",
+            "date": "2026-05-30"
+          },
+          {
+            "text": "As a verbal processor, I hate this. I use whisper v3 large all the time from voice memo dumps that are AI grammar corrected and this would flag when I copy past",
+            "url": "https://news.ycombinator.com/item?id=48940948",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "> Why is there no outreach to other minorities in tech, like the Amish, for example? They are certainly more underrepresented than women in the python community",
+            "url": "https://news.ycombinator.com/item?id=46184602",
+            "date": "2025-12-07"
+          }
+        ],
+        "score": 85
       },
       {
         "theme": "built",
@@ -289,34 +289,6 @@
         "score": 77
       },
       {
-        "theme": "apps",
-        "mentions": 22,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
-            "url": "https://news.ycombinator.com/item?id=48578995",
-            "date": "2026-06-18"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          }
-        ],
-        "score": 76
-      },
-      {
         "theme": "it.",
         "mentions": 63,
         "engagement": 18,
@@ -343,6 +315,34 @@
           }
         ],
         "score": 75
+      },
+      {
+        "theme": "apps",
+        "mentions": 21,
+        "engagement": 194,
+        "evidence": [
+          {
+            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
+            "url": "https://news.ycombinator.com/item?id=48578995",
+            "date": "2026-06-18"
+          },
+          {
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
+          },
+          {
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
+          },
+          {
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
+          }
+        ],
+        "score": 73
       },
       {
         "theme": "different",
@@ -401,34 +401,6 @@
         "score": 71
       },
       {
-        "theme": "language",
-        "mentions": 16,
-        "engagement": 290,
-        "evidence": [
-          {
-            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
-            "url": "https://news.ycombinator.com/item?id=45086249",
-            "date": "2025-08-31"
-          },
-          {
-            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
-            "url": "https://news.ycombinator.com/item?id=46929160",
-            "date": "2026-02-07"
-          },
-          {
-            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
-            "url": "https://news.ycombinator.com/item?id=45075127",
-            "date": "2025-08-30"
-          },
-          {
-            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
-            "url": "https://news.ycombinator.com/item?id=49388758",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 69
-      },
-      {
         "theme": "browser",
         "mentions": 16,
         "engagement": 287,
@@ -485,32 +457,32 @@
         "score": 69
       },
       {
-        "theme": "stop",
-        "mentions": 16,
-        "engagement": 215,
+        "theme": "language",
+        "mentions": 15,
+        "engagement": 290,
         "evidence": [
           {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
+            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
+            "url": "https://news.ycombinator.com/item?id=45086249",
+            "date": "2025-08-31"
           },
           {
-            "text": "Reminder the only benchmark that really matters is the one that measures the ability for the model to do real world tasks that someone would pay for on Upwork t",
-            "url": "https://news.ycombinator.com/item?id=48313769",
-            "date": "2026-05-28"
+            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
+            "url": "https://news.ycombinator.com/item?id=46929160",
+            "date": "2026-02-07"
           },
           {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
+            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
+            "url": "https://news.ycombinator.com/item?id=45075127",
+            "date": "2025-08-30"
           },
           {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
+            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
+            "url": "https://news.ycombinator.com/item?id=49388758",
+            "date": "2026-08-21"
           }
         ],
-        "score": 63
+        "score": 66
       },
       {
         "theme": "public",
@@ -567,6 +539,34 @@
           }
         ],
         "score": 61
+      },
+      {
+        "theme": "stop",
+        "mentions": 15,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "Reminder the only benchmark that really matters is the one that measures the ability for the model to do real world tasks that someone would pay for on Upwork t",
+            "url": "https://news.ycombinator.com/item?id=48313769",
+            "date": "2026-05-28"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          }
+        ],
+        "score": 60
       },
       {
         "theme": "videos",
@@ -709,34 +709,6 @@
         "score": 53
       },
       {
-        "theme": "without",
-        "mentions": 46,
-        "engagement": 9,
-        "evidence": [
-          {
-            "text": "Show HN: Remove your data from 100 platforms without signing up",
-            "url": "https://news.ycombinator.com/item?id=46453387",
-            "date": "2026-01-01"
-          },
-          {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
-          },
-          {
-            "text": "Cars and airplanes were probably the tech stocks before the transistor. But don’t sell pharmaceutical stocks short as the correct stock at the start of a hot dr",
-            "url": "https://news.ycombinator.com/item?id=48755000",
-            "date": "2026-07-02"
-          }
-        ],
-        "score": 52
-      },
-      {
         "theme": "project",
         "mentions": 28,
         "engagement": 45,
@@ -791,6 +763,34 @@
           }
         ],
         "score": 52
+      },
+      {
+        "theme": "without",
+        "mentions": 45,
+        "engagement": 9,
+        "evidence": [
+          {
+            "text": "Show HN: Remove your data from 100 platforms without signing up",
+            "url": "https://news.ycombinator.com/item?id=46453387",
+            "date": "2026-01-01"
+          },
+          {
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          },
+          {
+            "text": "Cars and airplanes were probably the tech stocks before the transistor. But don’t sell pharmaceutical stocks short as the correct stock at the start of a hot dr",
+            "url": "https://news.ycombinator.com/item?id=48755000",
+            "date": "2026-07-02"
+          }
+        ],
+        "score": 51
       },
       {
         "theme": "computer",
@@ -1119,11 +1119,11 @@
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
+          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for job applications"
         ],
         "score": 298
       },
@@ -1147,11 +1147,11 @@
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
+          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for job applications"
         ],
         "score": 270
       },
@@ -1171,7 +1171,7 @@
       },
       {
         "subject": "pdf",
-        "queries": 13,
+        "queries": 14,
         "seed_spread": 4,
         "avg_branches": 10,
         "examples": [
@@ -1181,7 +1181,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 186
+        "score": 201
       },
       {
         "subject": "expenses",
@@ -1213,9 +1213,9 @@
       },
       {
         "subject": "printable",
-        "queries": 11,
+        "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.5,
+        "avg_branches": 9.6,
         "examples": [
           "printable planner for july 2026",
           "printable planner for adhd",
@@ -1223,7 +1223,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 155
+        "score": 170
       },
       {
         "subject": "sheet",
@@ -1263,7 +1263,7 @@
           "notion template for writing a book",
           "notion template for school",
           "notion template for life organization",
-          "notion template for medical students"
+          "notion template for students"
         ],
         "score": 125
       },
@@ -1317,8 +1317,8 @@
         "examples": [
           "notion template for college students",
           "notion template for school",
-          "notion template for medical students",
           "notion template for students",
+          "notion template for medical students",
           "google sheets template for college application"
         ],
         "score": 115
@@ -1336,20 +1336,6 @@
           "excel template for inventory"
         ],
         "score": 112
-      },
-      {
-        "subject": "college",
-        "queries": 7,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "google sheets template for college application",
-          "checklist for college dorm"
-        ],
-        "score": 100
       },
       {
         "subject": "income",
@@ -1372,9 +1358,9 @@
         "avg_branches": 9.7,
         "examples": [
           "excel template for budget",
+          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for planning a trip",
-          "google sheets template for travel itinerary",
           "checklist for wedding planning"
         ],
         "score": 99
@@ -1399,10 +1385,10 @@
         "seed_spread": 3,
         "avg_branches": 9.5,
         "examples": [
+          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for planning a trip",
           "google sheets template for job applications",
-          "google sheets template for travel itinerary",
           "google sheets template for inventory"
         ],
         "score": 85
@@ -1432,6 +1418,20 @@
           "google sheets template for business expenses",
           "tracker template for google sheets",
           "tracker template for notion"
+        ],
+        "score": 75
+      },
+      {
+        "subject": "kids",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for adhd",
+          "printable planner for kids",
+          "checklist for traveling",
+          "checklist for camping",
+          "checklist for international travel"
         ],
         "score": 75
       },
@@ -1504,16 +1504,16 @@
         "score": 55
       },
       {
-        "subject": "kids",
+        "subject": "college",
         "queries": 5,
         "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "printable planner for adhd",
-          "printable planner for kids",
-          "checklist for traveling",
-          "checklist for international travel",
-          "budget template for teens"
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "google sheets template for college application",
+          "budget template for college student"
         ],
         "score": 54
       },
@@ -1545,19 +1545,6 @@
         "score": 43
       },
       {
-        "subject": "list",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "checklist for college dorm",
-          "checklist for college apartment"
-        ],
-        "score": 43
-      },
-      {
         "subject": "plan",
         "queries": 6,
         "seed_spread": 2,
@@ -1570,6 +1557,19 @@
           "best planner for small business owner"
         ],
         "score": 43
+      },
+      {
+        "subject": "job",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 9.5,
+        "examples": [
+          "excel template for job application tracking",
+          "google sheets template for job applications",
+          "google sheets template for tracking job applications",
+          "spreadsheet to track job applications"
+        ],
+        "score": 42
       }
     ],
     "richest_veins": [
@@ -1609,6 +1609,23 @@
       },
       {
         "seed": "notion template for",
+        "query": "notion template for students",
+        "branches": 10,
+        "children": [
+          "notion template for students free",
+          "notion template for students",
+          "notion templates for students aesthetic",
+          "notion templates for students university",
+          "notion templates for student planner",
+          "notion template for college students",
+          "best notion template for students",
+          "notion template for medical students",
+          "notion templates for uni students",
+          "notion templates for phd students"
+        ]
+      },
+      {
+        "seed": "notion template for",
         "query": "notion template for medical students",
         "branches": 10,
         "children": [
@@ -1639,23 +1656,6 @@
           "best notion template for content creation",
           "notion template for youtube content creation",
           "content creator example"
-        ]
-      },
-      {
-        "seed": "notion template for",
-        "query": "notion template for students",
-        "branches": 10,
-        "children": [
-          "notion template for students free",
-          "notion template for students",
-          "notion templates for students aesthetic",
-          "notion templates for students university",
-          "notion templates for student planner",
-          "notion template for college students",
-          "best notion template for students",
-          "notion template for medical students",
-          "notion templates for uni students",
-          "notion templates for phd students"
         ]
       },
       {
@@ -1779,6 +1779,23 @@
       },
       {
         "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
         "query": "google sheets template for budget",
         "branches": 10,
         "children": [
@@ -1826,23 +1843,6 @@
           "does google sheets have templates",
           "how to add template to google sheets",
           "can i create a template in google sheets"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
-        "query": "google sheets template for travel itinerary",
-        "branches": 10,
-        "children": [
-          "google sheets template for travel itinerary",
-          "google docs template for travel itinerary",
-          "google sheets template for travel planning",
-          "google sheets template for trip itinerary",
-          "free google sheets template for travel itinerary",
-          "google sheets template for trip planning",
-          "google docs template for travel planning",
-          "google docs template for trip itinerary",
-          "google docs template for trip planning",
-          "google sheets travel itinerary template reddit"
         ]
       },
       {
