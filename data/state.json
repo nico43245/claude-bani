@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-08-31T00:18:51.143Z",
+  "generated_at": "2026-08-31T13:02:57.916Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 299,
+  "events_total": 304,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 58
+      "actions": 59
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 56
+      "actions": 57
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 124
+      "actions": 126
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 61
+      "actions": 62
     }
   ],
   "activity": [
+    {
+      "ts": "2026-08-31T13:02:57.861Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1109 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 67 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-08-31T13:02:10.479Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-31T13:02:10.479Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 198 proiecte scanate → 43 potrivite, 6 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-08-31T13:01:56.994Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 48 scanate, 1 eligibile după citirea regulamentelor (47 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-08-31T13:01:04.375Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 709 candidați → 0 bounty-uri reale (709 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-08-31T00:18:51.089Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 797 candidați → 0 bounty-uri reale (797 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-08-26T14:49:12.873Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1110 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-08-26T14:48:25.044Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 431,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-26T14:48:25.043Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 215 proiecte scanate → 56 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-08-26T14:48:11.788Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 45 scanate, 2 eligibile după citirea regulamentelor (43 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-08-26T14:47:22.951Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 798 candidați → 0 bounty-uri reale (798 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 866,
+    "rejected": 756,
     "top": [
       {
         "source": "comp-radar",
@@ -646,51 +646,51 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 191,
+        "score": 189,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 786,
-        "per_slot": 262,
-        "days_left": 17,
+        "participants": 793,
+        "per_slot": 264,
+        "days_left": 16,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 382
-      },
-      {
-        "reason": "repo-fermă învățat automat",
-        "count": 175
+        "count": 386
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 143
+        "count": 139
+      },
+      {
+        "reason": "repo-fermă învățat automat",
+        "count": 82
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 50
+        "count": 38
       },
       {
         "reason": "prea competitiv",
-        "count": 42
+        "count": 36
       },
       {
         "reason": "fără premiu în bani",
-        "count": 14
-      },
-      {
-        "reason": "participare restricționată",
-        "count": 11
+        "count": 12
       },
       {
         "reason": "regulament necitibil",
-        "count": 8
+        "count": 11
+      },
+      {
+        "reason": "participare restricționată",
+        "count": 9
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 7
+        "count": 8
       },
       {
         "reason": "repo prea nou",
@@ -702,7 +702,7 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 5
+        "count": 6
       },
       {
         "reason": "prea puțin timp de construit",

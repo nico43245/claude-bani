@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T00:18:51.087Z",
+  "generated_at": "2026-08-31T13:02:57.860Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -401,34 +401,6 @@
         "score": 71
       },
       {
-        "theme": "them",
-        "mentions": 70,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
-            "url": "https://news.ycombinator.com/item?id=49388579",
-            "date": "2026-08-21"
-          },
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
-            "url": "https://news.ycombinator.com/item?id=49206893",
-            "date": "2026-08-07"
-          },
-          {
-            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
-            "url": "https://news.ycombinator.com/item?id=49134029",
-            "date": "2026-08-01"
-          }
-        ],
-        "score": 70
-      },
-      {
         "theme": "language",
         "mentions": 16,
         "engagement": 290,
@@ -480,6 +452,34 @@
             "text": "This is nice. The controls could use some normalization, but all in all, very crisp. Esp for a non-chrome browser on linux on an ancient cpu. I would pay you 14",
             "url": "https://news.ycombinator.com/item?id=48791475",
             "date": "2026-07-05"
+          }
+        ],
+        "score": 69
+      },
+      {
+        "theme": "them",
+        "mentions": 69,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
+            "url": "https://news.ycombinator.com/item?id=49388579",
+            "date": "2026-08-21"
+          },
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
+            "url": "https://news.ycombinator.com/item?id=49206893",
+            "date": "2026-08-07"
+          },
+          {
+            "text": "You don't know if you are going to pay it anyway and depending on the retribution model you can loose them if you don't use them in time. Cost is not the right ",
+            "url": "https://news.ycombinator.com/item?id=49134029",
+            "date": "2026-08-01"
           }
         ],
         "score": 69
@@ -542,7 +542,7 @@
       },
       {
         "theme": "system",
-        "mentions": 23,
+        "mentions": 24,
         "engagement": 92,
         "evidence": [
           {
@@ -566,7 +566,7 @@
             "date": "2026-06-27"
           }
         ],
-        "score": 59
+        "score": 61
       },
       {
         "theme": "videos",
@@ -1121,9 +1121,9 @@
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for college application"
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary"
         ],
         "score": 298
       },
@@ -1149,9 +1149,9 @@
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for college application"
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary"
         ],
         "score": 270
       },
@@ -1213,9 +1213,9 @@
       },
       {
         "subject": "printable",
-        "queries": 12,
+        "queries": 11,
         "seed_spread": 4,
-        "avg_branches": 9.1,
+        "avg_branches": 9.5,
         "examples": [
           "printable planner for july 2026",
           "printable planner for adhd",
@@ -1223,7 +1223,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 167
+        "score": 155
       },
       {
         "subject": "sheet",
@@ -1338,6 +1338,20 @@
         "score": 112
       },
       {
+        "subject": "college",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "google sheets template for college application",
+          "checklist for college dorm"
+        ],
+        "score": 100
+      },
+      {
         "subject": "income",
         "queries": 7,
         "seed_spread": 4,
@@ -1359,8 +1373,8 @@
         "examples": [
           "excel template for budget",
           "google sheets template for budget",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
+          "google sheets template for travel itinerary",
           "checklist for wedding planning"
         ],
         "score": 99
@@ -1372,9 +1386,9 @@
         "avg_branches": 9.7,
         "examples": [
           "excel template for job application tracking",
-          "google sheets template for college application",
           "google sheets template for job applications",
           "google sheets template for tracking job applications",
+          "google sheets template for college application",
           "spreadsheet to track job applications"
         ],
         "score": 85
@@ -1386,10 +1400,10 @@
         "avg_branches": 9.5,
         "examples": [
           "google sheets template for budget",
-          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
           "google sheets template for job applications",
-          "google sheets template for tracking job applications"
+          "google sheets template for travel itinerary",
+          "google sheets template for inventory"
         ],
         "score": 85
       },
@@ -1418,20 +1432,6 @@
           "google sheets template for business expenses",
           "tracker template for google sheets",
           "tracker template for notion"
-        ],
-        "score": 75
-      },
-      {
-        "subject": "kids",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for adhd",
-          "printable planner for kids",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
         ],
         "score": 75
       },
@@ -1504,16 +1504,16 @@
         "score": 55
       },
       {
-        "subject": "college",
+        "subject": "kids",
         "queries": 5,
         "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "google sheets template for college application",
-          "budget template for college student"
+          "printable planner for adhd",
+          "printable planner for kids",
+          "checklist for traveling",
+          "checklist for international travel",
+          "budget template for teens"
         ],
         "score": 54
       },
@@ -1545,28 +1545,29 @@
         "score": 43
       },
       {
-        "subject": "school",
+        "subject": "list",
         "queries": 4,
         "seed_spread": 3,
-        "avg_branches": 9.8,
+        "avg_branches": 10,
         "examples": [
-          "notion template for school",
-          "notion template for medical students",
-          "checklist for kindergarten readiness",
-          "template management system"
+          "excel template for inventory",
+          "google sheets template for college application",
+          "checklist for college dorm",
+          "checklist for college apartment"
         ],
         "score": 43
       },
       {
-        "subject": "list",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 9.8,
+        "subject": "plan",
+        "queries": 6,
+        "seed_spread": 2,
+        "avg_branches": 10,
         "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "checklist for moving out of state",
-          "checklist for kindergarten readiness"
+          "budget template for college student",
+          "budget template for teens",
+          "budget template for biweekly pay",
+          "planner for small business owner",
+          "best planner for small business owner"
         ],
         "score": 43
       }
@@ -1812,40 +1813,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for travel itinerary",
-        "branches": 10,
-        "children": [
-          "google sheets template for travel itinerary",
-          "google docs template for travel itinerary",
-          "google sheets template for travel planning",
-          "google sheets template for trip itinerary",
-          "free google sheets template for travel itinerary",
-          "google sheets template for trip planning",
-          "google docs template for travel planning",
-          "google docs template for trip itinerary",
-          "google docs template for trip planning",
-          "google sheets travel itinerary template reddit"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
-        "query": "google sheets template for college application",
-        "branches": 10,
-        "children": [
-          "google sheets template for college application",
-          "google sheets template for college classes",
-          "google sheets template for college list",
-          "google sheets template for college assignments",
-          "google sheets template for college",
-          "google sheets template for college students",
-          "google sheets template for college search",
-          "google sheets college application template free",
-          "google sheets template for university",
-          "spreadsheet template for college application process"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for job applications",
         "branches": 10,
         "children": [
@@ -1863,6 +1830,23 @@
       },
       {
         "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
         "query": "google sheets template for inventory",
         "branches": 10,
         "children": [
@@ -1876,6 +1860,23 @@
           "google sheet template for stock portfolio",
           "google sheet template for stock management",
           "google sheet template for stock"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for college application",
+        "branches": 10,
+        "children": [
+          "google sheets template for college application",
+          "google sheets template for college classes",
+          "google sheets template for college list",
+          "google sheets template for college assignments",
+          "google sheets template for college",
+          "google sheets template for college students",
+          "google sheets template for college search",
+          "google sheets college application template free",
+          "google sheets template for university",
+          "spreadsheet template for college application process"
         ]
       },
       {
