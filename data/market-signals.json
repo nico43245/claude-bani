@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:01:33.458Z",
+  "generated_at": "2026-08-31T00:18:51.087Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 34,
+        "mentions": 33,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 121
+        "score": 119
       },
       {
         "theme": "web",
@@ -318,7 +318,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 62,
+        "mentions": 63,
         "engagement": 18,
         "evidence": [
           {
@@ -342,35 +342,7 @@
             "date": "2026-08-05"
           }
         ],
-        "score": 74
-      },
-      {
-        "theme": "language",
-        "mentions": 17,
-        "engagement": 290,
-        "evidence": [
-          {
-            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
-            "url": "https://news.ycombinator.com/item?id=45086249",
-            "date": "2025-08-31"
-          },
-          {
-            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
-            "url": "https://news.ycombinator.com/item?id=46929160",
-            "date": "2026-02-07"
-          },
-          {
-            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
-            "url": "https://news.ycombinator.com/item?id=45075127",
-            "date": "2025-08-30"
-          },
-          {
-            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
-            "url": "https://news.ycombinator.com/item?id=49388758",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 72
+        "score": 75
       },
       {
         "theme": "different",
@@ -455,6 +427,34 @@
           }
         ],
         "score": 70
+      },
+      {
+        "theme": "language",
+        "mentions": 16,
+        "engagement": 290,
+        "evidence": [
+          {
+            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
+            "url": "https://news.ycombinator.com/item?id=45086249",
+            "date": "2025-08-31"
+          },
+          {
+            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
+            "url": "https://news.ycombinator.com/item?id=46929160",
+            "date": "2026-02-07"
+          },
+          {
+            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
+            "url": "https://news.ycombinator.com/item?id=45075127",
+            "date": "2025-08-30"
+          },
+          {
+            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
+            "url": "https://news.ycombinator.com/item?id=49388758",
+            "date": "2026-08-21"
+          }
+        ],
+        "score": 69
       },
       {
         "theme": "browser",
@@ -625,6 +625,34 @@
         "score": 58
       },
       {
+        "theme": "world",
+        "mentions": 25,
+        "engagement": 58,
+        "evidence": [
+          {
+            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
+            "url": "https://news.ycombinator.com/item?id=49488605",
+            "date": "2026-08-29"
+          },
+          {
+            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
+            "url": "https://news.ycombinator.com/item?id=48916578",
+            "date": "2026-07-15"
+          },
+          {
+            "text": "> Again, the investment needed boogles the mind, around 10B currently, for a single drug. These are made up numbers though. 99% of that is overheads of a massiv",
+            "url": "https://news.ycombinator.com/item?id=48770902",
+            "date": "2026-07-03"
+          },
+          {
+            "text": "it usually takes a little longer than this, but yeah, everything in the world eventually caves in for whatever makes more money. you can't tell me you're surpri",
+            "url": "https://news.ycombinator.com/item?id=48533671",
+            "date": "2026-06-14"
+          }
+        ],
+        "score": 53
+      },
+      {
         "theme": "company",
         "mentions": 21,
         "engagement": 80,
@@ -765,62 +793,6 @@
         "score": 52
       },
       {
-        "theme": "world",
-        "mentions": 24,
-        "engagement": 58,
-        "evidence": [
-          {
-            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
-            "url": "https://news.ycombinator.com/item?id=49488605",
-            "date": "2026-08-29"
-          },
-          {
-            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
-            "url": "https://news.ycombinator.com/item?id=48916578",
-            "date": "2026-07-15"
-          },
-          {
-            "text": "> Again, the investment needed boogles the mind, around 10B currently, for a single drug. These are made up numbers though. 99% of that is overheads of a massiv",
-            "url": "https://news.ycombinator.com/item?id=48770902",
-            "date": "2026-07-03"
-          },
-          {
-            "text": "it usually takes a little longer than this, but yeah, everything in the world eventually caves in for whatever makes more money. you can't tell me you're surpri",
-            "url": "https://news.ycombinator.com/item?id=48533671",
-            "date": "2026-06-14"
-          }
-        ],
-        "score": 51
-      },
-      {
-        "theme": "software",
-        "mentions": 30,
-        "engagement": 35,
-        "evidence": [
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "That would pay for so many millions of dollars of dev time. It would be a big win-win if you could organize that deal. In the tradeoff between more dev time and",
-            "url": "https://news.ycombinator.com/item?id=48680826",
-            "date": "2026-06-26"
-          },
-          {
-            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
-            "url": "https://news.ycombinator.com/item?id=48522853",
-            "date": "2026-06-14"
-          },
-          {
-            "text": "> [C]onsumers, on the other hand, are mostly looking to waste time, which is why attention- harvesting advertising is the only software business model that work",
-            "url": "https://news.ycombinator.com/item?id=48462105",
-            "date": "2026-06-09"
-          }
-        ],
-        "score": 50
-      },
-      {
         "theme": "computer",
         "mentions": 11,
         "engagement": 230,
@@ -847,6 +819,34 @@
           }
         ],
         "score": 50
+      },
+      {
+        "theme": "research",
+        "mentions": 11,
+        "engagement": 219,
+        "evidence": [
+          {
+            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
+            "url": "https://news.ycombinator.com/item?id=48824680",
+            "date": "2026-07-07"
+          },
+          {
+            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
+            "url": "https://news.ycombinator.com/item?id=49048747",
+            "date": "2026-07-25"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
+          }
+        ],
+        "score": 49
       }
     ],
     "loudest": [
@@ -1121,9 +1121,9 @@
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for college application"
         ],
         "score": 298
       },
@@ -1149,9 +1149,9 @@
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for college application"
         ],
         "score": 270
       },
@@ -1213,9 +1213,9 @@
       },
       {
         "subject": "printable",
-        "queries": 11,
+        "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.5,
+        "avg_branches": 9.1,
         "examples": [
           "printable planner for july 2026",
           "printable planner for adhd",
@@ -1223,7 +1223,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 155
+        "score": 167
       },
       {
         "subject": "sheet",
@@ -1338,20 +1338,6 @@
         "score": 112
       },
       {
-        "subject": "college",
-        "queries": 7,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "google sheets template for college application",
-          "checklist for college dorm"
-        ],
-        "score": 100
-      },
-      {
         "subject": "income",
         "queries": 7,
         "seed_spread": 4,
@@ -1373,8 +1359,8 @@
         "examples": [
           "excel template for budget",
           "google sheets template for budget",
-          "google sheets template for planning a trip",
           "google sheets template for travel itinerary",
+          "google sheets template for planning a trip",
           "checklist for wedding planning"
         ],
         "score": 99
@@ -1386,9 +1372,9 @@
         "avg_branches": 9.7,
         "examples": [
           "excel template for job application tracking",
+          "google sheets template for college application",
           "google sheets template for job applications",
           "google sheets template for tracking job applications",
-          "google sheets template for college application",
           "spreadsheet to track job applications"
         ],
         "score": 85
@@ -1400,10 +1386,10 @@
         "avg_branches": 9.5,
         "examples": [
           "google sheets template for budget",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
           "google sheets template for job applications",
-          "google sheets template for travel itinerary",
-          "google sheets template for inventory"
+          "google sheets template for tracking job applications"
         ],
         "score": 85
       },
@@ -1432,6 +1418,20 @@
           "google sheets template for business expenses",
           "tracker template for google sheets",
           "tracker template for notion"
+        ],
+        "score": 75
+      },
+      {
+        "subject": "kids",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for adhd",
+          "printable planner for kids",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 75
       },
@@ -1504,16 +1504,16 @@
         "score": 55
       },
       {
-        "subject": "kids",
+        "subject": "college",
         "queries": 5,
         "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "printable planner for adhd",
-          "printable planner for kids",
-          "checklist for traveling",
-          "checklist for international travel",
-          "budget template for teens"
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "google sheets template for college application",
+          "budget template for college student"
         ],
         "score": 54
       },
@@ -1545,29 +1545,28 @@
         "score": 43
       },
       {
-        "subject": "list",
+        "subject": "school",
         "queries": 4,
         "seed_spread": 3,
-        "avg_branches": 10,
+        "avg_branches": 9.8,
         "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "checklist for college dorm",
-          "checklist for college apartment"
+          "notion template for school",
+          "notion template for medical students",
+          "checklist for kindergarten readiness",
+          "template management system"
         ],
         "score": 43
       },
       {
-        "subject": "plan",
-        "queries": 6,
-        "seed_spread": 2,
-        "avg_branches": 10,
+        "subject": "list",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 9.8,
         "examples": [
-          "budget template for college student",
-          "budget template for teens",
-          "budget template for biweekly pay",
-          "planner for small business owner",
-          "best planner for small business owner"
+          "excel template for inventory",
+          "google sheets template for college application",
+          "checklist for moving out of state",
+          "checklist for kindergarten readiness"
         ],
         "score": 43
       }
@@ -1813,23 +1812,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for job applications",
-        "branches": 10,
-        "children": [
-          "google sheets template for job applications",
-          "google sheets template for job application tracking",
-          "google sheets template for job search",
-          "google spreadsheet template for job applications",
-          "google docs template for job application tracking",
-          "google docs template for job application",
-          "how do i find templates in google sheets",
-          "does google sheets have templates",
-          "how to add template to google sheets",
-          "can i create a template in google sheets"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for travel itinerary",
         "branches": 10,
         "children": [
@@ -1847,23 +1829,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for inventory",
-        "branches": 10,
-        "children": [
-          "google sheets template for inventory tracking",
-          "google sheets template for inventory management",
-          "google sheets template for inventory",
-          "google sheets template for inventory free",
-          "google sheets template for stock tracking",
-          "google sheets template for stock trading",
-          "google docs template for inventory",
-          "google sheet template for stock portfolio",
-          "google sheet template for stock management",
-          "google sheet template for stock"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for college application",
         "branches": 10,
         "children": [
@@ -1877,6 +1842,40 @@
           "google sheets college application template free",
           "google sheets template for university",
           "spreadsheet template for college application process"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for job applications",
+        "branches": 10,
+        "children": [
+          "google sheets template for job applications",
+          "google sheets template for job application tracking",
+          "google sheets template for job search",
+          "google spreadsheet template for job applications",
+          "google docs template for job application tracking",
+          "google docs template for job application",
+          "how do i find templates in google sheets",
+          "does google sheets have templates",
+          "how to add template to google sheets",
+          "can i create a template in google sheets"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for inventory",
+        "branches": 10,
+        "children": [
+          "google sheets template for inventory tracking",
+          "google sheets template for inventory management",
+          "google sheets template for inventory",
+          "google sheets template for inventory free",
+          "google sheets template for stock tracking",
+          "google sheets template for stock trading",
+          "google docs template for inventory",
+          "google sheet template for stock portfolio",
+          "google sheet template for stock management",
+          "google sheet template for stock"
         ]
       },
       {

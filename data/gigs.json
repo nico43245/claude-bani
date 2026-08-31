@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-08-30T18:00:36.015Z",
-  "scanned": 202,
-  "accepted": 45,
+  "generated_at": "2026-08-31T00:18:03.316Z",
+  "scanned": 199,
+  "accepted": 43,
   "refused_on_ethics": 5,
   "jobs": [
+    {
+      "title": "SQL & Python Customer Analysis",
+      "url": "https://www.freelancer.com/projects/data-analysis/sql-python-customer-analysis",
+      "budget_raw": "$266 Average bid",
+      "desc": "I need help turning a raw set of customer records stored in my SQL database into clear, actionable insights. The work starts with efficient SQL queries to pull and tidy the data, then moves into Python Pandas, NumPy, and any plotting library you prefer for the exploratory analysis and visualisations",
+      "bids": 10,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 266,
+      "hourly": false,
+      "flags": [],
+      "score": 648
+    },
     {
       "title": "Simple Microsoft Excel",
       "url": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
@@ -21,30 +35,30 @@
     {
       "title": "Convert PDF Financial Tables to Sheets",
       "url": "https://www.freelancer.com/projects/data-cleansing/convert-pdf-financial-tables-sheets",
-      "budget_raw": "$179 Average bid",
+      "budget_raw": "$170 Average bid",
       "desc": "I have several PDFs that contain financial data laid out in large tables running over multiple pages. Your task is to extract every row and column accurately and place them into a clean spreadsheet Excel or Google Sheets is fine. The key requirement is data integrity: every figure, label, and subtot",
-      "bids": 23,
+      "bids": 28,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 179,
+      "usd": 170,
       "hourly": false,
       "flags": [],
-      "score": 356
+      "score": 239
     },
     {
       "title": "Convert Large Master Plan PDF/CAD Drawing into Accurate GIS Layers",
       "url": "https://www.freelancer.com/projects/autocad/convert-large-master-plan-pdf",
-      "budget_raw": "$247 Average bid",
+      "budget_raw": "$224 Average bid",
       "desc": "1. Project Description We have a detailed site Master Plan provided as a single-page PDF generated from a CAD drawing. The PDF is approximately 50 MB and contains a large amount of architectural, planning, landscape, and site information. The objective is to extract and convert specific information ",
-      "bids": 10,
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 247,
+      "usd": 224,
       "hourly": false,
       "flags": [],
-      "score": 217
+      "score": 183
     },
     {
       "title": "WEB SCRAPE - INSOLVENCY REGISTER UK",
@@ -59,6 +73,20 @@
       "hourly": true,
       "flags": [],
       "score": 175
+    },
+    {
+      "title": "Clean Mixed CSV Data",
+      "url": "https://www.freelancer.com/projects/data-analysis/clean-mixed-csv-data",
+      "budget_raw": "$174 Average bid",
+      "desc": "I have several Excel/CSV files that contain a mix of text and numeric fields. They need a thorough data-cleaning pass so the information is analysis-ready: duplicates removed, spelling and capitalization standardized, numeric columns properly typed, and obvious entry errors fixed. You re welcome to ",
+      "bids": 7,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 174,
+      "hourly": false,
+      "flags": [],
+      "score": 168
     },
     {
       "title": "AI Three-Way Invoice Automation",
@@ -77,16 +105,16 @@
     {
       "title": "Regional Business PIN Code List",
       "url": "https://www.freelancer.com/projects/data-collection/regional-business-pin-code-list",
-      "budget_raw": "$206 Average bid",
+      "budget_raw": "$204 Average bid",
       "desc": "I need a clean, up-to-date database of businesses located in a single region of my choosing. For each record I only care about the address component that pinpoints location the ZIP / PIN code. No street names, cities, phone numbers, or opening hours are required. Your task is to research and compile",
-      "bids": 19,
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 206,
+      "usd": 204,
       "hourly": false,
       "flags": [],
-      "score": 127
+      "score": 119
     },
     {
       "title": "Amazon Shift Automation System",
@@ -103,18 +131,18 @@
       "score": 104
     },
     {
-      "title": "Sales Data Seasonal Trend Analysis",
-      "url": "https://www.freelancer.com/projects/data-analysis/sales-data-seasonal-trend-analysis",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a complete set of raw sales data that needs to be turned into clear, actionable insight. My single objective is to uncover seasonal trends so I can plan inventory, promotions, and staffing more effectively throughout the year. You may pull the numbers into Excel, Google Sheets, Python (pandas",
-      "bids": 26,
+      "title": "Automate & Improve Business Operations with AI",
+      "url": "https://www.freelancer.com/projects/ai-automation/automate-improve-business-operations",
+      "budget_raw": "$329 Average bid",
+      "desc": "AI & Business Process Automation Specialist Review Odoo, , SharePoint & Office 365 Workflows We're a growing business currently operating across a mix of Odoo (CRM/ERP), , SharePoint, and Office 365. We're looking for an experienced Business Process Analyst / AI Automation Consultant to review our c",
+      "bids": 37,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 5,
-      "usd": 9,
-      "hourly": true,
+      "fit": 4,
+      "usd": 329,
+      "hourly": false,
       "flags": [],
-      "score": 82
+      "score": 103
     },
     {
       "title": "Sales Dashboard with Custom Filters",
@@ -133,16 +161,16 @@
     {
       "title": "Excel Numeric Data Error Correction",
       "url": "https://www.freelancer.com/projects/data-analysis/excel-numeric-data-error-correction",
-      "budget_raw": "$8 / hr Average bid",
+      "budget_raw": "$9 / hr Average bid",
       "desc": "I have a collection of Excel workbooks packed with numerical data that need a careful second look. The figures feed directly into monthly reports, so even small inaccuracies throw everything off. Your sole focus will be correcting errors things like misplaced decimals, transposed digits, or totals t",
-      "bids": 14,
+      "bids": 15,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 8,
+      "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 49
+      "score": 53
     },
     {
       "title": "Indian B2B Lead Generation & Mining",
@@ -161,18 +189,18 @@
       "score": 48
     },
     {
-      "title": "Excel Date & Text Reformat",
-      "url": "https://www.freelancer.com/projects/excel-macros/excel-date-text-reformat",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a small batch of Excel files roughly four to six sheets in total that need a quick but careful cleanup. Every date in these sheets must follow the DD/MM/YYYY structure, and all existing lowercase entries (mostly names and product codes) should be converted to uppercase. No additional transfor",
-      "bids": 23,
+      "title": "Image Extraction & Data Entry",
+      "url": "https://www.freelancer.com/projects/data-entry/image-extraction-data-entry",
+      "budget_raw": "$17 / hr Average bid",
+      "desc": "I have a backlog of printed books and supporting documents that must be digitised. Your main task is to key every relevant detail from these printed sources into a clean, well-structured spreadsheet while maintaining absolute accuracy. Alongside the typing work, several of the titles come with PDF v",
+      "bids": 28,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 9,
+      "usd": 17,
       "hourly": true,
       "flags": [],
-      "score": 36
+      "score": 48
     },
     {
       "title": "Data Migration Model Creation",
@@ -203,32 +231,18 @@
       "score": 33
     },
     {
-      "title": "Descriptive Analysis of Excel Dataset",
-      "url": "https://www.freelancer.com/projects/data-analysis/descriptive-analysis-excel-dataset",
-      "budget_raw": "$14 / hr Average bid",
-      "desc": "I have a raw dataset sitting in several Excel/CSV files and I need a clear, well-structured descriptive analysis of it. The core of the job is to tidy the data, explore it, and then tell the story it contains through concise statistics and intuitive visuals. Because my timeline is flexible, you can ",
-      "bids": 18,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 14,
-      "hourly": true,
-      "flags": [],
-      "score": 32
-    },
-    {
-      "title": "Clean Mixed CSV Data",
-      "url": "https://www.freelancer.com/projects/data-analysis/clean-mixed-csv-data",
-      "budget_raw": "$174 Average bid",
-      "desc": "I have several Excel/CSV files that contain a mix of text and numeric fields. They need a thorough data-cleaning pass so the information is analysis-ready: duplicates removed, spelling and capitalization standardized, numeric columns properly typed, and obvious entry errors fixed. You re welcome to ",
-      "bids": 40,
+      "title": "Excel Date & Text Reformat",
+      "url": "https://www.freelancer.com/projects/excel-macros/excel-date-text-reformat",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I have a small batch of Excel files roughly four to six sheets in total that need a quick but careful cleanup. Every date in these sheets must follow the DD/MM/YYYY structure, and all existing lowercase entries (mostly names and product codes) should be converted to uppercase. No additional transfor",
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 174,
-      "hourly": false,
+      "usd": 8,
+      "hourly": true,
       "flags": [],
-      "score": 31
+      "score": 28
     },
     {
       "title": "PAID DATA COLLECTION OPPORTUNITY SOUTH AFRICA 2",
@@ -273,18 +287,18 @@
       "score": 26
     },
     {
-      "title": "Student Data Analysis Task",
-      "url": "https://www.freelancer.com/projects/data-analysis/student-data-analysis-task",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I need detailed analysis on student data across different sections and subjects. The data is currently in Excel/CSV format. Requirements: - Analyze data section-wise with 6 subjects per section. - Provide insights on performance trends. Ideal Skills and Experience: - Proficiency in data analysis too",
-      "bids": 21,
+      "title": "Python Data Types Bullet-Point Notes",
+      "url": "https://www.freelancer.com/projects/data-analysis/python-data-types-bullet-point",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I need a concise set of notes that walks an intermediate-level Python user through every built-in data type. Each section must open with a clear definition or explanation and then flow straight into practical use-case commentary so the reader instantly sees why that type matters in real projects. Pl",
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 10,
+      "fit": 3,
+      "usd": 5,
       "hourly": true,
       "flags": [],
-      "score": 20
+      "score": 26
     },
     {
       "title": "USSB Directory Data Scraping",
@@ -301,20 +315,6 @@
       "score": 18
     },
     {
-      "title": "Excel Mapping for Tally Sales Transactions",
-      "url": "https://www.freelancer.com/projects/excel/excel-mapping-for-tally-sales",
-      "budget_raw": "$53 Average bid",
-      "desc": "- tally excel sheet mapping for sales transaction , payment vouchers and should be able to import sales data to tally.",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 53,
-      "hourly": false,
-      "flags": [],
-      "score": 17
-    },
-    {
       "title": "Trading Business Annual Management Excel System",
       "url": "https://www.freelancer.com/projects/data-analysis/trading-business-annual-management-excel",
       "budget_raw": "$90 Average bid",
@@ -327,6 +327,20 @@
       "hourly": false,
       "flags": [],
       "score": 16
+    },
+    {
+      "title": "Excel Mapping for Tally Sales Transactions",
+      "url": "https://www.freelancer.com/projects/excel/excel-mapping-for-tally-sales",
+      "budget_raw": "$54 Average bid",
+      "desc": "- tally excel sheet mapping for sales transaction , payment vouchers and should be able to import sales data to tally.",
+      "bids": 18,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 54,
+      "hourly": false,
+      "flags": [],
+      "score": 15
     },
     {
       "title": "LinkedIn Comments Export Script",
@@ -357,44 +371,30 @@
       "score": 14
     },
     {
-      "title": "Labelbox Workflow Integration Lead",
-      "url": "https://www.freelancer.com/projects/automation/labelbox-workflow-integration-lead",
-      "budget_raw": "$46 Average bid",
-      "desc": "I m ready to hand over full ownership of our Labelbox environment everything from first-time project design through day-to-day operations so I can focus on strategy instead of configuration tickets. Your primary mandate is to architect production-ready Labelbox projects. That means taking my high-le",
-      "bids": null,
+      "title": "Restaurant Customer Purchase Analysis",
+      "url": "https://www.freelancer.com/projects/data-analysis/restaurant-customer-purchase-analysis",
+      "budget_raw": "$203 Average bid",
+      "desc": "I have a very large customer dataset from my restaurant operations that I want explored in depth. The sole focus is on purchase-pattern insights how, when, and what guests buy so I can refine promotions, optimize inventory, and improve table turnover. You ll start by cleaning and structuring the raw",
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 46,
+      "fit": 1,
+      "usd": 203,
       "hourly": false,
       "flags": [],
-      "score": 14
+      "score": 13
     },
     {
-      "title": "Inferential T-Test Data Analysis",
-      "url": "https://www.freelancer.com/projects/data-analysis/inferential-test-data-analysis",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I need clear, defensible insight from my 2gjg camplit dataset using inferential statistics specifically T-tests. I will send the raw spreadsheet (CSV/Excel) plus a short code-book. Your task is to decide whether independent or paired T-tests are appropriate, check all underlying assumptions, run the",
-      "bids": 27,
+      "title": "Descriptive Analysis of Excel Dataset",
+      "url": "https://www.freelancer.com/projects/data-analysis/descriptive-analysis-excel-dataset",
+      "budget_raw": "$13 / hr Average bid",
+      "desc": "I have a raw dataset sitting in several Excel/CSV files and I need a clear, well-structured descriptive analysis of it. The core of the job is to tidy the data, explore it, and then tell the story it contains through concise statistics and intuitive visuals. Because my timeline is flexible, you can ",
+      "bids": 31,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 9,
+      "usd": 13,
       "hourly": true,
-      "flags": [],
-      "score": 12
-    },
-    {
-      "title": "Flutter App Finalization & Deployment",
-      "url": "https://www.freelancer.com/projects/flutter/flutter-app-finalization-deployment",
-      "budget_raw": "$71 Average bid",
-      "desc": "Existing Flutter Application Production Build & Deployment We have an existing Flutter mobile application with a Python/FastAPI backend. The application is already substantially developed. We are looking for an experienced Flutter developer or small team to complete production engineering, live inte",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 71,
-      "hourly": false,
       "flags": [],
       "score": 12
     },
@@ -411,20 +411,6 @@
       "hourly": false,
       "flags": [],
       "score": 12
-    },
-    {
-      "title": "Household Item Price Link Research",
-      "url": "https://www.freelancer.com/projects/data-collection/household-item-price-link-research",
-      "budget_raw": "$67 Average bid",
-      "desc": "I have a list of more than 50 online pieces featuring household items. For every single one I need three things captured in a spreadsheet: the exact working link to the item the current price shown on that page the brand you can identify from the product picture when the name is not stated in text F",
-      "bids": 30,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 67,
-      "hourly": false,
-      "flags": [],
-      "score": 9
     },
     {
       "title": "High-Quality B2B Outreach List Creation",
@@ -457,20 +443,6 @@
       "score": 9
     },
     {
-      "title": "Python Data Types Bullet-Point Notes",
-      "url": "https://www.freelancer.com/projects/data-analysis/python-data-types-bullet-point",
-      "budget_raw": "$6 / hr Average bid",
-      "desc": "I need a concise set of notes that walks an intermediate-level Python user through every built-in data type. Each section must open with a clear definition or explanation and then flow straight into practical use-case commentary so the reader instantly sees why that type matters in real projects. Pl",
-      "bids": 39,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 6,
-      "hourly": true,
-      "flags": [],
-      "score": 8
-    },
-    {
       "title": "Hindi Company Address Entry",
       "url": "https://www.freelancer.com/projects/google-sheets/hindi-company-address-entry",
       "budget_raw": "$9 / hr Average bid",
@@ -497,6 +469,20 @@
       "hourly": true,
       "flags": [],
       "score": 8
+    },
+    {
+      "title": "Household Item Price Link Research",
+      "url": "https://www.freelancer.com/projects/data-collection/household-item-price-link-research",
+      "budget_raw": "$70 Average bid",
+      "desc": "I have a list of more than 50 online pieces featuring household items. For every single one I need three things captured in a spreadsheet: the exact working link to the item the current price shown on that page the brand you can identify from the product picture when the name is not stated in text F",
+      "bids": 33,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 70,
+      "hourly": false,
+      "flags": [],
+      "score": 6
     },
     {
       "title": "Comprehensive India Importers List",
@@ -559,7 +545,7 @@
       "url": "https://www.freelancer.com/projects/data-analysis/comprehensive-yearly-business-excel",
       "budget_raw": "$19 Average bid",
       "desc": "### Project Description I m looking for an experienced Excel professional to create a **complete yearly business planning and management Excel workbook for a trading company**. The workbook should cover the company s full-year operations and provide an organized system for planning, tracking, and an",
-      "bids": 23,
+      "bids": 24,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
@@ -567,6 +553,20 @@
       "hourly": false,
       "flags": [],
       "score": 3
+    },
+    {
+      "title": "Environmental Multi-Sensor Data Analysis, KPI & Dashboard Competition",
+      "url": "https://www.freelancer.com/contest/environmental-multisensor-data-analysis-kpi-amp-dashboard-competition-2781475",
+      "budget_raw": "$101 Average bid",
+      "desc": "I m sharing a rich, multi-sensor environmental dataset and I want to see just how much actionable knowledge you can squeeze out of it. Your mission is to surface at least 35 meaningful KPIs and supporting metrics, lay every calculation bare, explain why each one matters to real-world decision-making",
+      "bids": 36,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 101,
+      "hourly": false,
+      "flags": [],
+      "score": 2
     }
   ],
   "refused": [
