@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:55:07.933Z",
+  "generated_at": "2026-09-01T01:06:03.368Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -205,6 +205,34 @@
         "score": 85
       },
       {
+        "theme": "search",
+        "mentions": 27,
+        "engagement": 155,
+        "evidence": [
+          {
+            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
+            "url": "https://news.ycombinator.com/item?id=49360925",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
+            "url": "https://news.ycombinator.com/item?id=49068074",
+            "date": "2026-07-27"
+          },
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
+            "url": "https://news.ycombinator.com/item?id=49197069",
+            "date": "2026-08-06"
+          }
+        ],
+        "score": 80
+      },
+      {
         "theme": "built",
         "mentions": 26,
         "engagement": 164,
@@ -231,34 +259,6 @@
           }
         ],
         "score": 79
-      },
-      {
-        "theme": "search",
-        "mentions": 26,
-        "engagement": 155,
-        "evidence": [
-          {
-            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
-            "url": "https://news.ycombinator.com/item?id=49360925",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
-            "url": "https://news.ycombinator.com/item?id=49068074",
-            "date": "2026-07-27"
-          },
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
-            "url": "https://news.ycombinator.com/item?id=49197069",
-            "date": "2026-08-06"
-          }
-        ],
-        "score": 78
       },
       {
         "theme": "code",
@@ -1119,11 +1119,11 @@
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
-          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for job applications"
+          "google sheets template for college application"
         ],
         "score": 298
       },
@@ -1147,11 +1147,11 @@
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
-          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
-          "google sheets template for job applications"
+          "google sheets template for college application"
         ],
         "score": 270
       },
@@ -1215,7 +1215,7 @@
         "subject": "printable",
         "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.6,
+        "avg_branches": 9.1,
         "examples": [
           "printable planner for july 2026",
           "printable planner for adhd",
@@ -1223,7 +1223,7 @@
           "printable planner for 2026",
           "printable planner for 2025"
         ],
-        "score": 170
+        "score": 167
       },
       {
         "subject": "sheet",
@@ -1263,7 +1263,7 @@
           "notion template for writing a book",
           "notion template for school",
           "notion template for life organization",
-          "notion template for students"
+          "notion template for medical students"
         ],
         "score": 125
       },
@@ -1317,8 +1317,8 @@
         "examples": [
           "notion template for college students",
           "notion template for school",
-          "notion template for students",
           "notion template for medical students",
+          "notion template for students",
           "google sheets template for college application"
         ],
         "score": 115
@@ -1358,8 +1358,8 @@
         "avg_branches": 9.7,
         "examples": [
           "excel template for budget",
-          "google sheets template for travel itinerary",
           "google sheets template for budget",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
           "checklist for wedding planning"
         ],
@@ -1372,9 +1372,9 @@
         "avg_branches": 9.7,
         "examples": [
           "excel template for job application tracking",
+          "google sheets template for college application",
           "google sheets template for job applications",
           "google sheets template for tracking job applications",
-          "google sheets template for college application",
           "spreadsheet to track job applications"
         ],
         "score": 85
@@ -1385,11 +1385,11 @@
         "seed_spread": 3,
         "avg_branches": 9.5,
         "examples": [
-          "google sheets template for travel itinerary",
           "google sheets template for budget",
+          "google sheets template for travel itinerary",
           "google sheets template for planning a trip",
           "google sheets template for job applications",
-          "google sheets template for inventory"
+          "google sheets template for tracking job applications"
         ],
         "score": 85
       },
@@ -1430,8 +1430,8 @@
           "printable planner for adhd",
           "printable planner for kids",
           "checklist for traveling",
-          "checklist for camping",
-          "checklist for international travel"
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 75
       },
@@ -1609,23 +1609,6 @@
       },
       {
         "seed": "notion template for",
-        "query": "notion template for students",
-        "branches": 10,
-        "children": [
-          "notion template for students free",
-          "notion template for students",
-          "notion templates for students aesthetic",
-          "notion templates for students university",
-          "notion templates for student planner",
-          "notion template for college students",
-          "best notion template for students",
-          "notion template for medical students",
-          "notion templates for uni students",
-          "notion templates for phd students"
-        ]
-      },
-      {
-        "seed": "notion template for",
         "query": "notion template for medical students",
         "branches": 10,
         "children": [
@@ -1656,6 +1639,23 @@
           "best notion template for content creation",
           "notion template for youtube content creation",
           "content creator example"
+        ]
+      },
+      {
+        "seed": "notion template for",
+        "query": "notion template for students",
+        "branches": 10,
+        "children": [
+          "notion template for students free",
+          "notion template for students",
+          "notion templates for students aesthetic",
+          "notion templates for students university",
+          "notion templates for student planner",
+          "notion template for college students",
+          "best notion template for students",
+          "notion template for medical students",
+          "notion templates for uni students",
+          "notion templates for phd students"
         ]
       },
       {
@@ -1779,23 +1779,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for travel itinerary",
-        "branches": 10,
-        "children": [
-          "google sheets template for travel itinerary",
-          "google docs template for travel itinerary",
-          "google sheets template for travel planning",
-          "google sheets template for trip itinerary",
-          "free google sheets template for travel itinerary",
-          "google sheets template for trip planning",
-          "google docs template for travel planning",
-          "google docs template for trip itinerary",
-          "google docs template for trip planning",
-          "google sheets travel itinerary template reddit"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for budget",
         "branches": 10,
         "children": [
@@ -1830,6 +1813,40 @@
       },
       {
         "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for college application",
+        "branches": 10,
+        "children": [
+          "google sheets template for college application",
+          "google sheets template for college classes",
+          "google sheets template for college list",
+          "google sheets template for college assignments",
+          "google sheets template for college",
+          "google sheets template for college students",
+          "google sheets template for college search",
+          "google sheets college application template free",
+          "google sheets template for university",
+          "spreadsheet template for college application process"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
         "query": "google sheets template for job applications",
         "branches": 10,
         "children": [
@@ -1860,23 +1877,6 @@
           "google sheet template for stock portfolio",
           "google sheet template for stock management",
           "google sheet template for stock"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
-        "query": "google sheets template for college application",
-        "branches": 10,
-        "children": [
-          "google sheets template for college application",
-          "google sheets template for college classes",
-          "google sheets template for college list",
-          "google sheets template for college assignments",
-          "google sheets template for college",
-          "google sheets template for college students",
-          "google sheets template for college search",
-          "google sheets college application template free",
-          "google sheets template for university",
-          "spreadsheet template for college application process"
         ]
       },
       {
