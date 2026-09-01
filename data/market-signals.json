@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:20:47.751Z",
+  "generated_at": "2026-09-01T17:44:12.542Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -66,7 +66,7 @@
       },
       {
         "theme": "wish",
-        "mentions": 99,
+        "mentions": 100,
         "engagement": 11,
         "evidence": [
           {
@@ -90,11 +90,11 @@
             "date": "2025-03-15"
           }
         ],
-        "score": 107
+        "score": 108
       },
       {
         "theme": "hours",
-        "mentions": 82,
+        "mentions": 83,
         "engagement": 11,
         "evidence": [
           {
@@ -118,11 +118,11 @@
             "date": "2026-01-20"
           }
         ],
-        "score": 90
+        "score": 91
       },
       {
         "theme": "spend",
-        "mentions": 80,
+        "mentions": 82,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 88
+        "score": 90
       },
       {
         "theme": "life",
@@ -317,6 +317,34 @@
         "score": 75
       },
       {
+        "theme": "apps",
+        "mentions": 21,
+        "engagement": 194,
+        "evidence": [
+          {
+            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
+            "url": "https://news.ycombinator.com/item?id=48578995",
+            "date": "2026-06-18"
+          },
+          {
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
+          },
+          {
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
+          },
+          {
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
+          }
+        ],
+        "score": 73
+      },
+      {
         "theme": "different",
         "mentions": 36,
         "engagement": 70,
@@ -340,34 +368,6 @@
             "text": "I submitted a long product suggestion to apple a couple years ago for an iPhone nano but they still haven’t taken me up on it lol. They were mad the mini was a ",
             "url": "https://news.ycombinator.com/item?id=49374703",
             "date": "2026-08-20"
-          }
-        ],
-        "score": 71
-      },
-      {
-        "theme": "apps",
-        "mentions": 20,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
-            "url": "https://news.ycombinator.com/item?id=48578995",
-            "date": "2026-06-18"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
           }
         ],
         "score": 71
@@ -486,7 +486,7 @@
       },
       {
         "theme": "public",
-        "mentions": 20,
+        "mentions": 21,
         "engagement": 126,
         "evidence": [
           {
@@ -510,7 +510,7 @@
             "date": "2026-06-04"
           }
         ],
-        "score": 61
+        "score": 63
       },
       {
         "theme": "system",
@@ -541,34 +541,6 @@
         "score": 61
       },
       {
-        "theme": "stop",
-        "mentions": 15,
-        "engagement": 215,
-        "evidence": [
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "Reminder the only benchmark that really matters is the one that measures the ability for the model to do real world tasks that someone would pay for on Upwork t",
-            "url": "https://news.ycombinator.com/item?id=48313769",
-            "date": "2026-05-28"
-          },
-          {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          }
-        ],
-        "score": 60
-      },
-      {
         "theme": "videos",
         "mentions": 14,
         "engagement": 233,
@@ -597,8 +569,36 @@
         "score": 59
       },
       {
+        "theme": "stop",
+        "mentions": 14,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "Reminder the only benchmark that really matters is the one that measures the ability for the model to do real world tasks that someone would pay for on Upwork t",
+            "url": "https://news.ycombinator.com/item?id=48313769",
+            "date": "2026-05-28"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          }
+        ],
+        "score": 58
+      },
+      {
         "theme": "agent",
-        "mentions": 13,
+        "mentions": 12,
         "engagement": 258,
         "evidence": [
           {
@@ -622,7 +622,7 @@
             "date": "2025-05-22"
           }
         ],
-        "score": 58
+        "score": 55
       },
       {
         "theme": "world",
@@ -681,90 +681,6 @@
         "score": 53
       },
       {
-        "theme": "agents",
-        "mentions": 17,
-        "engagement": 112,
-        "evidence": [
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "Right? What a hideous and repulsive vision of the future. No humanity, just artifice and comfortable lies. I’ll take genuine human society any day. I would pay ",
-            "url": "https://news.ycombinator.com/item?id=48628116",
-            "date": "2026-06-22"
-          },
-          {
-            "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
-            "url": "https://news.ycombinator.com/item?id=48275460",
-            "date": "2026-05-26"
-          },
-          {
-            "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
-            "url": "https://news.ycombinator.com/item?id=46425971",
-            "date": "2025-12-29"
-          }
-        ],
-        "score": 53
-      },
-      {
-        "theme": "project",
-        "mentions": 28,
-        "engagement": 45,
-        "evidence": [
-          {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
-          },
-          {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
-          },
-          {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
-          }
-        ],
-        "score": 52
-      },
-      {
-        "theme": "writing",
-        "mentions": 18,
-        "engagement": 96,
-        "evidence": [
-          {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
-          },
-          {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
-          },
-          {
-            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
-            "url": "https://news.ycombinator.com/item?id=46567113",
-            "date": "2026-01-10"
-          },
-          {
-            "text": "I stopped using coding agents after more than one and a half year of active use, it really started to become way too boring, and I’m t a point where I just hate",
-            "url": "https://news.ycombinator.com/item?id=49153129",
-            "date": "2026-08-03"
-          }
-        ],
-        "score": 52
-      },
-      {
         "theme": "without",
         "mentions": 45,
         "engagement": 9,
@@ -793,32 +709,116 @@
         "score": 51
       },
       {
-        "theme": "computer",
-        "mentions": 11,
-        "engagement": 230,
+        "theme": "agents",
+        "mentions": 16,
+        "engagement": 112,
         "evidence": [
           {
-            "text": "There is a story from the early days of Napster where music industry executives discovered the service. One of the executives describes it as: \"We had a laptop ",
-            "url": "https://news.ycombinator.com/item?id=48932907",
-            "date": "2026-07-16"
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
           },
           {
-            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
-            "url": "https://news.ycombinator.com/item?id=48664411",
-            "date": "2026-06-24"
+            "text": "Right? What a hideous and repulsive vision of the future. No humanity, just artifice and comfortable lies. I’ll take genuine human society any day. I would pay ",
+            "url": "https://news.ycombinator.com/item?id=48628116",
+            "date": "2026-06-22"
           },
           {
-            "text": "Pfft, this thread got derailed rather quickly; Lets get it back on track! I welcome our new Credit Card sized computer overlords. I would pay dearly for a credi",
-            "url": "https://news.ycombinator.com/item?id=48253749",
-            "date": "2026-05-24"
+            "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
+            "url": "https://news.ycombinator.com/item?id=48275460",
+            "date": "2026-05-26"
           },
           {
-            "text": "Yeah, all of them claim that... but I just walk into the bank and say I don't have an Android or Apple 'smart' phone, only a Linux pocket computer (Librem 5). S",
-            "url": "https://news.ycombinator.com/item?id=48781014",
-            "date": "2026-07-03"
+            "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
+            "url": "https://news.ycombinator.com/item?id=46425971",
+            "date": "2025-12-29"
+          }
+        ],
+        "score": 51
+      },
+      {
+        "theme": "project",
+        "mentions": 27,
+        "engagement": 45,
+        "evidence": [
+          {
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
+            "url": "https://news.ycombinator.com/item?id=48956474",
+            "date": "2026-07-18"
+          },
+          {
+            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
+            "url": "https://news.ycombinator.com/item?id=48240608",
+            "date": "2026-05-22"
+          },
+          {
+            "text": "What's the best project management tool you have ever used?",
+            "url": "https://news.ycombinator.com/item?id=42501443",
+            "date": "2024-12-24"
+          }
+        ],
+        "score": 51
+      },
+      {
+        "theme": "writing",
+        "mentions": 17,
+        "engagement": 96,
+        "evidence": [
+          {
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
+          },
+          {
+            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
+            "url": "https://news.ycombinator.com/item?id=47437681",
+            "date": "2026-03-19"
+          },
+          {
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
+          },
+          {
+            "text": "I stopped using coding agents after more than one and a half year of active use, it really started to become way too boring, and I’m t a point where I just hate",
+            "url": "https://news.ycombinator.com/item?id=49153129",
+            "date": "2026-08-03"
           }
         ],
         "score": 50
+      },
+      {
+        "theme": "support",
+        "mentions": 26,
+        "engagement": 45,
+        "evidence": [
+          {
+            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
+            "url": "https://news.ycombinator.com/item?id=49388579",
+            "date": "2026-08-21"
+          },
+          {
+            "text": "Mozilla should start exploring a subscription business and tout its continued support for the full uBlock Origin among other extensions. I would pay a small amo",
+            "url": "https://news.ycombinator.com/item?id=49289382",
+            "date": "2026-08-13"
+          },
+          {
+            "text": "I don't want the founders and operators of my free-expression tool to be neutral. I want them to be strongly biased in favor of free expression. But they take m",
+            "url": "https://news.ycombinator.com/item?id=48985845",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "I love that idea. You should totally build it! Packing lists, grocery store runs, playing tic tac toe / connect four, taking notes during conferences, etc. Like",
+            "url": "https://news.ycombinator.com/item?id=48227730",
+            "date": "2026-05-21"
+          }
+        ],
+        "score": 49
       },
       {
         "theme": "research",
@@ -1263,7 +1263,7 @@
           "notion template for writing a book",
           "notion template for school",
           "notion template for life organization",
-          "notion template for students"
+          "notion template for medical students"
         ],
         "score": 125
       },
@@ -1317,8 +1317,8 @@
         "examples": [
           "notion template for college students",
           "notion template for school",
-          "notion template for students",
           "notion template for medical students",
+          "notion template for students",
           "google sheets template for college application"
         ],
         "score": 115
@@ -1609,23 +1609,6 @@
       },
       {
         "seed": "notion template for",
-        "query": "notion template for students",
-        "branches": 10,
-        "children": [
-          "notion template for students free",
-          "notion template for students",
-          "notion templates for students aesthetic",
-          "notion templates for students university",
-          "notion templates for student planner",
-          "notion template for college students",
-          "best notion template for students",
-          "notion template for medical students",
-          "notion templates for uni students",
-          "notion templates for phd students"
-        ]
-      },
-      {
-        "seed": "notion template for",
         "query": "notion template for medical students",
         "branches": 10,
         "children": [
@@ -1656,6 +1639,23 @@
           "best notion template for content creation",
           "notion template for youtube content creation",
           "content creator example"
+        ]
+      },
+      {
+        "seed": "notion template for",
+        "query": "notion template for students",
+        "branches": 10,
+        "children": [
+          "notion template for students free",
+          "notion template for students",
+          "notion templates for students aesthetic",
+          "notion templates for students university",
+          "notion templates for student planner",
+          "notion template for college students",
+          "best notion template for students",
+          "notion template for medical students",
+          "notion templates for uni students",
+          "notion templates for phd students"
         ]
       },
       {
