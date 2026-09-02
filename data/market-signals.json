@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:54:44.656Z",
+  "generated_at": "2026-09-02T17:44:29.739Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -66,7 +66,7 @@
       },
       {
         "theme": "wish",
-        "mentions": 99,
+        "mentions": 100,
         "engagement": 11,
         "evidence": [
           {
@@ -85,12 +85,12 @@
             "date": "2026-06-09"
           },
           {
-            "text": "Tell HN: I wish there was \"IntelliSense\" for math-heavy papers",
-            "url": "https://news.ycombinator.com/item?id=43374632",
-            "date": "2025-03-15"
+            "text": "Strongly agree. I wish more things came in jars, cans and sacks. I would pay a premium for this alone. The plastic liner in a tall box workflow adds so much fri",
+            "url": "https://news.ycombinator.com/item?id=49537191",
+            "date": "2026-09-02"
           }
         ],
-        "score": 107
+        "score": 108
       },
       {
         "theme": "hours",
@@ -317,34 +317,6 @@
         "score": 73
       },
       {
-        "theme": "it.",
-        "mentions": 59,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          }
-        ],
-        "score": 71
-      },
-      {
         "theme": "different",
         "mentions": 36,
         "engagement": 70,
@@ -399,6 +371,34 @@
           }
         ],
         "score": 71
+      },
+      {
+        "theme": "it.",
+        "mentions": 58,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          }
+        ],
+        "score": 70
       },
       {
         "theme": "browser",
@@ -948,19 +948,19 @@
       },
       {
         "kind": "story",
+        "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+        "url": "https://news.ycombinator.com/item?id=49528057",
+        "engagement": 149,
+        "date": "2026-09-01",
+        "query": "\"there should be\""
+      },
+      {
+        "kind": "story",
         "text": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
         "url": "https://news.ycombinator.com/item?id=47635033",
         "engagement": 136,
         "date": "2026-04-04",
         "query": "\"tired of doing\""
-      },
-      {
-        "kind": "story",
-        "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-        "url": "https://news.ycombinator.com/item?id=49528057",
-        "engagement": 134,
-        "date": "2026-09-01",
-        "query": "\"there should be\""
       },
       {
         "kind": "story",
@@ -1017,9 +1017,9 @@
     "subjects": [
       {
         "subject": "excel",
-        "queries": 33,
+        "queries": 32,
         "seed_spread": 9,
-        "avg_branches": 8.9,
+        "avg_branches": 9.1,
         "examples": [
           "excel template for budget",
           "excel template for project management",
@@ -1027,13 +1027,13 @@
           "excel template for expense tracking",
           "excel template for job application tracking"
         ],
-        "score": 1023
+        "score": 999
       },
       {
         "subject": "spreadsheet",
         "queries": 30,
         "seed_spread": 7,
-        "avg_branches": 9.1,
+        "avg_branches": 9.2,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
@@ -1041,7 +1041,7 @@
           "excel template for job application tracking",
           "google sheets template for business expenses"
         ],
-        "score": 729
+        "score": 731
       },
       {
         "subject": "budget",
@@ -1079,9 +1079,9 @@
         "examples": [
           "notion template for students",
           "printable planner for july 2026",
-          "printable planner for adhd",
           "printable planner for kids",
-          "printable planner for 2026"
+          "printable planner for 2026",
+          "printable planner for adhd"
         ],
         "score": 436
       },
@@ -1107,8 +1107,8 @@
         "examples": [
           "google sheets template for tracking job applications",
           "spreadsheet to track expenses",
-          "spreadsheet to track job applications",
           "spreadsheet to track expenses for small business",
+          "spreadsheet to track job applications",
           "spreadsheet to track spending"
         ],
         "score": 334
@@ -1122,8 +1122,8 @@
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for travel itinerary",
+          "google sheets template for job applications"
         ],
         "score": 298
       },
@@ -1150,8 +1150,8 @@
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for travel itinerary"
+          "google sheets template for travel itinerary",
+          "google sheets template for job applications"
         ],
         "score": 270
       },
@@ -1171,17 +1171,17 @@
       },
       {
         "subject": "pdf",
-        "queries": 14,
+        "queries": 13,
         "seed_spread": 4,
         "avg_branches": 10,
         "examples": [
           "printable planner for july 2026",
-          "printable planner for adhd",
           "printable planner for kids",
           "printable planner for 2026",
+          "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 201
+        "score": 186
       },
       {
         "subject": "expenses",
@@ -1213,17 +1213,17 @@
       },
       {
         "subject": "printable",
-        "queries": 12,
+        "queries": 11,
         "seed_spread": 4,
-        "avg_branches": 9.1,
+        "avg_branches": 9.5,
         "examples": [
           "printable planner for july 2026",
-          "printable planner for adhd",
           "printable planner for kids",
           "printable planner for 2026",
+          "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 167
+        "score": 155
       },
       {
         "subject": "sheet",
@@ -1263,7 +1263,7 @@
           "notion template for writing a book",
           "notion template for school",
           "notion template for life organization",
-          "notion template for medical students"
+          "notion template for students"
         ],
         "score": 125
       },
@@ -1302,9 +1302,9 @@
         "avg_branches": 9.5,
         "examples": [
           "printable planner for july 2026",
-          "printable planner for adhd",
           "printable planner for kids",
           "printable planner for 2026",
+          "printable planner for adhd",
           "printable planner for 2025"
         ],
         "score": 116
@@ -1317,8 +1317,8 @@
         "examples": [
           "notion template for college students",
           "notion template for school",
-          "notion template for medical students",
           "notion template for students",
+          "notion template for medical students",
           "google sheets template for college application"
         ],
         "score": 115
@@ -1336,6 +1336,20 @@
           "excel template for inventory"
         ],
         "score": 112
+      },
+      {
+        "subject": "college",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "google sheets template for college application",
+          "checklist for college dorm"
+        ],
+        "score": 100
       },
       {
         "subject": "income",
@@ -1373,8 +1387,8 @@
         "examples": [
           "excel template for job application tracking",
           "google sheets template for job applications",
-          "google sheets template for tracking job applications",
           "google sheets template for college application",
+          "google sheets template for tracking job applications",
           "spreadsheet to track job applications"
         ],
         "score": 85
@@ -1387,8 +1401,8 @@
         "examples": [
           "google sheets template for budget",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
           "google sheets template for travel itinerary",
+          "google sheets template for job applications",
           "google sheets template for inventory"
         ],
         "score": 85
@@ -1418,20 +1432,6 @@
           "google sheets template for business expenses",
           "tracker template for google sheets",
           "tracker template for notion"
-        ],
-        "score": 75
-      },
-      {
-        "subject": "kids",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for adhd",
-          "printable planner for kids",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
         ],
         "score": 75
       },
@@ -1504,16 +1504,16 @@
         "score": 55
       },
       {
-        "subject": "college",
+        "subject": "kids",
         "queries": 5,
         "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "google sheets template for college application",
-          "budget template for college student"
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for traveling",
+          "checklist for international travel",
+          "budget template for teens"
         ],
         "score": 54
       },
@@ -1545,6 +1545,19 @@
         "score": 43
       },
       {
+        "subject": "list",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for college application",
+          "checklist for college dorm",
+          "checklist for college apartment"
+        ],
+        "score": 43
+      },
+      {
         "subject": "plan",
         "queries": 6,
         "seed_spread": 2,
@@ -1557,19 +1570,6 @@
           "best planner for small business owner"
         ],
         "score": 43
-      },
-      {
-        "subject": "job",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 9.5,
-        "examples": [
-          "excel template for job application tracking",
-          "google sheets template for job applications",
-          "google sheets template for tracking job applications",
-          "spreadsheet to track job applications"
-        ],
-        "score": 42
       }
     ],
     "richest_veins": [
@@ -1609,6 +1609,23 @@
       },
       {
         "seed": "notion template for",
+        "query": "notion template for students",
+        "branches": 10,
+        "children": [
+          "notion template for students free",
+          "notion template for students",
+          "notion templates for students aesthetic",
+          "notion templates for students university",
+          "notion templates for student planner",
+          "notion template for college students",
+          "best notion template for students",
+          "notion template for medical students",
+          "notion templates for uni students",
+          "notion templates for phd students"
+        ]
+      },
+      {
+        "seed": "notion template for",
         "query": "notion template for medical students",
         "branches": 10,
         "children": [
@@ -1639,23 +1656,6 @@
           "best notion template for content creation",
           "notion template for youtube content creation",
           "content creator example"
-        ]
-      },
-      {
-        "seed": "notion template for",
-        "query": "notion template for students",
-        "branches": 10,
-        "children": [
-          "notion template for students free",
-          "notion template for students",
-          "notion templates for students aesthetic",
-          "notion templates for students university",
-          "notion templates for student planner",
-          "notion template for college students",
-          "best notion template for students",
-          "notion template for medical students",
-          "notion templates for uni students",
-          "notion templates for phd students"
         ]
       },
       {
@@ -1752,10 +1752,10 @@
           "excel template for inventory tracking",
           "excel template for inventory and sales",
           "excel template for inventory in and out",
+          "excel template for inventory list",
           "excel template for inventory free download",
           "excel template for inventory with pictures",
           "excel template for inventory",
-          "excel template for inventory list",
           "excel template for inventory management free",
           "excel template for inventory and sales management"
         ]
@@ -1813,23 +1813,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for job applications",
-        "branches": 10,
-        "children": [
-          "google sheets template for job applications",
-          "google sheets template for job application tracking",
-          "google sheets template for job search",
-          "google spreadsheet template for job applications",
-          "google docs template for job application tracking",
-          "google docs template for job application",
-          "how do i find templates in google sheets",
-          "does google sheets have templates",
-          "how to add template to google sheets",
-          "can i create a template in google sheets"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for travel itinerary",
         "branches": 10,
         "children": [
@@ -1847,19 +1830,19 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for inventory",
+        "query": "google sheets template for job applications",
         "branches": 10,
         "children": [
-          "google sheets template for inventory tracking",
-          "google sheets template for inventory management",
-          "google sheets template for inventory",
-          "google sheets template for inventory free",
-          "google sheets template for stock tracking",
-          "google sheets template for stock trading",
-          "google docs template for inventory",
-          "google sheet template for stock portfolio",
-          "google sheet template for stock management",
-          "google sheet template for stock"
+          "google sheets template for job applications",
+          "google sheets template for job application tracking",
+          "google sheets template for job search",
+          "google spreadsheet template for job applications",
+          "google docs template for job application tracking",
+          "google docs template for job application",
+          "how do i find templates in google sheets",
+          "does google sheets have templates",
+          "how to add template to google sheets",
+          "can i create a template in google sheets"
         ]
       },
       {
@@ -1877,6 +1860,23 @@
           "google sheets college application template free",
           "google sheets template for university",
           "spreadsheet template for college application process"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for inventory",
+        "branches": 10,
+        "children": [
+          "google sheets template for inventory tracking",
+          "google sheets template for inventory management",
+          "google sheets template for inventory",
+          "google sheets template for inventory free",
+          "google sheets template for stock tracking",
+          "google sheets template for stock trading",
+          "google docs template for inventory",
+          "google sheet template for stock portfolio",
+          "google sheet template for stock management",
+          "google sheet template for stock"
         ]
       },
       {
@@ -1983,19 +1983,19 @@
       },
       {
         "seed": "printable planner for",
-        "query": "printable planner for adhd",
+        "query": "printable planner for kids",
         "branches": 10,
         "children": [
-          "printable planner for adhd",
-          "printable calendar for adhd",
-          "free printable planner for adhd",
-          "printable daily planner for adhd",
-          "printable adhd planner for adults",
-          "free printable daily planner for adhd",
-          "free printable adhd planner for adults",
-          "free printable adhd planner for adults pdf",
-          "free printable adhd planner for kids",
-          "free printable adhd planner for adults pdf download"
+          "printable planner for kids",
+          "printable calendar for kids",
+          "printable calendar for kids 2026",
+          "printable calendar for kids 2025",
+          "printable planner for students",
+          "printable calendar for kids to color",
+          "printable calendar for kids free",
+          "printable calendar for kids pdf",
+          "printable calendar for kids schedule",
+          "printable calendar for kids april 2026"
         ]
       }
     ]
