@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:44:29.739Z",
+  "generated_at": "2026-09-02T23:57:29.749Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -24,14 +24,14 @@
             "date": "2026-06-18"
           },
           {
-            "text": "If your app could track things like anxiety and worries, help you find the root cause, or train you not to let them wake you up at 3 a.m., I would pay as much a",
-            "url": "https://news.ycombinator.com/item?id=48110196",
-            "date": "2026-05-12"
-          },
-          {
             "text": "«Please shut up and take my money». Jokes aside - can’t wait. Your book The Lean Startup helped me so much. I read it tens of times. It’s one of the reason I go",
             "url": "https://news.ycombinator.com/item?id=48487432",
             "date": "2026-06-11"
+          },
+          {
+            "text": "I have been one of the very early users. Maybe from the first weeks (if not days). It used to be such a good app and service. So good that I used to ask my frie",
+            "url": "https://news.ycombinator.com/item?id=48288422",
+            "date": "2026-05-27"
           }
         ],
         "score": 114
@@ -205,34 +205,6 @@
         "score": 85
       },
       {
-        "theme": "search",
-        "mentions": 27,
-        "engagement": 155,
-        "evidence": [
-          {
-            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
-            "url": "https://news.ycombinator.com/item?id=49360925",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
-            "url": "https://news.ycombinator.com/item?id=49068074",
-            "date": "2026-07-27"
-          },
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
-            "url": "https://news.ycombinator.com/item?id=49197069",
-            "date": "2026-08-06"
-          }
-        ],
-        "score": 80
-      },
-      {
         "theme": "built",
         "mentions": 26,
         "engagement": 164,
@@ -259,6 +231,34 @@
           }
         ],
         "score": 79
+      },
+      {
+        "theme": "search",
+        "mentions": 26,
+        "engagement": 155,
+        "evidence": [
+          {
+            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
+            "url": "https://news.ycombinator.com/item?id=49360925",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
+            "url": "https://news.ycombinator.com/item?id=49068074",
+            "date": "2026-07-27"
+          },
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
+            "url": "https://news.ycombinator.com/item?id=49197069",
+            "date": "2026-08-06"
+          }
+        ],
+        "score": 78
       },
       {
         "theme": "code",
@@ -289,6 +289,34 @@
         "score": 77
       },
       {
+        "theme": "different",
+        "mentions": 37,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 73
+      },
+      {
         "theme": "apps",
         "mentions": 21,
         "engagement": 194,
@@ -315,34 +343,6 @@
           }
         ],
         "score": 73
-      },
-      {
-        "theme": "different",
-        "mentions": 36,
-        "engagement": 70,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "I submitted a long product suggestion to apple a couple years ago for an iPhone nano but they still haven’t taken me up on it lol. They were mad the mini was a ",
-            "url": "https://news.ycombinator.com/item?id=49374703",
-            "date": "2026-08-20"
-          }
-        ],
-        "score": 71
       },
       {
         "theme": "open-source",
@@ -373,34 +373,6 @@
         "score": 71
       },
       {
-        "theme": "it.",
-        "mentions": 58,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          }
-        ],
-        "score": 70
-      },
-      {
         "theme": "browser",
         "mentions": 16,
         "engagement": 287,
@@ -429,8 +401,36 @@
         "score": 69
       },
       {
+        "theme": "it.",
+        "mentions": 57,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          }
+        ],
+        "score": 69
+      },
+      {
         "theme": "them",
-        "mentions": 68,
+        "mentions": 67,
         "engagement": 0,
         "evidence": [
           {
@@ -454,7 +454,7 @@
             "date": "2026-08-01"
           }
         ],
-        "score": 68
+        "score": 67
       },
       {
         "theme": "language",
@@ -625,6 +625,34 @@
         "score": 58
       },
       {
+        "theme": "writing",
+        "mentions": 19,
+        "engagement": 96,
+        "evidence": [
+          {
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
+          },
+          {
+            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
+            "url": "https://news.ycombinator.com/item?id=47437681",
+            "date": "2026-03-19"
+          },
+          {
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
+          },
+          {
+            "text": "I stopped using coding agents after more than one and a half year of active use, it really started to become way too boring, and I’m t a point where I just hate",
+            "url": "https://news.ycombinator.com/item?id=49153129",
+            "date": "2026-08-03"
+          }
+        ],
+        "score": 54
+      },
+      {
         "theme": "world",
         "mentions": 25,
         "engagement": 58,
@@ -704,34 +732,6 @@
             "text": "Cars and airplanes were probably the tech stocks before the transistor. But don’t sell pharmaceutical stocks short as the correct stock at the start of a hot dr",
             "url": "https://news.ycombinator.com/item?id=48755000",
             "date": "2026-07-02"
-          }
-        ],
-        "score": 52
-      },
-      {
-        "theme": "writing",
-        "mentions": 18,
-        "engagement": 96,
-        "evidence": [
-          {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
-          },
-          {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
-          },
-          {
-            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
-            "url": "https://news.ycombinator.com/item?id=46567113",
-            "date": "2026-01-10"
-          },
-          {
-            "text": "I stopped using coding agents after more than one and a half year of active use, it really started to become way too boring, and I’m t a point where I just hate",
-            "url": "https://news.ycombinator.com/item?id=49153129",
-            "date": "2026-08-03"
           }
         ],
         "score": 52
@@ -940,19 +940,19 @@
       },
       {
         "kind": "story",
+        "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+        "url": "https://news.ycombinator.com/item?id=49528057",
+        "engagement": 151,
+        "date": "2026-09-01",
+        "query": "\"there should be\""
+      },
+      {
+        "kind": "story",
         "text": "Show HN: Learn Japanese contextually while browsing",
         "url": "https://news.ycombinator.com/item?id=46296863",
         "engagement": 149,
         "date": "2025-12-17",
         "query": "\"spend hours\""
-      },
-      {
-        "kind": "story",
-        "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-        "url": "https://news.ycombinator.com/item?id=49528057",
-        "engagement": 149,
-        "date": "2026-09-01",
-        "query": "\"there should be\""
       },
       {
         "kind": "story",
@@ -1031,7 +1031,7 @@
       },
       {
         "subject": "spreadsheet",
-        "queries": 30,
+        "queries": 32,
         "seed_spread": 7,
         "avg_branches": 9.2,
         "examples": [
@@ -1041,7 +1041,7 @@
           "excel template for job application tracking",
           "google sheets template for business expenses"
         ],
-        "score": 731
+        "score": 779
       },
       {
         "subject": "budget",
@@ -1066,8 +1066,8 @@
           "notion template for college students",
           "notion template for school",
           "notion template for medical students",
-          "excel template for budget",
-          "excel template for monthly expenses"
+          "notion template for college",
+          "excel template for budget"
         ],
         "score": 516
       },
@@ -1075,7 +1075,7 @@
         "subject": "planner",
         "queries": 25,
         "seed_spread": 5,
-        "avg_branches": 9.2,
+        "avg_branches": 9.3,
         "examples": [
           "notion template for students",
           "printable planner for july 2026",
@@ -1083,35 +1083,21 @@
           "printable planner for 2026",
           "printable planner for adhd"
         ],
-        "score": 436
+        "score": 437
       },
       {
         "subject": "business",
-        "queries": 17,
+        "queries": 18,
         "seed_spread": 7,
-        "avg_branches": 9,
+        "avg_branches": 9.1,
         "examples": [
           "excel template for small business accounting",
           "google sheets template for business expenses",
+          "google sheets template for tracking expenses",
           "spreadsheet to track expenses",
-          "spreadsheet to track expenses for small business",
-          "spreadsheet to track spending"
+          "spreadsheet to track expenses for small business"
         ],
-        "score": 412
-      },
-      {
-        "subject": "track",
-        "queries": 20,
-        "seed_spread": 5,
-        "avg_branches": 8.1,
-        "examples": [
-          "google sheets template for tracking job applications",
-          "spreadsheet to track expenses",
-          "spreadsheet to track expenses for small business",
-          "spreadsheet to track job applications",
-          "spreadsheet to track spending"
-        ],
-        "score": 334
+        "score": 437
       },
       {
         "subject": "google",
@@ -1121,8 +1107,8 @@
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
+          "google sheets template for tracking expenses",
           "google sheets template for planning a trip",
-          "google sheets template for travel itinerary",
           "google sheets template for job applications"
         ],
         "score": 298
@@ -1131,7 +1117,7 @@
         "subject": "tracking",
         "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9.8,
         "examples": [
           "excel template for budget",
           "excel template for project management",
@@ -1139,7 +1125,7 @@
           "excel template for job application tracking",
           "excel template for inventory"
         ],
-        "score": 270
+        "score": 271
       },
       {
         "subject": "sheets",
@@ -1149,25 +1135,53 @@
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
+          "google sheets template for tracking expenses",
           "google sheets template for planning a trip",
-          "google sheets template for travel itinerary",
           "google sheets template for job applications"
         ],
         "score": 270
       },
       {
+        "subject": "track",
+        "queries": 19,
+        "seed_spread": 4,
+        "avg_branches": 8.1,
+        "examples": [
+          "spreadsheet to track expenses",
+          "spreadsheet to track expenses for small business",
+          "spreadsheet to track job applications",
+          "spreadsheet to track spending",
+          "spreadsheet to track income and expenses"
+        ],
+        "score": 254
+      },
+      {
         "subject": "monthly",
-        "queries": 10,
+        "queries": 11,
         "seed_spread": 6,
         "avg_branches": 9.5,
         "examples": [
           "excel template for budget",
           "excel template for monthly expenses",
           "google sheets template for budget",
-          "habit tracker template for notion",
-          "budget template for couples"
+          "google sheets template for tracking expenses",
+          "habit tracker template for notion"
         ],
-        "score": 211
+        "score": 233
+      },
+      {
+        "subject": "expenses",
+        "queries": 11,
+        "seed_spread": 5,
+        "avg_branches": 9.6,
+        "examples": [
+          "excel template for budget",
+          "excel template for expense tracking",
+          "excel template for monthly expenses",
+          "google sheets template for business expenses",
+          "google sheets template for tracking expenses"
+        ],
+        "score": 195
       },
       {
         "subject": "pdf",
@@ -1182,20 +1196,6 @@
           "printable planner for 2025"
         ],
         "score": 186
-      },
-      {
-        "subject": "expenses",
-        "queries": 10,
-        "seed_spread": 5,
-        "avg_branches": 9.6,
-        "examples": [
-          "excel template for budget",
-          "excel template for expense tracking",
-          "excel template for monthly expenses",
-          "google sheets template for business expenses",
-          "spreadsheet to track expenses"
-        ],
-        "score": 177
       },
       {
         "subject": "download",
@@ -1213,9 +1213,9 @@
       },
       {
         "subject": "printable",
-        "queries": 11,
+        "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.5,
+        "avg_branches": 9.2,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1223,13 +1223,13 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 155
+        "score": 167
       },
       {
         "subject": "sheet",
         "queries": 14,
         "seed_spread": 3,
-        "avg_branches": 9.3,
+        "avg_branches": 9.4,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
@@ -1237,7 +1237,7 @@
           "excel template for job application tracking",
           "google sheets template for budget"
         ],
-        "score": 147
+        "score": 148
       },
       {
         "subject": "app",
@@ -1254,18 +1254,32 @@
         "score": 138
       },
       {
+        "subject": "students",
+        "queries": 9,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for medical students",
+          "notion template for college"
+        ],
+        "score": 129
+      },
+      {
         "subject": "notion",
         "queries": 12,
         "seed_spread": 3,
-        "avg_branches": 9.2,
+        "avg_branches": 9.3,
         "examples": [
           "notion template for college students",
-          "notion template for writing a book",
           "notion template for school",
-          "notion template for life organization",
-          "notion template for students"
+          "notion template for writing a book",
+          "notion template for students",
+          "notion template for medical students"
         ],
-        "score": 125
+        "score": 126
       },
       {
         "subject": "simple",
@@ -1285,12 +1299,12 @@
         "subject": "tracker",
         "queries": 11,
         "seed_spread": 3,
-        "avg_branches": 9.8,
+        "avg_branches": 10,
         "examples": [
           "excel template for expense tracking",
           "excel template for job application tracking",
           "google sheets template for business expenses",
-          "google sheets template for tracking job applications",
+          "google sheets template for tracking expenses",
           "tracker template for google sheets"
         ],
         "score": 118
@@ -1299,7 +1313,7 @@
         "subject": "calendar",
         "queries": 11,
         "seed_spread": 3,
-        "avg_branches": 9.5,
+        "avg_branches": 9.6,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1307,35 +1321,35 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 116
+        "score": 117
       },
       {
-        "subject": "students",
+        "subject": "income",
         "queries": 8,
         "seed_spread": 4,
         "avg_branches": 10,
         "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for medical students",
-          "google sheets template for college application"
+          "excel template for expense tracking",
+          "excel template for monthly expenses",
+          "google sheets template for business expenses",
+          "google sheets template for tracking expenses",
+          "spreadsheet to track expenses"
         ],
         "score": 115
       },
       {
-        "subject": "management",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 9.3,
+        "subject": "application",
+        "queries": 6,
+        "seed_spread": 5,
+        "avg_branches": 10,
         "examples": [
-          "notion template for project management",
-          "excel template for budget",
-          "excel template for project management",
-          "excel template for expense tracking",
-          "excel template for inventory"
+          "notion template for college",
+          "excel template for job application tracking",
+          "google sheets template for job applications",
+          "google sheets template for college application",
+          "spreadsheet to track job applications"
         ],
-        "score": 112
+        "score": 108
       },
       {
         "subject": "college",
@@ -1346,108 +1360,150 @@
           "notion template for college students",
           "notion template for school",
           "notion template for students",
-          "google sheets template for college application",
-          "checklist for college dorm"
+          "notion template for college",
+          "google sheets template for college application"
         ],
         "score": 100
       },
       {
-        "subject": "income",
-        "queries": 7,
-        "seed_spread": 4,
+        "subject": "example",
+        "queries": 5,
+        "seed_spread": 5,
+        "avg_branches": 9.2,
+        "examples": [
+          "notion template for content creators",
+          "google sheets template for wedding guest list",
+          "tracking template for google ads",
+          "template management system",
+          "budget planner for small business"
+        ],
+        "score": 87
+      },
+      {
+        "subject": "expense",
+        "queries": 8,
+        "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
           "excel template for expense tracking",
           "excel template for monthly expenses",
           "google sheets template for business expenses",
-          "spreadsheet to track expenses",
-          "spreadsheet to track spending"
+          "google sheets template for tracking expenses",
+          "tracker template for google sheets"
         ],
-        "score": 100
+        "score": 86
       },
       {
         "subject": "planning",
-        "queries": 7,
+        "queries": 6,
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
           "excel template for budget",
           "google sheets template for budget",
           "google sheets template for planning a trip",
-          "google sheets template for travel itinerary",
-          "checklist for wedding planning"
+          "checklist for wedding planning",
+          "planner for small business owner"
         ],
-        "score": 99
+        "score": 85
       },
       {
-        "subject": "application",
+        "subject": "list",
         "queries": 6,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 8.5,
         "examples": [
-          "excel template for job application tracking",
-          "google sheets template for job applications",
+          "excel template for inventory",
+          "google sheets template for wedding guest list",
           "google sheets template for college application",
-          "google sheets template for tracking job applications",
-          "spreadsheet to track job applications"
+          "printable planner for the week",
+          "checklist for fire evacuation"
         ],
-        "score": 85
+        "score": 81
       },
       {
-        "subject": "docs",
-        "queries": 8,
-        "seed_spread": 3,
-        "avg_branches": 9.5,
-        "examples": [
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "google sheets template for travel itinerary",
-          "google sheets template for job applications",
-          "google sheets template for inventory"
-        ],
-        "score": 85
-      },
-      {
-        "subject": "create",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 8.7,
-        "examples": [
-          "notion template for writing a book",
-          "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for tracking job applications",
-          "tracking template for google ads"
-        ],
-        "score": 82
-      },
-      {
-        "subject": "expense",
+        "subject": "kids",
         "queries": 7,
         "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "excel template for expense tracking",
-          "excel template for monthly expenses",
-          "google sheets template for business expenses",
-          "tracker template for google sheets",
-          "tracker template for notion"
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 75
       },
       {
-        "subject": "project",
-        "queries": 5,
-        "seed_spread": 4,
+        "subject": "management",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.4,
+        "examples": [
+          "excel template for budget",
+          "excel template for project management",
+          "excel template for expense tracking",
+          "excel template for inventory",
+          "google sheets template for inventory"
+        ],
+        "score": 74
+      },
+      {
+        "subject": "docs",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.4,
+        "examples": [
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "google sheets template for job applications",
+          "google sheets template for inventory",
+          "google sheets template for wedding guest list"
+        ],
+        "score": 74
+      },
+      {
+        "subject": "plan",
+        "queries": 7,
+        "seed_spread": 3,
         "avg_branches": 9.6,
         "examples": [
-          "notion template for project management",
-          "excel template for project management",
-          "tracker template for google sheets",
-          "tracker template for excel",
-          "budget template for grant proposal"
+          "checklist for fire evacuation",
+          "budget template for college student",
+          "budget template for teens",
+          "budget template for biweekly pay",
+          "planner for small business owner"
         ],
-        "score": 71
+        "score": 74
+      },
+      {
+        "subject": "create",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 8.8,
+        "examples": [
+          "notion template for writing a book",
+          "google sheets template for planning a trip",
+          "google sheets template for job applications",
+          "tracking template for google ads",
+          "best spreadsheet for budgeting free"
+        ],
+        "score": 69
+      },
+      {
+        "subject": "weekly",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 8.4,
+        "examples": [
+          "printable planner for the week",
+          "planner printable for free",
+          "habit tracker template for notion",
+          "budget template for biweekly pay",
+          "report template to management"
+        ],
+        "score": 68
       },
       {
         "subject": "daily",
@@ -1478,60 +1534,6 @@
         "score": 64
       },
       {
-        "subject": "example",
-        "queries": 4,
-        "seed_spread": 4,
-        "avg_branches": 9.5,
-        "examples": [
-          "notion template for content creators",
-          "tracking template for google ads",
-          "template management system",
-          "budget planner for small business"
-        ],
-        "score": 56
-      },
-      {
-        "subject": "weekly",
-        "queries": 4,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "planner printable for free",
-          "habit tracker template for notion",
-          "budget template for biweekly pay",
-          "report template to management"
-        ],
-        "score": 55
-      },
-      {
-        "subject": "kids",
-        "queries": 5,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for traveling",
-          "checklist for international travel",
-          "budget template for teens"
-        ],
-        "score": 54
-      },
-      {
-        "subject": "software",
-        "queries": 5,
-        "seed_spread": 3,
-        "avg_branches": 8.6,
-        "examples": [
-          "notion template for project management",
-          "best spreadsheet for ipad",
-          "best spreadsheet for mac",
-          "best spreadsheet for linux",
-          "scheduler for small business"
-        ],
-        "score": 51
-      },
-      {
         "subject": "university",
         "queries": 4,
         "seed_spread": 3,
@@ -1545,29 +1547,28 @@
         "score": 43
       },
       {
-        "subject": "list",
+        "subject": "project",
         "queries": 4,
         "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "checklist for college dorm",
-          "checklist for college apartment"
+          "excel template for project management",
+          "tracker template for google sheets",
+          "tracker template for excel",
+          "budget template for grant proposal"
         ],
         "score": 43
       },
       {
-        "subject": "plan",
-        "queries": 6,
-        "seed_spread": 2,
+        "subject": "spending",
+        "queries": 4,
+        "seed_spread": 3,
         "avg_branches": 10,
         "examples": [
-          "budget template for college student",
-          "budget template for teens",
-          "budget template for biweekly pay",
-          "planner for small business owner",
-          "best planner for small business owner"
+          "google sheets template for tracking expenses",
+          "spreadsheet to track expenses",
+          "spreadsheet to track spending",
+          "expense tracker template for google sheets"
         ],
         "score": 43
       }
@@ -1643,6 +1644,23 @@
       },
       {
         "seed": "notion template for",
+        "query": "notion template for college",
+        "branches": 10,
+        "children": [
+          "notion template for college students",
+          "notion template for college application",
+          "notion template for college students free",
+          "notion template for college",
+          "notion template for college classes",
+          "notion template for college reddit",
+          "notion template for college notes",
+          "notion templates for college students aesthetic free",
+          "notion templates for college students aesthetic",
+          "notion templates for college students reddit"
+        ]
+      },
+      {
+        "seed": "notion template for",
         "query": "notion template for content creators",
         "branches": 10,
         "children": [
@@ -1683,8 +1701,8 @@
           "excel template for project management free",
           "excel template for project management free download",
           "excel template for project management tracking",
-          "excel template for project management",
           "excel template for project management gantt chart",
+          "excel template for project management",
           "excel template for project management timeline",
           "excel template for project management gantt",
           "excel template for project management download",
@@ -1751,11 +1769,11 @@
           "excel template for inventory management",
           "excel template for inventory tracking",
           "excel template for inventory and sales",
-          "excel template for inventory in and out",
           "excel template for inventory list",
-          "excel template for inventory free download",
           "excel template for inventory with pictures",
           "excel template for inventory",
+          "excel template for inventory in and out",
+          "excel template for inventory free download",
           "excel template for inventory management free",
           "excel template for inventory and sales management"
         ]
@@ -1813,19 +1831,19 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for travel itinerary",
+        "query": "google sheets template for tracking expenses",
         "branches": 10,
         "children": [
-          "google sheets template for travel itinerary",
-          "google docs template for travel itinerary",
-          "google sheets template for travel planning",
-          "google sheets template for trip itinerary",
-          "free google sheets template for travel itinerary",
-          "google sheets template for trip planning",
-          "google docs template for travel planning",
-          "google docs template for trip itinerary",
-          "google docs template for trip planning",
-          "google sheets travel itinerary template reddit"
+          "google sheets template for tracking expenses free",
+          "google sheets template for tracking expenses",
+          "google sheets template for tracking spending",
+          "google sheets template for tracking business expenses",
+          "google sheets template for tracking monthly expenses",
+          "best google sheet template for tracking expenses",
+          "google sheets template for tracking income and expenses",
+          "google sheet template expense tracker free",
+          "google spreadsheet template for tracking expenses",
+          "google spreadsheet for tracking expenses"
         ]
       },
       {
@@ -1847,6 +1865,23 @@
       },
       {
         "seed": "google sheets template for",
+        "query": "google sheets template for inventory",
+        "branches": 10,
+        "children": [
+          "google sheets template for inventory management",
+          "google sheets template for inventory tracking",
+          "google sheets template for inventory",
+          "google sheets template for inventory free",
+          "google sheets template for stock tracking",
+          "google sheets template for stock trading",
+          "google docs template for inventory",
+          "google sheet template for stock portfolio",
+          "google sheet template for stock management",
+          "google sheet template for stock"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
         "query": "google sheets template for college application",
         "branches": 10,
         "children": [
@@ -1860,23 +1895,6 @@
           "google sheets college application template free",
           "google sheets template for university",
           "spreadsheet template for college application process"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
-        "query": "google sheets template for inventory",
-        "branches": 10,
-        "children": [
-          "google sheets template for inventory tracking",
-          "google sheets template for inventory management",
-          "google sheets template for inventory",
-          "google sheets template for inventory free",
-          "google sheets template for stock tracking",
-          "google sheets template for stock trading",
-          "google docs template for inventory",
-          "google sheet template for stock portfolio",
-          "google sheet template for stock management",
-          "google sheet template for stock"
         ]
       },
       {
@@ -1979,23 +1997,6 @@
           "printable calendar for june 2026 free",
           "printable calendar for august 2026 pdf",
           "printable calendar for august 2026 free"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for kids",
-        "branches": 10,
-        "children": [
-          "printable planner for kids",
-          "printable calendar for kids",
-          "printable calendar for kids 2026",
-          "printable calendar for kids 2025",
-          "printable planner for students",
-          "printable calendar for kids to color",
-          "printable calendar for kids free",
-          "printable calendar for kids pdf",
-          "printable calendar for kids schedule",
-          "printable calendar for kids april 2026"
         ]
       }
     ]
