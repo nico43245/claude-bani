@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:54:41.986Z",
+  "generated_at": "2026-09-02T10:54:44.656Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 32,
+        "mentions": 31,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 116
+        "score": 114
       },
       {
         "theme": "web",
@@ -318,7 +318,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 60,
+        "mentions": 59,
         "engagement": 18,
         "evidence": [
           {
@@ -342,7 +342,7 @@
             "date": "2026-08-05"
           }
         ],
-        "score": 72
+        "score": 71
       },
       {
         "theme": "different",
@@ -430,7 +430,7 @@
       },
       {
         "theme": "them",
-        "mentions": 69,
+        "mentions": 68,
         "engagement": 0,
         "evidence": [
           {
@@ -454,7 +454,7 @@
             "date": "2026-08-01"
           }
         ],
-        "score": 69
+        "score": 68
       },
       {
         "theme": "language",
@@ -569,6 +569,34 @@
         "score": 59
       },
       {
+        "theme": "agent",
+        "mentions": 13,
+        "engagement": 258,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "They're not cheap at all. I did one xhigh Qwen 3.8 27B agentic coding task last week via OpenRouter and it cost me like $10. 99% of the cost was in input tokens",
+            "url": "https://news.ycombinator.com/item?id=49531259",
+            "date": "2026-09-02"
+          },
+          {
+            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
+            "url": "https://news.ycombinator.com/item?id=48873462",
+            "date": "2026-07-11"
+          },
+          {
+            "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
+            "url": "https://news.ycombinator.com/item?id=49001865",
+            "date": "2026-07-22"
+          }
+        ],
+        "score": 58
+      },
+      {
         "theme": "stop",
         "mentions": 14,
         "engagement": 215,
@@ -597,36 +625,8 @@
         "score": 58
       },
       {
-        "theme": "agent",
-        "mentions": 12,
-        "engagement": 258,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
-            "url": "https://news.ycombinator.com/item?id=48873462",
-            "date": "2026-07-11"
-          },
-          {
-            "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
-            "url": "https://news.ycombinator.com/item?id=49001865",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "Can it finally work with a large codebase? I have GooglePlay / AppStore app coded in Xcode, in C#, ported in Java with Python server. The codebase is large and ",
-            "url": "https://news.ycombinator.com/item?id=44060271",
-            "date": "2025-05-22"
-          }
-        ],
-        "score": 55
-      },
-      {
         "theme": "world",
-        "mentions": 26,
+        "mentions": 25,
         "engagement": 58,
         "evidence": [
           {
@@ -650,7 +650,7 @@
             "date": "2026-06-14"
           }
         ],
-        "score": 54
+        "score": 53
       },
       {
         "theme": "company",
@@ -956,6 +956,14 @@
       },
       {
         "kind": "story",
+        "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+        "url": "https://news.ycombinator.com/item?id=49528057",
+        "engagement": 134,
+        "date": "2026-09-01",
+        "query": "\"there should be\""
+      },
+      {
+        "kind": "story",
         "text": "Launch HN: Parsagon (YC W21) – AI for public affairs and government relations",
         "url": "https://news.ycombinator.com/item?id=42319315",
         "engagement": 126,
@@ -1001,14 +1009,6 @@
         "engagement": 74,
         "date": "2025-09-15",
         "query": "\"hate having to\""
-      },
-      {
-        "kind": "story",
-        "text": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
-        "url": "https://news.ycombinator.com/item?id=47973093",
-        "engagement": 70,
-        "date": "2026-05-01",
-        "query": "\"there should be\""
       }
     ]
   },
@@ -1184,20 +1184,6 @@
         "score": 201
       },
       {
-        "subject": "printable",
-        "queries": 13,
-        "seed_spread": 4,
-        "avg_branches": 9.2,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for adhd",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for 2025"
-        ],
-        "score": 181
-      },
-      {
         "subject": "expenses",
         "queries": 10,
         "seed_spread": 5,
@@ -1224,6 +1210,20 @@
           "printable planner for adhd"
         ],
         "score": 177
+      },
+      {
+        "subject": "printable",
+        "queries": 12,
+        "seed_spread": 4,
+        "avg_branches": 9.1,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for adhd",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for 2025"
+        ],
+        "score": 167
       },
       {
         "subject": "sheet",
@@ -1263,7 +1263,7 @@
           "notion template for writing a book",
           "notion template for school",
           "notion template for life organization",
-          "notion template for students"
+          "notion template for medical students"
         ],
         "score": 125
       },
@@ -1317,8 +1317,8 @@
         "examples": [
           "notion template for college students",
           "notion template for school",
-          "notion template for students",
           "notion template for medical students",
+          "notion template for students",
           "google sheets template for college application"
         ],
         "score": 115
@@ -1364,20 +1364,6 @@
           "checklist for wedding planning"
         ],
         "score": 99
-      },
-      {
-        "subject": "college",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "google sheets template for college application",
-          "checklist for college dorm"
-        ],
-        "score": 86
       },
       {
         "subject": "application",
@@ -1436,6 +1422,20 @@
         "score": 75
       },
       {
+        "subject": "kids",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for adhd",
+          "printable planner for kids",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
+        ],
+        "score": 75
+      },
+      {
         "subject": "project",
         "queries": 5,
         "seed_spread": 4,
@@ -1460,20 +1460,6 @@
           "how do i keep track of my calorie intake",
           "best planner for small business",
           "best planner for small business owner 2025"
-        ],
-        "score": 65
-      },
-      {
-        "subject": "kids",
-        "queries": 6,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for adhd",
-          "printable planner for kids",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
         ],
         "score": 65
       },
@@ -1518,6 +1504,20 @@
         "score": 55
       },
       {
+        "subject": "college",
+        "queries": 5,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "google sheets template for college application",
+          "budget template for college student"
+        ],
+        "score": 54
+      },
+      {
         "subject": "software",
         "queries": 5,
         "seed_spread": 3,
@@ -1545,19 +1545,6 @@
         "score": 43
       },
       {
-        "subject": "list",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "checklist for college dorm",
-          "checklist for moving out of state"
-        ],
-        "score": 43
-      },
-      {
         "subject": "plan",
         "queries": 6,
         "seed_spread": 2,
@@ -1570,6 +1557,19 @@
           "best planner for small business owner"
         ],
         "score": 43
+      },
+      {
+        "subject": "job",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 9.5,
+        "examples": [
+          "excel template for job application tracking",
+          "google sheets template for job applications",
+          "google sheets template for tracking job applications",
+          "spreadsheet to track job applications"
+        ],
+        "score": 42
       }
     ],
     "richest_veins": [
@@ -1609,23 +1609,6 @@
       },
       {
         "seed": "notion template for",
-        "query": "notion template for students",
-        "branches": 10,
-        "children": [
-          "notion template for students free",
-          "notion template for students",
-          "notion templates for students aesthetic",
-          "notion templates for students university",
-          "notion templates for student planner",
-          "notion template for college students",
-          "best notion template for students",
-          "notion template for medical students",
-          "notion templates for uni students",
-          "notion templates for phd students"
-        ]
-      },
-      {
-        "seed": "notion template for",
         "query": "notion template for medical students",
         "branches": 10,
         "children": [
@@ -1656,6 +1639,23 @@
           "best notion template for content creation",
           "notion template for youtube content creation",
           "content creator example"
+        ]
+      },
+      {
+        "seed": "notion template for",
+        "query": "notion template for students",
+        "branches": 10,
+        "children": [
+          "notion template for students free",
+          "notion template for students",
+          "notion templates for students aesthetic",
+          "notion templates for students university",
+          "notion templates for student planner",
+          "notion template for college students",
+          "best notion template for students",
+          "notion template for medical students",
+          "notion templates for uni students",
+          "notion templates for phd students"
         ]
       },
       {
