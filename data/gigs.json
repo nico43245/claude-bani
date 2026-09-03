@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T17:39:37.383Z",
-  "scanned": 195,
-  "accepted": 41,
-  "refused_on_ethics": 7,
+  "generated_at": "2026-09-03T23:52:41.768Z",
+  "scanned": 192,
+  "accepted": 38,
+  "refused_on_ethics": 8,
   "jobs": [
     {
       "title": "Simple Microsoft Excel",
@@ -93,28 +93,14 @@
       "url": "https://www.freelancer.com/projects/pdf/extract-pdf-form-fields-excel",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a set of PDFs that contain typed-in form fields as well as a few alphabetical lists embedded in the documents. I need every form-field entry and each item from those alphabetical sections captured accurately and transferred into an Excel workbook. For each PDF: Pull the raw text exactly as it",
-      "bids": 21,
+      "bids": 22,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 111
-    },
-    {
-      "title": "Accurate Data Processing Support",
-      "url": "https://www.freelancer.com/projects/data-analysis/accurate-data-processing-support",
-      "budget_raw": "$186 Average bid",
-      "desc": "I need an extra pair of hands for ongoing data processing work. Your main focus will be taking raw data I supply spreadsheets, CSVs, or occasional PDFs and turning it into clean, well-structured tables ready for analysis or upload to our internal tools. Accuracy and consistency matter more to me tha",
-      "bids": 22,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 186,
-      "hourly": false,
-      "flags": [],
-      "score": 98
+      "score": 105
     },
     {
       "title": "Automate 1,000 Daily YouTube Ads",
@@ -133,16 +119,16 @@
     {
       "title": "Pan-India Recruiter Database Build",
       "url": "https://www.freelancer.com/projects/data-collection/pan-india-recruiter-database-build",
-      "budget_raw": "$209 Average bid",
+      "budget_raw": "$208 Average bid",
       "desc": "I need a comprehensive, pan-India list of recruitment agencies that specialise in computer-based hiring. For every agency you capture I need three specific data points: accurate contact details (at minimum phone, email, website, city), a short note on the services they offer, and at least one verifi",
-      "bids": 12,
+      "bids": 13,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 209,
+      "usd": 208,
       "hourly": false,
       "flags": [],
-      "score": 76
+      "score": 73
     },
     {
       "title": "Live Python Agent Cloud Deployment",
@@ -161,44 +147,30 @@
     {
       "title": "Enhance SymPy Integer Division",
       "url": "https://www.freelancer.com/projects/software-development/enhance-sympy-integer-division",
-      "budget_raw": "$213 Average bid",
+      "budget_raw": "$209 Average bid",
       "desc": "I m working on a personal project that leans heavily on SymPy, and I ve hit a limitation with the way the library handles division when both operands are integers. What I need is a clean modification to SymPy s source so I can keep every operation strictly in the integer domain avoiding automatic pr",
-      "bids": 37,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
-      "usd": 213,
+      "usd": 209,
       "hourly": false,
       "flags": [],
-      "score": 66
+      "score": 65
     },
     {
       "title": "Word Text to Excel Transfer",
       "url": "https://www.freelancer.com/projects/data-entry/word-text-excel-transfer",
-      "budget_raw": "$202 Average bid",
+      "budget_raw": "$207 Average bid",
       "desc": "I have a collection of Word documents that contain only text, and I need every piece of that content moved into an Excel workbook while keeping the original formatting exactly intact. Paragraph breaks, bullet points, bold or italic emphasis whatever is on the page now must look the same once it land",
-      "bids": 20,
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 202,
+      "usd": 207,
       "hourly": false,
       "flags": [],
-      "score": 53
-    },
-    {
-      "title": "Excel Data Proficiency: Cleanup & Entry",
-      "url": "https://www.freelancer.com/projects/data-cleansing/excel-data-proficiency-cleanup-entry",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have several exported tables from our customer databases that need to be organised in Excel before we can feed them into our CRM. The files contain purely text fields names, addresses, emails, notes and they suffer from the usual mess that builds up over time. The work is straightforward but must ",
-      "bids": 18,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 46
+      "score": 51
     },
     {
       "title": "YouTube Ad-View Automation",
@@ -215,11 +187,25 @@
       "score": 44
     },
     {
+      "title": "Excel Data Proficiency: Cleanup & Entry",
+      "url": "https://www.freelancer.com/projects/data-cleansing/excel-data-proficiency-cleanup-entry",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have several exported tables from our customer databases that need to be organised in Excel before we can feed them into our CRM. The files contain purely text fields names, addresses, emails, notes and they suffer from the usual mess that builds up over time. The work is straightforward but must ",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 44
+    },
+    {
       "title": "Indian B2B Lead Generation & Mining",
       "url": "https://www.freelancer.com/projects/data-analysis/indian-lead-generation-mining",
       "budget_raw": "$20 / hr Average bid",
       "desc": "I m assembling a fresh, accurate database of Indian companies operating in technology, manufacturing and finance. For every firm captured I need three things: reliable contact details, the latest revenue range, and a clear employee-count bracket. Within each company, the record must include decision",
-      "bids": 19,
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
@@ -228,77 +214,49 @@
       "flags": [
         "date personale — verifică GDPR și sursa"
       ],
-      "score": 44
+      "score": 42
     },
     {
       "title": "Chrome Extension Date Capture",
       "url": "https://www.freelancer.com/projects/web-development/chrome-extension-date-capture",
-      "budget_raw": "$76 Average bid",
+      "budget_raw": "$77 Average bid",
       "desc": "I have a working Chrome extension and now need it to automatically detect every date that appears anywhere on the page headings, paragraphs, tables, even dynamically-loaded sections and pass those values back to my script for later processing. I m already injecting content scripts, so the main task ",
-      "bids": 29,
+      "bids": 31,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
-      "usd": 76,
+      "usd": 77,
       "hourly": false,
       "flags": [],
-      "score": 43
-    },
-    {
-      "title": "FinTech Dev Needed for Real-Time Payments App",
-      "url": "https://www.freelancer.com/projects/fintech/fintech-dev-needed-for-real",
-      "budget_raw": "$1359 Average bid",
-      "desc": "Job Title: FinTech Software Developer Real-Time Payments App MVP (NPP / PayTo API) Project Description: We are a fast-moving FinTech startup building a disruptive real-time mobile payment application for the Australian retail market. We need an experienced FinTech Lead Developer / Architect to build",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 1359,
-      "hourly": false,
-      "flags": [],
-      "score": 40
+      "score": 36
     },
     {
       "title": "AI Fake News Detection System - 03/09/2026 05:18 EDT",
       "url": "https://www.freelancer.com/projects/data-analysis/fake-news-detection-system-edt",
       "budget_raw": "$10 / hr Average bid",
       "desc": "I m creating a production-ready AI/ML solution that automatically reviews articles pulled from news websites and flags any item that is likely to be fake. All content will be in English, and the system must consistently reach at least 90 % accuracy on an independent validation set; precision and rec",
-      "bids": 25,
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 10,
       "hourly": true,
       "flags": [],
-      "score": 35
-    },
-    {
-      "title": "Malaysian Entry-Level Virtual Assistant",
-      "url": "https://www.freelancer.com/projects/google-sheets/malaysian-entry-level-virtual-assistant",
-      "budget_raw": "$123 Average bid",
-      "desc": "You will keep my small business organised day-to-day by updating a simple set of books in Excel or Google Sheets and keeping my calendar running smoothly. The workload is genuinely light: record a handful of transactions, note incoming receipts, then arrange or rearrange meetings, send appointment r",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 123,
-      "hourly": false,
-      "flags": [],
-      "score": 32
+      "score": 30
     },
     {
       "title": "AI-PDF Fetching Automation Tool",
       "url": "https://www.freelancer.com/projects/ai-automation/pdf-fetching-automation-tool",
       "budget_raw": "$20 Average bid",
       "desc": "want to create an ai automation tool which pdf is automatically fetched according to an excel sheet",
-      "bids": 16,
+      "bids": 17,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
       "usd": 20,
       "hourly": false,
       "flags": [],
-      "score": 30
+      "score": 29
     },
     {
       "title": "Copy Text Data to Excel",
@@ -329,36 +287,6 @@
       "score": 27
     },
     {
-      "title": "B2B Tech Lead Generation",
-      "url": "https://www.freelancer.com/projects/lead-generation/tech-lead-generation-40688909",
-      "budget_raw": "$83 Average bid",
-      "desc": "I need a fresh, accurate list of decision-makers working in technology-driven companies. The goal is to grow my outbound pipeline with contacts that are both relevant and ready for a sales conversation. You may source leads from any reputable database, directories, or public-facing information, as l",
-      "bids": 18,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 83,
-      "hourly": false,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 24
-    },
-    {
-      "title": "Excel Numerical Data Formatting Cleanup",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-numerical-data-formatting-cleanup",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I have a spreadsheet of purely numerical records that needs to be put into a clean, analysis-ready state. The core task is to correct every formatting issue numbers stored as text, misplaced thousand separators, mixed decimal symbols, stray spaces, hidden characters so each cell ends up as a true nu",
-      "bids": 27,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 24
-    },
-    {
       "title": "Spreadsheet Product Data Extraction",
       "url": "https://www.freelancer.com/projects/data-cleansing/spreadsheet-product-data-extraction",
       "budget_raw": "$2 / hr Average bid",
@@ -369,6 +297,20 @@
       "fit": 6,
       "usd": 2,
       "hourly": true,
+      "flags": [],
+      "score": 23
+    },
+    {
+      "title": "Placer AI Data Harvesting and Analysis",
+      "url": "https://www.freelancer.com/projects/data-analysis/placer-data-harvesting-analysis",
+      "budget_raw": "$119 Average bid",
+      "desc": "I need someone who already has their own access to placer ai because i do not have this software. They will pull data on 100 locations- average foot traffic, dwell time, and busiest times on average for all 7 days of the week and provide in a spreadsheet.",
+      "bids": 25,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 119,
+      "hourly": false,
       "flags": [],
       "score": 23
     },
@@ -405,42 +347,56 @@
       "url": "https://www.freelancer.com/projects/excel-macros/excel-expertise-required",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I need specialised support on a workbook that serves as the backbone of an ongoing project. The file already contains raw figures and basic layouts, but accuracy, efficiency, and clarity still feel out of reach. Your task will centre on refining the sheet so it performs reliably whether that means c",
-      "bids": 18,
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 21
+      "score": 20
+    },
+    {
+      "title": "FinTech Dev Needed for Real-Time Payments App",
+      "url": "https://www.freelancer.com/projects/fintech/fintech-dev-needed-for-real",
+      "budget_raw": "$1332 Average bid",
+      "desc": "Job Title: FinTech Software Developer Real-Time Payments App MVP (NPP / PayTo API) Project Description: We are a fast-moving FinTech startup building a disruptive real-time mobile payment application for the Australian retail market. We need an experienced FinTech Lead Developer / Architect to build",
+      "bids": 38,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 1332,
+      "hourly": false,
+      "flags": [],
+      "score": 16
     },
     {
       "title": "Optimize Slow Excel Workbook",
       "url": "https://www.freelancer.com/projects/excel-vba/optimize-slow-excel-workbook",
-      "budget_raw": "$22 Average bid",
+      "budget_raw": "$20 Average bid",
       "desc": "Mere paas ek heavy Excel workbook hai jisme Mixed data (numeric aur text dono) bhara hua hai. File ke andar multiple sheets Haan, aur Dono macros aur formulas hain jo ab performance ko kaafi slow kar rahe hai. Mujhe chahiye: Workbook ko clean karo redundant rows, blank cells, stray formats, hidden o",
-      "bids": 8,
+      "bids": 9,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 22,
+      "usd": 20,
       "hourly": false,
       "flags": [],
-      "score": 16
+      "score": 14
     },
     {
       "title": "Truck Auction Research & Negotiation",
       "url": "https://www.freelancer.com/projects/data-analysis/truck-auction-research-negotiation",
       "budget_raw": "$17 / hr Average bid",
       "desc": "I buy trucks exclusively through online auction platforms and need a dependable virtual assistant to streamline the process. Your main focus will be twofold: first, digging into each listing to uncover the truck s background, and second, engaging with the seller to secure the best possible deal and ",
-      "bids": 9,
+      "bids": 10,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
       "usd": 17,
       "hourly": true,
       "flags": [],
-      "score": 14
+      "score": 13
     },
     {
       "title": "Excel Sales Report Generation",
@@ -487,13 +443,13 @@
     {
       "title": "NZPack NinjaTrader Backtest Setup",
       "url": "https://www.freelancer.com/projects/ninjatrader/nzpack-ninjatrader-backtest-setup-40687960",
-      "budget_raw": "$85 Average bid",
+      "budget_raw": "$97 Average bid",
       "desc": "I need my NZPack-powered NinjaTrader environment configured from scratch so I can reliably backtest and refine a metals strategy (gold and silver). Your task begins with a clean install: connect to my machine through the temporary remote credentials I will supply, load NZPack, adjust any dependencie",
-      "bids": 8,
+      "bids": 10,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 85,
+      "usd": 97,
       "hourly": false,
       "flags": [],
       "score": 9
@@ -509,6 +465,20 @@
       "fit": 2,
       "usd": 68,
       "hourly": false,
+      "flags": [],
+      "score": 5
+    },
+    {
+      "title": "Paper Forms to Categorized Excel",
+      "url": "https://www.freelancer.com/projects/data-management/paper-forms-categorized-excel",
+      "budget_raw": "$2 / hr Average bid",
+      "desc": "I have a stack of paper forms that need to be converted into an organised Excel workbook. Every form contains three key pieces of information names and addresses, product details, and sales figures and I want each of those categories placed on its own sheet for easy navigation. The work is straightf",
+      "bids": 8,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 2,
+      "hourly": true,
       "flags": [],
       "score": 5
     },
@@ -595,8 +565,12 @@
       "reason": "extragere din rețele sociale — încalcă termenii platformei"
     },
     {
-      "title": "Advanced Multi-Sniper Spot Trading Bot (Python, Binance API, WebSockets & NLP)",
+      "title": "Multi-Sniper Spot Trading Bot بوت تداول آلي احترافي على Binance",
       "reason": "automatizare financiară sau de pariuri"
+    },
+    {
+      "title": "Pipedrive Fields Reorganization & Cleanup",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     }
   ]
 }
