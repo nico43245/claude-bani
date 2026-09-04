@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:53:29.207Z",
+  "generated_at": "2026-09-04T10:53:34.050Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 31,
+        "mentions": 30,
         "engagement": 332,
         "evidence": [
           {
@@ -34,11 +34,11 @@
             "date": "2026-05-27"
           }
         ],
-        "score": 114
+        "score": 111
       },
       {
         "theme": "web",
-        "mentions": 24,
+        "mentions": 23,
         "engagement": 537,
         "evidence": [
           {
@@ -62,7 +62,7 @@
             "date": "2026-06-17"
           }
         ],
-        "score": 111
+        "score": 107
       },
       {
         "theme": "wish",
@@ -149,34 +149,6 @@
         "score": 89
       },
       {
-        "theme": "life",
-        "mentions": 20,
-        "engagement": 356,
-        "evidence": [
-          {
-            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
-            "url": "https://news.ycombinator.com/item?id=48347725",
-            "date": "2026-05-31"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "^ this. the last thing i want is to add to my workload. take my money and make my life easier, even if it means that for one hour every couple months i can't do",
-            "url": "https://news.ycombinator.com/item?id=46636409",
-            "date": "2026-01-15"
-          },
-          {
-            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
-            "url": "https://news.ycombinator.com/item?id=49384698",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 86
-      },
-      {
         "theme": "hate",
         "mentions": 76,
         "engagement": 13,
@@ -205,8 +177,36 @@
         "score": 85
       },
       {
+        "theme": "life",
+        "mentions": 19,
+        "engagement": 356,
+        "evidence": [
+          {
+            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
+            "url": "https://news.ycombinator.com/item?id=48347725",
+            "date": "2026-05-31"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "^ this. the last thing i want is to add to my workload. take my money and make my life easier, even if it means that for one hour every couple months i can't do",
+            "url": "https://news.ycombinator.com/item?id=46636409",
+            "date": "2026-01-15"
+          },
+          {
+            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
+            "url": "https://news.ycombinator.com/item?id=49384698",
+            "date": "2026-08-21"
+          }
+        ],
+        "score": 83
+      },
+      {
         "theme": "built",
-        "mentions": 26,
+        "mentions": 25,
         "engagement": 164,
         "evidence": [
           {
@@ -230,7 +230,7 @@
             "date": "2025-08-02"
           }
         ],
-        "score": 79
+        "score": 77
       },
       {
         "theme": "code",
@@ -262,7 +262,7 @@
       },
       {
         "theme": "search",
-        "mentions": 25,
+        "mentions": 24,
         "engagement": 155,
         "evidence": [
           {
@@ -286,11 +286,11 @@
             "date": "2026-08-06"
           }
         ],
-        "score": 76
+        "score": 74
       },
       {
         "theme": "different",
-        "mentions": 38,
+        "mentions": 37,
         "engagement": 70,
         "evidence": [
           {
@@ -314,7 +314,7 @@
             "date": "2026-09-02"
           }
         ],
-        "score": 74
+        "score": 73
       },
       {
         "theme": "apps",
@@ -402,7 +402,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 57,
+        "mentions": 56,
         "engagement": 18,
         "evidence": [
           {
@@ -426,7 +426,7 @@
             "date": "2026-08-05"
           }
         ],
-        "score": 69
+        "score": 68
       },
       {
         "theme": "language",
@@ -485,32 +485,32 @@
         "score": 66
       },
       {
-        "theme": "public",
-        "mentions": 20,
-        "engagement": 126,
+        "theme": "trust",
+        "mentions": 10,
+        "engagement": 770,
         "evidence": [
           {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
+            "text": "The first thing I would do with any sort of weird issue remotely associated with my brain is to get an MRI. I would pay for it out of pocket if my doctor denied",
+            "url": "https://news.ycombinator.com/item?id=48388346",
+            "date": "2026-06-03"
           },
           {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
+            "text": "My issue is it claims to be end-to-end encrypted, which is really weird. Sure, TLS between you and your bank's server is end-to-end encrypted. But that puts you",
+            "url": "https://news.ycombinator.com/item?id=46646451",
+            "date": "2026-01-16"
           },
           {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
+            "text": "I wish there was a way to do it without all the problems of having cameras on people's faces. The tech of AR glasses would be pretty neat to get working given I",
+            "url": "https://news.ycombinator.com/item?id=49247977",
+            "date": "2026-08-10"
           },
           {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
+            "text": "I always get the highest end components I can find, and I try to stick with Asus and not the cheapest PSU. I've never had anything fail, and I do this every 5 y",
+            "url": "https://news.ycombinator.com/item?id=49222347",
+            "date": "2026-08-08"
           }
         ],
-        "score": 61
+        "score": 63
       },
       {
         "theme": "system",
@@ -625,32 +625,32 @@
         "score": 58
       },
       {
-        "theme": "trust",
-        "mentions": 9,
-        "engagement": 770,
+        "theme": "public",
+        "mentions": 18,
+        "engagement": 126,
         "evidence": [
           {
-            "text": "The first thing I would do with any sort of weird issue remotely associated with my brain is to get an MRI. I would pay for it out of pocket if my doctor denied",
-            "url": "https://news.ycombinator.com/item?id=48388346",
-            "date": "2026-06-03"
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
           },
           {
-            "text": "My issue is it claims to be end-to-end encrypted, which is really weird. Sure, TLS between you and your bank's server is end-to-end encrypted. But that puts you",
-            "url": "https://news.ycombinator.com/item?id=46646451",
-            "date": "2026-01-16"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
           },
           {
-            "text": "I wish there was a way to do it without all the problems of having cameras on people's faces. The tech of AR glasses would be pretty neat to get working given I",
-            "url": "https://news.ycombinator.com/item?id=49247977",
-            "date": "2026-08-10"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
           },
           {
-            "text": "I always get the highest end components I can find, and I try to stick with Asus and not the cheapest PSU. I've never had anything fail, and I do this every 5 y",
-            "url": "https://news.ycombinator.com/item?id=49222347",
-            "date": "2026-08-08"
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
           }
         ],
-        "score": 58
+        "score": 57
       },
       {
         "theme": "company",
@@ -738,7 +738,7 @@
       },
       {
         "theme": "world",
-        "mentions": 24,
+        "mentions": 25,
         "engagement": 58,
         "evidence": [
           {
@@ -762,7 +762,7 @@
             "date": "2026-06-14"
           }
         ],
-        "score": 51
+        "score": 53
       },
       {
         "theme": "agents",
@@ -793,34 +793,6 @@
         "score": 51
       },
       {
-        "theme": "support",
-        "mentions": 26,
-        "engagement": 45,
-        "evidence": [
-          {
-            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
-            "url": "https://news.ycombinator.com/item?id=49388579",
-            "date": "2026-08-21"
-          },
-          {
-            "text": "Mozilla should start exploring a subscription business and tout its continued support for the full uBlock Origin among other extensions. I would pay a small amo",
-            "url": "https://news.ycombinator.com/item?id=49289382",
-            "date": "2026-08-13"
-          },
-          {
-            "text": "I don't want the founders and operators of my free-expression tool to be neutral. I want them to be strongly biased in favor of free expression. But they take m",
-            "url": "https://news.ycombinator.com/item?id=48985845",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "I love that idea. You should totally build it! Packing lists, grocery store runs, playing tic tac toe / connect four, taking notes during conferences, etc. Like",
-            "url": "https://news.ycombinator.com/item?id=48227730",
-            "date": "2026-05-21"
-          }
-        ],
-        "score": 49
-      },
-      {
         "theme": "project",
         "mentions": 26,
         "engagement": 45,
@@ -844,6 +816,34 @@
             "text": "What's the best project management tool you have ever used?",
             "url": "https://news.ycombinator.com/item?id=42501443",
             "date": "2024-12-24"
+          }
+        ],
+        "score": 49
+      },
+      {
+        "theme": "research",
+        "mentions": 11,
+        "engagement": 219,
+        "evidence": [
+          {
+            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
+            "url": "https://news.ycombinator.com/item?id=48824680",
+            "date": "2026-07-07"
+          },
+          {
+            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
+            "url": "https://news.ycombinator.com/item?id=49048747",
+            "date": "2026-07-25"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
           }
         ],
         "score": 49
@@ -942,7 +942,7 @@
         "kind": "story",
         "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
         "url": "https://news.ycombinator.com/item?id=49528057",
-        "engagement": 159,
+        "engagement": 160,
         "date": "2026-09-01",
         "query": "\"there should be\""
       },
@@ -1021,8 +1021,8 @@
         "seed_spread": 9,
         "avg_branches": 9.1,
         "examples": [
-          "excel template for budget",
           "excel template for project management",
+          "excel template for budget",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking"
@@ -1119,8 +1119,8 @@
         "seed_spread": 4,
         "avg_branches": 9.8,
         "examples": [
-          "excel template for budget",
           "excel template for project management",
+          "excel template for budget",
           "excel template for expense tracking",
           "excel template for job application tracking",
           "excel template for inventory"
@@ -1148,8 +1148,8 @@
         "avg_branches": 8.1,
         "examples": [
           "spreadsheet to track expenses",
-          "spreadsheet to track job applications",
           "spreadsheet to track expenses for small business",
+          "spreadsheet to track job applications",
           "spreadsheet to track spending",
           "spreadsheet to track income and expenses"
         ],
@@ -1170,20 +1170,6 @@
         "score": 233
       },
       {
-        "subject": "pdf",
-        "queries": 14,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd",
-          "printable planner for 2025"
-        ],
-        "score": 201
-      },
-      {
         "subject": "expenses",
         "queries": 11,
         "seed_spread": 5,
@@ -1198,10 +1184,24 @@
         "score": 195
       },
       {
-        "subject": "printable",
+        "subject": "app",
+        "queries": 11,
+        "seed_spread": 5,
+        "avg_branches": 9.1,
+        "examples": [
+          "spreadsheet to track credit card rewards",
+          "printable planner for adhd",
+          "how do i keep track of my period",
+          "best spreadsheet for budgeting",
+          "best spreadsheet for ipad"
+        ],
+        "score": 191
+      },
+      {
+        "subject": "pdf",
         "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 9.2,
+        "avg_branches": 10,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1209,7 +1209,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 181
+        "score": 186
       },
       {
         "subject": "download",
@@ -1226,6 +1226,20 @@
         "score": 177
       },
       {
+        "subject": "printable",
+        "queries": 11,
+        "seed_spread": 4,
+        "avg_branches": 9.6,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd",
+          "printable planner for 2025"
+        ],
+        "score": 156
+      },
+      {
         "subject": "sheet",
         "queries": 14,
         "seed_spread": 3,
@@ -1240,18 +1254,18 @@
         "score": 148
       },
       {
-        "subject": "app",
-        "queries": 10,
+        "subject": "college",
+        "queries": 9,
         "seed_spread": 4,
-        "avg_branches": 9,
+        "avg_branches": 10,
         "examples": [
-          "spreadsheet to track credit card rewards",
-          "how do i keep track of my period",
-          "best spreadsheet for budgeting",
-          "best spreadsheet for ipad",
-          "best spreadsheet for mac"
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
         ],
-        "score": 138
+        "score": 129
       },
       {
         "subject": "students",
@@ -1322,20 +1336,6 @@
           "printable planner for 2025"
         ],
         "score": 117
-      },
-      {
-        "subject": "college",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "google sheets template for college application"
-        ],
-        "score": 115
       },
       {
         "subject": "income",
@@ -1417,23 +1417,9 @@
           "google sheets template for wedding guest list",
           "google sheets template for college application",
           "printable planner for the week",
-          "checklist for moving out of state"
+          "checklist for college dorm"
         ],
         "score": 83
-      },
-      {
-        "subject": "kids",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
-        ],
-        "score": 75
       },
       {
         "subject": "management",
@@ -1441,8 +1427,8 @@
         "seed_spread": 3,
         "avg_branches": 9.4,
         "examples": [
-          "excel template for budget",
           "excel template for project management",
+          "excel template for budget",
           "excel template for expense tracking",
           "excel template for inventory",
           "google sheets template for inventory"
@@ -1518,6 +1504,20 @@
           "best spreadsheet for finances"
         ],
         "score": 64
+      },
+      {
+        "subject": "kids",
+        "queries": 5,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for traveling",
+          "checklist for international travel",
+          "budget template for teens"
+        ],
+        "score": 54
       },
       {
         "subject": "university",
@@ -1678,23 +1678,6 @@
       },
       {
         "seed": "excel template for",
-        "query": "excel template for budget",
-        "branches": 10,
-        "children": [
-          "excel template for budget tracking",
-          "excel template for budget planning",
-          "excel template for budget management",
-          "excel template for budget vs actual",
-          "excel template for budget",
-          "excel template for budget expenses",
-          "excel template for budget free",
-          "excel template for budget proposal",
-          "excel template for budget reddit",
-          "excel template for budget monthly"
-        ]
-      },
-      {
-        "seed": "excel template for",
         "query": "excel template for project management",
         "branches": 10,
         "children": [
@@ -1708,6 +1691,23 @@
           "excel template for project management download",
           "excel sheet for project management",
           "excel spreadsheet for project management"
+        ]
+      },
+      {
+        "seed": "excel template for",
+        "query": "excel template for budget",
+        "branches": 10,
+        "children": [
+          "excel template for budget tracking",
+          "excel template for budget planning",
+          "excel template for budget management",
+          "excel template for budget vs actual",
+          "excel template for budget",
+          "excel template for budget expenses",
+          "excel template for budget free",
+          "excel template for budget proposal",
+          "excel template for budget reddit",
+          "excel template for budget monthly"
         ]
       },
       {
