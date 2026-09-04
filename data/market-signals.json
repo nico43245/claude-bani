@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T10:53:34.050Z",
+  "generated_at": "2026-09-04T17:28:56.865Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1110,
+    "signals_total": 1112,
     "themes": [
       {
         "theme": "app",
@@ -37,6 +37,34 @@
         "score": 111
       },
       {
+        "theme": "wish",
+        "mentions": 99,
+        "engagement": 11,
+        "evidence": [
+          {
+            "text": "Absolutely love Fastmail. I badly wish that they added a few key enterprise features: mandatory 2FA, SSO, provisioning, and more robust audit logs. If you’re re",
+            "url": "https://news.ycombinator.com/item?id=49344997",
+            "date": "2026-08-18"
+          },
+          {
+            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
+            "url": "https://news.ycombinator.com/item?id=48746602",
+            "date": "2026-07-01"
+          },
+          {
+            "text": "I'd wish the EU would pay for California separatism as much as the US is supporting breaking up the EU (Orban, AfD in Germany, Farage, ..)",
+            "url": "https://news.ycombinator.com/item?id=48458783",
+            "date": "2026-06-09"
+          },
+          {
+            "text": "Strongly agree. I wish more things came in jars, cans and sacks. I would pay a premium for this alone. The plastic liner in a tall box workflow adds so much fri",
+            "url": "https://news.ycombinator.com/item?id=49537191",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 107
+      },
+      {
         "theme": "web",
         "mentions": 23,
         "engagement": 537,
@@ -63,34 +91,6 @@
           }
         ],
         "score": 107
-      },
-      {
-        "theme": "wish",
-        "mentions": 98,
-        "engagement": 11,
-        "evidence": [
-          {
-            "text": "Absolutely love Fastmail. I badly wish that they added a few key enterprise features: mandatory 2FA, SSO, provisioning, and more robust audit logs. If you’re re",
-            "url": "https://news.ycombinator.com/item?id=49344997",
-            "date": "2026-08-18"
-          },
-          {
-            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
-            "url": "https://news.ycombinator.com/item?id=48746602",
-            "date": "2026-07-01"
-          },
-          {
-            "text": "I'd wish the EU would pay for California separatism as much as the US is supporting breaking up the EU (Orban, AfD in Germany, Farage, ..)",
-            "url": "https://news.ycombinator.com/item?id=48458783",
-            "date": "2026-06-09"
-          },
-          {
-            "text": "Strongly agree. I wish more things came in jars, cans and sacks. I would pay a premium for this alone. The plastic liner in a tall box workflow adds so much fri",
-            "url": "https://news.ycombinator.com/item?id=49537191",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 106
       },
       {
         "theme": "hours",
@@ -150,7 +150,7 @@
       },
       {
         "theme": "hate",
-        "mentions": 76,
+        "mentions": 77,
         "engagement": 13,
         "evidence": [
           {
@@ -174,11 +174,11 @@
             "date": "2025-12-07"
           }
         ],
-        "score": 85
+        "score": 86
       },
       {
         "theme": "life",
-        "mentions": 19,
+        "mentions": 18,
         "engagement": 356,
         "evidence": [
           {
@@ -202,7 +202,35 @@
             "date": "2026-08-21"
           }
         ],
-        "score": 83
+        "score": 80
+      },
+      {
+        "theme": "code",
+        "mentions": 53,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
+            "url": "https://news.ycombinator.com/item?id=48522853",
+            "date": "2026-06-14"
+          },
+          {
+            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
+            "url": "https://news.ycombinator.com/item?id=48275865",
+            "date": "2026-05-26"
+          }
+        ],
+        "score": 78
       },
       {
         "theme": "built",
@@ -228,34 +256,6 @@
             "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
             "url": "https://news.ycombinator.com/item?id=44767486",
             "date": "2025-08-02"
-          }
-        ],
-        "score": 77
-      },
-      {
-        "theme": "code",
-        "mentions": 52,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
-            "url": "https://news.ycombinator.com/item?id=48522853",
-            "date": "2026-06-14"
-          },
-          {
-            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
-            "url": "https://news.ycombinator.com/item?id=48275865",
-            "date": "2026-05-26"
           }
         ],
         "score": 77
@@ -373,6 +373,34 @@
         "score": 71
       },
       {
+        "theme": "it.",
+        "mentions": 58,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          }
+        ],
+        "score": 70
+      },
+      {
         "theme": "browser",
         "mentions": 16,
         "engagement": 287,
@@ -401,64 +429,8 @@
         "score": 69
       },
       {
-        "theme": "it.",
-        "mentions": 56,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          }
-        ],
-        "score": 68
-      },
-      {
-        "theme": "language",
-        "mentions": 15,
-        "engagement": 290,
-        "evidence": [
-          {
-            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
-            "url": "https://news.ycombinator.com/item?id=45086249",
-            "date": "2025-08-31"
-          },
-          {
-            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
-            "url": "https://news.ycombinator.com/item?id=46929160",
-            "date": "2026-02-07"
-          },
-          {
-            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
-            "url": "https://news.ycombinator.com/item?id=45075127",
-            "date": "2025-08-30"
-          },
-          {
-            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
-            "url": "https://news.ycombinator.com/item?id=49388758",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 66
-      },
-      {
         "theme": "them",
-        "mentions": 66,
+        "mentions": 68,
         "engagement": 0,
         "evidence": [
           {
@@ -482,7 +454,35 @@
             "date": "2026-08-01"
           }
         ],
-        "score": 66
+        "score": 68
+      },
+      {
+        "theme": "language",
+        "mentions": 14,
+        "engagement": 290,
+        "evidence": [
+          {
+            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
+            "url": "https://news.ycombinator.com/item?id=45086249",
+            "date": "2025-08-31"
+          },
+          {
+            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
+            "url": "https://news.ycombinator.com/item?id=46929160",
+            "date": "2026-02-07"
+          },
+          {
+            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
+            "url": "https://news.ycombinator.com/item?id=45075127",
+            "date": "2025-08-30"
+          },
+          {
+            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
+            "url": "https://news.ycombinator.com/item?id=49388758",
+            "date": "2026-08-21"
+          }
+        ],
+        "score": 63
       },
       {
         "theme": "trust",
@@ -514,7 +514,7 @@
       },
       {
         "theme": "system",
-        "mentions": 23,
+        "mentions": 24,
         "engagement": 92,
         "evidence": [
           {
@@ -536,6 +536,34 @@
             "text": "This is just one of many papers DeepSeek have released to be able to serve models at extremely cheap prices, unlike the others taking on >$100B+ of debt in buil",
             "url": "https://news.ycombinator.com/item?id=48696909",
             "date": "2026-06-27"
+          }
+        ],
+        "score": 61
+      },
+      {
+        "theme": "public",
+        "mentions": 19,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
           }
         ],
         "score": 59
@@ -623,34 +651,6 @@
           }
         ],
         "score": 58
-      },
-      {
-        "theme": "public",
-        "mentions": 18,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
-          }
-        ],
-        "score": 57
       },
       {
         "theme": "company",
@@ -793,6 +793,34 @@
         "score": 51
       },
       {
+        "theme": "users",
+        "mentions": 30,
+        "engagement": 33,
+        "evidence": [
+          {
+            "text": "What if users start cloning SaaS using AI",
+            "url": "https://news.ycombinator.com/item?id=48826680",
+            "date": "2026-07-08"
+          },
+          {
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
+            "url": "https://news.ycombinator.com/item?id=48873462",
+            "date": "2026-07-11"
+          },
+          {
+            "text": "The article also explains that retailers have had customers ask for this, which is why Nikon is trialing selling this through those channels instead of direct, ",
+            "url": "https://news.ycombinator.com/item?id=48770654",
+            "date": "2026-07-03"
+          }
+        ],
+        "score": 49
+      },
+      {
         "theme": "project",
         "mentions": 26,
         "engagement": 45,
@@ -816,34 +844,6 @@
             "text": "What's the best project management tool you have ever used?",
             "url": "https://news.ycombinator.com/item?id=42501443",
             "date": "2024-12-24"
-          }
-        ],
-        "score": 49
-      },
-      {
-        "theme": "research",
-        "mentions": 11,
-        "engagement": 219,
-        "evidence": [
-          {
-            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
-            "url": "https://news.ycombinator.com/item?id=48824680",
-            "date": "2026-07-07"
-          },
-          {
-            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
-            "url": "https://news.ycombinator.com/item?id=49048747",
-            "date": "2026-07-25"
-          },
-          {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
-          },
-          {
-            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
-            "url": "https://news.ycombinator.com/item?id=46567113",
-            "date": "2026-01-10"
           }
         ],
         "score": 49
@@ -942,7 +942,7 @@
         "kind": "story",
         "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
         "url": "https://news.ycombinator.com/item?id=49528057",
-        "engagement": 160,
+        "engagement": 164,
         "date": "2026-09-01",
         "query": "\"there should be\""
       },
@@ -1021,8 +1021,8 @@
         "seed_spread": 9,
         "avg_branches": 9.1,
         "examples": [
-          "excel template for project management",
           "excel template for budget",
+          "excel template for project management",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking"
@@ -1119,8 +1119,8 @@
         "seed_spread": 4,
         "avg_branches": 9.8,
         "examples": [
-          "excel template for project management",
           "excel template for budget",
+          "excel template for project management",
           "excel template for expense tracking",
           "excel template for job application tracking",
           "excel template for inventory"
@@ -1148,8 +1148,8 @@
         "avg_branches": 8.1,
         "examples": [
           "spreadsheet to track expenses",
-          "spreadsheet to track expenses for small business",
           "spreadsheet to track job applications",
+          "spreadsheet to track expenses for small business",
           "spreadsheet to track spending",
           "spreadsheet to track income and expenses"
         ],
@@ -1227,9 +1227,9 @@
       },
       {
         "subject": "printable",
-        "queries": 11,
+        "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.6,
+        "avg_branches": 9.2,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1237,7 +1237,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 156
+        "score": 167
       },
       {
         "subject": "sheet",
@@ -1252,20 +1252,6 @@
           "google sheets template for budget"
         ],
         "score": 148
-      },
-      {
-        "subject": "college",
-        "queries": 9,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "google sheets template for college application"
-        ],
-        "score": 129
       },
       {
         "subject": "students",
@@ -1366,6 +1352,20 @@
         "score": 108
       },
       {
+        "subject": "college",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
+        ],
+        "score": 100
+      },
+      {
         "subject": "example",
         "queries": 5,
         "seed_spread": 5,
@@ -1411,15 +1411,29 @@
         "subject": "list",
         "queries": 6,
         "seed_spread": 4,
-        "avg_branches": 9,
+        "avg_branches": 8.5,
         "examples": [
           "excel template for inventory",
           "google sheets template for wedding guest list",
           "google sheets template for college application",
           "printable planner for the week",
-          "checklist for college dorm"
+          "checklist for fire evacuation"
         ],
-        "score": 83
+        "score": 81
+      },
+      {
+        "subject": "kids",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
+        ],
+        "score": 75
       },
       {
         "subject": "management",
@@ -1427,8 +1441,8 @@
         "seed_spread": 3,
         "avg_branches": 9.4,
         "examples": [
-          "excel template for project management",
           "excel template for budget",
+          "excel template for project management",
           "excel template for expense tracking",
           "excel template for inventory",
           "google sheets template for inventory"
@@ -1446,6 +1460,20 @@
           "google sheets template for job applications",
           "google sheets template for inventory",
           "google sheets template for wedding guest list"
+        ],
+        "score": 74
+      },
+      {
+        "subject": "plan",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.6,
+        "examples": [
+          "checklist for fire evacuation",
+          "budget template for college student",
+          "budget template for teens",
+          "budget template for biweekly pay",
+          "planner for small business owner"
         ],
         "score": 74
       },
@@ -1506,20 +1534,6 @@
         "score": 64
       },
       {
-        "subject": "kids",
-        "queries": 5,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for traveling",
-          "checklist for international travel",
-          "budget template for teens"
-        ],
-        "score": 54
-      },
-      {
         "subject": "university",
         "queries": 4,
         "seed_spread": 3,
@@ -1555,20 +1569,6 @@
           "spreadsheet to track expenses",
           "spreadsheet to track spending",
           "expense tracker template for google sheets"
-        ],
-        "score": 43
-      },
-      {
-        "subject": "plan",
-        "queries": 6,
-        "seed_spread": 2,
-        "avg_branches": 10,
-        "examples": [
-          "budget template for college student",
-          "budget template for teens",
-          "budget template for biweekly pay",
-          "planner for small business owner",
-          "best planner for small business owner"
         ],
         "score": 43
       }
@@ -1678,23 +1678,6 @@
       },
       {
         "seed": "excel template for",
-        "query": "excel template for project management",
-        "branches": 10,
-        "children": [
-          "excel template for project management free",
-          "excel template for project management free download",
-          "excel template for project management tracking",
-          "excel template for project management gantt chart",
-          "excel template for project management",
-          "excel template for project management timeline",
-          "excel template for project management gantt",
-          "excel template for project management download",
-          "excel sheet for project management",
-          "excel spreadsheet for project management"
-        ]
-      },
-      {
-        "seed": "excel template for",
         "query": "excel template for budget",
         "branches": 10,
         "children": [
@@ -1708,6 +1691,23 @@
           "excel template for budget proposal",
           "excel template for budget reddit",
           "excel template for budget monthly"
+        ]
+      },
+      {
+        "seed": "excel template for",
+        "query": "excel template for project management",
+        "branches": 10,
+        "children": [
+          "excel template for project management free",
+          "excel template for project management free download",
+          "excel template for project management tracking",
+          "excel template for project management gantt chart",
+          "excel template for project management",
+          "excel template for project management timeline",
+          "excel template for project management gantt",
+          "excel template for project management download",
+          "excel sheet for project management",
+          "excel spreadsheet for project management"
         ]
       },
       {
