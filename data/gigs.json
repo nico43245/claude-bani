@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T17:28:08.334Z",
-  "scanned": 194,
-  "accepted": 50,
-  "refused_on_ethics": 10,
+  "generated_at": "2026-09-04T23:49:47.796Z",
+  "scanned": 189,
+  "accepted": 48,
+  "refused_on_ethics": 11,
   "jobs": [
     {
       "title": "Manual Data Entry in Excel",
@@ -21,55 +21,69 @@
     {
       "title": "Excel Macro Automation for Finance",
       "url": "https://www.freelancer.com/projects/excel-macros/excel-macro-automation-for-finance",
-      "budget_raw": "$171 Average bid",
+      "budget_raw": "$198 Average bid",
       "desc": "I m looking to streamline a set of financial spreadsheets by introducing reliable, well-structured macros. The files contain strictly financial data no customer or inventory information so the code must handle numbers, formulas, and summary reports with speed and accuracy. Here s what I need: A macr",
-      "bids": 13,
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 171,
+      "usd": 198,
       "hourly": false,
       "flags": [],
-      "score": 540
+      "score": 440
+    },
+    {
+      "title": "PDF Table Extraction to Excel",
+      "url": "https://www.freelancer.com/projects/data-extraction/pdf-table-extraction-excel-40690241",
+      "budget_raw": "$170 Average bid",
+      "desc": "I have a collection of PDF files that contain tabular data I need organised cleanly in an Excel workbook. The task is straightforward: locate every table inside each PDF, transfer the information into Excel, and preserve the original row-and-column structure so formulas or pivot tables can be applie",
+      "bids": 18,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 6,
+      "usd": 170,
+      "hourly": false,
+      "flags": [],
+      "score": 438
+    },
+    {
+      "title": "Excel Data Validation & Entry",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-validation-entry",
+      "budget_raw": "$448 Average bid",
+      "desc": "I need help transferring a set of mixed numerical-and-text records from an online database into a structured Excel workbook. Before anything is pasted, each record has to be checked for obvious inconsistencies, trimmed of stray spaces, and reformatted where required so that the final sheet is clean,",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 448,
+      "hourly": false,
+      "flags": [],
+      "score": 275
     },
     {
       "title": "Excel Programming & Marketing Support Needed",
       "url": "https://www.freelancer.com/projects/business-analysis/excel-programming-marketing-support",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a stream of operational and campaign data that must be turned into clear, automated business-reporting dashboards inside Excel. The core of the job is to use advanced Excel programming formulas, VBA, or Power Query, whichever you prefer to pull raw tables, clean them, and generate weekly summ",
-      "bids": 7,
+      "bids": 8,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 278
+      "score": 270
     },
     {
       "title": "On-Site Algo Trading Engineer",
       "url": "https://www.freelancer.com/projects/python/site-algo-trading-engineer",
-      "budget_raw": "$570 Average bid",
+      "budget_raw": "$564 Average bid",
       "desc": "I run a suite of Python-based automated strategies from my home office in Sunder Vihar, West Delhi and need reliable, hands-on cover every trading day. From 8:45 AM until the Indian market closes at roughly 3:45 PM you will sit next to the live systems, powering them up, keeping them healthy and int",
-      "bids": 20,
+      "bids": 22,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 570,
-      "hourly": false,
-      "flags": [],
-      "score": 257
-    },
-    {
-      "title": "PDF Table Extraction to Excel",
-      "url": "https://www.freelancer.com/projects/data-extraction/pdf-table-extraction-excel-40690241",
-      "budget_raw": "$50 Average bid",
-      "desc": "I have a collection of PDF files that contain tabular data I need organised cleanly in an Excel workbook. The task is straightforward: locate every table inside each PDF, transfer the information into Excel, and preserve the original row-and-column structure so formulas or pivot tables can be applie",
-      "bids": 1,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 50,
+      "usd": 564,
       "hourly": false,
       "flags": [],
       "score": 228
@@ -117,20 +131,6 @@
       "score": 156
     },
     {
-      "title": "Copy Digital Text to Excel",
-      "url": "https://www.freelancer.com/projects/data-management/copy-digital-text-excel",
-      "budget_raw": "$186 Average bid",
-      "desc": "I have several PDF and Word files that contain plain text tables and paragraphs which I need reorganised inside a clean .xlsx workbook. The data must be split across multiple sheets in a logical way think one sheet per chapter, category, or section header that appears in the original documents. I wi",
-      "bids": 14,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 186,
-      "hourly": false,
-      "flags": [],
-      "score": 141
-    },
-    {
       "title": "Data Extraction from Amazon Laptop Listings",
       "url": "https://www.freelancer.com/projects/selenium/data-extraction-from-amazon-laptop",
       "budget_raw": "$20 / hr Average bid",
@@ -149,28 +149,28 @@
       "url": "https://www.freelancer.com/projects/data-management/handwritten-notes-excel-transfer-40690377",
       "budget_raw": "$20 / hr Average bid",
       "desc": "I need 20-50 pages of handwritten notes converted into a clean, well-structured Excel workbook. The notes include several tables and simple charts, so I m counting on you to replicate those layouts faithfully inside Excel not just dump the text. Accuracy is the priority: every word, number, row, and",
-      "bids": 13,
+      "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 20,
       "hourly": true,
       "flags": [],
-      "score": 126
+      "score": 122
     },
     {
-      "title": "Word to Excel Text Transfer",
-      "url": "https://www.freelancer.com/projects/data-analysis/word-excel-text-transfer",
-      "budget_raw": "$283 Average bid",
-      "desc": "I need the plain text paragraphs contained in several Word files moved into a single Excel workbook. The job is straightforward: open each Word document, copy only the paragraph content (no tables or bulleted lists), and paste it into Excel so every entry sits in its own row with uniform cell format",
-      "bids": 7,
+      "title": "Plain Text to Excel Transfer",
+      "url": "https://www.freelancer.com/projects/microsoft-office/plain-text-excel-transfer",
+      "budget_raw": "$170 Average bid",
+      "desc": "I have a single plain-text (.txt) file that I need reproduced in Microsoft Excel. No processing, re-ordering, or cleaning is required every character must appear exactly as it does in the source. All content should reside on one worksheet; no additional tabs or formatting tweaks are necessary. You w",
+      "bids": 22,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 283,
+      "fit": 3,
+      "usd": 170,
       "hourly": false,
       "flags": [],
-      "score": 121
+      "score": 90
     },
     {
       "title": "Automate 1,000 Daily YouTube Ads",
@@ -187,46 +187,18 @@
       "score": 84
     },
     {
-      "title": "Excel-to-Web Form Automation",
-      "url": "https://www.freelancer.com/projects/selenium/excel-web-form-automation",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a data-entry page that currently has to be filled out by hand, record after record. All of the information already lives in a single-sheet Excel workbook with clear column headers, so the only thing missing is an automated bridge between the spreadsheet and the form. I m looking for a small, ",
-      "bids": 26,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 82
-    },
-    {
-      "title": "PDF Text Transcribed to Excel",
-      "url": "https://www.freelancer.com/projects/data-annotation/pdf-text-transcribed-excel",
-      "budget_raw": "$16 / hr Average bid",
-      "desc": "I have a set of PDFs that contain plain text only no tables or images and I need every word moved accurately into an Excel workbook. All I m after is a clean, line-for-line transfer so the content can be filtered and analysed later. Here s what you ll do: open each PDF, capture every piece of text e",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 16,
-      "hourly": true,
-      "flags": [],
-      "score": 75
-    },
-    {
       "title": "Pan-India Recruiter Database Build",
       "url": "https://www.freelancer.com/projects/data-collection/pan-india-recruiter-database-build",
-      "budget_raw": "$208 Average bid",
+      "budget_raw": "$204 Average bid",
       "desc": "I need a comprehensive, pan-India list of recruitment agencies that specialise in computer-based hiring. For every agency you capture I need three specific data points: accurate contact details (at minimum phone, email, website, city), a short note on the services they offer, and at least one verifi",
-      "bids": 13,
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 208,
+      "usd": 204,
       "hourly": false,
       "flags": [],
-      "score": 73
+      "score": 74
     },
     {
       "title": "Indian University Leadership Contacts",
@@ -243,18 +215,60 @@
       "score": 71
     },
     {
-      "title": "Excel, Email, Voice Transcription Support",
-      "url": "https://www.freelancer.com/projects/customer-service/excel-email-voice-transcription-support",
-      "budget_raw": "$13 / hr Average bid",
-      "desc": "All incoming raw information needs to be turned into clear, reliable records and communications. First, every spreadsheet you touch must come back perfectly structured in Microsoft Excel clean columns, correct formulas, no stray characters. I will send different datasets as the work progresses; rega",
-      "bids": 18,
+      "title": "Extract Telegram Usernames CSV",
+      "url": "https://www.freelancer.com/projects/api/extract-telegram-usernames-csv",
+      "budget_raw": "$4 / hr Average bid",
+      "desc": "I have a CSV that holds between 1,000 and 10,000 phone numbers and I need the matching Telegram usernames for each one. Along with the username, please also capture the visible profile name; no other profile details are required. The workflow I picture is straightforward: you read the CSV, query Tel",
+      "bids": 14,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 4,
+      "hourly": true,
+      "flags": [],
+      "score": 68
+    },
+    {
+      "title": "Word to Excel Text Transfer",
+      "url": "https://www.freelancer.com/projects/data-analysis/word-excel-text-transfer",
+      "budget_raw": "$186 Average bid",
+      "desc": "I need the plain text paragraphs contained in several Word files moved into a single Excel workbook. The job is straightforward: open each Word document, copy only the paragraph content (no tables or bulleted lists), and paste it into Excel so every entry sits in its own row with uniform cell format",
+      "bids": 15,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 186,
+      "hourly": false,
+      "flags": [],
+      "score": 60
+    },
+    {
+      "title": "Excel-to-Web Form Automation",
+      "url": "https://www.freelancer.com/projects/selenium/excel-web-form-automation",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a data-entry page that currently has to be filled out by hand, record after record. All of the information already lives in a single-sheet Excel workbook with clear column headers, so the only thing missing is an automated bridge between the spreadsheet and the form. I m looking for a small, ",
+      "bids": 30,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 59
+    },
+    {
+      "title": "Business Analytics API Dashboard -- 2",
+      "url": "https://www.freelancer.com/projects/api/business-analytics-api-dashboard",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I need a clear, interactive business-analytics dashboard that pulls live data directly from our API endpoints and turns it into actionable insight. The finished board should surface three core KPIs: revenue growth, customer acquisition, and operational efficiency. My priorities are: Seamless, secure",
+      "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 13,
+      "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 67
+      "score": 55
     },
     {
       "title": "dbt & Dagster Social Integration -- 2",
@@ -271,18 +285,46 @@
       "score": 55
     },
     {
+      "title": "PDF Text Transfer to Excel",
+      "url": "https://www.freelancer.com/projects/data-analysis/pdf-text-transfer-excel",
+      "budget_raw": "$171 Average bid",
+      "desc": "I have a batch of PDF files filled only with text that must be transferred into a structured Excel spreadsheet. Each PDF follows a consistent layout, so once the first few pages are mapped the rest should flow smoothly. Accuracy is critical spelling, punctuation, and line breaks need to mirror the s",
+      "bids": 16,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 171,
+      "hourly": false,
+      "flags": [],
+      "score": 53
+    },
+    {
       "title": "Extract & Analyse Company Financials",
       "url": "https://www.freelancer.com/projects/data-analysis/extract-analyse-company-financials",
       "budget_raw": "$5 / hr Average bid",
       "desc": "I have a single company s financial statements archived as PDFs and I need clear, data-driven answers to two questions: how has the firm s revenue grown over time, and what has happened to its profit margin along the way? The task starts with converting the PDF tables into a workable dataset, cleani",
-      "bids": 14,
+      "bids": 15,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
       "usd": 5,
       "hourly": true,
       "flags": [],
-      "score": 54
+      "score": 52
+    },
+    {
+      "title": "Excel, Email, Voice Transcription Support",
+      "url": "https://www.freelancer.com/projects/customer-service/excel-email-voice-transcription-support",
+      "budget_raw": "$14 / hr Average bid",
+      "desc": "All incoming raw information needs to be turned into clear, reliable records and communications. First, every spreadsheet you touch must come back perfectly structured in Microsoft Excel clean columns, correct formulas, no stray characters. I will send different datasets as the work progresses; rega",
+      "bids": 25,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 14,
+      "hourly": true,
+      "flags": [],
+      "score": 49
     },
     {
       "title": "Live Python Agent Cloud Deployment",
@@ -313,20 +355,6 @@
       "score": 45
     },
     {
-      "title": "Plain Text to Excel Transfer",
-      "url": "https://www.freelancer.com/projects/microsoft-office/plain-text-excel-transfer",
-      "budget_raw": "$61 Average bid",
-      "desc": "I have a single plain-text (.txt) file that I need reproduced in Microsoft Excel. No processing, re-ordering, or cleaning is required every character must appear exactly as it does in the source. All content should reside on one worksheet; no additional tabs or formatting tweaks are necessary. You w",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 61,
-      "hourly": false,
-      "flags": [],
-      "score": 45
-    },
-    {
       "title": "YouTube Ad-View Automation",
       "url": "https://www.freelancer.com/projects/selenium/youtube-view-automation",
       "budget_raw": "$10 / hr Average bid",
@@ -336,20 +364,6 @@
       "verdict": "accept",
       "fit": 3,
       "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 44
-    },
-    {
-      "title": "Excel Files Data Updating & Modification 45 Existing Client Files",
-      "url": "https://www.freelancer.com/projects/data-management/excel-files-data-updating-modification",
-      "budget_raw": "$17 / hr Average bid",
-      "desc": "I have approximately 45 Excel files containing data from our old clients. I am looking for an experienced freelancer who can carefully review these files and make the required changes and updates as instructed. The work may include editing existing data, updating information, correcting entries, for",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 17,
       "hourly": true,
       "flags": [],
       "score": 44
@@ -385,6 +399,34 @@
       "score": 42
     },
     {
+      "title": "Excel Files Data Updating & Modification 45 Existing Client Files",
+      "url": "https://www.freelancer.com/projects/data-management/excel-files-data-updating-modification",
+      "budget_raw": "$17 / hr Average bid",
+      "desc": "I have approximately 45 Excel files containing data from our old clients. I am looking for an experienced freelancer who can carefully review these files and make the required changes and updates as instructed. The work may include editing existing data, updating information, correcting entries, for",
+      "bids": 17,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 17,
+      "hourly": true,
+      "flags": [],
+      "score": 41
+    },
+    {
+      "title": "Copy Digital Text to Excel",
+      "url": "https://www.freelancer.com/projects/data-management/copy-digital-text-excel",
+      "budget_raw": "$57 Average bid",
+      "desc": "I have several PDF and Word files that contain plain text tables and paragraphs which I need reorganised inside a clean .xlsx workbook. The data must be split across multiple sheets in a logical way think one sheet per chapter, category, or section header that appears in the original documents. I wi",
+      "bids": 17,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 57,
+      "hourly": false,
+      "flags": [],
+      "score": 38
+    },
+    {
       "title": "Chrome Extension Date Capture",
       "url": "https://www.freelancer.com/projects/web-development/chrome-extension-date-capture",
       "budget_raw": "$77 Average bid",
@@ -397,48 +439,6 @@
       "hourly": false,
       "flags": [],
       "score": 36
-    },
-    {
-      "title": "PDF Financial Tables to Excel",
-      "url": "https://www.freelancer.com/projects/data-analysis/pdf-financial-tables-excel",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have up to five PDF files that contain structured financial tables balance-sheet style figures, quarterly summaries, and similar line-item data. I need every table lifted cleanly from each document and placed into Excel (.xlsx) so the numbers can be filtered, summed, and charted right away. Accura",
-      "bids": 24,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 34
-    },
-    {
-      "title": "Excel Title Case Conversion",
-      "url": "https://www.freelancer.com/projects/copy-typing/excel-title-case-conversion",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I need help standardising the text in an Excel workbook. Several columns are filled with names, product titles, and location fields that now appear in random mixtures of upper- and lower-case letters. Every entry should read in proper Title Case first letter of each word capitalised and the rest in ",
-      "bids": 5,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 33
-    },
-    {
-      "title": "Google Maps Data Scraping Electrical Supply Stores & Shops in Eastern & North-Eastern India",
-      "url": "https://www.freelancer.com/projects/data-scraping/google-maps-data-scraping-electrical",
-      "budget_raw": "$39 Average bid",
-      "desc": "I am looking for an experienced freelancer who can collect and provide a comprehensive list of Electrical Supply Stores, Electrical Shops, Electrical Material Dealers, Electrical Wholesalers and Electrical Distributors from Google Maps. The data needs to be collected for the following states in Indi",
-      "bids": 13,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 39,
-      "hourly": false,
-      "flags": [],
-      "score": 31
     },
     {
       "title": "AI Fake News Detection System - 03/09/2026 05:18 EDT",
@@ -455,6 +455,34 @@
       "score": 30
     },
     {
+      "title": "Excel Title Case Conversion",
+      "url": "https://www.freelancer.com/projects/copy-typing/excel-title-case-conversion",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I need help standardising the text in an Excel workbook. Several columns are filled with names, product titles, and location fields that now appear in random mixtures of upper- and lower-case letters. Every entry should read in proper Title Case first letter of each word capitalised and the rest in ",
+      "bids": 8,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 30
+    },
+    {
+      "title": "PDF Financial Tables to Excel",
+      "url": "https://www.freelancer.com/projects/data-analysis/pdf-financial-tables-excel",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have up to five PDF files that contain structured financial tables balance-sheet style figures, quarterly summaries, and similar line-item data. I need every table lifted cleanly from each document and placed into Excel (.xlsx) so the numbers can be filtered, summed, and charted right away. Accura",
+      "bids": 27,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 27
+    },
+    {
       "title": "Database Text Entry into Word",
       "url": "https://www.freelancer.com/projects/database-management/database-text-entry-into-word",
       "budget_raw": "$8 / hr Average bid",
@@ -469,32 +497,18 @@
       "score": 27
     },
     {
-      "title": "Copy PDF Data into Excel",
-      "url": "https://www.freelancer.com/projects/data-management/copy-pdf-data-into-excel",
-      "budget_raw": "$18 / hr Average bid",
-      "desc": "I have a digital PDF whose text can be fully selected and copied. I need every piece of that text moved into a clean, well-structured Excel workbook. The spreadsheet should follow the order of the PDF, with each logical field placed in its own column so the data can be sorted and filtered later. Acc",
-      "bids": 37,
+      "title": "Google Maps Data Scraping Electrical Supply Stores & Shops in Eastern & North-Eastern India",
+      "url": "https://www.freelancer.com/projects/data-scraping/google-maps-data-scraping-electrical",
+      "budget_raw": "$37 Average bid",
+      "desc": "I am looking for an experienced freelancer who can collect and provide a comprehensive list of Electrical Supply Stores, Electrical Shops, Electrical Material Dealers, Electrical Wholesalers and Electrical Distributors from Google Maps. The data needs to be collected for the following states in Indi",
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 18,
-      "hourly": true,
-      "flags": [],
-      "score": 25
-    },
-    {
-      "title": "20,000 United States AP Managers List",
-      "url": "https://www.freelancer.com/projects/data-management/united-states-managers-list",
-      "budget_raw": "$133 Average bid",
-      "desc": "I need a clean, accurate database of 20,000 Accounts Payable Managers based in the United States. For every contact please capture: Full name Valid professional email address (hard-bounce rate under 5 %) Company name Company street address I am open to AP Managers from companies of medium, and large",
-      "bids": 38,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 133,
+      "usd": 37,
       "hourly": false,
       "flags": [],
-      "score": 23
+      "score": 24
     },
     {
       "title": "Spreadsheet Product Data Extraction",
@@ -511,25 +525,11 @@
       "score": 23
     },
     {
-      "title": "Senior Data Acquisition & Document Intelligence Engineer",
-      "url": "https://www.freelancer.com/projects/web-scraping/senior-data-acquisition-document",
-      "budget_raw": "$265 Average bid",
-      "desc": "Project Title: Senior Data Acquisition & Document Intelligence Engineer We are looking for a highly experienced Senior Data Acquisition & Document Intelligence Engineer to build, operate, and continuously improve a large-scale production data acquisition and document processing system. Project Type:",
-      "bids": 14,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 265,
-      "hourly": false,
-      "flags": [],
-      "score": 22
-    },
-    {
       "title": "Real-time Data Integration for Webpage -- 2",
       "url": "https://www.freelancer.com/projects/web-development/real-time-data-integration-for",
       "budget_raw": "$22 Average bid",
       "desc": "I need a solution to download live value and trading volume data from Sharekhan Data API and transfer it to a CSV File to be updated every 1 minute in realtime. Requirements: - Download real-time volume and value data from Sharekhan - Format data in CSV file - Transfer data to webpage as live feed t",
-      "bids": 19,
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
@@ -541,30 +541,30 @@
     {
       "title": "Placer AI Data Harvesting and Analysis",
       "url": "https://www.freelancer.com/projects/data-analysis/placer-data-harvesting-analysis",
-      "budget_raw": "$123 Average bid",
+      "budget_raw": "$125 Average bid",
       "desc": "I need someone who already has their own access to placer ai because i do not have this software. They will pull data on 100 locations- average foot traffic, dwell time, and busiest times on average for all 7 days of the week and provide in a spreadsheet.",
-      "bids": 30,
+      "bids": 32,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 123,
+      "usd": 125,
       "hourly": false,
       "flags": [],
-      "score": 16
+      "score": 13
     },
     {
-      "title": "Excel Window Resizing Issue on Mac",
-      "url": "https://www.freelancer.com/projects/customer-support/excel-window-resizing-issue-mac",
-      "budget_raw": "$25 / hr Average bid",
-      "desc": "I need help restoring my Microsoft Excel window on my MacBook Air. The entire window has shrunk, and I cannot access the document to resize it. Ideal Skills and Experience: - Proficiency in Microsoft Excel on Mac - Experience with Mac operating system and window management - Problem-solving skills t",
-      "bids": 36,
+      "title": "Handwritten Invoices to Excel",
+      "url": "https://www.freelancer.com/projects/data-analysis/handwritten-invoices-excel",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a stack of well over 200 handwritten invoices that all need to be transcribed into a single, tidy Excel file. Each row in the spreadsheet should represent one invoice, with columns kept consistent across the entire workbook. Accuracy is critical: numbers must match the originals, dates remain",
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 25,
+      "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 16
+      "score": 12
     }
   ],
   "refused": [
@@ -595,6 +595,10 @@
     {
       "title": "Targeted LinkedIn Contact Scrape",
       "reason": "automatizare LinkedIn — încalcă termenii platformei"
+    },
+    {
+      "title": "Automated Binance Spot Trading Bot (Python) - Multi-Sniper Strategy",
+      "reason": "automatizare financiară sau de pariuri"
     },
     {
       "title": "Multi-Sniper Spot Trading Bot بوت تداول آلي احترافي على Binance",
