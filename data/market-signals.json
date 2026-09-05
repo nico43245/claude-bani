@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:11:50.580Z",
+  "generated_at": "2026-09-05T16:40:02.789Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -122,9 +122,14 @@
       },
       {
         "theme": "spend",
-        "mentions": 81,
+        "mentions": 82,
         "engagement": 11,
         "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
           {
             "text": "More spend doesn't equal more ads. Given a fixed number of ad spots, demand dictates the price advertisers would pay for ad placement. But ad platforms have no ",
             "url": "https://news.ycombinator.com/item?id=48957825",
@@ -139,14 +144,9 @@
             "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
             "url": "https://news.ycombinator.com/item?id=48522853",
             "date": "2026-06-14"
-          },
-          {
-            "text": "The auction used to be automated. I could say my max spend is $30 an ad, but if my biggest competitor maxed at $15, I would pay ~$15 + 1. Now I pay $30 Also mad",
-            "url": "https://news.ycombinator.com/item?id=49222424",
-            "date": "2026-08-08"
           }
         ],
-        "score": 89
+        "score": 90
       },
       {
         "theme": "hate",
@@ -401,36 +401,8 @@
         "score": 70
       },
       {
-        "theme": "browser",
-        "mentions": 16,
-        "engagement": 287,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
-            "url": "https://news.ycombinator.com/item?id=48973899",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This is nice. The controls could use some normalization, but all in all, very crisp. Esp for a non-chrome browser on linux on an ancient cpu. I would pay you 14",
-            "url": "https://news.ycombinator.com/item?id=48791475",
-            "date": "2026-07-05"
-          }
-        ],
-        "score": 69
-      },
-      {
         "theme": "them",
-        "mentions": 68,
+        "mentions": 67,
         "engagement": 0,
         "evidence": [
           {
@@ -454,7 +426,35 @@
             "date": "2026-08-01"
           }
         ],
-        "score": 68
+        "score": 67
+      },
+      {
+        "theme": "browser",
+        "mentions": 15,
+        "engagement": 287,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
+            "url": "https://news.ycombinator.com/item?id=48973899",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This is nice. The controls could use some normalization, but all in all, very crisp. Esp for a non-chrome browser on linux on an ancient cpu. I would pay you 14",
+            "url": "https://news.ycombinator.com/item?id=48791475",
+            "date": "2026-07-05"
+          }
+        ],
+        "score": 66
       },
       {
         "theme": "language",
@@ -480,6 +480,34 @@
             "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
             "url": "https://news.ycombinator.com/item?id=49388758",
             "date": "2026-08-21"
+          }
+        ],
+        "score": 63
+      },
+      {
+        "theme": "system",
+        "mentions": 25,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
           }
         ],
         "score": 63
@@ -511,34 +539,6 @@
           }
         ],
         "score": 63
-      },
-      {
-        "theme": "system",
-        "mentions": 24,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "This is just one of many papers DeepSeek have released to be able to serve models at extremely cheap prices, unlike the others taking on >$100B+ of debt in buil",
-            "url": "https://news.ycombinator.com/item?id=48696909",
-            "date": "2026-06-27"
-          }
-        ],
-        "score": 61
       },
       {
         "theme": "public",
@@ -653,6 +653,34 @@
         "score": 58
       },
       {
+        "theme": "without",
+        "mentions": 49,
+        "engagement": 9,
+        "evidence": [
+          {
+            "text": "Show HN: Remove your data from 100 platforms without signing up",
+            "url": "https://news.ycombinator.com/item?id=46453387",
+            "date": "2026-01-01"
+          },
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          }
+        ],
+        "score": 55
+      },
+      {
         "theme": "company",
         "mentions": 22,
         "engagement": 80,
@@ -673,40 +701,12 @@
             "date": "2026-07-07"
           },
           {
-            "text": "Can't speak for InDrive's safety rating, but I would pay 30-50% more for Uber's safety tech (on a $5 ride) than a company with less funding. (I'm ex-Grab).",
-            "url": "https://news.ycombinator.com/item?id=49545601",
-            "date": "2026-09-03"
+            "text": "As a European I can only say I would rather pay 9€ monthly to European company than even receiving 5€ from USA I self-host my application so I don't have need f",
+            "url": "https://news.ycombinator.com/item?id=49575026",
+            "date": "2026-09-05"
           }
         ],
         "score": 55
-      },
-      {
-        "theme": "without",
-        "mentions": 48,
-        "engagement": 9,
-        "evidence": [
-          {
-            "text": "Show HN: Remove your data from 100 platforms without signing up",
-            "url": "https://news.ycombinator.com/item?id=46453387",
-            "date": "2026-01-01"
-          },
-          {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
-          },
-          {
-            "text": "Cars and airplanes were probably the tech stocks before the transistor. But don’t sell pharmaceutical stocks short as the correct stock at the start of a hot dr",
-            "url": "https://news.ycombinator.com/item?id=48755000",
-            "date": "2026-07-02"
-          }
-        ],
-        "score": 54
       },
       {
         "theme": "world",
@@ -942,7 +942,7 @@
         "kind": "story",
         "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
         "url": "https://news.ycombinator.com/item?id=49528057",
-        "engagement": 167,
+        "engagement": 168,
         "date": "2026-09-01",
         "query": "\"there should be\""
       },
@@ -1017,8 +1017,8 @@
     "subjects": [
       {
         "subject": "excel",
-        "queries": 32,
-        "seed_spread": 9,
+        "queries": 31,
+        "seed_spread": 8,
         "avg_branches": 9.1,
         "examples": [
           "excel template for budget",
@@ -1027,11 +1027,11 @@
           "excel template for expense tracking",
           "excel template for job application tracking"
         ],
-        "score": 999
+        "score": 861
       },
       {
         "subject": "spreadsheet",
-        "queries": 32,
+        "queries": 31,
         "seed_spread": 7,
         "avg_branches": 9.2,
         "examples": [
@@ -1041,7 +1041,7 @@
           "excel template for job application tracking",
           "google sheets template for business expenses"
         ],
-        "score": 779
+        "score": 756
       },
       {
         "subject": "budget",
@@ -1059,7 +1059,7 @@
       },
       {
         "subject": "reddit",
-        "queries": 18,
+        "queries": 19,
         "seed_spread": 8,
         "avg_branches": 10,
         "examples": [
@@ -1069,7 +1069,7 @@
           "notion template for college",
           "excel template for budget"
         ],
-        "score": 516
+        "score": 545
       },
       {
         "subject": "planner",
@@ -1103,7 +1103,7 @@
         "subject": "google",
         "queries": 21,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9.8,
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
@@ -1111,7 +1111,7 @@
           "google sheets template for planning a trip",
           "google sheets template for job applications"
         ],
-        "score": 298
+        "score": 299
       },
       {
         "subject": "tracking",
@@ -1131,7 +1131,7 @@
         "subject": "sheets",
         "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9.8,
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
@@ -1139,7 +1139,7 @@
           "google sheets template for planning a trip",
           "google sheets template for job applications"
         ],
-        "score": 270
+        "score": 271
       },
       {
         "subject": "track",
@@ -1366,18 +1366,18 @@
         "score": 108
       },
       {
-        "subject": "example",
-        "queries": 5,
-        "seed_spread": 5,
-        "avg_branches": 9.2,
+        "subject": "planning",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
         "examples": [
-          "notion template for content creators",
-          "google sheets template for wedding guest list",
-          "tracking template for google ads",
-          "template management system",
-          "budget planner for small business"
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "google sheets template for travel itinerary",
+          "checklist for wedding planning"
         ],
-        "score": 87
+        "score": 99
       },
       {
         "subject": "expense",
@@ -1394,32 +1394,18 @@
         "score": 86
       },
       {
-        "subject": "planning",
-        "queries": 6,
-        "seed_spread": 4,
+        "subject": "docs",
+        "queries": 7,
+        "seed_spread": 3,
         "avg_branches": 9.7,
         "examples": [
-          "excel template for budget",
           "google sheets template for budget",
           "google sheets template for planning a trip",
-          "checklist for wedding planning",
-          "planner for small business owner"
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary",
+          "google sheets template for inventory"
         ],
-        "score": 85
-      },
-      {
-        "subject": "list",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for wedding guest list",
-          "google sheets template for college application",
-          "printable planner for the week",
-          "checklist for moving out of state"
-        ],
-        "score": 83
+        "score": 75
       },
       {
         "subject": "kids",
@@ -1450,18 +1436,18 @@
         "score": 74
       },
       {
-        "subject": "docs",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 9.4,
+        "subject": "list",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 9.2,
         "examples": [
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for inventory",
-          "google sheets template for wedding guest list"
+          "excel template for inventory",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for moving out of state",
+          "checklist for college dorm"
         ],
-        "score": 74
+        "score": 70
       },
       {
         "subject": "create",
@@ -1518,6 +1504,19 @@
           "best spreadsheet for finances"
         ],
         "score": 64
+      },
+      {
+        "subject": "example",
+        "queries": 4,
+        "seed_spread": 4,
+        "avg_branches": 9.5,
+        "examples": [
+          "notion template for content creators",
+          "tracking template for google ads",
+          "template management system",
+          "budget planner for small business"
+        ],
+        "score": 56
       },
       {
         "subject": "university",
@@ -1865,23 +1864,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for inventory",
-        "branches": 10,
-        "children": [
-          "google sheets template for inventory management",
-          "google sheets template for inventory tracking",
-          "google sheets template for inventory",
-          "google sheets template for inventory free",
-          "google sheets template for stock tracking",
-          "google sheets template for stock trading",
-          "google docs template for inventory",
-          "google sheet template for stock portfolio",
-          "google sheet template for stock management",
-          "google sheet template for stock"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for college application",
         "branches": 10,
         "children": [
@@ -1895,6 +1877,40 @@
           "google sheets college application template free",
           "google sheets template for university",
           "spreadsheet template for college application process"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for inventory",
+        "branches": 10,
+        "children": [
+          "google sheets template for inventory management",
+          "google sheets template for inventory tracking",
+          "google sheets template for inventory",
+          "google sheets template for inventory free",
+          "google sheets template for stock tracking",
+          "google sheets template for stock trading",
+          "google docs template for inventory",
+          "google sheet template for stock portfolio",
+          "google sheet template for stock management",
+          "google sheet template for stock"
         ]
       },
       {
@@ -1980,23 +1996,6 @@
           "spreadsheet template to track investments",
           "best spreadsheet to track investments",
           "free spreadsheet to track investments"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for july 2026",
-        "branches": 10,
-        "children": [
-          "printable planner for july 2026",
-          "printable calendar for july 2026",
-          "printable calendar for july 2026 pdf",
-          "printable calendar for july 2026 free",
-          "printable calendar for june 2026",
-          "printable calendar for august 2026",
-          "printable calendar for june 2026 pdf",
-          "printable calendar for june 2026 free",
-          "printable calendar for august 2026 pdf",
-          "printable calendar for august 2026 free"
         ]
       }
     ]
