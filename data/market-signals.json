@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:32:46.024Z",
+  "generated_at": "2026-09-06T16:48:32.081Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -205,34 +205,6 @@
         "score": 80
       },
       {
-        "theme": "code",
-        "mentions": 53,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
-            "url": "https://news.ycombinator.com/item?id=48522853",
-            "date": "2026-06-14"
-          },
-          {
-            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
-            "url": "https://news.ycombinator.com/item?id=48275865",
-            "date": "2026-05-26"
-          }
-        ],
-        "score": 78
-      },
-      {
         "theme": "built",
         "mentions": 25,
         "engagement": 164,
@@ -256,6 +228,34 @@
             "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
             "url": "https://news.ycombinator.com/item?id=44767486",
             "date": "2025-08-02"
+          }
+        ],
+        "score": 77
+      },
+      {
+        "theme": "code",
+        "mentions": 52,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
+            "url": "https://news.ycombinator.com/item?id=48522853",
+            "date": "2026-06-14"
+          },
+          {
+            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
+            "url": "https://news.ycombinator.com/item?id=48275865",
+            "date": "2026-05-26"
           }
         ],
         "score": 77
@@ -345,6 +345,34 @@
         "score": 71
       },
       {
+        "theme": "different",
+        "mentions": 36,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 71
+      },
+      {
         "theme": "open-source",
         "mentions": 11,
         "engagement": 961,
@@ -373,36 +401,8 @@
         "score": 71
       },
       {
-        "theme": "different",
-        "mentions": 35,
-        "engagement": 70,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 70
-      },
-      {
         "theme": "them",
-        "mentions": 68,
+        "mentions": 70,
         "engagement": 0,
         "evidence": [
           {
@@ -426,7 +426,7 @@
             "date": "2026-08-07"
           }
         ],
-        "score": 68
+        "score": 70
       },
       {
         "theme": "language",
@@ -709,34 +709,6 @@
         "score": 54
       },
       {
-        "theme": "writing",
-        "mentions": 19,
-        "engagement": 96,
-        "evidence": [
-          {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
-          },
-          {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
-          },
-          {
-            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
-            "url": "https://news.ycombinator.com/item?id=46567113",
-            "date": "2026-01-10"
-          },
-          {
-            "text": "I stopped using coding agents after more than one and a half year of active use, it really started to become way too boring, and I’m t a point where I just hate",
-            "url": "https://news.ycombinator.com/item?id=49153129",
-            "date": "2026-08-03"
-          }
-        ],
-        "score": 54
-      },
-      {
         "theme": "world",
         "mentions": 25,
         "engagement": 58,
@@ -763,6 +735,34 @@
           }
         ],
         "score": 53
+      },
+      {
+        "theme": "writing",
+        "mentions": 18,
+        "engagement": 96,
+        "evidence": [
+          {
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
+          },
+          {
+            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
+            "url": "https://news.ycombinator.com/item?id=47437681",
+            "date": "2026-03-19"
+          },
+          {
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
+          },
+          {
+            "text": "I stopped using coding agents after more than one and a half year of active use, it really started to become way too boring, and I’m t a point where I just hate",
+            "url": "https://news.ycombinator.com/item?id=49153129",
+            "date": "2026-08-03"
+          }
+        ],
+        "score": 52
       },
       {
         "theme": "agents",
@@ -821,29 +821,29 @@
         "score": 49
       },
       {
-        "theme": "project",
-        "mentions": 26,
-        "engagement": 45,
+        "theme": "research",
+        "mentions": 11,
+        "engagement": 219,
         "evidence": [
           {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
+            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
+            "url": "https://news.ycombinator.com/item?id=48824680",
+            "date": "2026-07-07"
           },
           {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
+            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
+            "url": "https://news.ycombinator.com/item?id=49048747",
+            "date": "2026-07-25"
           },
           {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
           },
           {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
           }
         ],
         "score": 49
@@ -1148,8 +1148,8 @@
         "avg_branches": 8.1,
         "examples": [
           "spreadsheet to track expenses",
-          "spreadsheet to track expenses for small business",
           "spreadsheet to track job applications",
+          "spreadsheet to track expenses for small business",
           "spreadsheet to track spending",
           "spreadsheet to track income and expenses"
         ],
@@ -1257,15 +1257,15 @@
         "subject": "notion",
         "queries": 12,
         "seed_spread": 3,
-        "avg_branches": 9.2,
+        "avg_branches": 9.3,
         "examples": [
           "notion template for college students",
           "notion template for school",
           "notion template for writing a book",
           "notion template for students",
-          "notion template for project management"
+          "notion template for medical students"
         ],
-        "score": 125
+        "score": 126
       },
       {
         "subject": "simple",
@@ -1324,20 +1324,6 @@
         "score": 115
       },
       {
-        "subject": "management",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 9.3,
-        "examples": [
-          "notion template for project management",
-          "excel template for budget",
-          "excel template for project management",
-          "excel template for expense tracking",
-          "excel template for inventory"
-        ],
-        "score": 112
-      },
-      {
         "subject": "planning",
         "queries": 7,
         "seed_spread": 4,
@@ -1364,6 +1350,20 @@
           "budget template for grant proposal"
         ],
         "score": 90
+      },
+      {
+        "subject": "example",
+        "queries": 5,
+        "seed_spread": 5,
+        "avg_branches": 9.2,
+        "examples": [
+          "notion template for content creators",
+          "google sheets template for wedding guest list",
+          "tracking template for google ads",
+          "template management system",
+          "budget planner for small business"
+        ],
+        "score": 87
       },
       {
         "subject": "students",
@@ -1422,18 +1422,18 @@
         "score": 75
       },
       {
-        "subject": "project",
-        "queries": 5,
-        "seed_spread": 4,
-        "avg_branches": 9.6,
+        "subject": "management",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.4,
         "examples": [
-          "notion template for project management",
+          "excel template for budget",
           "excel template for project management",
-          "tracker template for google sheets",
-          "tracker template for excel",
-          "budget template for grant proposal"
+          "excel template for expense tracking",
+          "excel template for inventory",
+          "google sheets template for inventory"
         ],
-        "score": 71
+        "score": 74
       },
       {
         "subject": "create",
@@ -1520,31 +1520,17 @@
         "score": 64
       },
       {
-        "subject": "example",
+        "subject": "project",
         "queries": 4,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "google sheets template for wedding guest list",
-          "tracking template for google ads",
-          "template management system",
-          "budget planner for small business"
-        ],
-        "score": 55
-      },
-      {
-        "subject": "software",
-        "queries": 5,
         "seed_spread": 3,
-        "avg_branches": 8.6,
+        "avg_branches": 10,
         "examples": [
-          "notion template for project management",
-          "best spreadsheet for ipad",
-          "best spreadsheet for mac",
-          "best spreadsheet for linux",
-          "scheduler for small business"
+          "excel template for project management",
+          "tracker template for google sheets",
+          "tracker template for excel",
+          "budget template for grant proposal"
         ],
-        "score": 51
+        "score": 43
       },
       {
         "subject": "spending",
@@ -1572,6 +1558,20 @@
           "best planner for small business owner"
         ],
         "score": 43
+      },
+      {
+        "subject": "financial",
+        "queries": 5,
+        "seed_spread": 2,
+        "avg_branches": 7.6,
+        "examples": [
+          "excel template to manage personal finance",
+          "planner for small business owner",
+          "planner for small business",
+          "financial planner for small business owners",
+          "budget planner for small business"
+        ],
+        "score": 33
       }
     ],
     "richest_veins": [
@@ -1658,6 +1658,23 @@
           "notion templates for college students aesthetic free",
           "notion templates for college students aesthetic",
           "notion templates for college students reddit"
+        ]
+      },
+      {
+        "seed": "notion template for",
+        "query": "notion template for content creators",
+        "branches": 10,
+        "children": [
+          "notion template for content creators free",
+          "notion template for content creators",
+          "notion template for content creation",
+          "notion template for youtube creators",
+          "notion template for youtube creators free",
+          "best notion template for content creators",
+          "free notion template for content creation",
+          "best notion template for content creation",
+          "notion template for youtube content creation",
+          "content creator example"
         ]
       },
       {
@@ -1981,23 +1998,6 @@
           "printable calendar for june 2026 free",
           "printable calendar for august 2026 pdf",
           "printable calendar for august 2026 free"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for kids",
-        "branches": 10,
-        "children": [
-          "printable planner for kids",
-          "printable calendar for kids",
-          "printable calendar for kids 2026",
-          "printable calendar for kids 2025",
-          "printable planner for students",
-          "printable calendar for kids to color",
-          "printable calendar for kids free",
-          "printable calendar for kids pdf",
-          "printable calendar for kids schedule",
-          "printable calendar for kids april 2026"
         ]
       }
     ]

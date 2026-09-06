@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T10:31:57.942Z",
-  "scanned": 202,
-  "accepted": 51,
-  "refused_on_ethics": 12,
+  "generated_at": "2026-09-06T16:47:43.145Z",
+  "scanned": 203,
+  "accepted": 55,
+  "refused_on_ethics": 13,
   "jobs": [
     {
       "title": "Manual Data Entry in Excel",
@@ -17,6 +17,20 @@
       "hourly": true,
       "flags": [],
       "score": 1235
+    },
+    {
+      "title": "PDF Sentence Extraction to Excel",
+      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-sentence-extraction-excel",
+      "budget_raw": "$185 Average bid",
+      "desc": "I have a text-only PDF that needs to be transcribed into an Excel workbook. Every sentence from the original document should appear in its own row, keeping exactly the same formatting bold, italic, underline, superscript, everything so that the spreadsheet mirrors the visual emphasis of the source. ",
+      "bids": 8,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 185,
+      "hourly": false,
+      "flags": [],
+      "score": 481
     },
     {
       "title": "Manual Mixed Data Entry Needed",
@@ -61,6 +75,20 @@
       "score": 156
     },
     {
+      "title": "Survey PDF Tables Excel",
+      "url": "https://www.freelancer.com/projects/adobe-acrobat/survey-pdf-tables-excel",
+      "budget_raw": "$190 Average bid",
+      "desc": "I have a batch of survey-result tables saved in separate PDFs well over ten in total that I need transferred into a clean, fully editable Excel workbook. Only the tabular data matters; any images or charts that may exist in those files can be ignored. The finished .xlsx file should mirror each PDF t",
+      "bids": 17,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 190,
+      "hourly": false,
+      "flags": [],
+      "score": 128
+    },
+    {
       "title": "Data Extraction from Amazon Laptop Listings",
       "url": "https://www.freelancer.com/projects/selenium/data-extraction-from-amazon-laptop",
       "budget_raw": "$21 / hr Average bid",
@@ -75,6 +103,20 @@
       "score": 118
     },
     {
+      "title": "50k Verified Healthcare Leads Wanted",
+      "url": "https://www.freelancer.com/projects/data-collection/verified-healthcare-leads-wanted",
+      "budget_raw": "$166 Average bid",
+      "desc": "I m looking for a clean, permission-based list of 50,000 contacts in the healthcare industry. Accuracy is critical; I won t accept recycled databases or high bounce rates. Doctors, nurses, administrators and other decision-makers are all welcome as long as the data is current and verifiable. Data fi",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 166,
+      "hourly": false,
+      "flags": [],
+      "score": 102
+    },
+    {
       "title": "Numeric CSV Data Cleanup",
       "url": "https://www.freelancer.com/projects/data-analysis/numeric-csv-data-cleanup",
       "budget_raw": "$186 Average bid",
@@ -84,20 +126,6 @@
       "verdict": "accept",
       "fit": 3,
       "usd": 186,
-      "hourly": false,
-      "flags": [],
-      "score": 98
-    },
-    {
-      "title": "Precise PDF-to-Excel Transfer",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/precise-pdf-excel-transfer-40693955",
-      "budget_raw": "$159 Average bid",
-      "desc": "The task is straightforward: take the content of a single PDF document no more than ten pages and convert it into a clean, well-structured Excel workbook. I will be using the spreadsheet purely for record-keeping, so accuracy matters more than speed. Every figure, label, and note that appears in the",
-      "bids": 19,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 159,
       "hourly": false,
       "flags": [],
       "score": 98
@@ -121,14 +149,28 @@
       "url": "https://www.freelancer.com/projects/data-analysis/enter-financial-budget-data-edt",
       "budget_raw": "$10 / hr Average bid",
       "desc": "I have multiple Excel workbooks that hold our organisation s budget reports and I need every line of that financial data re-entered with perfect accuracy. Your task is to take each source sheet, capture every figure and description exactly as it appears, and place it into a single, clean master file",
-      "bids": 5,
+      "bids": 6,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 10,
       "hourly": true,
       "flags": [],
-      "score": 82
+      "score": 80
+    },
+    {
+      "title": "Automated Excel Analysis Workflow",
+      "url": "https://www.freelancer.com/projects/automation/automated-excel-analysis-workflow",
+      "budget_raw": "$10 / hr Average bid",
+      "desc": "I have an existing Excel form that currently relies on manual entry and button-click processing. The form s sole purpose is data analysis, so I need the repetitive steps replaced with a fully automated workflow that runs calculations and summaries the moment new rows are added or a file is imported.",
+      "bids": 8,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 10,
+      "hourly": true,
+      "flags": [],
+      "score": 75
     },
     {
       "title": "Online Registration Form Entry",
@@ -173,24 +215,24 @@
       "score": 69
     },
     {
-      "title": "Excel Data Error Correction",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-error-correction",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I m handing over a raw Excel workbook that needs careful data cleaning focused strictly on correcting errors. You ll work sheet-by-sheet, hunting down typos, mis-keyed numbers, misplaced decimal points, broken formulas, inconsistent dates, and any other inaccuracies that could throw later analysis o",
-      "bids": 10,
+      "title": "Excel Files Data Updating & Modification 45 Existing Client Files",
+      "url": "https://www.freelancer.com/projects/visual-basic/excel-files-data-updating-modification-40694571",
+      "budget_raw": "$16 / hr Average bid",
+      "desc": "I have approximately 45 Excel files containing data from our old clients. I am looking for an experienced freelancer who can carefully review these files and make the required changes and updates as instructed. The work may include editing existing data, updating information, correcting entries, for",
+      "bids": 7,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 8,
+      "fit": 2,
+      "usd": 16,
       "hourly": true,
       "flags": [],
-      "score": 56
+      "score": 55
     },
     {
-      "title": "Enter Financial Budget Data",
-      "url": "https://www.freelancer.com/projects/data-analysis/enter-financial-budget-data",
+      "title": "Daily Order Status Entry",
+      "url": "https://www.freelancer.com/projects/data-analysis/daily-order-status-entry",
       "budget_raw": "$9 / hr Average bid",
-      "desc": "I have multiple Excel workbooks that hold our organisation s budget reports and I need every line of that financial data re-entered with perfect accuracy. Your task is to take each source sheet, capture every figure and description exactly as it appears, and place it into a single, clean master file",
+      "desc": "I have an Excel workbook that tracks every order moving through my shop. Each business day I will send you the raw updates, and I need those figures keyed straight into the correct rows and columns of that file so the status dashboard always shows the latest information. The sheet structure is locke",
       "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
@@ -201,60 +243,74 @@
       "score": 55
     },
     {
-      "title": "Daily Order Status Entry",
-      "url": "https://www.freelancer.com/projects/data-analysis/daily-order-status-entry",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I have an Excel workbook that tracks every order moving through my shop. Each business day I will send you the raw updates, and I need those figures keyed straight into the correct rows and columns of that file so the status dashboard always shows the latest information. The sheet structure is locke",
-      "bids": 11,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 54
-    },
-    {
-      "title": "Excel Form Automation via SQL",
-      "url": "https://www.freelancer.com/projects/automation/excel-form-automation-via-sql",
-      "budget_raw": "$152 / hr Average bid",
-      "desc": "I have an existing Excel workbook that currently relies on manual submissions. All the figures we need already live in a SQL Server database; they simply have to appear in the correct cells of the form and then trigger the usual calculations and formatting the sheet already performs. Here is what I ",
-      "bids": 23,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 152,
-      "hourly": true,
-      "flags": [],
-      "score": 50
-    },
-    {
-      "title": "Business Analytics API Dashboard -- 2",
-      "url": "https://www.freelancer.com/projects/api/business-analytics-api-dashboard",
+      "title": "Enter Financial Budget Data",
+      "url": "https://www.freelancer.com/projects/data-analysis/enter-financial-budget-data",
       "budget_raw": "$9 / hr Average bid",
-      "desc": "I need a clear, interactive business-analytics dashboard that pulls live data directly from our API endpoints and turns it into actionable insight. The finished board should surface three core KPIs: revenue growth, customer acquisition, and operational efficiency. My priorities are: Seamless, secure",
-      "bids": 18,
+      "desc": "I have multiple Excel workbooks that hold our organisation s budget reports and I need every line of that financial data re-entered with perfect accuracy. Your task is to take each source sheet, capture every figure and description exactly as it appears, and place it into a single, clean master file",
+      "bids": 15,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 46
+      "score": 53
     },
     {
-      "title": "PDF Text-to-Excel Conversion",
-      "url": "https://www.freelancer.com/projects/data-annotation/pdf-text-excel-conversion-40693845",
-      "budget_raw": "$307 Average bid",
-      "desc": "I have several PDFs that contain purely textual content. I need every word lifted out of those files and placed into a single Excel workbook, arranged neatly across multiple columns rather than one long column dump. No tables or images are involved just the text. Please keep the wording exactly as i",
-      "bids": 29,
+      "title": "Excel Data Error Correction",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-error-correction",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I m handing over a raw Excel workbook that needs careful data cleaning focused strictly on correcting errors. You ll work sheet-by-sheet, hunting down typos, mis-keyed numbers, misplaced decimal points, broken formulas, inconsistent dates, and any other inaccuracies that could throw later analysis o",
+      "bids": 13,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 8,
+      "hourly": true,
+      "flags": [],
+      "score": 51
+    },
+    {
+      "title": "Canadian Professional Services Leads",
+      "url": "https://www.freelancer.com/projects/data-collection/canadian-professional-services-leads",
+      "budget_raw": "$107 Average bid",
+      "desc": "I need a fresh list of 1,000 professional-services businesses mainly legal, accounting and related offices sourced directly from Google Maps listings across Canada. Every company on the spreadsheet must have opened between 2020 and 2026 and still be operating today in either urban or suburban locati",
+      "bids": 9,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 307,
+      "usd": 107,
       "hourly": false,
       "flags": [],
-      "score": 44
+      "score": 43
+    },
+    {
+      "title": "Excel Form Automation via SQL",
+      "url": "https://www.freelancer.com/projects/automation/excel-form-automation-via-sql",
+      "budget_raw": "$157 / hr Average bid",
+      "desc": "I have an existing Excel workbook that currently relies on manual submissions. All the figures we need already live in a SQL Server database; they simply have to appear in the correct cells of the form and then trigger the usual calculations and formatting the sheet already performs. Here is what I ",
+      "bids": 25,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 157,
+      "hourly": true,
+      "flags": [],
+      "score": 43
+    },
+    {
+      "title": "Precise PDF-to-Excel Transfer",
+      "url": "https://www.freelancer.com/projects/adobe-acrobat/precise-pdf-excel-transfer-40693955",
+      "budget_raw": "$160 Average bid",
+      "desc": "The task is straightforward: take the content of a single PDF document no more than ten pages and convert it into a clean, well-structured Excel workbook. I will be using the spreadsheet purely for record-keeping, so accuracy matters more than speed. Every figure, label, and note that appears in the",
+      "bids": 31,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 160,
+      "hourly": false,
+      "flags": [],
+      "score": 42
     },
     {
       "title": "Jahresabschluss & E-Bilanz Erstellung",
@@ -271,20 +327,6 @@
       "score": 42
     },
     {
-      "title": "Machine Learning for Job Market Analytics -- 2",
-      "url": "https://www.freelancer.com/projects/postgresql/machine-learning-for-job-market",
-      "budget_raw": "$97 Average bid",
-      "desc": "Machine Learning Pipeline Job Market Analytics & Salary Prediction Created an end-to-end machine learning pipeline for looking at job market data and guessing what salaries might be. Key Features: Worked on. Fixed 10,000 or more job-market records using Python, Pandas and NumPy. Made an automated ET",
-      "bids": 27,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 97,
-      "hourly": false,
-      "flags": [],
-      "score": 37
-    },
-    {
       "title": "WhatsApp Group Creation & Member Addition",
       "url": "https://www.freelancer.com/projects/data-processing/whatsapp-group-creation-member-addition-40693623",
       "budget_raw": "$10 / hr Average bid",
@@ -299,15 +341,15 @@
       "score": 35
     },
     {
-      "title": "Vintage Logo & Excel Entry",
-      "url": "https://www.freelancer.com/projects/data-entry/vintage-logo-excel-entry",
-      "budget_raw": "$42 Average bid",
-      "desc": "I need two things handled side-by-side. First, a vintage-style logo that feels authentic rather than retro-clip-art. I will share brand colours, sample references and the business name as soon as we start. Please plan on supplying a clean vector master (AI or EPS) plus web-ready PNG and JPG versions",
-      "bids": 12,
+      "title": "Machine Learning for Job Market Analytics -- 2",
+      "url": "https://www.freelancer.com/projects/postgresql/machine-learning-for-job-market",
+      "budget_raw": "$106 Average bid",
+      "desc": "Machine Learning Pipeline Job Market Analytics & Salary Prediction Created an end-to-end machine learning pipeline for looking at job market data and guessing what salaries might be. Key Features: Worked on. Fixed 10,000 or more job-market records using Python, Pandas and NumPy. Made an automated ET",
+      "bids": 29,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 42,
+      "usd": 106,
       "hourly": false,
       "flags": [],
       "score": 34
@@ -341,25 +383,11 @@
       "score": 32
     },
     {
-      "title": "Excel Numeric Data PDF Conversion",
-      "url": "https://www.freelancer.com/projects/copy-typing/excel-numeric-data-pdf-conversion",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I need several Excel sheets packed with numerical data transferred into a Word document, laid out as clear, tidy tables, and then saved as a PDF. Accuracy is critical, so along with the transfer I expect you to validate the numbers: double-check sums, compare row and column totals with the source fi",
-      "bids": 10,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 31
-    },
-    {
       "title": "Satellite Imagery Change Detection Model",
       "url": "https://www.freelancer.com/projects/data-processing/satellite-imagery-change-detection-model",
       "budget_raw": "$21 / hr Average bid",
       "desc": "I have a time-series collection of remote sensing data specifically multi-spectral satellite imagery and I need an AI model that can reliably pinpoint and quantify changes that occur from one acquisition date to the next. The end goal is an automated workflow that flags where and when significant al",
-      "bids": 37,
+      "bids": 40,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -381,6 +409,34 @@
       "hourly": true,
       "flags": [],
       "score": 28
+    },
+    {
+      "title": "Excel Numeric Data PDF Conversion",
+      "url": "https://www.freelancer.com/projects/copy-typing/excel-numeric-data-pdf-conversion",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I need several Excel sheets packed with numerical data transferred into a Word document, laid out as clear, tidy tables, and then saved as a PDF. Accuracy is critical, so along with the transfer I expect you to validate the numbers: double-check sums, compare row and column totals with the source fi",
+      "bids": 11,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 27
+    },
+    {
+      "title": "PDF Text-to-Excel Conversion",
+      "url": "https://www.freelancer.com/projects/data-annotation/pdf-text-excel-conversion-40693845",
+      "budget_raw": "$328 Average bid",
+      "desc": "I have several PDFs that contain purely textual content. I need every word lifted out of those files and placed into a single Excel workbook, arranged neatly across multiple columns rather than one long column dump. No tables or images are involved just the text. Please keep the wording exactly as i",
+      "bids": 37,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 328,
+      "hourly": false,
+      "flags": [],
+      "score": 26
     },
     {
       "title": "Spreadsheet Product Data Extraction",
@@ -411,67 +467,53 @@
       "score": 23
     },
     {
-      "title": "Excel Title Case Conversion",
-      "url": "https://www.freelancer.com/projects/copy-typing/excel-title-case-conversion",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I need help standardising the text in an Excel workbook. Several columns are filled with names, product titles, and location fields that now appear in random mixtures of upper- and lower-case letters. Every entry should read in proper Title Case first letter of each word capitalised and the rest in ",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 23
-    },
-    {
       "title": "Daily Excel Sales Entry Assistant",
       "url": "https://www.freelancer.com/projects/data-management/daily-excel-sales-entry-assistant",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I keep my sales records in a Microsoft Excel workbook and need someone reliable to add the day s sales amount to the correct tab every evening. The file is already set up with clear date rows; you ll simply open the spreadsheet, locate today s row, type in the total sales figure I provide, and save ",
-      "bids": 16,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 22
+      "score": 21
+    },
+    {
+      "title": "Bulk WordPress Post Upload",
+      "url": "https://www.freelancer.com/projects/content-writing/bulk-wordpress-post-upload",
+      "budget_raw": "$168 Average bid",
+      "desc": "I already have 120 text-only articles sitting in a spreadsheet, each with its title and body content finalised. All I need now is for those pieces to become live WordPress posts. The job is straightforward: create one standard post per article, paste in the provided text exactly as written, and hit ",
+      "bids": 33,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 168,
+      "hourly": false,
+      "flags": [],
+      "score": 15
     },
     {
       "title": "HRMS Software Customization",
       "url": "https://www.freelancer.com/projects/database-management/hrms-software-customization",
-      "budget_raw": "$46 Average bid",
+      "budget_raw": "$43 Average bid",
       "desc": "We are looking for an experienced Python Freelancer to work on our existing HRMS (Human Resource Management System). The HRMS is already developed and operational, and the freelancer will be responsible for modifying existing functionalities, adding new features, and making system enhancements based",
-      "bids": 26,
+      "bids": 29,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 46,
+      "usd": 43,
       "hourly": false,
       "flags": [],
-      "score": 19
-    },
-    {
-      "title": "Excel Files Data Updating & Modification 45 Existing Client Files",
-      "url": "https://www.freelancer.com/projects/data-management/excel-files-data-updating-modification",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I have approximately 45 Excel files containing data from our old clients. I am looking for an experienced freelancer who can carefully review these files and make the required changes and updates as instructed. The work may include editing existing data, updating information, correcting entries, for",
-      "bids": 11,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 5,
-      "hourly": true,
-      "flags": [],
-      "score": 15
+      "score": 14
     },
     {
       "title": "Real-time Data Integration for Webpage -- 2",
       "url": "https://www.freelancer.com/projects/web-development/real-time-data-integration-for",
       "budget_raw": "$21 Average bid",
       "desc": "I need a solution to download live value and trading volume data from Sharekhan Data API and transfer it to a CSV File to be updated every 1 minute in realtime. Requirements: - Download real-time volume and value data from Sharekhan - Format data in CSV file - Transfer data to webpage as live feed t",
-      "bids": 24,
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
@@ -495,77 +537,43 @@
       "score": 13
     },
     {
-      "title": "Full-Stack Online Registration Form Creation",
-      "url": "https://www.freelancer.com/projects/full-stack-development/full-stack-online-registration-form",
-      "budget_raw": "$21 Average bid",
-      "desc": "Project Title: Full-Stack Online Registration Form & Database Integration Project Overview: I need a secure, user-friendly, and responsive Online Registration Form web application. The system should collect user details, validate inputs, and securely store the records in a backend database with an e",
-      "bids": 24,
+      "title": "On-Site Algo Maintanance Engineer",
+      "url": "https://www.freelancer.com/projects/python/site-algo-maintanance-engineer",
+      "budget_raw": "$2 / hr Average bid",
+      "desc": "I run a suite of Python-based automated strategies from my home office in Sunder Vihar, West Delhi and need reliable, hands-on cover every trading day. From 8:45 AM until the Indian market closes at roughly 3:45 PM you will sit next to the live systems, powering them up, keeping them healthy and int",
+      "bids": 5,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 4,
-      "usd": 21,
-      "hourly": false,
+      "fit": 3,
+      "usd": 2,
+      "hourly": true,
       "flags": [],
       "score": 13
     },
     {
-      "title": "Power BI Business Performance Dashboard",
-      "url": "https://www.freelancer.com/projects/power-bi/power-business-performance-dashboard-40692756",
-      "budget_raw": "$63 Average bid",
-      "desc": "I need a clean, executive-ready Power BI dashboard that tracks our overall business performance straight from a set of Excel workbooks I ll provide. The files contain weekly figures for sales, costs, and a few operational numbers; they remain in the same structure every week, so the model has to ref",
-      "bids": 34,
+      "title": "Excel Files Data Updating & Modification 45 Existing Client Files -- 2",
+      "url": "https://www.freelancer.com/projects/visual-basic/excel-files-data-updating-modification",
+      "budget_raw": "$4 / hr Average bid",
+      "desc": "I have approximately 45 Excel files containing data from our old clients. I am looking for an experienced freelancer who can carefully review these files and make the required changes and updates as instructed. The work may include editing existing data, updating information, correcting entries, for",
+      "bids": 9,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 63,
-      "hourly": false,
-      "flags": [],
-      "score": 11
-    },
-    {
-      "title": "5000 Mumbai Practicing Chartered Accountant who have offices in mumbai Database Needed",
-      "url": "https://www.freelancer.com/projects/data-collection/mumbai-practicing-chartered-accountant",
-      "budget_raw": "$12 Average bid",
-      "desc": "I need a clean, ready-to-use Excel file containing 5,000 unique, Practicing Chartered Accountants based in Mumbai. Each record must include: Full name Mobile number Email ID Office or residential address (Mumbai only) Firm name Years of experience Accuracy is critical. I will randomly verify at leas",
-      "bids": 6,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 12,
-      "hourly": false,
-      "flags": [],
-      "score": 9
-    },
-    {
-      "title": "Met Office Balloon Data",
-      "url": "https://www.freelancer.com/projects/data-extraction/scrape-met-office-balloon-data",
-      "budget_raw": "$25 Average bid",
-      "desc": "I have access to met office data for weather balloon but I don't know how to extract the data. If you have worked with weather balloon data before please tell me where or how? Do you have jobs for this on your profile? Where can I actually see proof of the work? I will pay $25 as this such be super ",
-      "bids": 28,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 25,
-      "hourly": false,
-      "flags": [],
-      "score": 9
-    },
-    {
-      "title": "Sales Revenue Growth Analysis",
-      "url": "https://www.freelancer.com/projects/data-analysis/sales-revenue-growth-analysis",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I m looking for a sharp analyst to turn my raw sales exports into clear, decision-ready insight focused on revenue growth. The data covers online and in-store transactions plus basic customer attributes; it just hasn t been cleaned or modeled yet. Your mission: Prepare and cleanse the files so every",
-      "bids": 5,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 9,
+      "fit": 2,
+      "usd": 4,
       "hourly": true,
       "flags": [],
-      "score": 8
+      "score": 13
     }
   ],
   "refused": [
+    {
+      "title": "Instagram Ad Auto Viewing System",
+      "reason": "extragere din rețele sociale — încalcă termenii platformei"
+    },
+    {
+      "title": "LinkedIn Employee Data Scraping",
+      "reason": "automatizare LinkedIn — încalcă termenii platformei"
+    },
     {
       "title": "U.S. Lead Generation Find Businesses Needs High-Volume Applicants",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
@@ -609,10 +617,6 @@
     {
       "title": "Urgent USA CEO Ready-made Lead List Needed",
       "reason": "listă masivă de date personale — GDPR și spam"
-    },
-    {
-      "title": "2M Email Records, Cleaning & Verification",
-      "reason": "spam în masă"
     }
   ]
 }
