@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:48:32.081Z",
+  "generated_at": "2026-09-06T23:38:12.943Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 30,
+        "mentions": 29,
         "engagement": 332,
         "evidence": [
           {
@@ -34,11 +34,11 @@
             "date": "2026-05-27"
           }
         ],
-        "score": 111
+        "score": 109
       },
       {
         "theme": "wish",
-        "mentions": 99,
+        "mentions": 100,
         "engagement": 11,
         "evidence": [
           {
@@ -62,7 +62,7 @@
             "date": "2026-09-02"
           }
         ],
-        "score": 107
+        "score": 108
       },
       {
         "theme": "web",
@@ -402,7 +402,7 @@
       },
       {
         "theme": "them",
-        "mentions": 70,
+        "mentions": 68,
         "engagement": 0,
         "evidence": [
           {
@@ -426,7 +426,7 @@
             "date": "2026-08-07"
           }
         ],
-        "score": 70
+        "score": 68
       },
       {
         "theme": "language",
@@ -485,34 +485,6 @@
         "score": 63
       },
       {
-        "theme": "system",
-        "mentions": 25,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
-          },
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
-          }
-        ],
-        "score": 63
-      },
-      {
         "theme": "trust",
         "mentions": 10,
         "engagement": 770,
@@ -541,8 +513,36 @@
         "score": 63
       },
       {
+        "theme": "system",
+        "mentions": 24,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
+          }
+        ],
+        "score": 61
+      },
+      {
         "theme": "public",
-        "mentions": 20,
+        "mentions": 19,
         "engagement": 126,
         "evidence": [
           {
@@ -566,7 +566,7 @@
             "date": "2026-06-04"
           }
         ],
-        "score": 61
+        "score": 59
       },
       {
         "theme": "videos",
@@ -625,6 +625,34 @@
         "score": 58
       },
       {
+        "theme": "stop",
+        "mentions": 14,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "Indeed, \"I wish there was tech to stop me from lying to myself\" is just not a tech problem.",
+            "url": "https://news.ycombinator.com/item?id=49589738",
+            "date": "2026-09-06"
+          }
+        ],
+        "score": 58
+      },
+      {
         "theme": "company",
         "mentions": 22,
         "engagement": 80,
@@ -648,34 +676,6 @@
             "text": "As a European I can only say I would rather pay 9€ monthly to European company than even receiving 5€ from USA I self-host my application so I don't have need f",
             "url": "https://news.ycombinator.com/item?id=49575026",
             "date": "2026-09-05"
-          }
-        ],
-        "score": 55
-      },
-      {
-        "theme": "stop",
-        "mentions": 13,
-        "engagement": 215,
-        "evidence": [
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "having worked in govt tech for 15+ years...incompetence is and always has been a huge thing...its not always the vendors that are at fault, many times there are",
-            "url": "https://news.ycombinator.com/item?id=49262324",
-            "date": "2026-08-11"
           }
         ],
         "score": 55
@@ -942,7 +942,7 @@
         "kind": "story",
         "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
         "url": "https://news.ycombinator.com/item?id=49528057",
-        "engagement": 169,
+        "engagement": 171,
         "date": "2026-09-01",
         "query": "\"there should be\""
       },
@@ -1031,9 +1031,9 @@
       },
       {
         "subject": "spreadsheet",
-        "queries": 31,
+        "queries": 32,
         "seed_spread": 7,
-        "avg_branches": 9.1,
+        "avg_branches": 9.2,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
@@ -1041,7 +1041,7 @@
           "excel template for job application tracking",
           "google sheets template for business expenses"
         ],
-        "score": 754
+        "score": 779
       },
       {
         "subject": "budget",
@@ -1059,7 +1059,7 @@
       },
       {
         "subject": "reddit",
-        "queries": 19,
+        "queries": 18,
         "seed_spread": 8,
         "avg_branches": 10,
         "examples": [
@@ -1069,7 +1069,7 @@
           "notion template for college",
           "excel template for budget"
         ],
-        "score": 545
+        "score": 516
       },
       {
         "subject": "planner",
@@ -1105,11 +1105,11 @@
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
-          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for tracking expenses",
-          "google sheets template for planning a trip"
+          "google sheets template for planning a trip",
+          "google sheets template for job applications"
         ],
         "score": 298
       },
@@ -1133,11 +1133,11 @@
         "seed_spread": 4,
         "avg_branches": 9.7,
         "examples": [
-          "google sheets template for travel itinerary",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for tracking expenses",
-          "google sheets template for planning a trip"
+          "google sheets template for planning a trip",
+          "google sheets template for job applications"
         ],
         "score": 270
       },
@@ -1148,8 +1148,8 @@
         "avg_branches": 8.1,
         "examples": [
           "spreadsheet to track expenses",
-          "spreadsheet to track job applications",
           "spreadsheet to track expenses for small business",
+          "spreadsheet to track job applications",
           "spreadsheet to track spending",
           "spreadsheet to track income and expenses"
         ],
@@ -1227,9 +1227,9 @@
       },
       {
         "subject": "printable",
-        "queries": 11,
+        "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.6,
+        "avg_branches": 9.2,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1237,7 +1237,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 156
+        "score": 167
       },
       {
         "subject": "sheet",
@@ -1252,6 +1252,20 @@
           "google sheets template for budget"
         ],
         "score": 148
+      },
+      {
+        "subject": "students",
+        "queries": 9,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for medical students",
+          "notion template for college"
+        ],
+        "score": 129
       },
       {
         "subject": "notion",
@@ -1324,32 +1338,32 @@
         "score": 115
       },
       {
-        "subject": "planning",
-        "queries": 7,
-        "seed_spread": 4,
-        "avg_branches": 9.7,
-        "examples": [
-          "excel template for budget",
-          "google sheets template for travel itinerary",
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "checklist for wedding planning"
-        ],
-        "score": 99
-      },
-      {
         "subject": "application",
-        "queries": 5,
+        "queries": 6,
         "seed_spread": 5,
         "avg_branches": 10,
         "examples": [
           "notion template for college",
           "excel template for job application tracking",
           "google sheets template for job applications",
-          "spreadsheet to track job applications",
-          "budget template for grant proposal"
+          "google sheets template for college application",
+          "spreadsheet to track job applications"
         ],
-        "score": 90
+        "score": 108
+      },
+      {
+        "subject": "college",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
+        ],
+        "score": 100
       },
       {
         "subject": "example",
@@ -1366,20 +1380,6 @@
         "score": 87
       },
       {
-        "subject": "students",
-        "queries": 8,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for medical students",
-          "notion template for college"
-        ],
-        "score": 86
-      },
-      {
         "subject": "expense",
         "queries": 8,
         "seed_spread": 3,
@@ -1394,18 +1394,32 @@
         "score": 86
       },
       {
-        "subject": "docs",
-        "queries": 8,
-        "seed_spread": 3,
-        "avg_branches": 9.5,
+        "subject": "planning",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
         "examples": [
-          "google sheets template for travel itinerary",
+          "excel template for budget",
           "google sheets template for budget",
           "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for inventory"
+          "checklist for wedding planning",
+          "planner for small business owner"
         ],
         "score": 85
+      },
+      {
+        "subject": "list",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 8.5,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for wedding guest list",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for fire evacuation"
+        ],
+        "score": 81
       },
       {
         "subject": "kids",
@@ -1416,8 +1430,8 @@
           "printable planner for kids",
           "printable planner for adhd",
           "checklist for traveling",
-          "checklist for camping",
-          "checklist for international travel"
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 75
       },
@@ -1436,6 +1450,34 @@
         "score": 74
       },
       {
+        "subject": "docs",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.4,
+        "examples": [
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "google sheets template for job applications",
+          "google sheets template for inventory",
+          "google sheets template for wedding guest list"
+        ],
+        "score": 74
+      },
+      {
+        "subject": "plan",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.6,
+        "examples": [
+          "checklist for fire evacuation",
+          "budget template for college student",
+          "budget template for teens",
+          "budget template for biweekly pay",
+          "planner for small business owner"
+        ],
+        "score": 74
+      },
+      {
         "subject": "create",
         "queries": 5,
         "seed_spread": 4,
@@ -1450,20 +1492,6 @@
         "score": 69
       },
       {
-        "subject": "list",
-        "queries": 5,
-        "seed_spread": 4,
-        "avg_branches": 8.4,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for wedding guest list",
-          "printable planner for the week",
-          "checklist for real id california",
-          "checklist for moving out of state"
-        ],
-        "score": 68
-      },
-      {
         "subject": "weekly",
         "queries": 5,
         "seed_spread": 4,
@@ -1476,20 +1504,6 @@
           "report template to management"
         ],
         "score": 68
-      },
-      {
-        "subject": "college",
-        "queries": 6,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "checklist for moving"
-        ],
-        "score": 65
       },
       {
         "subject": "daily",
@@ -1520,6 +1534,19 @@
         "score": 64
       },
       {
+        "subject": "university",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for students",
+          "google sheets template for college application",
+          "budget template for college student"
+        ],
+        "score": 43
+      },
+      {
         "subject": "project",
         "queries": 4,
         "seed_spread": 3,
@@ -1544,34 +1571,6 @@
           "expense tracker template for google sheets"
         ],
         "score": 43
-      },
-      {
-        "subject": "plan",
-        "queries": 6,
-        "seed_spread": 2,
-        "avg_branches": 10,
-        "examples": [
-          "budget template for college student",
-          "budget template for teens",
-          "budget template for biweekly pay",
-          "planner for small business owner",
-          "best planner for small business owner"
-        ],
-        "score": 43
-      },
-      {
-        "subject": "financial",
-        "queries": 5,
-        "seed_spread": 2,
-        "avg_branches": 7.6,
-        "examples": [
-          "excel template to manage personal finance",
-          "planner for small business owner",
-          "planner for small business",
-          "financial planner for small business owners",
-          "budget planner for small business"
-        ],
-        "score": 33
       }
     ],
     "richest_veins": [
@@ -1798,23 +1797,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for travel itinerary",
-        "branches": 10,
-        "children": [
-          "google sheets template for travel itinerary",
-          "google docs template for travel itinerary",
-          "google sheets template for travel planning",
-          "google sheets template for trip itinerary",
-          "free google sheets template for travel itinerary",
-          "google sheets template for trip planning",
-          "google docs template for travel planning",
-          "google docs template for trip itinerary",
-          "google docs template for trip planning",
-          "google sheets travel itinerary template reddit"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for budget",
         "branches": 10,
         "children": [
@@ -1896,6 +1878,23 @@
           "google sheet template for stock portfolio",
           "google sheet template for stock management",
           "google sheet template for stock"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for college application",
+        "branches": 10,
+        "children": [
+          "google sheets template for college application",
+          "google sheets template for college classes",
+          "google sheets template for college list",
+          "google sheets template for college assignments",
+          "google sheets template for college",
+          "google sheets template for college students",
+          "google sheets template for college search",
+          "google sheets college application template free",
+          "google sheets template for university",
+          "spreadsheet template for college application process"
         ]
       },
       {
