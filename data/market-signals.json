@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-06T23:38:12.943Z",
+  "generated_at": "2026-09-07T11:55:15.032Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1109,
+    "signals_total": 1110,
     "themes": [
       {
         "theme": "app",
@@ -38,7 +38,7 @@
       },
       {
         "theme": "wish",
-        "mentions": 100,
+        "mentions": 99,
         "engagement": 11,
         "evidence": [
           {
@@ -62,7 +62,7 @@
             "date": "2026-09-02"
           }
         ],
-        "score": 108
+        "score": 107
       },
       {
         "theme": "web",
@@ -345,34 +345,6 @@
         "score": 71
       },
       {
-        "theme": "different",
-        "mentions": 36,
-        "engagement": 70,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 71
-      },
-      {
         "theme": "open-source",
         "mentions": 11,
         "engagement": 961,
@@ -399,6 +371,34 @@
           }
         ],
         "score": 71
+      },
+      {
+        "theme": "different",
+        "mentions": 35,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 70
       },
       {
         "theme": "them",
@@ -737,6 +737,34 @@
         "score": 53
       },
       {
+        "theme": "research",
+        "mentions": 12,
+        "engagement": 223,
+        "evidence": [
+          {
+            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
+            "url": "https://news.ycombinator.com/item?id=48824680",
+            "date": "2026-07-07"
+          },
+          {
+            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
+            "url": "https://news.ycombinator.com/item?id=49048747",
+            "date": "2026-07-25"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
+          }
+        ],
+        "score": 52
+      },
+      {
         "theme": "writing",
         "mentions": 18,
         "engagement": 96,
@@ -816,34 +844,6 @@
             "text": "The article also explains that retailers have had customers ask for this, which is why Nikon is trialing selling this through those channels instead of direct, ",
             "url": "https://news.ycombinator.com/item?id=48770654",
             "date": "2026-07-03"
-          }
-        ],
-        "score": 49
-      },
-      {
-        "theme": "research",
-        "mentions": 11,
-        "engagement": 219,
-        "evidence": [
-          {
-            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
-            "url": "https://news.ycombinator.com/item?id=48824680",
-            "date": "2026-07-07"
-          },
-          {
-            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
-            "url": "https://news.ycombinator.com/item?id=49048747",
-            "date": "2026-07-25"
-          },
-          {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
-          },
-          {
-            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
-            "url": "https://news.ycombinator.com/item?id=46567113",
-            "date": "2026-01-10"
           }
         ],
         "score": 49
@@ -1017,8 +1017,8 @@
     "subjects": [
       {
         "subject": "excel",
-        "queries": 32,
-        "seed_spread": 9,
+        "queries": 31,
+        "seed_spread": 8,
         "avg_branches": 9.1,
         "examples": [
           "excel template for budget",
@@ -1027,11 +1027,11 @@
           "excel template for expense tracking",
           "excel template for job application tracking"
         ],
-        "score": 999
+        "score": 861
       },
       {
         "subject": "spreadsheet",
-        "queries": 32,
+        "queries": 31,
         "seed_spread": 7,
         "avg_branches": 9.2,
         "examples": [
@@ -1041,7 +1041,7 @@
           "excel template for job application tracking",
           "google sheets template for business expenses"
         ],
-        "score": 779
+        "score": 756
       },
       {
         "subject": "budget",
@@ -1059,7 +1059,7 @@
       },
       {
         "subject": "reddit",
-        "queries": 18,
+        "queries": 19,
         "seed_spread": 8,
         "avg_branches": 10,
         "examples": [
@@ -1069,7 +1069,7 @@
           "notion template for college",
           "excel template for budget"
         ],
-        "score": 516
+        "score": 545
       },
       {
         "subject": "planner",
@@ -1103,7 +1103,7 @@
         "subject": "google",
         "queries": 21,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9.8,
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
@@ -1111,7 +1111,7 @@
           "google sheets template for planning a trip",
           "google sheets template for job applications"
         ],
-        "score": 298
+        "score": 299
       },
       {
         "subject": "tracking",
@@ -1131,7 +1131,7 @@
         "subject": "sheets",
         "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9.8,
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
@@ -1139,7 +1139,7 @@
           "google sheets template for planning a trip",
           "google sheets template for job applications"
         ],
-        "score": 270
+        "score": 271
       },
       {
         "subject": "track",
@@ -1366,18 +1366,18 @@
         "score": 100
       },
       {
-        "subject": "example",
-        "queries": 5,
-        "seed_spread": 5,
-        "avg_branches": 9.2,
+        "subject": "planning",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
         "examples": [
-          "notion template for content creators",
-          "google sheets template for wedding guest list",
-          "tracking template for google ads",
-          "template management system",
-          "budget planner for small business"
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "google sheets template for travel itinerary",
+          "checklist for wedding planning"
         ],
-        "score": 87
+        "score": 99
       },
       {
         "subject": "expense",
@@ -1394,32 +1394,18 @@
         "score": 86
       },
       {
-        "subject": "planning",
-        "queries": 6,
-        "seed_spread": 4,
+        "subject": "docs",
+        "queries": 7,
+        "seed_spread": 3,
         "avg_branches": 9.7,
         "examples": [
-          "excel template for budget",
           "google sheets template for budget",
           "google sheets template for planning a trip",
-          "checklist for wedding planning",
-          "planner for small business owner"
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary",
+          "google sheets template for inventory"
         ],
-        "score": 85
-      },
-      {
-        "subject": "list",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 8.5,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for wedding guest list",
-          "google sheets template for college application",
-          "printable planner for the week",
-          "checklist for fire evacuation"
-        ],
-        "score": 81
+        "score": 75
       },
       {
         "subject": "kids",
@@ -1450,20 +1436,6 @@
         "score": 74
       },
       {
-        "subject": "docs",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 9.4,
-        "examples": [
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for inventory",
-          "google sheets template for wedding guest list"
-        ],
-        "score": 74
-      },
-      {
         "subject": "plan",
         "queries": 7,
         "seed_spread": 3,
@@ -1490,6 +1462,20 @@
           "best spreadsheet for budgeting free"
         ],
         "score": 69
+      },
+      {
+        "subject": "list",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 8.6,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for fire evacuation",
+          "checklist for moving out of state"
+        ],
+        "score": 68
       },
       {
         "subject": "weekly",
@@ -1532,6 +1518,19 @@
           "best spreadsheet for finances"
         ],
         "score": 64
+      },
+      {
+        "subject": "example",
+        "queries": 4,
+        "seed_spread": 4,
+        "avg_branches": 9.5,
+        "examples": [
+          "notion template for content creators",
+          "tracking template for google ads",
+          "template management system",
+          "budget planner for small business"
+        ],
+        "score": 56
       },
       {
         "subject": "university",
@@ -1865,23 +1864,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for inventory",
-        "branches": 10,
-        "children": [
-          "google sheets template for inventory management",
-          "google sheets template for inventory tracking",
-          "google sheets template for inventory",
-          "google sheets template for inventory free",
-          "google sheets template for stock tracking",
-          "google sheets template for stock trading",
-          "google docs template for inventory",
-          "google sheet template for stock portfolio",
-          "google sheet template for stock management",
-          "google sheet template for stock"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for college application",
         "branches": 10,
         "children": [
@@ -1895,6 +1877,40 @@
           "google sheets college application template free",
           "google sheets template for university",
           "spreadsheet template for college application process"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for inventory",
+        "branches": 10,
+        "children": [
+          "google sheets template for inventory management",
+          "google sheets template for inventory tracking",
+          "google sheets template for inventory",
+          "google sheets template for inventory free",
+          "google sheets template for stock tracking",
+          "google sheets template for stock trading",
+          "google docs template for inventory",
+          "google sheet template for stock portfolio",
+          "google sheet template for stock management",
+          "google sheet template for stock"
         ]
       },
       {
@@ -1980,23 +1996,6 @@
           "spreadsheet template to track investments",
           "best spreadsheet to track investments",
           "free spreadsheet to track investments"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for july 2026",
-        "branches": 10,
-        "children": [
-          "printable planner for july 2026",
-          "printable calendar for july 2026",
-          "printable calendar for july 2026 pdf",
-          "printable calendar for july 2026 free",
-          "printable calendar for june 2026",
-          "printable calendar for august 2026",
-          "printable calendar for june 2026 pdf",
-          "printable calendar for june 2026 free",
-          "printable calendar for august 2026 pdf",
-          "printable calendar for august 2026 free"
         ]
       }
     ]
