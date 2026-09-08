@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:41:00.288Z",
+  "generated_at": "2026-09-08T00:04:50.593Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -150,7 +150,7 @@
       },
       {
         "theme": "hate",
-        "mentions": 77,
+        "mentions": 76,
         "engagement": 13,
         "evidence": [
           {
@@ -164,17 +164,17 @@
             "date": "2026-05-30"
           },
           {
-            "text": "As a verbal processor, I hate this. I use whisper v3 large all the time from voice memo dumps that are AI grammar corrected and this would flag when I copy past",
-            "url": "https://news.ycombinator.com/item?id=48940948",
-            "date": "2026-07-16"
-          },
-          {
             "text": "> Why is there no outreach to other minorities in tech, like the Amish, for example? They are certainly more underrepresented than women in the python community",
             "url": "https://news.ycombinator.com/item?id=46184602",
             "date": "2025-12-07"
+          },
+          {
+            "text": "Ask HN: Does everyone here hate ads?",
+            "url": "https://news.ycombinator.com/item?id=47618571",
+            "date": "2026-04-02"
           }
         ],
-        "score": 86
+        "score": 85
       },
       {
         "theme": "life",
@@ -402,7 +402,7 @@
       },
       {
         "theme": "them",
-        "mentions": 68,
+        "mentions": 69,
         "engagement": 0,
         "evidence": [
           {
@@ -426,11 +426,11 @@
             "date": "2026-08-07"
           }
         ],
-        "score": 68
+        "score": 69
       },
       {
         "theme": "language",
-        "mentions": 14,
+        "mentions": 15,
         "engagement": 290,
         "evidence": [
           {
@@ -454,7 +454,7 @@
             "date": "2026-08-21"
           }
         ],
-        "score": 63
+        "score": 66
       },
       {
         "theme": "browser",
@@ -1072,6 +1072,20 @@
         "score": 545
       },
       {
+        "subject": "planner",
+        "queries": 25,
+        "seed_spread": 5,
+        "avg_branches": 9.3,
+        "examples": [
+          "notion template for students",
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd"
+        ],
+        "score": 437
+      },
+      {
         "subject": "business",
         "queries": 18,
         "seed_spread": 7,
@@ -1084,20 +1098,6 @@
           "spreadsheet to track expenses for small business"
         ],
         "score": 437
-      },
-      {
-        "subject": "planner",
-        "queries": 25,
-        "seed_spread": 5,
-        "avg_branches": 9.2,
-        "examples": [
-          "notion template for students",
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd"
-        ],
-        "score": 436
       },
       {
         "subject": "google",
@@ -1148,8 +1148,8 @@
         "avg_branches": 8.1,
         "examples": [
           "spreadsheet to track expenses",
-          "spreadsheet to track job applications",
           "spreadsheet to track expenses for small business",
+          "spreadsheet to track job applications",
           "spreadsheet to track spending",
           "spreadsheet to track income and expenses"
         ],
@@ -1184,10 +1184,24 @@
         "score": 195
       },
       {
+        "subject": "app",
+        "queries": 11,
+        "seed_spread": 5,
+        "avg_branches": 9.1,
+        "examples": [
+          "spreadsheet to track credit card rewards",
+          "printable planner for adhd",
+          "how do i keep track of my period",
+          "best spreadsheet for budgeting",
+          "best spreadsheet for ipad"
+        ],
+        "score": 191
+      },
+      {
         "subject": "pdf",
         "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 9.9,
+        "avg_branches": 10,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1201,7 +1215,7 @@
         "subject": "download",
         "queries": 10,
         "seed_spread": 5,
-        "avg_branches": 9.5,
+        "avg_branches": 9.6,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
@@ -1209,13 +1223,13 @@
           "excel template for monthly expenses",
           "printable planner for adhd"
         ],
-        "score": 176
+        "score": 177
       },
       {
         "subject": "printable",
         "queries": 12,
         "seed_spread": 4,
-        "avg_branches": 9.1,
+        "avg_branches": 9.2,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1238,20 +1252,6 @@
           "google sheets template for budget"
         ],
         "score": 148
-      },
-      {
-        "subject": "app",
-        "queries": 10,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "spreadsheet to track credit card rewards",
-          "how do i keep track of my period",
-          "best spreadsheet for budgeting",
-          "best spreadsheet for ipad",
-          "best spreadsheet for mac"
-        ],
-        "score": 138
       },
       {
         "subject": "notion",
@@ -1299,7 +1299,7 @@
         "subject": "calendar",
         "queries": 11,
         "seed_spread": 3,
-        "avg_branches": 9.5,
+        "avg_branches": 9.6,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1307,7 +1307,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 116
+        "score": 117
       },
       {
         "subject": "income",
@@ -1464,10 +1464,24 @@
         "score": 65
       },
       {
+        "subject": "kids",
+        "queries": 6,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for international travel",
+          "checklist for traveling",
+          "checklist for moving out of state"
+        ],
+        "score": 65
+      },
+      {
         "subject": "daily",
         "queries": 5,
         "seed_spread": 4,
-        "avg_branches": 7.4,
+        "avg_branches": 7.6,
         "examples": [
           "printable planner for adhd",
           "habit tracker template for notion",
@@ -1488,20 +1502,6 @@
           "budget template for excel",
           "best spreadsheet for budgeting",
           "best spreadsheet for finances"
-        ],
-        "score": 64
-      },
-      {
-        "subject": "kids",
-        "queries": 6,
-        "seed_spread": 3,
-        "avg_branches": 9.8,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for international travel",
-          "checklist for traveling",
-          "checklist for moving out of state"
         ],
         "score": 64
       },

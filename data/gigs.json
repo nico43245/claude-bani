@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T18:40:12.724Z",
-  "scanned": 200,
-  "accepted": 46,
+  "generated_at": "2026-09-08T00:04:02.900Z",
+  "scanned": 199,
+  "accepted": 45,
   "refused_on_ethics": 12,
   "jobs": [
     {
@@ -17,6 +17,20 @@
       "hourly": true,
       "flags": [],
       "score": 1235
+    },
+    {
+      "title": "Python Automation Script Development",
+      "url": "https://www.freelancer.com/projects/automation/python-automation-script-development-40693802",
+      "budget_raw": "$12 / hr Average bid",
+      "desc": "I have a clear need for a brand-new automation script built in Python. The goal is to streamline a series of repetitive tasks inside my current workflow; I ll outline the exact steps once we begin, but it will likely touch on API calls, light data processing, and interaction with a MySQL database. I",
+      "bids": 15,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 8,
+      "usd": 12,
+      "hourly": true,
+      "flags": [],
+      "score": 499
     },
     {
       "title": "Two-Month SQL & Excel Tutoring",
@@ -47,20 +61,6 @@
       "score": 156
     },
     {
-      "title": "Manta.com Business Data Extraction",
-      "url": "https://www.freelancer.com/projects/data-extraction/manta-com-business-data-extraction",
-      "budget_raw": "$76 Average bid",
-      "desc": "Extract Business Data from (Fixed Budget) Description: I need a freelancer to scrape and extract publicly available business data from Manta.com. The fields to be collected are already defined in the attached Excel file. Fields to Extract: Link SIC Code Name NAICS Code Email Breadcrumbs Person Email",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 76,
-      "hourly": false,
-      "flags": [],
-      "score": 124
-    },
-    {
       "title": "Data Extraction from Amazon Laptop Listings",
       "url": "https://www.freelancer.com/projects/selenium/data-extraction-from-amazon-laptop",
       "budget_raw": "$21 / hr Average bid",
@@ -75,32 +75,46 @@
       "score": 118
     },
     {
+      "title": "Manta.com Business Data Extraction",
+      "url": "https://www.freelancer.com/projects/data-extraction/manta-com-business-data-extraction",
+      "budget_raw": "$75 Average bid",
+      "desc": "Extract Business Data from (Fixed Budget) Description: I need a freelancer to scrape and extract publicly available business data from Manta.com. The fields to be collected are already defined in the attached Excel file. Fields to Extract: Link SIC Code Name NAICS Code Email Breadcrumbs Person Email",
+      "bids": 21,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 75,
+      "hourly": false,
+      "flags": [],
+      "score": 116
+    },
+    {
+      "title": "PDF Sentence Extraction to Excel",
+      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-sentence-extraction-excel",
+      "budget_raw": "$188 Average bid",
+      "desc": "I have a text-only PDF that needs to be transcribed into an Excel workbook. Every sentence from the original document should appear in its own row, keeping exactly the same formatting bold, italic, underline, superscript, everything so that the spreadsheet mirrors the visual emphasis of the source. ",
+      "bids": 37,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 188,
+      "hourly": false,
+      "flags": [],
+      "score": 92
+    },
+    {
       "title": "Extract PDF Tables to Excel",
       "url": "https://www.freelancer.com/projects/data-analysis/extract-pdf-tables-excel-40695444",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a PDF in which every page contains tables laid out in exactly the same way. I need those tables lifted out and delivered in an Excel workbook organised over multiple worksheets one per logical section rather than everything crammed into a single sheet. Accuracy of every cell matters because t",
-      "bids": 24,
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 94
-    },
-    {
-      "title": "PDF Sentence Extraction to Excel",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-sentence-extraction-excel",
-      "budget_raw": "$186 Average bid",
-      "desc": "I have a text-only PDF that needs to be transcribed into an Excel workbook. Every sentence from the original document should appear in its own row, keeping exactly the same formatting bold, italic, underline, superscript, everything so that the spreadsheet mirrors the visual emphasis of the source. ",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 186,
-      "hourly": false,
-      "flags": [],
-      "score": 91
+      "score": 88
     },
     {
       "title": "Automate 1,000 Daily YouTube Ads",
@@ -115,22 +129,6 @@
       "hourly": true,
       "flags": [],
       "score": 84
-    },
-    {
-      "title": "B2B Data Extraction & Verification 50k SA Contacts",
-      "url": "https://www.freelancer.com/projects/data-extraction/data-extraction-verification-contacts",
-      "budget_raw": "$144 Average bid",
-      "desc": "B2B Data Scraping & Email Verification Expert 50k South African Executive ContactsProject Overview:We are looking for an experienced Web Scraper & B2B Data Extraction Specialist to build a verified database of 50,000 targeted South African corporate contacts across 5 specific decision-maker contacts",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 144,
-      "hourly": false,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 70
     },
     {
       "title": "Indian University Leadership Contacts",
@@ -161,20 +159,6 @@
       "score": 69
     },
     {
-      "title": "Type Printed Papers into Excel",
-      "url": "https://www.freelancer.com/projects/data-analysis/type-printed-papers-into-excel",
-      "budget_raw": "$203 Average bid",
-      "desc": "I have a stack of printed papers that now need to live in a structured Excel sheet. Your job is straight-forward data transcription: carefully type every line from the physical pages exactly as they appear, keep original spelling and line order, and place the content into the columns I will specify ",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 203,
-      "hourly": false,
-      "flags": [],
-      "score": 66
-    },
-    {
       "title": "Power Automate Rental Invoicing",
       "url": "https://www.freelancer.com/projects/power-automate/power-automate-rental-invoicing",
       "budget_raw": "$244 Average bid",
@@ -189,32 +173,32 @@
       "score": 57
     },
     {
-      "title": "Survey PDF Tables Excel",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/survey-pdf-tables-excel",
-      "budget_raw": "$177 Average bid",
-      "desc": "I have a batch of survey-result tables saved in separate PDFs well over ten in total that I need transferred into a clean, fully editable Excel workbook. Only the tabular data matters; any images or charts that may exist in those files can be ignored. The finished .xlsx file should mirror each PDF t",
-      "bids": 30,
+      "title": "WhatsApp Group Creation & Member Addition",
+      "url": "https://www.freelancer.com/projects/customer-support/whatsapp-group-creation-member-addition-40696944",
+      "budget_raw": "$17 / hr Average bid",
+      "desc": "I need a freelancer to create a WhatsApp group and add 106 members from a CSV file I will provide. The contacts in the file have mixed international phone numbers, so familiarity with adding international contacts on WhatsApp is a plus. - The task is time-sensitive and needs to be completed within t",
+      "bids": 9,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 177,
-      "hourly": false,
-      "flags": [],
-      "score": 52
-    },
-    {
-      "title": "Excel Data Error Correction",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-error-correction",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I m handing over a raw Excel workbook that needs careful data cleaning focused strictly on correcting errors. You ll work sheet-by-sheet, hunting down typos, mis-keyed numbers, misplaced decimal points, broken formulas, inconsistent dates, and any other inaccuracies that could throw later analysis o",
-      "bids": 16,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 8,
+      "fit": 2,
+      "usd": 17,
       "hourly": true,
       "flags": [],
-      "score": 45
+      "score": 55
+    },
+    {
+      "title": "Type Printed Papers into Excel",
+      "url": "https://www.freelancer.com/projects/data-analysis/type-printed-papers-into-excel",
+      "budget_raw": "$192 Average bid",
+      "desc": "I have a stack of printed papers that now need to live in a structured Excel sheet. Your job is straight-forward data transcription: carefully type every line from the physical pages exactly as they appear, keep original spelling and line order, and place the content into the columns I will specify ",
+      "bids": 24,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 192,
+      "hourly": false,
+      "flags": [],
+      "score": 40
     },
     {
       "title": "Business Analytics API Dashboard - 07/09/2026 07:37 EDT",
@@ -231,60 +215,32 @@
       "score": 40
     },
     {
-      "title": "Excel Data Cleanup & Charts",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-cleanup-charts",
-      "budget_raw": "$185 Average bid",
-      "desc": "I have a raw sales dataset that needs to be transformed into a polished, decision-ready Excel workbook. The job covers three core stages. 1. Data cleaning Removing duplicates Handling missing values Correcting formatting issues 2. Data organisation After the clean-up, I need the information logicall",
-      "bids": 33,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 185,
-      "hourly": false,
-      "flags": [],
-      "score": 38
-    },
-    {
       "title": "Commercial Quantity Take-Off & BOQ",
       "url": "https://www.freelancer.com/projects/quantity-surveying/commercial-quantity-take-off-boq",
-      "budget_raw": "$19 / hr Average bid",
+      "budget_raw": "$21 / hr Average bid",
       "desc": "I need a detailed quantity take-off and a well-structured Bill of Quantities for an upcoming commercial build. You ll work from the drawings and specifications I provide, measuring every trade precisely and summarising the results in Excel. I m comfortable with either my own template or a clear, pro",
-      "bids": 21,
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 19,
+      "usd": 21,
       "hourly": true,
       "flags": [],
-      "score": 38
+      "score": 33
     },
     {
-      "title": "Financial Records Cleanup Specialist",
-      "url": "https://www.freelancer.com/projects/data-cleansing/financial-records-cleanup-specialist",
-      "budget_raw": "$196 Average bid",
-      "desc": "I m looking for a detail-minded virtual assistant to take ownership of my raw financial spreadsheets and turn them into clean, well-organized data I can trust. The files include bank transactions, expense reports, and a few scattered CSV exports from payment platforms. Your job is to spot and remove",
+      "title": "Excel Data Cleanup & Charts",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-cleanup-charts",
+      "budget_raw": "$179 Average bid",
+      "desc": "I have a raw sales dataset that needs to be transformed into a polished, decision-ready Excel workbook. The job covers three core stages. 1. Data cleaning Removing duplicates Handling missing values Correcting formatting issues 2. Data organisation After the clean-up, I need the information logicall",
       "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 196,
+      "usd": 179,
       "hourly": false,
       "flags": [],
-      "score": 34
-    },
-    {
-      "title": "WhatsApp Group Creation & Member Addition",
-      "url": "https://www.freelancer.com/projects/customer-support/whatsapp-group-creation-member-addition-40696944",
-      "budget_raw": "$8 - $13 / hr",
-      "desc": "I need a freelancer to create a WhatsApp group and add 106 members from a CSV file I will provide. The contacts in the file have mixed international phone numbers, so familiarity with adding international contacts on WhatsApp is a plus. - The task is time-sensitive and needs to be completed within t",
-      "bids": 0,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 33
+      "score": 31
     },
     {
       "title": "Extract Telegram Usernames CSV",
@@ -310,20 +266,6 @@
       "verdict": "accept",
       "fit": 4,
       "usd": 77,
-      "hourly": false,
-      "flags": [],
-      "score": 28
-    },
-    {
-      "title": "Mixed Data Excel Entry",
-      "url": "https://www.freelancer.com/projects/data-management/mixed-data-excel-entry-40695901",
-      "budget_raw": "$166 Average bid",
-      "desc": "I have a collection of records that contain both numbers and text and I need every line accurately transcribed into a single, well-structured Excel workbook. The information comes in various formats, so attention to detail is essential you will often switch between numeric fields (such as quantities",
-      "bids": 27,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 166,
       "hourly": false,
       "flags": [],
       "score": 28
@@ -357,32 +299,32 @@
       "score": 26
     },
     {
-      "title": "Excel Files Data Updating & Modification 45 Existing Client Files",
-      "url": "https://www.freelancer.com/projects/visual-basic/excel-files-data-updating-modification-40694571",
-      "budget_raw": "$11 / hr Average bid",
-      "desc": "I have approximately 45 Excel files containing data from our old clients. I am looking for an experienced freelancer who can carefully review these files and make the required changes and updates as instructed. The work may include editing existing data, updating information, correcting entries, for",
-      "bids": 19,
+      "title": "YouTube Channel Comment Automation Developer",
+      "url": "https://www.freelancer.com/projects/nodejs/youtube-channel-comment-automation",
+      "budget_raw": "$27 Average bid",
+      "desc": "# YouTube Live Comment Automation I need a developer to create a simple automation that monitors one specific YouTube channel. ### How it should work * Enter the channel URL in a configuration file. * The system continuously monitors the channel. * When the channel goes live, automatically detect th",
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 11,
-      "hourly": true,
+      "fit": 3,
+      "usd": 27,
+      "hourly": false,
       "flags": [],
-      "score": 24
+      "score": 19
     },
     {
       "title": "Telegram Quotex Alert Bot",
       "url": "https://www.freelancer.com/projects/telegram-api/telegram-quotex-alert-bot",
-      "budget_raw": "$53 Average bid",
+      "budget_raw": "$62 Average bid",
       "desc": "I am looking for a Python-based solution that sits on a VPS, connects to Quotex in real time, and keeps a constant eye on every single currency or asset pair both the regular market and the OTC listings using the 1-minute candle feed only. Your script should recognise the exact moment five candles o",
-      "bids": 25,
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 53,
+      "usd": 62,
       "hourly": false,
       "flags": [],
-      "score": 23
+      "score": 18
     },
     {
       "title": "Machine Learning for Job Market Analytics -- 2",
@@ -399,18 +341,18 @@
       "score": 17
     },
     {
-      "title": "Excel Photo, labeling, transcribing audio into short text for input, proof reading",
-      "url": "https://www.freelancer.com/projects/administrative-support/excel-photo-labeling-transcribing-audio",
-      "budget_raw": "$18 / hr Average bid",
-      "desc": "I have a pre-formatted Excel form in a workbook with several worksheets. Need photos inserted from a file into pre-formatted boxes in the excel form from my step-by-step audio tape (ie insert jpeg into certain location). Absolutely no changes to the form s format or AI allowed. Add l services might ",
+      "title": "Mixed Data Excel Entry",
+      "url": "https://www.freelancer.com/projects/data-management/mixed-data-excel-entry-40695901",
+      "budget_raw": "$165 Average bid",
+      "desc": "I have a collection of records that contain both numbers and text and I need every line accurately transcribed into a single, well-structured Excel workbook. The information comes in various formats, so attention to detail is essential you will often switch between numeric fields (such as quantities",
       "bids": 32,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 18,
-      "hourly": true,
+      "usd": 165,
+      "hourly": false,
       "flags": [],
-      "score": 15
+      "score": 17
     },
     {
       "title": "Placer AI Data Harvesting and Analysis",
@@ -443,13 +385,13 @@
     {
       "title": "Printed Pages to Excel",
       "url": "https://www.freelancer.com/projects/optical-character-recognition/printed-pages-excel",
-      "budget_raw": "$8 / hr Average bid",
+      "budget_raw": "$9 / hr Average bid",
       "desc": "I have a stack of printed text roughly 11-50 pages that I need captured accurately in an Excel workbook. Every word, number, and symbol must appear in the correct cell so the sheet mirrors the layout of the original pages as closely as possible. I will supply high-resolution scans or photos of each ",
-      "bids": 24,
+      "bids": 26,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 8,
+      "usd": 9,
       "hourly": true,
       "flags": [],
       "score": 13
@@ -469,24 +411,10 @@
       "score": 12
     },
     {
-      "title": "Customer Contact Enrichment & Telephony",
-      "url": "https://www.freelancer.com/projects/data-entry/customer-contact-enrichment-telephony",
-      "budget_raw": "$14751 Average bid",
-      "desc": "I work for a large accounting membership organisation and we ideally need a team of people that can enrich two databases. Task 1 We need to identify the current employer of 35,000 existing members, this can be done either telephonically or scraping various platforms online. Ideally have the company ",
-      "bids": 32,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 14751,
-      "hourly": false,
-      "flags": [],
-      "score": 12
-    },
-    {
-      "title": "Commercial Building BOQ Take-Off",
-      "url": "https://www.freelancer.com/projects/quantity-surveying/commercial-building-boq-take-off",
+      "title": "Concrete Takeoff & Excel BOQ",
+      "url": "https://www.freelancer.com/projects/quantity-surveying/concrete-takeoff-excel-boq",
       "budget_raw": "$19 / hr Average bid",
-      "desc": "I have a full drawing set for a new commercial building and now need an accurate Quantity Take-Off and Bill of Quantities focused solely on the structural package concrete, reinforcement, structural steel, formwork, embeds and any related accessories. I will send you my own Excel template; simply ke",
+      "desc": "I need a precise quantity take-off focused only on concrete elements for an upcoming project. All drawings are provided as PDFs, so you will be working directly from those files. Your deliverable is an Excel-based Bill of Quantities that: Lists every concrete item with customised, project-specific d",
       "bids": 34,
       "site": "freelancer",
       "verdict": "accept",
@@ -497,15 +425,29 @@
       "score": 12
     },
     {
-      "title": "Food Processing Funding Report",
-      "url": "https://www.freelancer.com/projects/market-research/food-processing-funding-report",
-      "budget_raw": "$102 Average bid",
-      "desc": "I need a full-scale Detailed Project Report that I can present directly to lenders and grant bodies for a new food processing venture. The document must read like a bank-ready dossier: clear market analysis that sizes demand, profiles competitors and maps current supply chains; rigorous financial pr",
-      "bids": 8,
+      "title": "Excel Photo, labeling, transcribing audio into short text for input, proof reading",
+      "url": "https://www.freelancer.com/projects/administrative-support/excel-photo-labeling-transcribing-audio",
+      "budget_raw": "$18 / hr Average bid",
+      "desc": "I have a pre-formatted Excel form in a workbook with several worksheets. Need photos inserted from a file into pre-formatted boxes in the excel form from my step-by-step audio tape (ie insert jpeg into certain location). Absolutely no changes to the form s format or AI allowed. Add l services might ",
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 1,
-      "usd": 102,
+      "fit": 2,
+      "usd": 18,
+      "hourly": true,
+      "flags": [],
+      "score": 11
+    },
+    {
+      "title": "Customer Contact Enrichment & Telephony",
+      "url": "https://www.freelancer.com/projects/data-entry/customer-contact-enrichment-telephony",
+      "budget_raw": "$14553 Average bid",
+      "desc": "I work for a large accounting membership organisation and we ideally need a team of people that can enrich two databases. Task 1 We need to identify the current employer of 35,000 existing members, this can be done either telephonically or scraping various platforms online. Ideally have the company ",
+      "bids": 33,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 14553,
       "hourly": false,
       "flags": [],
       "score": 11
@@ -525,6 +467,20 @@
       "score": 9
     },
     {
+      "title": "Food Processing Funding Report",
+      "url": "https://www.freelancer.com/projects/market-research/food-processing-funding-report",
+      "budget_raw": "$90 Average bid",
+      "desc": "I need a full-scale Detailed Project Report that I can present directly to lenders and grant bodies for a new food processing venture. The document must read like a bank-ready dossier: clear market analysis that sizes demand, profiles competitors and maps current supply chains; rigorous financial pr",
+      "bids": 12,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 90,
+      "hourly": false,
+      "flags": [],
+      "score": 8
+    },
+    {
       "title": "UAE Airline Customer Service Numbers",
       "url": "https://www.freelancer.com/projects/data-collection/uae-airline-customer-service-numbers",
       "budget_raw": "$8 / hr Average bid",
@@ -539,20 +495,6 @@
       "score": 7
     },
     {
-      "title": "Automate Excel Form Submission",
-      "url": "https://www.freelancer.com/projects/selenium/automate-excel-form-submission",
-      "budget_raw": "$55 Average bid",
-      "desc": "I regularly collect information in an Excel workbook and then spend far too much time re-typing the same rows into a set of online forms. I m looking for a reliable, repeatable solution that will take each row of my sheet and push the values straight into the web fields for me, click any necessary N",
-      "bids": 32,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 55,
-      "hourly": false,
-      "flags": [],
-      "score": 6
-    },
-    {
       "title": "HRMS Software Customization",
       "url": "https://www.freelancer.com/projects/database-management/hrms-software-customization",
       "budget_raw": "$35 Average bid",
@@ -565,6 +507,62 @@
       "hourly": false,
       "flags": [],
       "score": 6
+    },
+    {
+      "title": "Automate Excel Form Submission",
+      "url": "https://www.freelancer.com/projects/selenium/automate-excel-form-submission",
+      "budget_raw": "$55 Average bid",
+      "desc": "I regularly collect information in an Excel workbook and then spend far too much time re-typing the same rows into a set of online forms. I m looking for a reliable, repeatable solution that will take each row of my sheet and push the values straight into the web fields for me, click any necessary N",
+      "bids": 33,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 55,
+      "hourly": false,
+      "flags": [],
+      "score": 5
+    },
+    {
+      "title": "Sales Revenue Growth Analysis",
+      "url": "https://www.freelancer.com/projects/data-analysis/sales-revenue-growth-analysis",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I m looking for a sharp analyst to turn my raw sales exports into clear, decision-ready insight focused on revenue growth. The data covers online and in-store transactions plus basic customer attributes; it just hasn t been cleaned or modeled yet. Your mission: Prepare and cleanse the files so every",
+      "bids": 20,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 5
+    },
+    {
+      "title": "Compile SSC Exam PYQs in Excel",
+      "url": "https://www.freelancer.com/projects/typing/compile-ssc-exam-pyqs-excel",
+      "budget_raw": "$44 Average bid",
+      "desc": "Need SSC Previous Year Question Papers Compiled in Excel (English & Hindi) I am looking for a freelancer to compile recent SSC (Staff Selection Commission) previous year question papers (PYQs) into well-organized Excel sheets, in both English and Hindi versions. **Exams to cover:** - SSC MTS - SSC C",
+      "bids": 7,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 44,
+      "hourly": false,
+      "flags": [],
+      "score": 5
+    },
+    {
+      "title": "Reactivate UK Window & Door Installations Database",
+      "url": "https://www.freelancer.com/projects/database-management/reactivate-window-door-installations",
+      "budget_raw": "$24 Average bid",
+      "desc": "ICP: Windows & Doors Installers (UK) Database Reactivation Core definition Owner-operated retail window and door installation companies selling directly to homeowners, trading 5+ years, . Firmographics Location: England, Wales, Scotland. Weight toward the North West, Yorkshire, West Midlands, East M",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 24,
+      "hourly": false,
+      "flags": [],
+      "score": 5
     }
   ],
   "refused": [
