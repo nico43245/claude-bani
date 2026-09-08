@@ -1,23 +1,9 @@
 {
-  "generated_at": "2026-09-08T17:50:40.105Z",
-  "scanned": 205,
-  "accepted": 42,
-  "refused_on_ethics": 11,
+  "generated_at": "2026-09-08T23:56:23.767Z",
+  "scanned": 207,
+  "accepted": 41,
+  "refused_on_ethics": 12,
   "jobs": [
-    {
-      "title": "Automate Diamond Market Data Reports",
-      "url": "https://www.freelancer.com/projects/beautifulsoup/automate-diamond-market-data-reports",
-      "budget_raw": "$239 Average bid",
-      "desc": "I need reliable, automated access to a local website dedicated to the diamond industry so I can stay ahead of pricing movements, changing inventory levels, and broader market trends. The site is public but does not offer an API, so web-scraping (Python, BeautifulSoup, Selenium, or a comparable solut",
-      "bids": 13,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 9,
-      "usd": 239,
-      "hourly": false,
-      "flags": [],
-      "score": 1699
-    },
     {
       "title": "Manual Data Entry in Excel",
       "url": "https://www.freelancer.com/projects/data-management/manual-data-entry-excel-40691071",
@@ -31,6 +17,20 @@
       "hourly": true,
       "flags": [],
       "score": 1235
+    },
+    {
+      "title": "Automate Diamond Market Data Reports",
+      "url": "https://www.freelancer.com/projects/beautifulsoup/automate-diamond-market-data-reports",
+      "budget_raw": "$221 Average bid",
+      "desc": "I need reliable, automated access to a local website dedicated to the diamond industry so I can stay ahead of pricing movements, changing inventory levels, and broader market trends. The site is public but does not offer an API, so web-scraping (Python, BeautifulSoup, Selenium, or a comparable solut",
+      "bids": 28,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 9,
+      "usd": 221,
+      "hourly": false,
+      "flags": [],
+      "score": 698
     },
     {
       "title": "Indian Household Liquid Manufacturer Database",
@@ -51,14 +51,14 @@
       "url": "https://www.freelancer.com/projects/automation/winomkar-text-entry-automation",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a large backlog of product descriptions sitting in several Excel spreadsheets and I m tired of copying them into Winomkar by hand. What I need is a reliable, repeatable way to push that text straight from Excel into the correct fields inside the Winomkar interface. A successful solution will:",
-      "bids": 10,
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 176
+      "score": 170
     },
     {
       "title": "Low-Latency Developer Interview Assistance",
@@ -75,6 +75,20 @@
       "score": 146
     },
     {
+      "title": "Composer DAG for Data Ingestion Pipeline",
+      "url": "https://www.freelancer.com/projects/data-processing/composer-dag-for-data-ingestion",
+      "budget_raw": "$29 Average bid",
+      "desc": "I need a Composer DAG to ingest data from CSV, XLS, and TXT files, there are like 25 processes for which we receive data . There are some pre ingestion steps involved , like running python scripts, the dag should identify the which python script it should run for the given input the file is in xls f",
+      "bids": 7,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 6,
+      "usd": 29,
+      "hourly": false,
+      "flags": [],
+      "score": 112
+    },
+    {
       "title": "Manta.com Business Data Extraction",
       "url": "https://www.freelancer.com/projects/data-extraction/manta-com-business-data-extraction",
       "budget_raw": "$74 Average bid",
@@ -89,18 +103,18 @@
       "score": 108
     },
     {
-      "title": "Automate 1,000 Daily YouTube Ads",
-      "url": "https://www.freelancer.com/projects/automation/automate-daily-youtube-ads",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I need a fully automated solution that will reliably play 1,000 YouTube ads every day, each running the full one-minute duration. Your system must mimic natural viewing so the impressions register correctly, run unattended once set up, and send me a concise daily summary showing how many ads were co",
-      "bids": 4,
+      "title": "Windows Keylogger Email/Telegram Delivery -- 2",
+      "url": "https://www.freelancer.com/projects/java/windows-keylogger-email-telegram",
+      "budget_raw": "$152 Average bid",
+      "desc": "I need a lightweight key-logging application that runs silently on Windows and continuously captures every keystroke. The program must bundle those logs and forward them automatically to both an email address and a Telegram chat that I will specify during setup. Stability and stealth are important: ",
+      "bids": 17,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 10,
-      "hourly": true,
+      "usd": 152,
+      "hourly": false,
       "flags": [],
-      "score": 84
+      "score": 102
     },
     {
       "title": "Indian University Leadership Contacts",
@@ -119,44 +133,16 @@
     {
       "title": "Pan-India Recruiter Database Build",
       "url": "https://www.freelancer.com/projects/data-collection/pan-india-recruiter-database-build",
-      "budget_raw": "$198 Average bid",
+      "budget_raw": "$202 Average bid",
       "desc": "I need a comprehensive, pan-India list of recruitment agencies that specialise in computer-based hiring. For every agency you capture I need three specific data points: accurate contact details (at minimum phone, email, website, city), a short note on the services they offer, and at least one verifi",
-      "bids": 13,
+      "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 198,
+      "usd": 202,
       "hourly": false,
       "flags": [],
-      "score": 69
-    },
-    {
-      "title": "AI-Powered TaxTech and FinTech Solutions",
-      "url": "https://www.freelancer.com/projects/accounting/powered-taxtech-fintech-solutions",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I am looking for opportunities to build, enhance, or integrate **end-to-end TaxTech, FinTech, GST, Income Tax, and AI automation solutions**. I have hands-on experience developing complete automation systems including: **GST Filing Automation** GST data processing, reconciliation, filing workflows, ",
-      "bids": 23,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 4,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 64
-    },
-    {
-      "title": "Excel Lookup Pivot Report",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-lookup-pivot-report",
-      "budget_raw": "$171 Average bid",
-      "desc": "I need an Excel specialist to transform a raw data workbook into a polished, refresh-ready report. The core of the task is wiring together several data sheets with VLOOKUP and HLOOKUP, then driving a clear summary through Pivot Tables. Whether the final view ends up looking like a sales, financial, ",
-      "bids": 28,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 171,
-      "hourly": false,
-      "flags": [],
-      "score": 60
+      "score": 68
     },
     {
       "title": "Collect UK-Irish Race Times",
@@ -173,18 +159,32 @@
       "score": 59
     },
     {
+      "title": "PDF-to-Word Text Conversion",
+      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-word-text-conversion",
+      "budget_raw": "$177 Average bid",
+      "desc": "I have a collection of PDFs that need to become fully editable Word (and occasionally Excel) files without losing any of the original text styling. Your main focus will be on preserving fonts, line breaks, headings, and any subtle formatting cues so the new documents read and look exactly like the s",
+      "bids": 15,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 177,
+      "hourly": false,
+      "flags": [],
+      "score": 58
+    },
+    {
       "title": "Manual Data Entry From Online Forms",
       "url": "https://www.freelancer.com/projects/google-sheets/manual-data-entry-from-online-40697440",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I need a detail-focused professional to move information that currently lives inside several online forms and internal databases into a clean, well-structured spreadsheet. This is 100 % manual data entry no scraping tools, no macros so fast, accurate typing and an eye for consistency are essential. ",
-      "bids": 13,
+      "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 57
+      "score": 55
     },
     {
       "title": "WhatsApp Group Creation & Member Addition",
@@ -201,32 +201,32 @@
       "score": 55
     },
     {
-      "title": "Chrome Bot Extension Development - 08/09/2026 10:33 EDT",
-      "url": "https://www.freelancer.com/projects/api-integration/chrome-bot-extension-development-edt-40698844",
-      "budget_raw": "$66 Average bid",
-      "desc": "I need a Chrome bot extension that can scrape text content from websites. The extension should be able to automate some webpage interactions, specifically clicking buttons. Key Requirements: - Scrape text content from specified websites - Automate interaction by clicking buttons Ideal Skills & Exper",
-      "bids": 35,
+      "title": "Excel Lookup Pivot Report",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-lookup-pivot-report",
+      "budget_raw": "$172 Average bid",
+      "desc": "I need an Excel specialist to transform a raw data workbook into a polished, refresh-ready report. The core of the task is wiring together several data sheets with VLOOKUP and HLOOKUP, then driving a clear summary through Pivot Tables. Whether the final view ends up looking like a sales, financial, ",
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 6,
-      "usd": 66,
+      "fit": 3,
+      "usd": 172,
       "hourly": false,
       "flags": [],
-      "score": 46
+      "score": 50
     },
     {
       "title": "Merchant-Based Expense Categorization",
       "url": "https://www.freelancer.com/projects/data-analysis/merchant-based-expense-categorization",
-      "budget_raw": "$190 Average bid",
+      "budget_raw": "$191 Average bid",
       "desc": "I have several months of bank and credit-card statements in CSV/PDF format and I need every line item tagged to its correct merchant so I can finally see where the money is really going. Your task is pure transaction categorization no forecasting, no fraud checks just clean, accurate labeling that l",
-      "bids": 36,
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 190,
+      "usd": 191,
       "hourly": false,
       "flags": [],
-      "score": 33
+      "score": 34
     },
     {
       "title": "AI Fake News Detection System - 03/09/2026 05:18 EDT",
@@ -257,71 +257,29 @@
       "score": 30
     },
     {
-      "title": "On-Call Django Support Developer",
-      "url": "https://www.freelancer.com/projects/celery/call-django-support-developer",
-      "budget_raw": "$26 Average bid",
-      "desc": "Our production platform is running well, but every now and then a functional bug slips through. When that happens I reach out by email and need a senior engineer who can jump straight in, diagnose the root cause, and ship a fix without disrupting business hours. Tech stack you ll be touching: Python",
-      "bids": 7,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 26,
-      "hourly": false,
-      "flags": [],
-      "score": 25
-    },
-    {
-      "title": "Full-Stack Python Flask Web Application",
-      "url": "https://www.freelancer.com/projects/flask/full-stack-python-flask-web",
-      "budget_raw": "$69 Average bid",
-      "desc": "I m building a full-stack web application in Python with Flask at its core and I want it to feel as polished as any modern SaaS product. The visual layer needs to be clean and responsive, while under the hood the code should be clear, modular, and thoroughly tested. Core functionality Secure user au",
-      "bids": 40,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 4,
-      "usd": 69,
-      "hourly": false,
-      "flags": [],
-      "score": 22
-    },
-    {
-      "title": "Type Printed Papers into Excel",
-      "url": "https://www.freelancer.com/projects/data-analysis/type-printed-papers-into-excel",
-      "budget_raw": "$188 Average bid",
-      "desc": "I have a stack of printed papers that now need to live in a structured Excel sheet. Your job is straight-forward data transcription: carefully type every line from the physical pages exactly as they appear, keep original spelling and line order, and place the content into the columns I will specify ",
-      "bids": 32,
+      "title": "Telegram API / MTProto Specialist Needed for Member & Engagement Analysis",
+      "url": "https://www.freelancer.com/projects/telegram-api/telegram-api-mtproto-specialist-needed",
+      "budget_raw": "$66 Average bid",
+      "desc": "I run a public Telegram channel with 30 000+ members but only a fraction appear truly active. I need a specialist who can dive into the Telegram API / MTProto from the vantage point of a regular member account and tell me, with evidence, exactly what member-level data is retrievable. The priority is",
+      "bids": 9,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 188,
+      "usd": 66,
       "hourly": false,
       "flags": [],
-      "score": 20
+      "score": 27
     },
     {
       "title": "Machine Learning for Job Market Analytics -- 2",
       "url": "https://www.freelancer.com/projects/postgresql/machine-learning-for-job-market",
       "budget_raw": "$87 Average bid",
       "desc": "Machine Learning Pipeline Job Market Analytics & Salary Prediction Created an end-to-end machine learning pipeline for looking at job market data and guessing what salaries might be. Key Features: Worked on. Fixed 10,000 or more job-market records using Python, Pandas and NumPy. Made an automated ET",
-      "bids": 37,
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 87,
-      "hourly": false,
-      "flags": [],
-      "score": 15
-    },
-    {
-      "title": "Launch Meta WhatsApp Campaigns",
-      "url": "https://www.freelancer.com/projects/api-developmet/launch-meta-whatsapp-campaigns",
-      "budget_raw": "$61 Average bid",
-      "desc": "My WhatsApp Business account is already fully verified; the missing piece is a live Meta app that lets me run large-scale marketing broadcasts through the official Cloud API. I need you to step in, create the app in Meta s developer portal, complete all required configurations (system user, phone nu",
-      "bids": 21,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 61,
       "hourly": false,
       "flags": [],
       "score": 15
@@ -341,6 +299,48 @@
       "score": 13
     },
     {
+      "title": "Complex PDF Tables to Excel",
+      "url": "https://www.freelancer.com/projects/data-analysis/complex-pdf-tables-excel-40699643",
+      "budget_raw": "$6 / hr Average bid",
+      "desc": "I have between one and five PDF files that contain purely numerical data laid out in complex, nested table structures. I need every figure lifted out of those PDFs and placed into an Excel workbook so the spreadsheet mirrors the original hierarchy parent rows, indented subtotals, and any multi-level",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 6,
+      "hourly": true,
+      "flags": [],
+      "score": 13
+    },
+    {
+      "title": "On-Call Django Support Developer",
+      "url": "https://www.freelancer.com/projects/celery/call-django-support-developer",
+      "budget_raw": "$28 Average bid",
+      "desc": "Our production platform is running well, but every now and then a functional bug slips through. When that happens I reach out by email and need a senior engineer who can jump straight in, diagnose the root cause, and ship a fix without disrupting business hours. Tech stack you ll be touching: Python",
+      "bids": 28,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 28,
+      "hourly": false,
+      "flags": [],
+      "score": 10
+    },
+    {
+      "title": "Launch Meta WhatsApp Campaigns",
+      "url": "https://www.freelancer.com/projects/api-developmet/launch-meta-whatsapp-campaigns",
+      "budget_raw": "$59 Average bid",
+      "desc": "My WhatsApp Business account is already fully verified; the missing piece is a live Meta app that lets me run large-scale marketing broadcasts through the official Cloud API. I need you to step in, create the app in Meta s developer portal, complete all required configurations (system user, phone nu",
+      "bids": 27,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 59,
+      "hourly": false,
+      "flags": [],
+      "score": 10
+    },
+    {
       "title": "Telegram Quotex Alert Bot",
       "url": "https://www.freelancer.com/projects/telegram-api/telegram-quotex-alert-bot",
       "budget_raw": "$59 Average bid",
@@ -353,20 +353,6 @@
       "hourly": false,
       "flags": [],
       "score": 10
-    },
-    {
-      "title": "Automate Winomkar Data Entry",
-      "url": "https://www.freelancer.com/projects/automation/automate-winomkar-data-entry",
-      "budget_raw": "$72 Average bid",
-      "desc": "I have Excel workbook sitting in a local folder that need to be pushed, field by field, into the desktop application Winomkar. Each row holds mixed data some purely numeric, others text strings that must land in the right screens, after which the script should trigger a few mouse clicks and keyboard",
-      "bids": 30,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 72,
-      "hourly": false,
-      "flags": [],
-      "score": 9
     },
     {
       "title": "Excel Data Reconciliation on SharePoint",
@@ -411,18 +397,46 @@
       "score": 6
     },
     {
-      "title": "Excel Financial Due Diligence",
-      "url": "https://www.freelancer.com/projects/excel-financial-due-diligence-fix",
-      "budget_raw": "$18 Average bid",
-      "desc": "I need you to complete the attached Excel file ** APF Organisation Data Sheet FY 2026 27 ** for organisation. Your responsibility is to complete the entire workbook accurately and make it **submission-ready**. Please do not just enter whatever information is readily available review the instructions",
-      "bids": 5,
+      "title": "Telegram Active Member Transfer",
+      "url": "https://www.freelancer.com/projects/telegram-api/telegram-active-member-transfer",
+      "budget_raw": "$12 Average bid",
+      "desc": "I have a source Telegram channel with well over a thousand people. I am only a regular member there, yet I d like to pull out just the recently active accounts and move them into a second channel that I own and administer. Here is what I need from you: A working method (Python / Telethon, TDLib, or ",
+      "bids": 21,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 12,
+      "hourly": false,
+      "flags": [],
+      "score": 5
+    },
+    {
+      "title": "Automate Winomkar Data Entry",
+      "url": "https://www.freelancer.com/projects/automation/automate-winomkar-data-entry",
+      "budget_raw": "$70 Average bid",
+      "desc": "I have Excel workbook sitting in a local folder that need to be pushed, field by field, into the desktop application Winomkar. Each row holds mixed data some purely numeric, others text strings that must land in the right screens, after which the script should trigger a few mouse clicks and keyboard",
+      "bids": 35,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 18,
+      "usd": 70,
       "hourly": false,
       "flags": [],
-      "score": 6
+      "score": 5
+    },
+    {
+      "title": "Excel Financial Due Diligence",
+      "url": "https://www.freelancer.com/projects/excel-financial-due-diligence-fix",
+      "budget_raw": "$15 Average bid",
+      "desc": "I need you to complete the attached Excel file ** APF Organisation Data Sheet FY 2026 27 ** for organisation. Your responsibility is to complete the entire workbook accurately and make it **submission-ready**. Please do not just enter whatever information is readily available review the instructions",
+      "bids": 7,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 15,
+      "hourly": false,
+      "flags": [],
+      "score": 5
     },
     {
       "title": "Excel Price List with Hyperlinks",
@@ -509,44 +523,16 @@
       "score": 3
     },
     {
-      "title": "Iris SVM Classification Model -- 2",
-      "url": "https://www.freelancer.com/projects/data-science/iris-svm-classification-model",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I have a clean, ready-to-use Iris dataset and need a complete Support Vector Machine classification pipeline built around it. The job is straightforward: tune an SVM (scikit-learn or similar) to separate the three Iris species, document the process, and hand over reproducible code and results. Here ",
-      "bids": 36,
+      "title": "Convert PDF Content to Excel",
+      "url": "https://www.freelancer.com/projects/adobe-acrobat/convert-pdf-content-excel",
+      "budget_raw": "$10 Average bid",
+      "desc": "I ve got a collection of PDFs that combine formal tables with narrative paragraphs and bullet-style lists. I need every table row and every line of text moved into a single, tidy Excel workbook so that I can sort, filter, and run formulas without wrestling with odd formatting. What has to come acros",
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 1,
+      "fit": 2,
       "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 2
-    },
-    {
-      "title": "PropertyMe VA for Lease Renewals",
-      "url": "https://www.freelancer.com/projects/property-management/propertyme-for-lease-renewals",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "Each week I need timely, accurate support inside Property Me, with lease renewal processing taking absolute priority. You ll jump into our Brisbane-based portfolio, generate renewal notices, follow up tenants and owners, and track every step in Property Me so my compliance dates never slip. Beyond r",
-      "bids": 21,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 5,
-      "hourly": true,
-      "flags": [],
-      "score": 2
-    },
-    {
-      "title": "Tally FY Reconciliation & Entries",
-      "url": "https://www.freelancer.com/projects/financial-analysis/tally-reconciliation-entries",
-      "budget_raw": "$3 / hr Average bid",
-      "desc": "My Tally data for the last financial year is incomplete and out of sync. I need every area financial transactions, inventory movements and even the odd payroll figure brought up-to-date so I can hand a clean backup to my Chartered Accountant for the annual returns. The core job is to add all missing",
-      "bids": 8,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 3,
-      "hourly": true,
+      "hourly": false,
       "flags": [],
       "score": 2
     },
@@ -563,9 +549,27 @@
       "hourly": false,
       "flags": [],
       "score": 2
+    },
+    {
+      "title": "E-Commerce Sales Market Analytics",
+      "url": "https://www.freelancer.com/projects/data-analysis/commerce-sales-market-analytics",
+      "budget_raw": "$10 Average bid",
+      "desc": "I have a sizeable set of sales transactions exported directly from my e-commerce platform and I need a clear, insight-driven analysis that helps me understand the market forces reflected in those numbers. Your task is to dive into this raw sales data, clean and structure it, then surface trends that",
+      "bids": 26,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 10,
+      "hourly": false,
+      "flags": [],
+      "score": 0
     }
   ],
   "refused": [
+    {
+      "title": "Shipowner Contact Data Excel Compilation",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
+    },
     {
       "title": "African B2B Contact Database Compilation",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
