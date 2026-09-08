@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-08T00:04:50.650Z",
+  "generated_at": "2026-09-08T10:51:55.566Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 419,
+  "events_total": 424,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 82
+      "actions": 83
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 80
+      "actions": 81
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 172
+      "actions": 174
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 85
+      "actions": 86
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-08T10:51:55.511Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1110 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-08T10:51:10.042Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 50,
+      "status": null,
+      "desc": "Cel mai bun job: Manual Data Entry in Excel",
+      "evidence": "https://www.freelancer.com/projects/data-management/manual-data-entry-excel-40691071",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-08T10:51:10.042Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 204 proiecte scanate → 45 potrivite, 11 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-08T10:50:57.009Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 47 scanate, 2 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-08T10:50:07.376Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 697 candidați → 0 bounty-uri reale (697 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-08T00:04:50.595Z",
       "type": "action",
@@ -583,77 +633,12 @@
       "desc": "Scanare radar: 730 candidați → 0 bounty-uri reale (730 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-04T10:53:34.051Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1110 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-04T10:52:47.746Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 208,
-      "status": null,
-      "desc": "Cel mai bun job: Excel Macro Automation for Finance",
-      "evidence": "https://www.freelancer.com/projects/excel-macros/excel-macro-automation-for-finance",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-04T10:52:47.746Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 190 proiecte scanate → 44 potrivite, 9 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-04T10:52:34.247Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 48 scanate, 2 eligibile după citirea regulamentelor (46 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-04T10:51:33.728Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 729 candidați → 0 bounty-uri reale (729 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 2,
-    "rejected": 740,
+    "rejected": 742,
     "top": [
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "GatewayHacks 2026 | Software & AI ",
-        "url": "https://gatewayhacks-2026.devpost.com/",
-        "score": 9155,
-        "prize_usd": 1007085,
-        "slots": 9,
-        "participants": 988,
-        "per_slot": 110,
-        "days_left": 24,
-        "objective": false
-      },
       {
         "source": "comp-radar",
         "platform": "drivendata",
@@ -664,20 +649,35 @@
         "score": 167,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 897,
-        "per_slot": 299,
+        "participants": 900,
+        "per_slot": 300,
         "days_left": 9,
         "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "3rd-Web-Hack",
+        "url": "https://3rd-web-hack.devpost.com/",
+        "score": 16,
+        "prize_usd": 750,
+        "slots": 3,
+        "participants": 142,
+        "per_slot": 47,
+        "days_left": 19,
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 312
+        "count": 315
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 179
+        "count": 180
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -685,22 +685,30 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 52
+        "count": 46
       },
       {
         "reason": "prea competitiv",
-        "count": 38
+        "count": 37
       },
       {
         "reason": "fără premiu în bani",
-        "count": 16
+        "count": 18
       },
       {
-        "reason": "participare restricționată",
-        "count": 9
+        "reason": "fork (task sintetic de benchmark)",
+        "count": 10
+      },
+      {
+        "reason": "regulament necitibil",
+        "count": 10
       },
       {
         "reason": "repo prea nou",
+        "count": 8
+      },
+      {
+        "reason": "participare restricționată",
         "count": 8
       },
       {
@@ -708,24 +716,20 @@
         "count": 7
       },
       {
-        "reason": "prea aglomerat",
-        "count": 7
-      },
-      {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 6
-      },
-      {
-        "reason": "regulament necitibil",
-        "count": 6
-      },
-      {
         "reason": "revendicat activ",
         "count": 3
       },
       {
-        "reason": "deja adjudecat",
+        "reason": "prea aglomerat",
         "count": 3
+      },
+      {
+        "reason": "deja adjudecat",
+        "count": 2
+      },
+      {
+        "reason": "prea puțin timp de construit",
+        "count": 2
       },
       {
         "reason": "premiu prea mic",
@@ -741,10 +745,6 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
-        "count": 1
-      },
-      {
-        "reason": "prea puțin timp de construit",
         "count": 1
       }
     ]
