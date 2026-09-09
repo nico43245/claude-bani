@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-08T23:57:12.472Z",
+  "generated_at": "2026-09-09T10:58:11.648Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 434,
+  "events_total": 439,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 85
+      "actions": 86
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 83
+      "actions": 84
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 178
+      "actions": 180
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 88
+      "actions": 89
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-09T10:58:11.593Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1110 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-09T10:57:25.419Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 50,
+      "status": null,
+      "desc": "Cel mai bun job: Manual Data Entry in Excel",
+      "evidence": "https://www.freelancer.com/projects/data-management/manual-data-entry-excel-40691071",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-09T10:57:25.419Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 198 proiecte scanate → 41 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-09T10:57:12.482Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 44 scanate, 2 eligibile după citirea regulamentelor (42 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-09T10:56:24.361Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 682 candidați → 0 bounty-uri reale (682 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-08T23:57:12.426Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 731 candidați → 0 bounty-uri reale (731 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-05T10:11:50.583Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1111 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-05T10:11:01.634Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 50,
-      "status": null,
-      "desc": "Cel mai bun job: Manual Data Entry in Excel",
-      "evidence": "https://www.freelancer.com/projects/data-management/manual-data-entry-excel-40691071",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-05T10:11:01.634Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 196 proiecte scanate → 50 potrivite, 11 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-05T10:10:47.931Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 44 scanate, 2 eligibile după citirea regulamentelor (42 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-05T10:09:55.928Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 725 candidați → 0 bounty-uri reale (725 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
-    "accepted": 1,
-    "rejected": 709,
+    "accepted": 2,
+    "rejected": 724,
     "top": [
       {
         "source": "comp-radar",
@@ -649,44 +649,59 @@
         "score": 165,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 908,
+        "participants": 910,
         "per_slot": 303,
         "days_left": 8,
         "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "CSC Back-to-School Hackathon",
+        "url": "https://csc-back-to-school.devpost.com/",
+        "score": 9,
+        "prize_usd": 400,
+        "slots": 3,
+        "participants": 136,
+        "per_slot": 45,
+        "days_left": 26,
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 314
+        "count": 312
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 162
+        "count": 169
       },
       {
         "reason": "repo-fermă învățat automat",
         "count": 87
       },
       {
-        "reason": "fără dovadă de finanțare",
-        "count": 36
+        "reason": "prea competitiv",
+        "count": 41
       },
       {
-        "reason": "prea competitiv",
-        "count": 35
+        "reason": "fără dovadă de finanțare",
+        "count": 40
       },
       {
         "reason": "fără premiu în bani",
         "count": 17
       },
       {
-        "reason": "participare restricționată",
+        "reason": "fork (task sintetic de benchmark)",
         "count": 12
       },
       {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 11
+        "reason": "participare restricționată",
+        "count": 10
       },
       {
         "reason": "proiect inactiv",
@@ -697,11 +712,11 @@
         "count": 7
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "regulament necitibil",
         "count": 5
       },
       {
-        "reason": "regulament necitibil",
+        "reason": "prea aglomerat",
         "count": 4
       },
       {
@@ -730,6 +745,10 @@
       },
       {
         "reason": "prea puțin timp de construit",
+        "count": 1
+      },
+      {
+        "reason": "premiul nu e în bani",
         "count": 1
       }
     ]
