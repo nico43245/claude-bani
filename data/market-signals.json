@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:54:50.566Z",
+  "generated_at": "2026-09-10T17:35:07.031Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -37,6 +37,34 @@
         "score": 111
       },
       {
+        "theme": "wish",
+        "mentions": 99,
+        "engagement": 11,
+        "evidence": [
+          {
+            "text": "Absolutely love Fastmail. I badly wish that they added a few key enterprise features: mandatory 2FA, SSO, provisioning, and more robust audit logs. If you’re re",
+            "url": "https://news.ycombinator.com/item?id=49344997",
+            "date": "2026-08-18"
+          },
+          {
+            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
+            "url": "https://news.ycombinator.com/item?id=48746602",
+            "date": "2026-07-01"
+          },
+          {
+            "text": "I'd wish the EU would pay for California separatism as much as the US is supporting breaking up the EU (Orban, AfD in Germany, Farage, ..)",
+            "url": "https://news.ycombinator.com/item?id=48458783",
+            "date": "2026-06-09"
+          },
+          {
+            "text": "Strongly agree. I wish more things came in jars, cans and sacks. I would pay a premium for this alone. The plastic liner in a tall box workflow adds so much fri",
+            "url": "https://news.ycombinator.com/item?id=49537191",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 107
+      },
+      {
         "theme": "web",
         "mentions": 23,
         "engagement": 537,
@@ -65,34 +93,6 @@
         "score": 107
       },
       {
-        "theme": "wish",
-        "mentions": 98,
-        "engagement": 11,
-        "evidence": [
-          {
-            "text": "Absolutely love Fastmail. I badly wish that they added a few key enterprise features: mandatory 2FA, SSO, provisioning, and more robust audit logs. If you’re re",
-            "url": "https://news.ycombinator.com/item?id=49344997",
-            "date": "2026-08-18"
-          },
-          {
-            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
-            "url": "https://news.ycombinator.com/item?id=48746602",
-            "date": "2026-07-01"
-          },
-          {
-            "text": "I'd wish the EU would pay for California separatism as much as the US is supporting breaking up the EU (Orban, AfD in Germany, Farage, ..)",
-            "url": "https://news.ycombinator.com/item?id=48458783",
-            "date": "2026-06-09"
-          },
-          {
-            "text": "Strongly agree. I wish more things came in jars, cans and sacks. I would pay a premium for this alone. The plastic liner in a tall box workflow adds so much fri",
-            "url": "https://news.ycombinator.com/item?id=49537191",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 106
-      },
-      {
         "theme": "hours",
         "mentions": 85,
         "engagement": 11,
@@ -113,9 +113,9 @@
             "date": "2026-07-29"
           },
           {
-            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
-            "url": "https://news.ycombinator.com/item?id=48275865",
-            "date": "2026-05-26"
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
           }
         ],
         "score": 93
@@ -205,34 +205,6 @@
         "score": 74
       },
       {
-        "theme": "code",
-        "mentions": 49,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
-            "url": "https://news.ycombinator.com/item?id=48522853",
-            "date": "2026-06-14"
-          },
-          {
-            "text": "$200/month split between Claude Code Max and Codex Pro. Given how many hours a month I spend programming, my hourly rate, the amount of time saved, and the prod",
-            "url": "https://news.ycombinator.com/item?id=48275865",
-            "date": "2026-05-26"
-          }
-        ],
-        "score": 74
-      },
-      {
         "theme": "built",
         "mentions": 23,
         "engagement": 164,
@@ -259,6 +231,62 @@
           }
         ],
         "score": 73
+      },
+      {
+        "theme": "code",
+        "mentions": 48,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
+            "url": "https://news.ycombinator.com/item?id=48522853",
+            "date": "2026-06-14"
+          },
+          {
+            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
+            "url": "https://news.ycombinator.com/item?id=47678065",
+            "date": "2026-04-07"
+          }
+        ],
+        "score": 73
+      },
+      {
+        "theme": "it.",
+        "mentions": 59,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
+            "url": "https://news.ycombinator.com/item?id=49623827",
+            "date": "2026-09-09"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
+          },
+          {
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          }
+        ],
+        "score": 71
       },
       {
         "theme": "apps",
@@ -315,34 +343,6 @@
           }
         ],
         "score": 71
-      },
-      {
-        "theme": "it.",
-        "mentions": 57,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
-            "url": "https://news.ycombinator.com/item?id=49623827",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
-          },
-          {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
-          }
-        ],
-        "score": 69
       },
       {
         "theme": "them",
@@ -1033,15 +1033,15 @@
         "subject": "spreadsheet",
         "queries": 32,
         "seed_spread": 7,
-        "avg_branches": 8.9,
+        "avg_branches": 9.2,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking",
-          "google sheets template for apartment hunting"
+          "google sheets template for business expenses"
         ],
-        "score": 773
+        "score": 779
       },
       {
         "subject": "budget",
@@ -1059,7 +1059,7 @@
       },
       {
         "subject": "reddit",
-        "queries": 19,
+        "queries": 18,
         "seed_spread": 8,
         "avg_branches": 10,
         "examples": [
@@ -1069,7 +1069,7 @@
           "notion template for college",
           "excel template for budget"
         ],
-        "score": 545
+        "score": 516
       },
       {
         "subject": "planner",
@@ -1103,15 +1103,15 @@
         "subject": "google",
         "queries": 21,
         "seed_spread": 4,
-        "avg_branches": 9.3,
+        "avg_branches": 9.7,
         "examples": [
-          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for tracking expenses",
-          "google sheets template for planning a trip"
+          "google sheets template for planning a trip",
+          "google sheets template for job applications"
         ],
-        "score": 294
+        "score": 298
       },
       {
         "subject": "tracking",
@@ -1131,21 +1131,21 @@
         "subject": "sheets",
         "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 9.4,
+        "avg_branches": 9.7,
         "examples": [
-          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for tracking expenses",
-          "google sheets template for planning a trip"
+          "google sheets template for planning a trip",
+          "google sheets template for job applications"
         ],
-        "score": 267
+        "score": 270
       },
       {
         "subject": "track",
         "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 7.9,
+        "avg_branches": 8.1,
         "examples": [
           "spreadsheet to track expenses",
           "spreadsheet to track expenses for small business",
@@ -1153,7 +1153,7 @@
           "spreadsheet to track spending",
           "spreadsheet to track income and expenses"
         ],
-        "score": 252
+        "score": 254
       },
       {
         "subject": "monthly",
@@ -1168,6 +1168,20 @@
           "habit tracker template for notion"
         ],
         "score": 233
+      },
+      {
+        "subject": "pdf",
+        "queries": 14,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd",
+          "printable planner for 2025"
+        ],
+        "score": 201
       },
       {
         "subject": "expenses",
@@ -1198,10 +1212,10 @@
         "score": 191
       },
       {
-        "subject": "pdf",
+        "subject": "printable",
         "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 10,
+        "avg_branches": 9.2,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1209,7 +1223,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 186
+        "score": 181
       },
       {
         "subject": "download",
@@ -1226,20 +1240,6 @@
         "score": 177
       },
       {
-        "subject": "printable",
-        "queries": 12,
-        "seed_spread": 4,
-        "avg_branches": 9.2,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd",
-          "printable planner for 2025"
-        ],
-        "score": 167
-      },
-      {
         "subject": "sheet",
         "queries": 14,
         "seed_spread": 3,
@@ -1252,6 +1252,20 @@
           "google sheets template for budget"
         ],
         "score": 148
+      },
+      {
+        "subject": "students",
+        "queries": 9,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for medical students",
+          "notion template for college"
+        ],
+        "score": 129
       },
       {
         "subject": "notion",
@@ -1310,6 +1324,20 @@
         "score": 117
       },
       {
+        "subject": "college",
+        "queries": 8,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
+        ],
+        "score": 115
+      },
+      {
         "subject": "income",
         "queries": 8,
         "seed_spread": 4,
@@ -1324,32 +1352,18 @@
         "score": 115
       },
       {
-        "subject": "planning",
-        "queries": 7,
-        "seed_spread": 4,
-        "avg_branches": 9.7,
-        "examples": [
-          "excel template for budget",
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "checklist for wedding planning",
-          "checklist for retirement"
-        ],
-        "score": 99
-      },
-      {
         "subject": "application",
-        "queries": 5,
+        "queries": 6,
         "seed_spread": 5,
         "avg_branches": 10,
         "examples": [
           "notion template for college",
           "excel template for job application tracking",
           "google sheets template for job applications",
-          "spreadsheet to track job applications",
-          "budget template for grant proposal"
+          "google sheets template for college application",
+          "spreadsheet to track job applications"
         ],
-        "score": 90
+        "score": 108
       },
       {
         "subject": "example",
@@ -1366,20 +1380,6 @@
         "score": 87
       },
       {
-        "subject": "students",
-        "queries": 8,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for medical students",
-          "notion template for college"
-        ],
-        "score": 86
-      },
-      {
         "subject": "expense",
         "queries": 8,
         "seed_spread": 3,
@@ -1392,6 +1392,48 @@
           "tracker template for google sheets"
         ],
         "score": 86
+      },
+      {
+        "subject": "planning",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
+        "examples": [
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "checklist for wedding planning",
+          "planner for small business owner"
+        ],
+        "score": 85
+      },
+      {
+        "subject": "list",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 9,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for wedding guest list",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for moving out of state"
+        ],
+        "score": 83
+      },
+      {
+        "subject": "kids",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
+        ],
+        "score": 75
       },
       {
         "subject": "management",
@@ -1450,34 +1492,6 @@
         "score": 68
       },
       {
-        "subject": "college",
-        "queries": 6,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "checklist for moving"
-        ],
-        "score": 65
-      },
-      {
-        "subject": "kids",
-        "queries": 6,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for international travel",
-          "checklist for traveling",
-          "checklist for moving out of state"
-        ],
-        "score": 65
-      },
-      {
         "subject": "daily",
         "queries": 5,
         "seed_spread": 4,
@@ -1506,17 +1520,17 @@
         "score": 64
       },
       {
-        "subject": "list",
+        "subject": "university",
         "queries": 4,
-        "seed_spread": 4,
-        "avg_branches": 8.5,
+        "seed_spread": 3,
+        "avg_branches": 10,
         "examples": [
-          "excel template for inventory",
-          "google sheets template for wedding guest list",
-          "printable planner for the week",
-          "checklist for moving out of state"
+          "notion template for college students",
+          "notion template for students",
+          "google sheets template for college application",
+          "budget template for college student"
         ],
-        "score": 54
+        "score": 43
       },
       {
         "subject": "project",
@@ -1557,20 +1571,6 @@
           "best planner for small business owner"
         ],
         "score": 43
-      },
-      {
-        "subject": "financial",
-        "queries": 5,
-        "seed_spread": 2,
-        "avg_branches": 7.6,
-        "examples": [
-          "excel template to manage personal finance",
-          "planner for small business owner",
-          "planner for small business",
-          "financial planner for small business owners",
-          "budget planner for small business"
-        ],
-        "score": 33
       }
     ],
     "richest_veins": [
@@ -1881,6 +1881,23 @@
         ]
       },
       {
+        "seed": "google sheets template for",
+        "query": "google sheets template for college application",
+        "branches": 10,
+        "children": [
+          "google sheets template for college application",
+          "google sheets template for college classes",
+          "google sheets template for college list",
+          "google sheets template for college assignments",
+          "google sheets template for college",
+          "google sheets template for college students",
+          "google sheets template for college search",
+          "google sheets college application template free",
+          "google sheets template for university",
+          "spreadsheet template for college application process"
+        ]
+      },
+      {
         "seed": "spreadsheet to track",
         "query": "spreadsheet to track expenses",
         "branches": 10,
@@ -1980,23 +1997,6 @@
           "printable calendar for june 2026 free",
           "printable calendar for august 2026 pdf",
           "printable calendar for august 2026 free"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for kids",
-        "branches": 10,
-        "children": [
-          "printable planner for kids",
-          "printable calendar for kids",
-          "printable calendar for kids 2026",
-          "printable calendar for kids 2025",
-          "printable planner for students",
-          "printable calendar for kids to color",
-          "printable calendar for kids free",
-          "printable calendar for kids pdf",
-          "printable calendar for kids schedule",
-          "printable calendar for kids april 2026"
         ]
       }
     ]
