@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T17:35:07.031Z",
+  "generated_at": "2026-09-10T23:52:17.455Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1109,
+    "signals_total": 1108,
     "themes": [
       {
         "theme": "app",
@@ -37,34 +37,6 @@
         "score": 111
       },
       {
-        "theme": "wish",
-        "mentions": 99,
-        "engagement": 11,
-        "evidence": [
-          {
-            "text": "Absolutely love Fastmail. I badly wish that they added a few key enterprise features: mandatory 2FA, SSO, provisioning, and more robust audit logs. If you’re re",
-            "url": "https://news.ycombinator.com/item?id=49344997",
-            "date": "2026-08-18"
-          },
-          {
-            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
-            "url": "https://news.ycombinator.com/item?id=48746602",
-            "date": "2026-07-01"
-          },
-          {
-            "text": "I'd wish the EU would pay for California separatism as much as the US is supporting breaking up the EU (Orban, AfD in Germany, Farage, ..)",
-            "url": "https://news.ycombinator.com/item?id=48458783",
-            "date": "2026-06-09"
-          },
-          {
-            "text": "Strongly agree. I wish more things came in jars, cans and sacks. I would pay a premium for this alone. The plastic liner in a tall box workflow adds so much fri",
-            "url": "https://news.ycombinator.com/item?id=49537191",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 107
-      },
-      {
         "theme": "web",
         "mentions": 23,
         "engagement": 537,
@@ -91,6 +63,34 @@
           }
         ],
         "score": 107
+      },
+      {
+        "theme": "wish",
+        "mentions": 98,
+        "engagement": 11,
+        "evidence": [
+          {
+            "text": "Absolutely love Fastmail. I badly wish that they added a few key enterprise features: mandatory 2FA, SSO, provisioning, and more robust audit logs. If you’re re",
+            "url": "https://news.ycombinator.com/item?id=49344997",
+            "date": "2026-08-18"
+          },
+          {
+            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
+            "url": "https://news.ycombinator.com/item?id=48746602",
+            "date": "2026-07-01"
+          },
+          {
+            "text": "I'd wish the EU would pay for California separatism as much as the US is supporting breaking up the EU (Orban, AfD in Germany, Farage, ..)",
+            "url": "https://news.ycombinator.com/item?id=48458783",
+            "date": "2026-06-09"
+          },
+          {
+            "text": "Strongly agree. I wish more things came in jars, cans and sacks. I would pay a premium for this alone. The plastic liner in a tall box workflow adds so much fri",
+            "url": "https://news.ycombinator.com/item?id=49537191",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 106
       },
       {
         "theme": "hours",
@@ -177,6 +177,34 @@
         "score": 86
       },
       {
+        "theme": "built",
+        "mentions": 24,
+        "engagement": 164,
+        "evidence": [
+          {
+            "text": "I built cloud transcoding 50x cheaper than AWS/Coconut/others – anyone need it?",
+            "url": "https://news.ycombinator.com/item?id=46473479",
+            "date": "2026-01-03"
+          },
+          {
+            "text": "My Samsung TV has some stupid voice assistant inside of it called Bixby. Not only is it useless, it's extremely annoying. I've had multiple experiences where it",
+            "url": "https://news.ycombinator.com/item?id=49616404",
+            "date": "2026-09-08"
+          },
+          {
+            "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
+            "url": "https://news.ycombinator.com/item?id=44767486",
+            "date": "2025-08-02"
+          },
+          {
+            "text": "I've been looking for a tool like this, that lets Claude operate on multiple repos. I work on a project that has frontend/packages and backend (separate repos i",
+            "url": "https://news.ycombinator.com/item?id=44631694",
+            "date": "2025-07-21"
+          }
+        ],
+        "score": 75
+      },
+      {
         "theme": "search",
         "mentions": 24,
         "engagement": 155,
@@ -205,36 +233,8 @@
         "score": 74
       },
       {
-        "theme": "built",
-        "mentions": 23,
-        "engagement": 164,
-        "evidence": [
-          {
-            "text": "I built cloud transcoding 50x cheaper than AWS/Coconut/others – anyone need it?",
-            "url": "https://news.ycombinator.com/item?id=46473479",
-            "date": "2026-01-03"
-          },
-          {
-            "text": "My Samsung TV has some stupid voice assistant inside of it called Bixby. Not only is it useless, it's extremely annoying. I've had multiple experiences where it",
-            "url": "https://news.ycombinator.com/item?id=49616404",
-            "date": "2026-09-08"
-          },
-          {
-            "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
-            "url": "https://news.ycombinator.com/item?id=44767486",
-            "date": "2025-08-02"
-          },
-          {
-            "text": "I've been looking for a tool like this, that lets Claude operate on multiple repos. I work on a project that has frontend/packages and backend (separate repos i",
-            "url": "https://news.ycombinator.com/item?id=44631694",
-            "date": "2025-07-21"
-          }
-        ],
-        "score": 73
-      },
-      {
         "theme": "code",
-        "mentions": 48,
+        "mentions": 47,
         "engagement": 41,
         "evidence": [
           {
@@ -258,7 +258,7 @@
             "date": "2026-04-07"
           }
         ],
-        "score": 73
+        "score": 72
       },
       {
         "theme": "it.",
@@ -346,7 +346,7 @@
       },
       {
         "theme": "them",
-        "mentions": 69,
+        "mentions": 68,
         "engagement": 0,
         "evidence": [
           {
@@ -370,7 +370,7 @@
             "date": "2026-08-07"
           }
         ],
-        "score": 69
+        "score": 68
       },
       {
         "theme": "different",
@@ -597,6 +597,34 @@
         "score": 58
       },
       {
+        "theme": "world",
+        "mentions": 28,
+        "engagement": 58,
+        "evidence": [
+          {
+            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
+            "url": "https://news.ycombinator.com/item?id=49629894",
+            "date": "2026-09-09"
+          },
+          {
+            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
+            "url": "https://news.ycombinator.com/item?id=49488605",
+            "date": "2026-08-29"
+          },
+          {
+            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
+            "url": "https://news.ycombinator.com/item?id=48916578",
+            "date": "2026-07-15"
+          },
+          {
+            "text": "> Again, the investment needed boogles the mind, around 10B currently, for a single drug. These are made up numbers though. 99% of that is overheads of a massiv",
+            "url": "https://news.ycombinator.com/item?id=48770902",
+            "date": "2026-07-03"
+          }
+        ],
+        "score": 57
+      },
+      {
         "theme": "system",
         "mentions": 21,
         "engagement": 92,
@@ -651,34 +679,6 @@
           }
         ],
         "score": 56
-      },
-      {
-        "theme": "world",
-        "mentions": 27,
-        "engagement": 58,
-        "evidence": [
-          {
-            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
-            "url": "https://news.ycombinator.com/item?id=49629894",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
-            "url": "https://news.ycombinator.com/item?id=49488605",
-            "date": "2026-08-29"
-          },
-          {
-            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
-            "url": "https://news.ycombinator.com/item?id=48916578",
-            "date": "2026-07-15"
-          },
-          {
-            "text": "> Again, the investment needed boogles the mind, around 10B currently, for a single drug. These are made up numbers though. 99% of that is overheads of a massiv",
-            "url": "https://news.ycombinator.com/item?id=48770902",
-            "date": "2026-07-03"
-          }
-        ],
-        "score": 55
       },
       {
         "theme": "stop",
@@ -1170,20 +1170,6 @@
         "score": 233
       },
       {
-        "subject": "pdf",
-        "queries": 14,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd",
-          "printable planner for 2025"
-        ],
-        "score": 201
-      },
-      {
         "subject": "expenses",
         "queries": 11,
         "seed_spread": 5,
@@ -1212,10 +1198,10 @@
         "score": 191
       },
       {
-        "subject": "printable",
+        "subject": "pdf",
         "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 9.2,
+        "avg_branches": 10,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1223,7 +1209,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 181
+        "score": 186
       },
       {
         "subject": "download",
@@ -1238,6 +1224,20 @@
           "printable planner for adhd"
         ],
         "score": 177
+      },
+      {
+        "subject": "printable",
+        "queries": 12,
+        "seed_spread": 4,
+        "avg_branches": 9.2,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd",
+          "printable planner for 2025"
+        ],
+        "score": 167
       },
       {
         "subject": "sheet",
@@ -1324,20 +1324,6 @@
         "score": 117
       },
       {
-        "subject": "college",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "google sheets template for college application"
-        ],
-        "score": 115
-      },
-      {
         "subject": "income",
         "queries": 8,
         "seed_spread": 4,
@@ -1364,6 +1350,20 @@
           "spreadsheet to track job applications"
         ],
         "score": 108
+      },
+      {
+        "subject": "college",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
+        ],
+        "score": 100
       },
       {
         "subject": "example",
@@ -1411,7 +1411,7 @@
         "subject": "list",
         "queries": 6,
         "seed_spread": 4,
-        "avg_branches": 9,
+        "avg_branches": 8.8,
         "examples": [
           "excel template for inventory",
           "google sheets template for wedding guest list",
@@ -1419,7 +1419,7 @@
           "printable planner for the week",
           "checklist for moving out of state"
         ],
-        "score": 83
+        "score": 82
       },
       {
         "subject": "kids",
@@ -1533,6 +1533,19 @@
         "score": 43
       },
       {
+        "subject": "school",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 9.8,
+        "examples": [
+          "notion template for school",
+          "notion template for medical students",
+          "checklist for kindergarten readiness",
+          "template management system"
+        ],
+        "score": 43
+      },
+      {
         "subject": "project",
         "queries": 4,
         "seed_spread": 3,
@@ -1555,20 +1568,6 @@
           "spreadsheet to track expenses",
           "spreadsheet to track spending",
           "expense tracker template for google sheets"
-        ],
-        "score": 43
-      },
-      {
-        "subject": "plan",
-        "queries": 6,
-        "seed_spread": 2,
-        "avg_branches": 10,
-        "examples": [
-          "budget template for college student",
-          "budget template for teens",
-          "budget template for biweekly pay",
-          "planner for small business owner",
-          "best planner for small business owner"
         ],
         "score": 43
       }
