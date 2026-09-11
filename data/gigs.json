@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10T23:51:30.092Z",
-  "scanned": 160,
-  "accepted": 29,
-  "refused_on_ethics": 13,
+  "generated_at": "2026-09-11T10:50:41.036Z",
+  "scanned": 162,
+  "accepted": 30,
+  "refused_on_ethics": 14,
   "jobs": [
     {
       "title": "Expertise Required: Python-based Web Scraper Development",
@@ -21,6 +21,20 @@
       "score": 1095
     },
     {
+      "title": "Manual Data Entry to Excel",
+      "url": "https://www.freelancer.com/projects/customer-support/manual-data-entry-excel",
+      "budget_raw": "$209 Average bid",
+      "desc": "I will supply a series of text documents that contain raw information we need organised and lightly manipulated. The task is entirely manual no scraping tools or automated scripts so accuracy and careful attention to detail are essential. Your job is to read each file, enter every data point into th",
+      "bids": 16,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 209,
+      "hourly": false,
+      "flags": [],
+      "score": 408
+    },
+    {
       "title": "Python Developer Needed for Small Process Automation Script",
       "url": "https://www.freelancer.com/projects/data-analysis/dissertation-data-collection-analysis",
       "budget_raw": "$405 Average bid",
@@ -33,20 +47,6 @@
       "hourly": false,
       "flags": [],
       "score": 403
-    },
-    {
-      "title": "Manual Data Entry to Excel",
-      "url": "https://www.freelancer.com/projects/customer-support/manual-data-entry-excel",
-      "budget_raw": "$195 Average bid",
-      "desc": "I will supply a series of text documents that contain raw information we need organised and lightly manipulated. The task is entirely manual no scraping tools or automated scripts so accuracy and careful attention to detail are essential. Your job is to read each file, enter every data point into th",
-      "bids": 17,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 195,
-      "hourly": false,
-      "flags": [],
-      "score": 364
     },
     {
       "title": "Extract Property Data from IGRSUP",
@@ -65,46 +65,46 @@
     {
       "title": "Advanced Data Scraping and Lead Gen App",
       "url": "https://www.freelancer.com/projects/django/advanced-data-scraping-lead-gen",
-      "budget_raw": "$180 Average bid",
+      "budget_raw": "$184 Average bid",
       "desc": "Senior Full-Stack Python Developer / Team Multi-Tenant Data Scraping & Lead Generation Web Application Project Overview We are seeking an experienced Senior Full-Stack Python Developer (or small specialized agency) to build a scalable, multi-tenant web application for automated web scraping, contact",
       "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 180,
+      "usd": 184,
       "hourly": false,
       "flags": [
         "date personale — verifică GDPR și sursa"
       ],
-      "score": 211
+      "score": 215
     },
     {
-      "title": "Python Developer for Swing-Trading System with Zerodha Integration",
-      "url": "https://www.freelancer.com/projects/javascript/python-developer-for-swing-trading",
-      "budget_raw": "$804 Average bid",
-      "desc": "We are seeking an experienced Python developer to build a long-only swing-trading system for Indian equities. This is not an intraday-trading system; trades will generally remain open for approximately 4 20 trading days. The project includes: 1. Reviewing and improving an existing company-selection ",
-      "bids": 38,
+      "title": "Organize Operational Expenses in Excel",
+      "url": "https://www.freelancer.com/projects/data-analysis/organize-operational-expenses-excel",
+      "budget_raw": "$962 Average bid",
+      "desc": "I have a batch of operational expense records covering Utilities, Salaries, and Office supplies that must be keyed into Microsoft Excel and arranged so the data is immediately useful for reporting and analysis. I do not have an existing template, so part of the assignment is to design a clean, logic",
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 5,
-      "usd": 804,
+      "fit": 3,
+      "usd": 962,
       "hourly": false,
       "flags": [],
-      "score": 168
+      "score": 202
     },
     {
       "title": "Excel-Integrated WhatsApp Messaging API",
       "url": "https://www.freelancer.com/projects/automation/excel-integrated-whatsapp-messaging-api",
-      "budget_raw": "$86 Average bid",
+      "budget_raw": "$75 Average bid",
       "desc": "I need a production-ready way to push both monthly bills and promotional campaigns through WhatsApp straight from an Excel sheet. Each row will hold the customer s number plus dynamic fields that should populate a pre-approved template, attach an image (PDF for bills or banner for promos) and add a ",
-      "bids": 6,
+      "bids": 7,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
-      "usd": 86,
+      "usd": 75,
       "hourly": false,
       "flags": [],
-      "score": 152
+      "score": 129
     },
     {
       "title": "Machine Learning for Job Market Analytics -- 2",
@@ -121,20 +121,6 @@
       "score": 97
     },
     {
-      "title": "PDF Alphanumeric Data to Excel",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-alphanumeric-data-excel",
-      "budget_raw": "$173 Average bid",
-      "desc": "I have a PDF that holds a little over two-hundred rows of mixed letters and numbers think product codes, IDs, brief labels that all need to live in a clean, well-structured Excel workbook. Your job is to lift every character exactly as it appears, place each field in its correct column, and keep the",
-      "bids": 21,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 173,
-      "hourly": false,
-      "flags": [],
-      "score": 96
-    },
-    {
       "title": "Manta.com Business Data Extraction",
       "url": "https://www.freelancer.com/projects/data-extraction/manta-com-business-data-extraction",
       "budget_raw": "$74 Average bid",
@@ -147,6 +133,48 @@
       "hourly": false,
       "flags": [],
       "score": 78
+    },
+    {
+      "title": "Accurate Data Processing Support - 11/09/2026 02:27 EDT",
+      "url": "https://www.freelancer.com/projects/data-analysis/accurate-data-processing-support-edt",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I need an extra pair of hands for ongoing data processing work. Your main focus will be taking raw data I supply spreadsheets, CSVs, or occasional PDFs and turning it into clean, well-structured tables ready for analysis or upload to our internal tools. Accuracy and consistency matter more to me tha",
+      "bids": 7,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 69
+    },
+    {
+      "title": "CWatM + MODFLOW 6 Hydrologist for Surface Water Groundwater Modeling",
+      "url": "https://www.freelancer.com/projects/environmental-engineering/cwatm-modflow-hydrologist-for-surface",
+      "budget_raw": "$143 Average bid",
+      "desc": "Title: CWatM + MODFLOW 6 Hydrologist for Surface Water Groundwater Modeling Job Description: I am looking for a hydrologist / groundwater modeler with experience in CWatM, MODFLOW 6, FloPy/Python, or coupled surface water groundwater modeling. The study area is the North China Plain, with a simulati",
+      "bids": 25,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 143,
+      "hourly": false,
+      "flags": [],
+      "score": 63
+    },
+    {
+      "title": "Excel Conditional Formatting Cleanup",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-conditional-formatting-cleanup",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I receive a raw Excel export straight from our database and need it turned into a clean, analysis-ready workbook. Every record is already there, but column widths, dates, numbers and text fields arrive in mixed formats, making the file hard to read or filter. Your task is to bring order to the chaos",
+      "bids": 11,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 61
     },
     {
       "title": "Automate frontend button actions on LinkedIn",
@@ -163,43 +191,15 @@
       "score": 57
     },
     {
-      "title": "Extract Telegram Usernames CSV",
-      "url": "https://www.freelancer.com/projects/api/extract-telegram-usernames-csv",
-      "budget_raw": "$3 / hr Average bid",
-      "desc": "I have a CSV that holds between 1,000 and 10,000 phone numbers and I need the matching Telegram usernames for each one. Along with the username, please also capture the visible profile name; no other profile details are required. The workflow I picture is straightforward: you read the CSV, query Tel",
-      "bids": 2,
+      "title": "Gmail to Jobber Request Automation System",
+      "url": "https://www.freelancer.com/projects/api-integration/gmail-jobber-request-automation-system",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "Automation Developer Needed Gmail to Jobber AI Workflow Egyptian Applicants Only | Remote | Contract | Potential for Long-Term Work We are looking for an experienced Automation/Integration Developer to build a reliable, production-ready system that automatically converts incoming work-order emails f",
+      "bids": 31,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
-      "usd": 3,
-      "hourly": true,
-      "flags": [],
-      "score": 57
-    },
-    {
-      "title": "Python Educational Abacus Game",
-      "url": "https://www.freelancer.com/projects/game-development/python-educational-abacus-game",
-      "budget_raw": "$272 Average bid",
-      "desc": "I need a small interactive abacus game-lesson written in Python that helps learners aged roughly 5 14 grasp basic counting and simple arithmetic by sliding beads on a virtual soroban-style frame. The goal is to keep it fun and visually engaging while still following genuine abacus rules, so children",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 272,
-      "hourly": false,
-      "flags": [],
-      "score": 48
-    },
-    {
-      "title": "Business Analyst for AI Spreadsheet Evaluation",
-      "url": "https://www.freelancer.com/projects/ai-model-development/business-analyst-for-spreadsheet",
-      "budget_raw": "$18 / hr Average bid",
-      "desc": "looking for a detail-oriented Business Analyst / AI Model Trainer to evaluate AI-generated spreadsheets, presentations, and documents. You ll compare outputs against prompts, source materials, examples, and specific quality criteria, then correct, critique, and rank them based on content, aesthetics",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 18,
+      "usd": 8,
       "hourly": true,
       "flags": [],
       "score": 47
@@ -219,18 +219,60 @@
       "score": 40
     },
     {
-      "title": "Windows Expense Entry Tool",
-      "url": "https://www.freelancer.com/projects/data-management/windows-expense-entry-tool",
-      "budget_raw": "$11 / hr Average bid",
-      "desc": "I need a straightforward desktop application that lets me record income and expenses on my Windows PC and quickly move that information in and out of the system. The core requirement is reliable data import/export CSV is fine, but if you have a smarter approach I m open to it. Beyond the basics of a",
-      "bids": 19,
+      "title": "Extract Telegram Usernames CSV",
+      "url": "https://www.freelancer.com/projects/api/extract-telegram-usernames-csv",
+      "budget_raw": "$3 / hr Average bid",
+      "desc": "I have a CSV that holds between 1,000 and 10,000 phone numbers and I need the matching Telegram usernames for each one. Along with the username, please also capture the visible profile name; no other profile details are required. The workflow I picture is straightforward: you read the CSV, query Tel",
+      "bids": null,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 3,
+      "hourly": true,
+      "flags": [],
+      "score": 36
+    },
+    {
+      "title": "Real-Time Shopify Accounting Sync",
+      "url": "https://www.freelancer.com/projects/shopify-development/real-time-shopify-accounting-sync",
+      "budget_raw": "$107 Average bid",
+      "desc": "I need my Shopify store to feed both sales and customer data straight into an accounting platform in real-time. I have not committed to QuickBooks, Xero, or FreshBooks yet, so I m open to whichever of those three you feel will provide the most seamless and reliable integration. Here s what I expect:",
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 11,
-      "hourly": true,
+      "usd": 107,
+      "hourly": false,
       "flags": [],
-      "score": 24
+      "score": 33
+    },
+    {
+      "title": "Actuary Review for Promotional Webpage",
+      "url": "https://www.freelancer.com/projects/article-writing/actuary-review-for-promotional-webpage",
+      "budget_raw": "$102 Average bid",
+      "desc": "A new landing page aimed squarely at fellow actuaries is ready for a final, professional once-over. The page s purpose is to promote an Excel addin, so every word must resonate with actuarial readers while clearly communicating value. The task centres on three things: first, does the language and li",
+      "bids": 16,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 102,
+      "hourly": false,
+      "flags": [],
+      "score": 32
+    },
+    {
+      "title": "Telegram Audience Research & Growth Specialist Portuguese Sports Betting",
+      "url": "https://www.freelancer.com/projects/community-management/telegram-audience-research-growth",
+      "budget_raw": "$36 Average bid",
+      "desc": "Telegram Scraping & Community Growth Specialist I am looking for a Telegram scraping / data mining specialist to help me build and rapidly grow my own Portuguese sports betting Telegram community. My goal is to become the owner and main tipster of a 1,000+ real and active Portuguese member community",
+      "bids": 23,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 36,
+      "hourly": false,
+      "flags": [],
+      "score": 18
     },
     {
       "title": "Targeted Web Scraping",
@@ -249,23 +291,37 @@
     {
       "title": "Mobile Game",
       "url": "https://www.freelancer.com/projects/automation/mobile-game",
-      "budget_raw": "$57 Average bid",
+      "budget_raw": "$58 Average bid",
       "desc": "I m looking for a developer to create an automation/controller system for managing multiple accounts and coordinating with an existing application. The system should handle the workflow between different accounts automatically with minimal manual intervention. It should also maintain an Excel/CSV re",
-      "bids": 18,
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 57,
+      "usd": 58,
       "hourly": false,
       "flags": [],
-      "score": 16
+      "score": 15
+    },
+    {
+      "title": "Business Analyst for AI Spreadsheet Evaluation",
+      "url": "https://www.freelancer.com/projects/ai-model-development/business-analyst-for-spreadsheet",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "looking for a detail-oriented Business Analyst / AI Model Trainer to evaluate AI-generated spreadsheets, presentations, and documents. You ll compare outputs against prompts, source materials, examples, and specific quality criteria, then correct, critique, and rank them based on content, aesthetics",
+      "bids": 24,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 8,
+      "hourly": true,
+      "flags": [],
+      "score": 13
     },
     {
       "title": "Automate 1000 Daily Video Ad Views",
       "url": "https://www.freelancer.com/projects/automation/automate-daily-video-views-40702838",
       "budget_raw": "$2 / hr Average bid",
       "desc": "I need a reliable automation that can watch and where required, click through at least 1,000 video ads every single day across both desktop and mobile environments. The core flow is straightforward: load the ad, let it play for the minimum time that credits a view, perform any mandatory click (for e",
-      "bids": 9,
+      "bids": 10,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -277,37 +333,23 @@
     {
       "title": "30K Verified Australian CEO Leads",
       "url": "https://www.freelancer.com/projects/data-collection/verified-australian-ceo-leads",
-      "budget_raw": "$146 Average bid",
+      "budget_raw": "$143 Average bid",
       "desc": "I need a fresh database of 30,000 Australian CEOs, fully verified so that every record is ready for outreach the moment I receive it. For each CEO I must have two data points only: The direct email address (bounced emails are unacceptable) The current company name No industry limits; I want full nat",
-      "bids": 34,
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 146,
+      "usd": 143,
       "hourly": false,
       "flags": [],
       "score": 11
-    },
-    {
-      "title": "Remote Daily Cash Bookkeeping",
-      "url": "https://www.freelancer.com/projects/data-entry/remote-daily-cash-bookkeeping",
-      "budget_raw": "$33 Average bid",
-      "desc": "I need day-to-day support keeping my cash book fully up to date. Each business day you ll record every incoming and outgoing payment in the working Excel register, then copy the data into QuickBooks so the ledger always matches the spreadsheet. Alongside the cash entries I ll rely on you to raise an",
-      "bids": 17,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 33,
-      "hourly": false,
-      "flags": [],
-      "score": 10
     },
     {
       "title": "Winomkar Excel Data Automation",
       "url": "https://www.freelancer.com/projects/data-processing/winomkar-excel-data-automation",
       "budget_raw": "$15 Average bid",
       "desc": "I need an automated workflow that pulls mixed text-and-number records from our Winomkar Excel workbooks, processes them, and returns clean, ready-to-use sheets without any manual touch-ups. The script (whether built in Python, VBA, Power Query, or another reliable tool you prefer) must open the sour",
-      "bids": 18,
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -317,47 +359,45 @@
       "score": 7
     },
     {
+      "title": "PDF to Word/Excel Conversion",
+      "url": "https://www.freelancer.com/projects/word-processing/pdf-word-excel-conversion-40704426",
+      "budget_raw": "$4 / hr Average bid",
+      "desc": "I have a set of PDFs that must be rebuilt in editable formats Word for the narrative pages and Excel for every table you find inside them. Each file carries both tables and embedded charts, so every border, font, colour and layout choice needs to survive the trip intact. The job is straightforward b",
+      "bids": 25,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 4,
+      "hourly": true,
+      "flags": [],
+      "score": 6
+    },
+    {
+      "title": "Tally Closing Journal Entries Update",
+      "url": "https://www.freelancer.com/projects/bookkeeping/tally-closing-journal-entries-update",
+      "budget_raw": "$56 Average bid",
+      "desc": "I have last-year s Tally data almost wrapped up, but the closing journal entries were never posted. I need an accountant who knows Tally inside out to: enter the required closing journal entries for the previous financial year verify that every affected ledger is correctly balanced produce a clean, ",
+      "bids": 11,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 56,
+      "hourly": false,
+      "flags": [],
+      "score": 5
+    },
+    {
       "title": "1M Small-Business Leads Needed",
       "url": "https://www.freelancer.com/projects/data-collection/small-business-leads-needed",
-      "budget_raw": "$24 Average bid",
+      "budget_raw": "$23 Average bid",
       "desc": "I m launching a large-scale outreach campaign and require a database of one million up-to-date leads specifically from small businesses. I m flexible on geography and sector, but every record must be real, current, and ready for cold-email or phone contact. Please source the data ethically LinkedIn,",
-      "bids": 20,
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 24,
+      "usd": 23,
       "hourly": false,
       "flags": [],
-      "score": 5
-    },
-    {
-      "title": "Real-Time Shopify Accounting Sync",
-      "url": "https://www.freelancer.com/projects/shopify-development/real-time-shopify-accounting-sync",
-      "budget_raw": "$30 - $250",
-      "desc": "I need my Shopify store to feed both sales and customer data straight into an accounting platform in real-time. I have not committed to QuickBooks, Xero, or FreshBooks yet, so I m open to whichever of those three you feel will provide the most seamless and reliable integration. Here s what I expect:",
-      "bids": 28,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 30,
-      "hourly": false,
-      "flags": [],
-      "score": 5
-    },
-    {
-      "title": "Telegram Lead Generation Bot",
-      "url": "https://www.freelancer.com/projects/ai-chatbot-development/telegram-lead-generation-bot",
-      "budget_raw": "$25 Average bid",
-      "desc": "AI-Powered Telegram Bot & Workflow Automation AI-Powered Telegram Bot & Workflow Automation is an intelligent automation solution designed to streamline communication, user interactions, and business workflows through Telegram. The system uses AI-powered conversations, automated responses, user mana",
-      "bids": 34,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 25,
-      "hourly": false,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
       "score": 4
     },
     {
@@ -375,20 +415,6 @@
       "score": 3
     },
     {
-      "title": "AI Agent for CRM Automation",
-      "url": "https://www.freelancer.com/projects/ai-automation/agent-for-crm-automation",
-      "budget_raw": "$23 Average bid",
-      "desc": "I want to replace the patchwork of manual steps that move a prospect from our forms and inboxes into the CRM with a single, reliable AI-driven workflow. The goal is pure process optimization: an autonomous agent (or small group of agents) that can read incoming lead data, enrich it, score it, trigge",
-      "bids": 12,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 23,
-      "hourly": false,
-      "flags": [],
-      "score": 2
-    },
-    {
       "title": "Sales Revenue Growth Analysis",
       "url": "https://www.freelancer.com/projects/data-analysis/sales-revenue-growth-analysis",
       "budget_raw": "$9 / hr Average bid",
@@ -401,23 +427,13 @@
       "hourly": true,
       "flags": [],
       "score": 1
-    },
-    {
-      "title": "Daily Home Task Recording Opportunity",
-      "url": "https://www.freelancer.com/projects/android/daily-home-task-recording-opportunity",
-      "budget_raw": "$1 / hr Average bid",
-      "desc": "EGOCENTRIC DATA COLLECTION PROJECT Android & iOS both devices allowed Record simple daily home tasks like cleaning, cooking, cutting, organizing, etc. Female candidates preferred especially suitable for candidates who can record tasks at home. Male candidates can also participate. Ready to buy a hea",
-      "bids": 3,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 1,
-      "hourly": true,
-      "flags": [],
-      "score": 1
     }
   ],
   "refused": [
+    {
+      "title": "Romanian Company Database Scraping",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
+    },
     {
       "title": "Python-Driven OSP Field Location Research",
       "reason": "listă masivă de date personale — GDPR și spam"
@@ -451,24 +467,24 @@
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
-      "title": "Immediate Ready-made USA B2B Lead List",
-      "reason": "listă masivă de date personale — GDPR și spam"
+      "title": "Find Chinese Business Emails Using Alibaba/Aliyun Mail",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
       "title": "Professional Email Research & Verification.",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
+      "title": "Urgent Web Security Test Automation",
+      "reason": "fraudă academică"
+    },
+    {
       "title": "Case-Sensitive Text Captcha",
       "reason": "rezolvare/ocolire de CAPTCHA"
     },
     {
-      "title": "Polymarket Trend Following Bot",
-      "reason": "automatizare financiară sau de pariuri"
-    },
-    {
-      "title": "Instagram VMOS Automation Scripts",
-      "reason": "extragere din rețele sociale — încalcă termenii platformei"
+      "title": "High-Volume Image Captcha Typing",
+      "reason": "rezolvare/ocolire de CAPTCHA"
     }
   ]
 }

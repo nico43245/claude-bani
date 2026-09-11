@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T23:52:17.455Z",
+  "generated_at": "2026-09-11T10:51:28.583Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -37,34 +37,6 @@
         "score": 111
       },
       {
-        "theme": "web",
-        "mentions": 23,
-        "engagement": 537,
-        "evidence": [
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
-            "url": "https://news.ycombinator.com/item?id=48873462",
-            "date": "2026-07-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          }
-        ],
-        "score": 107
-      },
-      {
         "theme": "wish",
         "mentions": 98,
         "engagement": 11,
@@ -91,6 +63,34 @@
           }
         ],
         "score": 106
+      },
+      {
+        "theme": "web",
+        "mentions": 22,
+        "engagement": 537,
+        "evidence": [
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
+            "url": "https://news.ycombinator.com/item?id=48873462",
+            "date": "2026-07-11"
+          },
+          {
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
+          }
+        ],
+        "score": 104
       },
       {
         "theme": "hours",
@@ -234,7 +234,7 @@
       },
       {
         "theme": "code",
-        "mentions": 47,
+        "mentions": 48,
         "engagement": 41,
         "evidence": [
           {
@@ -258,7 +258,7 @@
             "date": "2026-04-07"
           }
         ],
-        "score": 72
+        "score": 73
       },
       {
         "theme": "it.",
@@ -457,6 +457,34 @@
         "score": 63
       },
       {
+        "theme": "agent",
+        "mentions": 14,
+        "engagement": 258,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "They're not cheap at all. I did one xhigh Qwen 3.8 27B agentic coding task last week via OpenRouter and it cost me like $10. 99% of the cost was in input tokens",
+            "url": "https://news.ycombinator.com/item?id=49531259",
+            "date": "2026-09-02"
+          },
+          {
+            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
+            "url": "https://news.ycombinator.com/item?id=48873462",
+            "date": "2026-07-11"
+          },
+          {
+            "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
+            "url": "https://news.ycombinator.com/item?id=49001865",
+            "date": "2026-07-22"
+          }
+        ],
+        "score": 61
+      },
+      {
         "theme": "public",
         "mentions": 20,
         "engagement": 126,
@@ -541,29 +569,57 @@
         "score": 59
       },
       {
-        "theme": "agent",
-        "mentions": 13,
-        "engagement": 258,
+        "theme": "company",
+        "mentions": 24,
+        "engagement": 80,
         "evidence": [
           {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
           },
           {
-            "text": "They're not cheap at all. I did one xhigh Qwen 3.8 27B agentic coding task last week via OpenRouter and it cost me like $10. 99% of the cost was in input tokens",
-            "url": "https://news.ycombinator.com/item?id=49531259",
-            "date": "2026-09-02"
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
           },
           {
-            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
-            "url": "https://news.ycombinator.com/item?id=48873462",
-            "date": "2026-07-11"
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
           },
           {
-            "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
-            "url": "https://news.ycombinator.com/item?id=49001865",
-            "date": "2026-07-22"
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
+          }
+        ],
+        "score": 58
+      },
+      {
+        "theme": "system",
+        "mentions": 22,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
           }
         ],
         "score": 58
@@ -625,62 +681,6 @@
         "score": 57
       },
       {
-        "theme": "system",
-        "mentions": 21,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
-          },
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
-          }
-        ],
-        "score": 56
-      },
-      {
-        "theme": "company",
-        "mentions": 23,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          },
-          {
-            "text": "As a European I can only say I would rather pay 9€ monthly to European company than even receiving 5€ from USA I self-host my application so I don't have need f",
-            "url": "https://news.ycombinator.com/item?id=49575026",
-            "date": "2026-09-05"
-          }
-        ],
-        "score": 56
-      },
-      {
         "theme": "stop",
         "mentions": 13,
         "engagement": 215,
@@ -732,34 +732,6 @@
             "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
             "url": "https://news.ycombinator.com/item?id=49322165",
             "date": "2026-08-16"
-          }
-        ],
-        "score": 53
-      },
-      {
-        "theme": "launch",
-        "mentions": 8,
-        "engagement": 799,
-        "evidence": [
-          {
-            "text": "> launch costs alone make it infeasible Last time I did the math, launch costs were well balanced against permitting delays (mediated by interest rates). The br",
-            "url": "https://news.ycombinator.com/item?id=48428964",
-            "date": "2026-06-06"
-          },
-          {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
-          },
-          {
-            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-            "url": "https://news.ycombinator.com/item?id=44891090",
-            "date": "2025-08-13"
-          },
-          {
-            "text": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
-            "url": "https://news.ycombinator.com/item?id=47794514",
-            "date": "2026-04-16"
           }
         ],
         "score": 53
@@ -847,6 +819,34 @@
           }
         ],
         "score": 49
+      },
+      {
+        "theme": "project",
+        "mentions": 25,
+        "engagement": 45,
+        "evidence": [
+          {
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
+            "url": "https://news.ycombinator.com/item?id=48956474",
+            "date": "2026-07-18"
+          },
+          {
+            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
+            "url": "https://news.ycombinator.com/item?id=48240608",
+            "date": "2026-05-22"
+          },
+          {
+            "text": "What's the best project management tool you have ever used?",
+            "url": "https://news.ycombinator.com/item?id=42501443",
+            "date": "2024-12-24"
+          }
+        ],
+        "score": 48
       }
     ],
     "loudest": [
@@ -1170,6 +1170,20 @@
         "score": 233
       },
       {
+        "subject": "pdf",
+        "queries": 14,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd",
+          "printable planner for 2025"
+        ],
+        "score": 201
+      },
+      {
         "subject": "expenses",
         "queries": 11,
         "seed_spread": 5,
@@ -1198,10 +1212,10 @@
         "score": 191
       },
       {
-        "subject": "pdf",
+        "subject": "printable",
         "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 10,
+        "avg_branches": 9.2,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1209,7 +1223,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 186
+        "score": 181
       },
       {
         "subject": "download",
@@ -1224,20 +1238,6 @@
           "printable planner for adhd"
         ],
         "score": 177
-      },
-      {
-        "subject": "printable",
-        "queries": 12,
-        "seed_spread": 4,
-        "avg_branches": 9.2,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd",
-          "printable planner for 2025"
-        ],
-        "score": 167
       },
       {
         "subject": "sheet",
@@ -1324,6 +1324,20 @@
         "score": 117
       },
       {
+        "subject": "college",
+        "queries": 8,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
+        ],
+        "score": 115
+      },
+      {
         "subject": "income",
         "queries": 8,
         "seed_spread": 4,
@@ -1350,20 +1364,6 @@
           "spreadsheet to track job applications"
         ],
         "score": 108
-      },
-      {
-        "subject": "college",
-        "queries": 7,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "google sheets template for college application"
-        ],
-        "score": 100
       },
       {
         "subject": "example",
@@ -1411,7 +1411,7 @@
         "subject": "list",
         "queries": 6,
         "seed_spread": 4,
-        "avg_branches": 8.8,
+        "avg_branches": 9,
         "examples": [
           "excel template for inventory",
           "google sheets template for wedding guest list",
@@ -1419,7 +1419,7 @@
           "printable planner for the week",
           "checklist for moving out of state"
         ],
-        "score": 82
+        "score": 83
       },
       {
         "subject": "kids",
@@ -1533,19 +1533,6 @@
         "score": 43
       },
       {
-        "subject": "school",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 9.8,
-        "examples": [
-          "notion template for school",
-          "notion template for medical students",
-          "checklist for kindergarten readiness",
-          "template management system"
-        ],
-        "score": 43
-      },
-      {
         "subject": "project",
         "queries": 4,
         "seed_spread": 3,
@@ -1568,6 +1555,20 @@
           "spreadsheet to track expenses",
           "spreadsheet to track spending",
           "expense tracker template for google sheets"
+        ],
+        "score": 43
+      },
+      {
+        "subject": "plan",
+        "queries": 6,
+        "seed_spread": 2,
+        "avg_branches": 10,
+        "examples": [
+          "budget template for college student",
+          "budget template for teens",
+          "budget template for biweekly pay",
+          "planner for small business owner",
+          "best planner for small business owner"
         ],
         "score": 43
       }
