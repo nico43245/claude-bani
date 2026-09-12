@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:51:23.394Z",
+  "generated_at": "2026-09-12T23:53:29.909Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -178,13 +178,18 @@
       },
       {
         "theme": "built",
-        "mentions": 24,
+        "mentions": 25,
         "engagement": 164,
         "evidence": [
           {
             "text": "I built cloud transcoding 50x cheaper than AWS/Coconut/others – anyone need it?",
             "url": "https://news.ycombinator.com/item?id=46473479",
             "date": "2026-01-03"
+          },
+          {
+            "text": "I think the slow down / pause vs acceleration framing is broken b/c it assumes there's basically only one forward direction which is to big and general models. ",
+            "url": "https://news.ycombinator.com/item?id=49675132",
+            "date": "2026-09-12"
           },
           {
             "text": "My Samsung TV has some stupid voice assistant inside of it called Bixby. Not only is it useless, it's extremely annoying. I've had multiple experiences where it",
@@ -195,14 +200,9 @@
             "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
             "url": "https://news.ycombinator.com/item?id=44767486",
             "date": "2025-08-02"
-          },
-          {
-            "text": "I've been looking for a tool like this, that lets Claude operate on multiple repos. I work on a project that has frontend/packages and backend (separate repos i",
-            "url": "https://news.ycombinator.com/item?id=44631694",
-            "date": "2025-07-21"
           }
         ],
-        "score": 75
+        "score": 77
       },
       {
         "theme": "code",
@@ -346,7 +346,7 @@
       },
       {
         "theme": "them",
-        "mentions": 67,
+        "mentions": 68,
         "engagement": 0,
         "evidence": [
           {
@@ -370,7 +370,7 @@
             "date": "2026-08-07"
           }
         ],
-        "score": 67
+        "score": 68
       },
       {
         "theme": "different",
@@ -709,6 +709,34 @@
         "score": 54
       },
       {
+        "theme": "launch",
+        "mentions": 8,
+        "engagement": 799,
+        "evidence": [
+          {
+            "text": "My partial solution is to have the Android Zoom client on an idle tablet. Even though it is my office VOIP phone too, I power it off when I don't have meetings ",
+            "url": "https://news.ycombinator.com/item?id=49677927",
+            "date": "2026-09-12"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+            "url": "https://news.ycombinator.com/item?id=44891090",
+            "date": "2025-08-13"
+          },
+          {
+            "text": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+            "url": "https://news.ycombinator.com/item?id=47794514",
+            "date": "2026-04-16"
+          }
+        ],
+        "score": 53
+      },
+      {
         "theme": "without",
         "mentions": 46,
         "engagement": 9,
@@ -816,34 +844,6 @@
             "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
             "url": "https://news.ycombinator.com/item?id=46425971",
             "date": "2025-12-29"
-          }
-        ],
-        "score": 49
-      },
-      {
-        "theme": "research",
-        "mentions": 11,
-        "engagement": 223,
-        "evidence": [
-          {
-            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
-            "url": "https://news.ycombinator.com/item?id=48824680",
-            "date": "2026-07-07"
-          },
-          {
-            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
-            "url": "https://news.ycombinator.com/item?id=49048747",
-            "date": "2026-07-25"
-          },
-          {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
-          },
-          {
-            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
-            "url": "https://news.ycombinator.com/item?id=46567113",
-            "date": "2026-01-10"
           }
         ],
         "score": 49

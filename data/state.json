@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-12T16:51:23.447Z",
+  "generated_at": "2026-09-12T23:53:29.966Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 489,
+  "events_total": 494,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 96
+      "actions": 97
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 94
+      "actions": 95
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 200
+      "actions": 202
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 99
+      "actions": 100
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-12T23:53:29.910Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1108 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-12T23:52:41.966Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 234,
+      "status": null,
+      "desc": "Cel mai bun job: Expertise Required: Python-based Web Scraper Development",
+      "evidence": "https://www.freelancer.com/projects/django/expertise-required-python-based-web",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-12T23:52:41.966Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 174 proiecte scanate → 43 potrivite, 13 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-12T23:52:29.463Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 45 scanate, 3 eligibile după citirea regulamentelor (42 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-12T23:51:40.496Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 723 candidați → 0 bounty-uri reale (723 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-12T16:51:23.395Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 682 candidați → 0 bounty-uri reale (682 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-08T23:57:12.426Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1110 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-08T23:56:23.768Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 50,
-      "status": null,
-      "desc": "Cel mai bun job: Manual Data Entry in Excel",
-      "evidence": "https://www.freelancer.com/projects/data-management/manual-data-entry-excel-40691071",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-08T23:56:23.768Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 207 proiecte scanate → 41 potrivite, 12 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-08T23:56:10.203Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 44 scanate, 1 eligibile după citirea regulamentelor (43 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-08T23:55:21.725Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 666 candidați → 0 bounty-uri reale (666 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 3,
-    "rejected": 766,
+    "rejected": 765,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 9231,
+        "score": 8696,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 65,
-        "per_slot": 65,
+        "participants": 69,
+        "per_slot": 69,
         "days_left": 82,
         "objective": true
       },
@@ -659,14 +659,14 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "RevenueCat Shipaton 2026",
-        "url": "https://revenuecat-shipaton-2026.devpost.com/",
-        "score": 1598,
-        "prize_usd": 740000,
-        "slots": 55,
-        "participants": 25463,
-        "per_slot": 463,
-        "days_left": 19,
+        "title": "UnivaBio",
+        "url": "https://univabio.devpost.com/",
+        "score": 416,
+        "prize_usd": 38245,
+        "slots": 5,
+        "participants": 458,
+        "per_slot": 92,
+        "days_left": 24,
         "objective": false
       },
       {
@@ -679,8 +679,8 @@
         "score": 95,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 946,
-        "per_slot": 315,
+        "participants": 948,
+        "per_slot": 316,
         "days_left": 4,
         "objective": true
       }
@@ -688,54 +688,54 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 291
+        "count": 294
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 210
+        "count": 205
       },
       {
         "reason": "repo-fermă învățat automat",
         "count": 87
       },
       {
-        "reason": "prea competitiv",
-        "count": 57
+        "reason": "fără dovadă de finanțare",
+        "count": 58
       },
       {
-        "reason": "fără dovadă de finanțare",
-        "count": 56
+        "reason": "prea competitiv",
+        "count": 55
       },
       {
         "reason": "fără premiu în bani",
-        "count": 14
+        "count": 15
+      },
+      {
+        "reason": "participare restricționată",
+        "count": 11
       },
       {
         "reason": "fork (task sintetic de benchmark)",
         "count": 10
       },
       {
-        "reason": "participare restricționată",
-        "count": 9
-      },
-      {
         "reason": "proiect inactiv",
         "count": 7
       },
       {
-        "reason": "regulament necitibil",
-        "count": 6
+        "reason": "prea puțin timp de construit",
+        "count": 4
       },
       {
-        "reason": "prea aglomerat",
-        "count": 5
+        "reason": "regulament necitibil",
+        "count": 4
       },
       {
         "reason": "revendicat activ",
         "count": 3
       },
       {
-        "reason": "prea puțin timp de construit",
+        "reason": "prea aglomerat",
         "count": 3
       },
       {
@@ -760,6 +760,10 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
+        "count": 1
+      },
+      {
+        "reason": "premiul nu e în bani",
         "count": 1
       }
     ]
