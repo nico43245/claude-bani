@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:53:29.909Z",
+  "generated_at": "2026-09-13T11:20:18.348Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 30,
+        "mentions": 29,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-05-27"
           }
         ],
-        "score": 111
+        "score": 109
       },
       {
         "theme": "web",
@@ -150,7 +150,7 @@
       },
       {
         "theme": "hate",
-        "mentions": 77,
+        "mentions": 78,
         "engagement": 13,
         "evidence": [
           {
@@ -174,7 +174,7 @@
             "date": "2025-12-07"
           }
         ],
-        "score": 86
+        "score": 87
       },
       {
         "theme": "built",
@@ -205,34 +205,6 @@
         "score": 77
       },
       {
-        "theme": "code",
-        "mentions": 50,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
-            "url": "https://news.ycombinator.com/item?id=48522853",
-            "date": "2026-06-14"
-          },
-          {
-            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
-            "url": "https://news.ycombinator.com/item?id=47678065",
-            "date": "2026-04-07"
-          }
-        ],
-        "score": 75
-      },
-      {
         "theme": "search",
         "mentions": 24,
         "engagement": 155,
@@ -261,8 +233,64 @@
         "score": 74
       },
       {
+        "theme": "life",
+        "mentions": 16,
+        "engagement": 356,
+        "evidence": [
+          {
+            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
+            "url": "https://news.ycombinator.com/item?id=48347725",
+            "date": "2026-05-31"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
+            "url": "https://news.ycombinator.com/item?id=49384698",
+            "date": "2026-08-21"
+          },
+          {
+            "text": "Ask HN: Why is there no operating manual on how to live life?",
+            "url": "https://news.ycombinator.com/item?id=45760700",
+            "date": "2025-10-30"
+          }
+        ],
+        "score": 74
+      },
+      {
+        "theme": "code",
+        "mentions": 48,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "> For a limited time window, I'm setting the all-free feature flag to true. ? Why not make this all free? The cost of software in the age of AI has gone to zero",
+            "url": "https://news.ycombinator.com/item?id=48522853",
+            "date": "2026-06-14"
+          },
+          {
+            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
+            "url": "https://news.ycombinator.com/item?id=47678065",
+            "date": "2026-04-07"
+          }
+        ],
+        "score": 73
+      },
+      {
         "theme": "it.",
-        "mentions": 60,
+        "mentions": 59,
         "engagement": 18,
         "evidence": [
           {
@@ -286,7 +314,7 @@
             "date": "2026-08-16"
           }
         ],
-        "score": 72
+        "score": 71
       },
       {
         "theme": "open-source",
@@ -317,6 +345,62 @@
         "score": 71
       },
       {
+        "theme": "them",
+        "mentions": 69,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
+          },
+          {
+            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
+            "url": "https://news.ycombinator.com/item?id=49388579",
+            "date": "2026-08-21"
+          },
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
+            "url": "https://news.ycombinator.com/item?id=49206893",
+            "date": "2026-08-07"
+          }
+        ],
+        "score": 69
+      },
+      {
+        "theme": "different",
+        "mentions": 34,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 69
+      },
+      {
         "theme": "apps",
         "mentions": 19,
         "engagement": 194,
@@ -345,37 +429,9 @@
         "score": 69
       },
       {
-        "theme": "them",
-        "mentions": 68,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
-          },
-          {
-            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
-            "url": "https://news.ycombinator.com/item?id=49388579",
-            "date": "2026-08-21"
-          },
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Do think about b2b. Companies are already paying much more for AI. a new K3 (or similar model) every 6 months for a monthly rate of ~100$ per month is something",
-            "url": "https://news.ycombinator.com/item?id=49206893",
-            "date": "2026-08-07"
-          }
-        ],
-        "score": 68
-      },
-      {
-        "theme": "different",
-        "mentions": 33,
-        "engagement": 70,
+        "theme": "public",
+        "mentions": 22,
+        "engagement": 126,
         "evidence": [
           {
             "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
@@ -383,50 +439,22 @@
             "date": "2026-08-05"
           },
           {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
           },
           {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
           },
           {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
           }
         ],
-        "score": 67
-      },
-      {
-        "theme": "life",
-        "mentions": 14,
-        "engagement": 356,
-        "evidence": [
-          {
-            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
-            "url": "https://news.ycombinator.com/item?id=48347725",
-            "date": "2026-05-31"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
-            "url": "https://news.ycombinator.com/item?id=49384698",
-            "date": "2026-08-21"
-          },
-          {
-            "text": "Ask HN: Why is there no operating manual on how to live life?",
-            "url": "https://news.ycombinator.com/item?id=45760700",
-            "date": "2025-10-30"
-          }
-        ],
-        "score": 67
+        "score": 65
       },
       {
         "theme": "agent",
@@ -480,34 +508,6 @@
             "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
             "url": "https://news.ycombinator.com/item?id=49388758",
             "date": "2026-08-21"
-          }
-        ],
-        "score": 63
-      },
-      {
-        "theme": "public",
-        "mentions": 21,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
           }
         ],
         "score": 63
@@ -569,6 +569,34 @@
         "score": 60
       },
       {
+        "theme": "system",
+        "mentions": 23,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
+          }
+        ],
+        "score": 59
+      },
+      {
         "theme": "videos",
         "mentions": 14,
         "engagement": 233,
@@ -620,34 +648,6 @@
             "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
             "url": "https://news.ycombinator.com/item?id=48814587",
             "date": "2026-07-07"
-          }
-        ],
-        "score": 58
-      },
-      {
-        "theme": "system",
-        "mentions": 22,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
-          },
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
           }
         ],
         "score": 58
@@ -738,7 +738,7 @@
       },
       {
         "theme": "without",
-        "mentions": 46,
+        "mentions": 45,
         "engagement": 9,
         "evidence": [
           {
@@ -762,35 +762,7 @@
             "date": "2026-08-16"
           }
         ],
-        "score": 52
-      },
-      {
-        "theme": "writing",
-        "mentions": 18,
-        "engagement": 96,
-        "evidence": [
-          {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
-          },
-          {
-            "text": "I like the codegen = power tools analogy to writing software. I didn't go to school for CS or adjacent: I went to art school 20 years ago for 'new media' which ",
-            "url": "https://news.ycombinator.com/item?id=49671766",
-            "date": "2026-09-12"
-          },
-          {
-            "text": "This looks like such a nice cli/tui talking/chat harness - an agent with which I can work on non-coding tasks (where it literally doesn't need any tool - maybe ",
-            "url": "https://news.ycombinator.com/item?id=49660743",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
-          }
-        ],
-        "score": 52
+        "score": 51
       },
       {
         "theme": "talk",
@@ -844,6 +816,34 @@
             "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
             "url": "https://news.ycombinator.com/item?id=46425971",
             "date": "2025-12-29"
+          }
+        ],
+        "score": 49
+      },
+      {
+        "theme": "research",
+        "mentions": 11,
+        "engagement": 223,
+        "evidence": [
+          {
+            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
+            "url": "https://news.ycombinator.com/item?id=48824680",
+            "date": "2026-07-07"
+          },
+          {
+            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
+            "url": "https://news.ycombinator.com/item?id=49048747",
+            "date": "2026-07-25"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "I went with a Retroid after seeing articles about people booting ROCKNIX on it. And one can, from SD. But I did not do enough research to see there was no docum",
+            "url": "https://news.ycombinator.com/item?id=46567113",
+            "date": "2026-01-10"
           }
         ],
         "score": 49
@@ -1033,15 +1033,15 @@
         "subject": "spreadsheet",
         "queries": 32,
         "seed_spread": 7,
-        "avg_branches": 8.9,
+        "avg_branches": 9.2,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking",
-          "google sheets template for apartment hunting"
+          "google sheets template for business expenses"
         ],
-        "score": 773
+        "score": 779
       },
       {
         "subject": "budget",
@@ -1059,7 +1059,7 @@
       },
       {
         "subject": "reddit",
-        "queries": 19,
+        "queries": 18,
         "seed_spread": 8,
         "avg_branches": 10,
         "examples": [
@@ -1069,7 +1069,7 @@
           "notion template for college",
           "excel template for budget"
         ],
-        "score": 545
+        "score": 516
       },
       {
         "subject": "planner",
@@ -1103,15 +1103,15 @@
         "subject": "google",
         "queries": 21,
         "seed_spread": 4,
-        "avg_branches": 9.3,
+        "avg_branches": 9.7,
         "examples": [
-          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for tracking expenses",
-          "google sheets template for planning a trip"
+          "google sheets template for planning a trip",
+          "google sheets template for job applications"
         ],
-        "score": 294
+        "score": 298
       },
       {
         "subject": "tracking",
@@ -1131,15 +1131,15 @@
         "subject": "sheets",
         "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 9.4,
+        "avg_branches": 9.7,
         "examples": [
-          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for tracking expenses",
-          "google sheets template for planning a trip"
+          "google sheets template for planning a trip",
+          "google sheets template for job applications"
         ],
-        "score": 267
+        "score": 270
       },
       {
         "subject": "track",
@@ -1254,6 +1254,20 @@
         "score": 148
       },
       {
+        "subject": "students",
+        "queries": 9,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for medical students",
+          "notion template for college"
+        ],
+        "score": 129
+      },
+      {
         "subject": "notion",
         "queries": 12,
         "seed_spread": 3,
@@ -1324,32 +1338,32 @@
         "score": 115
       },
       {
-        "subject": "planning",
-        "queries": 7,
-        "seed_spread": 4,
-        "avg_branches": 9.7,
-        "examples": [
-          "excel template for budget",
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "checklist for wedding planning",
-          "checklist for retirement"
-        ],
-        "score": 99
-      },
-      {
         "subject": "application",
-        "queries": 5,
+        "queries": 6,
         "seed_spread": 5,
         "avg_branches": 10,
         "examples": [
           "notion template for college",
           "excel template for job application tracking",
           "google sheets template for job applications",
-          "spreadsheet to track job applications",
-          "budget template for grant proposal"
+          "google sheets template for college application",
+          "spreadsheet to track job applications"
         ],
-        "score": 90
+        "score": 108
+      },
+      {
+        "subject": "college",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
+        ],
+        "score": 100
       },
       {
         "subject": "example",
@@ -1366,20 +1380,6 @@
         "score": 87
       },
       {
-        "subject": "students",
-        "queries": 8,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for medical students",
-          "notion template for college"
-        ],
-        "score": 86
-      },
-      {
         "subject": "expense",
         "queries": 8,
         "seed_spread": 3,
@@ -1392,6 +1392,48 @@
           "tracker template for google sheets"
         ],
         "score": 86
+      },
+      {
+        "subject": "planning",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
+        "examples": [
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "checklist for wedding planning",
+          "planner for small business owner"
+        ],
+        "score": 85
+      },
+      {
+        "subject": "list",
+        "queries": 6,
+        "seed_spread": 4,
+        "avg_branches": 8.8,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for wedding guest list",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for moving out of state"
+        ],
+        "score": 82
+      },
+      {
+        "subject": "kids",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
+        ],
+        "score": 75
       },
       {
         "subject": "management",
@@ -1450,34 +1492,6 @@
         "score": 68
       },
       {
-        "subject": "college",
-        "queries": 6,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "checklist for moving"
-        ],
-        "score": 65
-      },
-      {
-        "subject": "kids",
-        "queries": 6,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for international travel",
-          "checklist for traveling",
-          "checklist for moving out of state"
-        ],
-        "score": 65
-      },
-      {
         "subject": "daily",
         "queries": 5,
         "seed_spread": 4,
@@ -1506,17 +1520,30 @@
         "score": 64
       },
       {
-        "subject": "list",
+        "subject": "university",
         "queries": 4,
-        "seed_spread": 4,
-        "avg_branches": 8.5,
+        "seed_spread": 3,
+        "avg_branches": 10,
         "examples": [
-          "excel template for inventory",
-          "google sheets template for wedding guest list",
-          "printable planner for the week",
-          "checklist for moving out of state"
+          "notion template for college students",
+          "notion template for students",
+          "google sheets template for college application",
+          "budget template for college student"
         ],
-        "score": 54
+        "score": 43
+      },
+      {
+        "subject": "school",
+        "queries": 4,
+        "seed_spread": 3,
+        "avg_branches": 9.8,
+        "examples": [
+          "notion template for school",
+          "notion template for medical students",
+          "checklist for kindergarten readiness",
+          "template management system"
+        ],
+        "score": 43
       },
       {
         "subject": "project",
@@ -1543,34 +1570,6 @@
           "expense tracker template for google sheets"
         ],
         "score": 43
-      },
-      {
-        "subject": "plan",
-        "queries": 6,
-        "seed_spread": 2,
-        "avg_branches": 10,
-        "examples": [
-          "budget template for college student",
-          "budget template for teens",
-          "budget template for biweekly pay",
-          "planner for small business owner",
-          "best planner for small business owner"
-        ],
-        "score": 43
-      },
-      {
-        "subject": "financial",
-        "queries": 5,
-        "seed_spread": 2,
-        "avg_branches": 7.6,
-        "examples": [
-          "excel template to manage personal finance",
-          "planner for small business owner",
-          "planner for small business",
-          "financial planner for small business owners",
-          "budget planner for small business"
-        ],
-        "score": 33
       }
     ],
     "richest_veins": [
@@ -1881,6 +1880,23 @@
         ]
       },
       {
+        "seed": "google sheets template for",
+        "query": "google sheets template for college application",
+        "branches": 10,
+        "children": [
+          "google sheets template for college application",
+          "google sheets template for college classes",
+          "google sheets template for college list",
+          "google sheets template for college assignments",
+          "google sheets template for college",
+          "google sheets template for college students",
+          "google sheets template for college search",
+          "google sheets college application template free",
+          "google sheets template for university",
+          "spreadsheet template for college application process"
+        ]
+      },
+      {
         "seed": "spreadsheet to track",
         "query": "spreadsheet to track expenses",
         "branches": 10,
@@ -1980,23 +1996,6 @@
           "printable calendar for june 2026 free",
           "printable calendar for august 2026 pdf",
           "printable calendar for august 2026 free"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for kids",
-        "branches": 10,
-        "children": [
-          "printable planner for kids",
-          "printable calendar for kids",
-          "printable calendar for kids 2026",
-          "printable calendar for kids 2025",
-          "printable planner for students",
-          "printable calendar for kids to color",
-          "printable calendar for kids free",
-          "printable calendar for kids pdf",
-          "printable calendar for kids schedule",
-          "printable calendar for kids april 2026"
         ]
       }
     ]
