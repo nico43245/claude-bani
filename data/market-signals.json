@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:10:28.980Z",
+  "generated_at": "2026-09-14T19:08:09.402Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,9 +10,14 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 30,
+        "mentions": 32,
         "engagement": 332,
         "evidence": [
+          {
+            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
+            "url": "https://news.ycombinator.com/item?id=49697808",
+            "date": "2026-09-14"
+          },
           {
             "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
             "url": "https://news.ycombinator.com/item?id=49488605",
@@ -27,14 +32,9 @@
             "text": "«Please shut up and take my money». Jokes aside - can’t wait. Your book The Lean Startup helped me so much. I read it tens of times. It’s one of the reason I go",
             "url": "https://news.ycombinator.com/item?id=48487432",
             "date": "2026-06-11"
-          },
-          {
-            "text": "I have been one of the very early users. Maybe from the first weeks (if not days). It used to be such a good app and service. So good that I used to ask my frie",
-            "url": "https://news.ycombinator.com/item?id=48288422",
-            "date": "2026-05-27"
           }
         ],
-        "score": 111
+        "score": 116
       },
       {
         "theme": "web",
@@ -178,7 +178,7 @@
       },
       {
         "theme": "built",
-        "mentions": 25,
+        "mentions": 26,
         "engagement": 164,
         "evidence": [
           {
@@ -200,6 +200,34 @@
             "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
             "url": "https://news.ycombinator.com/item?id=44767486",
             "date": "2025-08-02"
+          }
+        ],
+        "score": 79
+      },
+      {
+        "theme": "life",
+        "mentions": 17,
+        "engagement": 356,
+        "evidence": [
+          {
+            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
+            "url": "https://news.ycombinator.com/item?id=48347725",
+            "date": "2026-05-31"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
+            "url": "https://news.ycombinator.com/item?id=49701697",
+            "date": "2026-09-14"
+          },
+          {
+            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
+            "url": "https://news.ycombinator.com/item?id=49384698",
+            "date": "2026-08-21"
           }
         ],
         "score": 77
@@ -233,34 +261,6 @@
         "score": 74
       },
       {
-        "theme": "life",
-        "mentions": 16,
-        "engagement": 356,
-        "evidence": [
-          {
-            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
-            "url": "https://news.ycombinator.com/item?id=48347725",
-            "date": "2026-05-31"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
-            "url": "https://news.ycombinator.com/item?id=49384698",
-            "date": "2026-08-21"
-          },
-          {
-            "text": "Ask HN: Why is there no operating manual on how to live life?",
-            "url": "https://news.ycombinator.com/item?id=45760700",
-            "date": "2025-10-30"
-          }
-        ],
-        "score": 74
-      },
-      {
         "theme": "code",
         "mentions": 48,
         "engagement": 41,
@@ -289,29 +289,29 @@
         "score": 73
       },
       {
-        "theme": "it.",
-        "mentions": 59,
-        "engagement": 18,
+        "theme": "apps",
+        "mentions": 20,
+        "engagement": 194,
         "evidence": [
           {
-            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
-            "url": "https://news.ycombinator.com/item?id=49623827",
-            "date": "2026-09-09"
+            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
+            "url": "https://news.ycombinator.com/item?id=49697808",
+            "date": "2026-09-14"
           },
           {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
+            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
+            "url": "https://news.ycombinator.com/item?id=48578995",
+            "date": "2026-06-18"
           },
           {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
           },
           {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
           }
         ],
         "score": 71
@@ -345,8 +345,36 @@
         "score": 71
       },
       {
+        "theme": "it.",
+        "mentions": 58,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
+            "url": "https://news.ycombinator.com/item?id=49623827",
+            "date": "2026-09-09"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
+          },
+          {
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          }
+        ],
+        "score": 70
+      },
+      {
         "theme": "them",
-        "mentions": 69,
+        "mentions": 67,
         "engagement": 0,
         "evidence": [
           {
@@ -370,35 +398,7 @@
             "date": "2026-08-07"
           }
         ],
-        "score": 69
-      },
-      {
-        "theme": "apps",
-        "mentions": 19,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "If you pay for the privilege of using the app, that makes sense. I can't imagine such a law would ever be made for free apps as controlling the client experienc",
-            "url": "https://news.ycombinator.com/item?id=48578995",
-            "date": "2026-06-18"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          }
-        ],
-        "score": 69
+        "score": 67
       },
       {
         "theme": "different",
@@ -513,6 +513,34 @@
         "score": 64
       },
       {
+        "theme": "company",
+        "mentions": 26,
+        "engagement": 80,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
+          },
+          {
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
+          }
+        ],
+        "score": 61
+      },
+      {
         "theme": "browser",
         "mentions": 13,
         "engagement": 287,
@@ -539,34 +567,6 @@
           }
         ],
         "score": 60
-      },
-      {
-        "theme": "company",
-        "mentions": 25,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 59
       },
       {
         "theme": "system",
@@ -597,62 +597,6 @@
         "score": 59
       },
       {
-        "theme": "videos",
-        "mentions": 14,
-        "engagement": 233,
-        "evidence": [
-          {
-            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
-            "url": "https://news.ycombinator.com/item?id=48746602",
-            "date": "2026-07-01"
-          },
-          {
-            "text": "youtube really needs to go. like myspace. Ruined if they would offer youtube plus, i would pay: - no ads. none. nothing - videos with sponsored content tagged, ",
-            "url": "https://news.ycombinator.com/item?id=48306991",
-            "date": "2026-05-28"
-          },
-          {
-            "text": "No joke, I would pay for this more than i do for premium. Half my feed or suggestions are AI crap. Sadly I have lots of niche interests (various history topics,",
-            "url": "https://news.ycombinator.com/item?id=48300313",
-            "date": "2026-05-27"
-          },
-          {
-            "text": "The GamersNexus arc is such a YouTube success story: from a dude uploading videos, to superbly rigorous methodology in top tier hardware reviews, to occasional ",
-            "url": "https://news.ycombinator.com/item?id=48116868",
-            "date": "2026-05-13"
-          }
-        ],
-        "score": 59
-      },
-      {
-        "theme": "trust",
-        "mentions": 9,
-        "engagement": 770,
-        "evidence": [
-          {
-            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
-            "url": "https://news.ycombinator.com/item?id=49687578",
-            "date": "2026-09-13"
-          },
-          {
-            "text": "The first thing I would do with any sort of weird issue remotely associated with my brain is to get an MRI. I would pay for it out of pocket if my doctor denied",
-            "url": "https://news.ycombinator.com/item?id=48388346",
-            "date": "2026-06-03"
-          },
-          {
-            "text": "I wish there was a way to do it without all the problems of having cameras on people's faces. The tech of AR glasses would be pretty neat to get working given I",
-            "url": "https://news.ycombinator.com/item?id=49247977",
-            "date": "2026-08-10"
-          },
-          {
-            "text": "I always get the highest end components I can find, and I try to stick with Asus and not the cheapest PSU. I've never had anything fail, and I do this every 5 y",
-            "url": "https://news.ycombinator.com/item?id=49222347",
-            "date": "2026-08-08"
-          }
-        ],
-        "score": 58
-      },
-      {
         "theme": "stop",
         "mentions": 14,
         "engagement": 215,
@@ -681,6 +625,34 @@
         "score": 58
       },
       {
+        "theme": "videos",
+        "mentions": 13,
+        "engagement": 233,
+        "evidence": [
+          {
+            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
+            "url": "https://news.ycombinator.com/item?id=48746602",
+            "date": "2026-07-01"
+          },
+          {
+            "text": "youtube really needs to go. like myspace. Ruined if they would offer youtube plus, i would pay: - no ads. none. nothing - videos with sponsored content tagged, ",
+            "url": "https://news.ycombinator.com/item?id=48306991",
+            "date": "2026-05-28"
+          },
+          {
+            "text": "The GamersNexus arc is such a YouTube success story: from a dude uploading videos, to superbly rigorous methodology in top tier hardware reviews, to occasional ",
+            "url": "https://news.ycombinator.com/item?id=48116868",
+            "date": "2026-05-13"
+          },
+          {
+            "text": "These videos are worth a watch. There are tons of impressive moments, but they had me at the very first one where a woman says: \"I'm going to tell you a story,\"",
+            "url": "https://news.ycombinator.com/item?id=48102110",
+            "date": "2026-05-11"
+          }
+        ],
+        "score": 56
+      },
+      {
         "theme": "world",
         "mentions": 27,
         "engagement": 58,
@@ -707,6 +679,34 @@
           }
         ],
         "score": 55
+      },
+      {
+        "theme": "trust",
+        "mentions": 8,
+        "engagement": 770,
+        "evidence": [
+          {
+            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
+            "url": "https://news.ycombinator.com/item?id=49687578",
+            "date": "2026-09-13"
+          },
+          {
+            "text": "The first thing I would do with any sort of weird issue remotely associated with my brain is to get an MRI. I would pay for it out of pocket if my doctor denied",
+            "url": "https://news.ycombinator.com/item?id=48388346",
+            "date": "2026-06-03"
+          },
+          {
+            "text": "I wish there was a way to do it without all the problems of having cameras on people's faces. The tech of AR glasses would be pretty neat to get working given I",
+            "url": "https://news.ycombinator.com/item?id=49247977",
+            "date": "2026-08-10"
+          },
+          {
+            "text": "I always get the highest end components I can find, and I try to stick with Asus and not the cheapest PSU. I've never had anything fail, and I do this every 5 y",
+            "url": "https://news.ycombinator.com/item?id=49222347",
+            "date": "2026-08-08"
+          }
+        ],
+        "score": 53
       },
       {
         "theme": "launch",
@@ -765,6 +765,34 @@
         "score": 49
       },
       {
+        "theme": "project",
+        "mentions": 26,
+        "engagement": 45,
+        "evidence": [
+          {
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
+            "url": "https://news.ycombinator.com/item?id=48956474",
+            "date": "2026-07-18"
+          },
+          {
+            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
+            "url": "https://news.ycombinator.com/item?id=48240608",
+            "date": "2026-05-22"
+          },
+          {
+            "text": "What's the best project management tool you have ever used?",
+            "url": "https://news.ycombinator.com/item?id=42501443",
+            "date": "2024-12-24"
+          }
+        ],
+        "score": 49
+      },
+      {
         "theme": "research",
         "mentions": 11,
         "engagement": 223,
@@ -793,57 +821,29 @@
         "score": 49
       },
       {
-        "theme": "without",
-        "mentions": 42,
-        "engagement": 9,
+        "theme": "users",
+        "mentions": 29,
+        "engagement": 33,
         "evidence": [
           {
-            "text": "Show HN: Remove your data from 100 platforms without signing up",
-            "url": "https://news.ycombinator.com/item?id=46453387",
-            "date": "2026-01-01"
+            "text": "What if users start cloning SaaS using AI",
+            "url": "https://news.ycombinator.com/item?id=48826680",
+            "date": "2026-07-08"
           },
           {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
+            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
+            "url": "https://news.ycombinator.com/item?id=49697808",
+            "date": "2026-09-14"
           },
-          {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
-          }
-        ],
-        "score": 48
-      },
-      {
-        "theme": "project",
-        "mentions": 25,
-        "engagement": 45,
-        "evidence": [
           {
             "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
             "url": "https://news.ycombinator.com/item?id=48976712",
             "date": "2026-07-20"
           },
           {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
-          },
-          {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
-          },
-          {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
+            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
+            "url": "https://news.ycombinator.com/item?id=48873462",
+            "date": "2026-07-11"
           }
         ],
         "score": 48
@@ -1021,8 +1021,8 @@
         "seed_spread": 9,
         "avg_branches": 9.1,
         "examples": [
-          "excel template for budget",
           "excel template for project management",
+          "excel template for budget",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking"
@@ -1119,8 +1119,8 @@
         "seed_spread": 4,
         "avg_branches": 9.8,
         "examples": [
-          "excel template for budget",
           "excel template for project management",
+          "excel template for budget",
           "excel template for expense tracking",
           "excel template for job application tracking",
           "excel template for inventory"
@@ -1170,20 +1170,6 @@
         "score": 233
       },
       {
-        "subject": "pdf",
-        "queries": 14,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd",
-          "printable planner for 2025"
-        ],
-        "score": 201
-      },
-      {
         "subject": "expenses",
         "queries": 11,
         "seed_spread": 5,
@@ -1212,10 +1198,10 @@
         "score": 191
       },
       {
-        "subject": "printable",
+        "subject": "pdf",
         "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 9.2,
+        "avg_branches": 10,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1223,7 +1209,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 181
+        "score": 186
       },
       {
         "subject": "download",
@@ -1240,6 +1226,20 @@
         "score": 177
       },
       {
+        "subject": "printable",
+        "queries": 11,
+        "seed_spread": 4,
+        "avg_branches": 9.6,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd",
+          "printable planner for 2025"
+        ],
+        "score": 156
+      },
+      {
         "subject": "sheet",
         "queries": 14,
         "seed_spread": 3,
@@ -1252,6 +1252,20 @@
           "google sheets template for budget"
         ],
         "score": 148
+      },
+      {
+        "subject": "college",
+        "queries": 9,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
+        ],
+        "score": 129
       },
       {
         "subject": "students",
@@ -1322,20 +1336,6 @@
           "printable planner for 2025"
         ],
         "score": 117
-      },
-      {
-        "subject": "college",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "google sheets template for college application"
-        ],
-        "score": 115
       },
       {
         "subject": "income",
@@ -1417,23 +1417,9 @@
           "google sheets template for wedding guest list",
           "google sheets template for college application",
           "printable planner for the week",
-          "checklist for moving out of state"
+          "checklist for college dorm"
         ],
         "score": 83
-      },
-      {
-        "subject": "kids",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
-        ],
-        "score": 75
       },
       {
         "subject": "management",
@@ -1441,8 +1427,8 @@
         "seed_spread": 3,
         "avg_branches": 9.4,
         "examples": [
-          "excel template for budget",
           "excel template for project management",
+          "excel template for budget",
           "excel template for expense tracking",
           "excel template for inventory",
           "google sheets template for inventory"
@@ -1518,6 +1504,20 @@
           "best spreadsheet for finances"
         ],
         "score": 64
+      },
+      {
+        "subject": "kids",
+        "queries": 5,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for traveling",
+          "checklist for international travel",
+          "budget template for teens"
+        ],
+        "score": 54
       },
       {
         "subject": "university",
@@ -1678,23 +1678,6 @@
       },
       {
         "seed": "excel template for",
-        "query": "excel template for budget",
-        "branches": 10,
-        "children": [
-          "excel template for budget tracking",
-          "excel template for budget planning",
-          "excel template for budget management",
-          "excel template for budget vs actual",
-          "excel template for budget",
-          "excel template for budget expenses",
-          "excel template for budget free",
-          "excel template for budget proposal",
-          "excel template for budget reddit",
-          "excel template for budget monthly"
-        ]
-      },
-      {
-        "seed": "excel template for",
         "query": "excel template for project management",
         "branches": 10,
         "children": [
@@ -1708,6 +1691,23 @@
           "excel template for project management download",
           "excel sheet for project management",
           "excel spreadsheet for project management"
+        ]
+      },
+      {
+        "seed": "excel template for",
+        "query": "excel template for budget",
+        "branches": 10,
+        "children": [
+          "excel template for budget tracking",
+          "excel template for budget planning",
+          "excel template for budget management",
+          "excel template for budget vs actual",
+          "excel template for budget",
+          "excel template for budget expenses",
+          "excel template for budget free",
+          "excel template for budget proposal",
+          "excel template for budget reddit",
+          "excel template for budget monthly"
         ]
       },
       {
