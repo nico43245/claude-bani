@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-14T19:08:09.402Z",
+  "generated_at": "2026-09-15T00:25:26.573Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1107,
+    "signals_total": 1106,
     "themes": [
       {
         "theme": "app",
-        "mentions": 32,
+        "mentions": 33,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 116
+        "score": 119
       },
       {
         "theme": "web",
@@ -150,7 +150,7 @@
       },
       {
         "theme": "hate",
-        "mentions": 78,
+        "mentions": 77,
         "engagement": 13,
         "evidence": [
           {
@@ -174,7 +174,7 @@
             "date": "2025-12-07"
           }
         ],
-        "score": 87
+        "score": 86
       },
       {
         "theme": "built",
@@ -262,7 +262,7 @@
       },
       {
         "theme": "code",
-        "mentions": 48,
+        "mentions": 47,
         "engagement": 41,
         "evidence": [
           {
@@ -286,7 +286,7 @@
             "date": "2026-04-07"
           }
         ],
-        "score": 73
+        "score": 72
       },
       {
         "theme": "apps",
@@ -346,7 +346,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 58,
+        "mentions": 57,
         "engagement": 18,
         "evidence": [
           {
@@ -370,11 +370,11 @@
             "date": "2026-08-16"
           }
         ],
-        "score": 70
+        "score": 69
       },
       {
         "theme": "them",
-        "mentions": 67,
+        "mentions": 68,
         "engagement": 0,
         "evidence": [
           {
@@ -398,7 +398,7 @@
             "date": "2026-08-07"
           }
         ],
-        "score": 67
+        "score": 68
       },
       {
         "theme": "different",
@@ -569,6 +569,34 @@
         "score": 60
       },
       {
+        "theme": "stop",
+        "mentions": 15,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "Xen prevents modifying ACPI data. It also passes obvious \"Xen emulated drive\", and similar for all hardware interfaces. Passes CPUID. Can't stop any of this wit",
+            "url": "https://news.ycombinator.com/item?id=49685325",
+            "date": "2026-09-13"
+          }
+        ],
+        "score": 60
+      },
+      {
         "theme": "system",
         "mentions": 23,
         "engagement": 92,
@@ -595,34 +623,6 @@
           }
         ],
         "score": 59
-      },
-      {
-        "theme": "stop",
-        "mentions": 14,
-        "engagement": 215,
-        "evidence": [
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "Xen prevents modifying ACPI data. It also passes obvious \"Xen emulated drive\", and similar for all hardware interfaces. Passes CPUID. Can't stop any of this wit",
-            "url": "https://news.ycombinator.com/item?id=49685325",
-            "date": "2026-09-13"
-          }
-        ],
-        "score": 58
       },
       {
         "theme": "videos",
@@ -821,29 +821,29 @@
         "score": 49
       },
       {
-        "theme": "users",
-        "mentions": 29,
-        "engagement": 33,
+        "theme": "without",
+        "mentions": 42,
+        "engagement": 9,
         "evidence": [
           {
-            "text": "What if users start cloning SaaS using AI",
-            "url": "https://news.ycombinator.com/item?id=48826680",
-            "date": "2026-07-08"
+            "text": "Show HN: Remove your data from 100 platforms without signing up",
+            "url": "https://news.ycombinator.com/item?id=46453387",
+            "date": "2026-01-01"
           },
           {
-            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
-            "url": "https://news.ycombinator.com/item?id=49697808",
-            "date": "2026-09-14"
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
           },
           {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
           },
           {
-            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
-            "url": "https://news.ycombinator.com/item?id=48873462",
-            "date": "2026-07-11"
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
           }
         ],
         "score": 48
@@ -1148,8 +1148,8 @@
         "avg_branches": 8.1,
         "examples": [
           "spreadsheet to track expenses",
-          "spreadsheet to track expenses for small business",
           "spreadsheet to track job applications",
+          "spreadsheet to track expenses for small business",
           "spreadsheet to track spending",
           "spreadsheet to track income and expenses"
         ],

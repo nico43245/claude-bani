@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-14T19:08:09.461Z",
+  "generated_at": "2026-09-15T00:25:26.637Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 519,
+  "events_total": 524,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 102
+      "actions": 103
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 100
+      "actions": 101
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 212
+      "actions": 214
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 105
+      "actions": 106
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-15T00:25:26.574Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-15T00:24:37.827Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 571,
+      "status": null,
+      "desc": "Cel mai bun job: Python Chat System Development",
+      "evidence": "https://www.freelancer.com/projects/chatbot/python-chat-system-development",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-15T00:24:37.826Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 168 proiecte scanate → 42 potrivite, 15 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-15T00:24:25.139Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 41 scanate, 2 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-15T00:23:36.349Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 712 candidați → 0 bounty-uri reale (712 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-14T19:08:09.403Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 725 candidați → 0 bounty-uri reale (725 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-10T23:52:17.456Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1108 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 62 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-10T23:51:30.093Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 234,
-      "status": null,
-      "desc": "Cel mai bun job: Expertise Required: Python-based Web Scraper Development",
-      "evidence": "https://www.freelancer.com/projects/django/expertise-required-python-based-web",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-10T23:51:30.093Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 160 proiecte scanate → 29 potrivite, 13 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-10T23:51:17.440Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 45 scanate, 2 eligibile după citirea regulamentelor (43 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-10T23:50:23.145Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 692 candidați → 0 bounty-uri reale (692 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 2,
-    "rejected": 753,
+    "rejected": 751,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 5405,
+        "score": 5263,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 111,
-        "per_slot": 111,
+        "participants": 114,
+        "per_slot": 114,
         "days_left": 80,
         "objective": true
       },
@@ -661,11 +661,11 @@
         "reason": null,
         "title": "DaT Parkinson's Challenge",
         "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/",
-        "score": 93,
+        "score": 92,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 972,
-        "per_slot": 324,
+        "participants": 975,
+        "per_slot": 325,
         "days_left": 2,
         "objective": true
       }
@@ -673,11 +673,11 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 291
+        "count": 293
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 175
+        "count": 176
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -685,11 +685,11 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 66
+        "count": 65
       },
       {
         "reason": "prea competitiv",
-        "count": 60
+        "count": 58
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -697,11 +697,11 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 15
+        "count": 14
       },
       {
         "reason": "participare restricționată",
-        "count": 10
+        "count": 9
       },
       {
         "reason": "proiect inactiv",
@@ -709,7 +709,7 @@
       },
       {
         "reason": "regulament necitibil",
-        "count": 6
+        "count": 8
       },
       {
         "reason": "revendicat activ",
@@ -717,7 +717,7 @@
       },
       {
         "reason": "prea puțin timp de construit",
-        "count": 3
+        "count": 2
       },
       {
         "reason": "premiu prea mic",
@@ -741,10 +741,6 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
-        "count": 1
-      },
-      {
-        "reason": "premiul nu e în bani",
         "count": 1
       }
     ]
