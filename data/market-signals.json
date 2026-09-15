@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:25:26.573Z",
+  "generated_at": "2026-09-15T11:22:06.094Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 33,
+        "mentions": 32,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 119
+        "score": 116
       },
       {
         "theme": "web",
@@ -66,7 +66,7 @@
       },
       {
         "theme": "wish",
-        "mentions": 95,
+        "mentions": 94,
         "engagement": 11,
         "evidence": [
           {
@@ -90,7 +90,7 @@
             "date": "2025-03-15"
           }
         ],
-        "score": 103
+        "score": 102
       },
       {
         "theme": "hours",
@@ -177,6 +177,34 @@
         "score": 86
       },
       {
+        "theme": "life",
+        "mentions": 18,
+        "engagement": 356,
+        "evidence": [
+          {
+            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
+            "url": "https://news.ycombinator.com/item?id=48347725",
+            "date": "2026-05-31"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "There's few things where the drop in quality is astronomical, one of them being clothing. Clothes used to last a life time till few decades ago. Right now you b",
+            "url": "https://news.ycombinator.com/item?id=49710194",
+            "date": "2026-09-15"
+          },
+          {
+            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
+            "url": "https://news.ycombinator.com/item?id=49701697",
+            "date": "2026-09-14"
+          }
+        ],
+        "score": 80
+      },
+      {
         "theme": "built",
         "mentions": 26,
         "engagement": 164,
@@ -205,36 +233,8 @@
         "score": 79
       },
       {
-        "theme": "life",
-        "mentions": 17,
-        "engagement": 356,
-        "evidence": [
-          {
-            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
-            "url": "https://news.ycombinator.com/item?id=48347725",
-            "date": "2026-05-31"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
-            "url": "https://news.ycombinator.com/item?id=49701697",
-            "date": "2026-09-14"
-          },
-          {
-            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
-            "url": "https://news.ycombinator.com/item?id=49384698",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 77
-      },
-      {
         "theme": "search",
-        "mentions": 24,
+        "mentions": 23,
         "engagement": 155,
         "evidence": [
           {
@@ -258,7 +258,7 @@
             "date": "2026-08-06"
           }
         ],
-        "score": 74
+        "score": 72
       },
       {
         "theme": "code",
@@ -374,7 +374,7 @@
       },
       {
         "theme": "them",
-        "mentions": 68,
+        "mentions": 69,
         "engagement": 0,
         "evidence": [
           {
@@ -398,7 +398,7 @@
             "date": "2026-08-07"
           }
         ],
-        "score": 68
+        "score": 69
       },
       {
         "theme": "different",
@@ -486,7 +486,7 @@
       },
       {
         "theme": "agent",
-        "mentions": 15,
+        "mentions": 14,
         "engagement": 258,
         "evidence": [
           {
@@ -510,7 +510,7 @@
             "date": "2026-07-22"
           }
         ],
-        "score": 64
+        "score": 61
       },
       {
         "theme": "company",
@@ -821,29 +821,29 @@
         "score": 49
       },
       {
-        "theme": "without",
-        "mentions": 42,
-        "engagement": 9,
+        "theme": "government",
+        "mentions": 14,
+        "engagement": 126,
         "evidence": [
           {
-            "text": "Show HN: Remove your data from 100 platforms without signing up",
-            "url": "https://news.ycombinator.com/item?id=46453387",
-            "date": "2026-01-01"
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
           },
           {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
           },
           {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
+            "text": "The frustration, I suppose, is that the government doesn't seem to demand this level of scrutiny to take my money, in the event that I owed on my tax returns fo",
+            "url": "https://news.ycombinator.com/item?id=48633704",
+            "date": "2026-06-22"
           },
           {
-            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
-            "url": "https://news.ycombinator.com/item?id=49322165",
-            "date": "2026-08-16"
+            "text": "Elon Musk posts about self driving car technology coming in the next 3 years (for 10 years): very technology related, super cool, straight to the front page! Ta",
+            "url": "https://news.ycombinator.com/item?id=47708169",
+            "date": "2026-04-09"
           }
         ],
         "score": 48
@@ -1017,21 +1017,21 @@
     "subjects": [
       {
         "subject": "excel",
-        "queries": 32,
-        "seed_spread": 9,
+        "queries": 31,
+        "seed_spread": 8,
         "avg_branches": 9.1,
         "examples": [
-          "excel template for project management",
           "excel template for budget",
+          "excel template for project management",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking"
         ],
-        "score": 999
+        "score": 861
       },
       {
         "subject": "spreadsheet",
-        "queries": 32,
+        "queries": 31,
         "seed_spread": 7,
         "avg_branches": 9.2,
         "examples": [
@@ -1041,7 +1041,7 @@
           "excel template for job application tracking",
           "google sheets template for business expenses"
         ],
-        "score": 779
+        "score": 756
       },
       {
         "subject": "budget",
@@ -1059,7 +1059,7 @@
       },
       {
         "subject": "reddit",
-        "queries": 18,
+        "queries": 19,
         "seed_spread": 8,
         "avg_branches": 10,
         "examples": [
@@ -1069,7 +1069,7 @@
           "notion template for college",
           "excel template for budget"
         ],
-        "score": 516
+        "score": 545
       },
       {
         "subject": "planner",
@@ -1103,7 +1103,7 @@
         "subject": "google",
         "queries": 21,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9.8,
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
@@ -1111,7 +1111,7 @@
           "google sheets template for planning a trip",
           "google sheets template for job applications"
         ],
-        "score": 298
+        "score": 299
       },
       {
         "subject": "tracking",
@@ -1119,8 +1119,8 @@
         "seed_spread": 4,
         "avg_branches": 9.8,
         "examples": [
-          "excel template for project management",
           "excel template for budget",
+          "excel template for project management",
           "excel template for expense tracking",
           "excel template for job application tracking",
           "excel template for inventory"
@@ -1131,7 +1131,7 @@
         "subject": "sheets",
         "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9.8,
         "examples": [
           "google sheets template for budget",
           "google sheets template for business expenses",
@@ -1139,7 +1139,7 @@
           "google sheets template for planning a trip",
           "google sheets template for job applications"
         ],
-        "score": 270
+        "score": 271
       },
       {
         "subject": "track",
@@ -1148,8 +1148,8 @@
         "avg_branches": 8.1,
         "examples": [
           "spreadsheet to track expenses",
-          "spreadsheet to track job applications",
           "spreadsheet to track expenses for small business",
+          "spreadsheet to track job applications",
           "spreadsheet to track spending",
           "spreadsheet to track income and expenses"
         ],
@@ -1366,18 +1366,18 @@
         "score": 108
       },
       {
-        "subject": "example",
-        "queries": 5,
-        "seed_spread": 5,
-        "avg_branches": 9.2,
+        "subject": "planning",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
         "examples": [
-          "notion template for content creators",
-          "google sheets template for wedding guest list",
-          "tracking template for google ads",
-          "template management system",
-          "budget planner for small business"
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "google sheets template for travel itinerary",
+          "checklist for wedding planning"
         ],
-        "score": 87
+        "score": 99
       },
       {
         "subject": "expense",
@@ -1394,32 +1394,18 @@
         "score": 86
       },
       {
-        "subject": "planning",
-        "queries": 6,
-        "seed_spread": 4,
+        "subject": "docs",
+        "queries": 7,
+        "seed_spread": 3,
         "avg_branches": 9.7,
         "examples": [
-          "excel template for budget",
           "google sheets template for budget",
           "google sheets template for planning a trip",
-          "checklist for wedding planning",
-          "planner for small business owner"
+          "google sheets template for job applications",
+          "google sheets template for travel itinerary",
+          "google sheets template for inventory"
         ],
-        "score": 85
-      },
-      {
-        "subject": "list",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for wedding guest list",
-          "google sheets template for college application",
-          "printable planner for the week",
-          "checklist for college dorm"
-        ],
-        "score": 83
+        "score": 75
       },
       {
         "subject": "management",
@@ -1427,8 +1413,8 @@
         "seed_spread": 3,
         "avg_branches": 9.4,
         "examples": [
-          "excel template for project management",
           "excel template for budget",
+          "excel template for project management",
           "excel template for expense tracking",
           "excel template for inventory",
           "google sheets template for inventory"
@@ -1436,18 +1422,18 @@
         "score": 74
       },
       {
-        "subject": "docs",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 9.4,
+        "subject": "list",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 9.2,
         "examples": [
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "google sheets template for job applications",
-          "google sheets template for inventory",
-          "google sheets template for wedding guest list"
+          "excel template for inventory",
+          "google sheets template for college application",
+          "printable planner for the week",
+          "checklist for college dorm",
+          "checklist for college apartment"
         ],
-        "score": 74
+        "score": 70
       },
       {
         "subject": "create",
@@ -1504,6 +1490,19 @@
           "best spreadsheet for finances"
         ],
         "score": 64
+      },
+      {
+        "subject": "example",
+        "queries": 4,
+        "seed_spread": 4,
+        "avg_branches": 9.5,
+        "examples": [
+          "notion template for content creators",
+          "tracking template for google ads",
+          "template management system",
+          "budget planner for small business"
+        ],
+        "score": 56
       },
       {
         "subject": "kids",
@@ -1678,23 +1677,6 @@
       },
       {
         "seed": "excel template for",
-        "query": "excel template for project management",
-        "branches": 10,
-        "children": [
-          "excel template for project management free",
-          "excel template for project management free download",
-          "excel template for project management tracking",
-          "excel template for project management gantt chart",
-          "excel template for project management",
-          "excel template for project management timeline",
-          "excel template for project management gantt",
-          "excel template for project management download",
-          "excel sheet for project management",
-          "excel spreadsheet for project management"
-        ]
-      },
-      {
-        "seed": "excel template for",
         "query": "excel template for budget",
         "branches": 10,
         "children": [
@@ -1708,6 +1690,23 @@
           "excel template for budget proposal",
           "excel template for budget reddit",
           "excel template for budget monthly"
+        ]
+      },
+      {
+        "seed": "excel template for",
+        "query": "excel template for project management",
+        "branches": 10,
+        "children": [
+          "excel template for project management free",
+          "excel template for project management free download",
+          "excel template for project management tracking",
+          "excel template for project management gantt chart",
+          "excel template for project management",
+          "excel template for project management timeline",
+          "excel template for project management gantt",
+          "excel template for project management download",
+          "excel sheet for project management",
+          "excel spreadsheet for project management"
         ]
       },
       {
@@ -1865,23 +1864,6 @@
       },
       {
         "seed": "google sheets template for",
-        "query": "google sheets template for inventory",
-        "branches": 10,
-        "children": [
-          "google sheets template for inventory management",
-          "google sheets template for inventory tracking",
-          "google sheets template for inventory",
-          "google sheets template for inventory free",
-          "google sheets template for stock tracking",
-          "google sheets template for stock trading",
-          "google docs template for inventory",
-          "google sheet template for stock portfolio",
-          "google sheet template for stock management",
-          "google sheet template for stock"
-        ]
-      },
-      {
-        "seed": "google sheets template for",
         "query": "google sheets template for college application",
         "branches": 10,
         "children": [
@@ -1895,6 +1877,40 @@
           "google sheets college application template free",
           "google sheets template for university",
           "spreadsheet template for college application process"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for travel itinerary",
+        "branches": 10,
+        "children": [
+          "google sheets template for travel itinerary",
+          "google docs template for travel itinerary",
+          "google sheets template for travel planning",
+          "google sheets template for trip itinerary",
+          "free google sheets template for travel itinerary",
+          "google sheets template for trip planning",
+          "google docs template for travel planning",
+          "google docs template for trip itinerary",
+          "google docs template for trip planning",
+          "google sheets travel itinerary template reddit"
+        ]
+      },
+      {
+        "seed": "google sheets template for",
+        "query": "google sheets template for inventory",
+        "branches": 10,
+        "children": [
+          "google sheets template for inventory management",
+          "google sheets template for inventory tracking",
+          "google sheets template for inventory",
+          "google sheets template for inventory free",
+          "google sheets template for stock tracking",
+          "google sheets template for stock trading",
+          "google docs template for inventory",
+          "google sheet template for stock portfolio",
+          "google sheet template for stock management",
+          "google sheet template for stock"
         ]
       },
       {
@@ -1980,23 +1996,6 @@
           "spreadsheet template to track investments",
           "best spreadsheet to track investments",
           "free spreadsheet to track investments"
-        ]
-      },
-      {
-        "seed": "printable planner for",
-        "query": "printable planner for july 2026",
-        "branches": 10,
-        "children": [
-          "printable planner for july 2026",
-          "printable calendar for july 2026",
-          "printable calendar for july 2026 pdf",
-          "printable calendar for july 2026 free",
-          "printable calendar for june 2026",
-          "printable calendar for august 2026",
-          "printable calendar for june 2026 pdf",
-          "printable calendar for june 2026 free",
-          "printable calendar for august 2026 pdf",
-          "printable calendar for august 2026 free"
         ]
       }
     ]

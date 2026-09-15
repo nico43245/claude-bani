@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-15T00:25:26.637Z",
+  "generated_at": "2026-09-15T11:22:06.146Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 524,
+  "events_total": 529,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 103
+      "actions": 104
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 101
+      "actions": 102
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 214
+      "actions": 216
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 106
+      "actions": 107
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-15T11:22:06.096Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-15T11:21:17.951Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 467,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-15T11:21:17.950Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 169 proiecte scanate → 38 potrivite, 13 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-15T11:21:05.322Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 43 scanate, 3 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-15T11:20:12.867Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 713 candidați → 0 bounty-uri reale (713 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-15T00:25:26.574Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 732 candidați → 0 bounty-uri reale (732 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-11T10:51:28.584Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1108 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-11T10:50:41.037Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 234,
-      "status": null,
-      "desc": "Cel mai bun job: Expertise Required: Python-based Web Scraper Development",
-      "evidence": "https://www.freelancer.com/projects/django/expertise-required-python-based-web",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-11T10:50:41.037Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 162 proiecte scanate → 30 potrivite, 14 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-11T10:50:28.030Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 47 scanate, 2 eligibile după citirea regulamentelor (45 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-11T10:49:30.883Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 725 candidați → 0 bounty-uri reale (725 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
-    "accepted": 2,
-    "rejected": 751,
+    "accepted": 3,
+    "rejected": 753,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 5263,
+        "score": 5085,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 114,
-        "per_slot": 114,
+        "participants": 118,
+        "per_slot": 118,
         "days_left": 80,
         "objective": true
       },
@@ -664,10 +664,25 @@
         "score": 92,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 975,
-        "per_slot": 325,
+        "participants": 979,
+        "per_slot": 326,
         "days_left": 2,
         "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "OneAquaHealth IEEE Global Hackathon",
+        "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+        "score": 19,
+        "prize_usd": 3500,
+        "slots": 4,
+        "participants": 749,
+        "per_slot": 187,
+        "days_left": 16,
+        "objective": false
       }
     ],
     "rejection_reasons": [
@@ -685,39 +700,35 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 65
+        "count": 67
       },
       {
         "reason": "prea competitiv",
-        "count": 58
+        "count": 56
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 19
+        "count": 20
       },
       {
         "reason": "fără premiu în bani",
-        "count": 14
+        "count": 15
       },
       {
-        "reason": "participare restricționată",
-        "count": 9
+        "reason": "regulament necitibil",
+        "count": 10
       },
       {
         "reason": "proiect inactiv",
         "count": 8
       },
       {
-        "reason": "regulament necitibil",
+        "reason": "participare restricționată",
         "count": 8
       },
       {
         "reason": "revendicat activ",
         "count": 3
-      },
-      {
-        "reason": "prea puțin timp de construit",
-        "count": 2
       },
       {
         "reason": "premiu prea mic",
@@ -741,6 +752,10 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
+        "count": 1
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 1
       }
     ]
