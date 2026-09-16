@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T18:02:22.662Z",
-  "scanned": 161,
-  "accepted": 34,
-  "refused_on_ethics": 14,
+  "generated_at": "2026-09-16T00:04:23.670Z",
+  "scanned": 163,
+  "accepted": 32,
+  "refused_on_ethics": 13,
   "jobs": [
     {
       "title": "Simple Microsoft Excel",
@@ -19,6 +19,20 @@
       "score": 683
     },
     {
+      "title": "JSON XML & Web Scraper",
+      "url": "https://www.freelancer.com/projects/json-xml-web-scraper-fix",
+      "budget_raw": "$115 Average bid",
+      "desc": "έ έ ί script (ή ύ ά modules) Python ή Node.js ύ ύ έ ά : 1. ή ϊό ώ έ ό JSON XML ά JSON ί ί SKU, ί , &phi...",
+      "bids": null,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 8,
+      "usd": 115,
+      "hourly": false,
+      "flags": [],
+      "score": 574
+    },
+    {
       "title": "Automate 1,000 YouTube Ad Views",
       "url": "https://www.freelancer.com/projects/automation/automate-youtube-views-40707589",
       "budget_raw": "$202 Average bid",
@@ -29,6 +43,20 @@
       "fit": 4,
       "usd": 202,
       "hourly": false,
+      "flags": [],
+      "score": 263
+    },
+    {
+      "title": "Build AI Project Scheduler",
+      "url": "https://www.freelancer.com/projects/machine-learning/build-project-scheduler",
+      "budget_raw": "$51 / hr Average bid",
+      "desc": "I m building an AI-driven automation tool that takes the pain out of project scheduling for my AI-focused initiatives. The core of the product is an engine that learns from historical project data, then produces an adaptive schedule that stays realistic as priorities shift. Here s what the engine mu",
+      "bids": 18,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 51,
+      "hourly": true,
       "flags": [],
       "score": 263
     },
@@ -61,20 +89,6 @@
       "score": 199
     },
     {
-      "title": "WEB SCRAPE - INSOLVENCY REGISTER UK",
-      "url": "https://www.freelancer.com/projects/web-scraping/web-scrape-insolvency-register-35212468",
-      "budget_raw": "$122 Average bid",
-      "desc": "Website Scrape This is The Insolvency Service website Site URL Search the register with the following URL We would like a complete scrape of the IVA of the bankruptcy and insolvency register We have had this scrape done previously and would like it to be delivered in Excel format as per attached exc",
-      "bids": 24,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 122,
-      "hourly": false,
-      "flags": [],
-      "score": 159
-    },
-    {
       "title": "Manual Online Text Entry",
       "url": "https://www.freelancer.com/projects/google-sheets/manual-online-text-entry",
       "budget_raw": "$10 / hr Average bid",
@@ -89,60 +103,32 @@
       "score": 156
     },
     {
-      "title": "Excel Numerical Data Cleaning -- 2",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-numerical-data-cleaning-40711199",
-      "budget_raw": "$222 Average bid",
-      "desc": "I have a collection of Excel sheets filled only with numerical data, and they need to be cleaned so the figures are reliable for downstream reporting. Every value is already in place there are no text fields so the task focuses on catching and fixing issues such as inconsistent formats, hidden error",
-      "bids": null,
+      "title": "WEB SCRAPE - INSOLVENCY REGISTER UK",
+      "url": "https://www.freelancer.com/projects/web-scraping/web-scrape-insolvency-register-35212468",
+      "budget_raw": "$121 Average bid",
+      "desc": "Website Scrape This is The Insolvency Service website Site URL Search the register with the following URL We would like a complete scrape of the IVA of the bankruptcy and insolvency register We have had this scrape done previously and would like it to be delivered in Excel format as per attached exc",
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 222,
+      "fit": 5,
+      "usd": 121,
       "hourly": false,
       "flags": [],
-      "score": 156
+      "score": 147
     },
     {
       "title": "Automated YouTube Ad Viewer",
       "url": "https://www.freelancer.com/projects/api/automated-youtube-viewer",
-      "budget_raw": "$193 Average bid",
+      "budget_raw": "$198 Average bid",
       "desc": "I need a robust automation that reliably streams around 1,000 skippable YouTube ads every day. The flow is straightforward: load a video, let the ad run long enough to count as viewed, then move on to the next. A percentage of sessions should also register a basic interaction an occasional click or ",
-      "bids": 19,
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 193,
+      "usd": 198,
       "hourly": false,
       "flags": [],
-      "score": 119
-    },
-    {
-      "title": "Copy PDF Data into Database",
-      "url": "https://www.freelancer.com/projects/database-management/copy-pdf-data-into-database",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I have a collection of PDFs and Word files that contain structured information I need transferred directly into my database. This is a straightforward copy-pasting task no data mining or scraping just careful replication of the text and numbers exactly as they appear in the source documents. Here is",
-      "bids": 24,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 104
-    },
-    {
-      "title": "Bot Python Odds Telegram",
-      "url": "https://www.freelancer.com/projects/telegram-api/bot-python-odds-telegram",
-      "budget_raw": "$140 Average bid",
-      "desc": "Quero um script em Python que monitore, em tempo real, o mercado correct score da Bolsa de Apostas (formato exchange). Preciso que o bot: Leia uma odd-alvo configur vel (vou alterar esse valor sempre que necess rio). Varra todos os jogos ao vivo at encontrar essa odd no mercado correto. Ao detectar ",
-      "bids": null,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 140,
-      "hourly": false,
-      "flags": [],
-      "score": 98
+      "score": 116
     },
     {
       "title": "50 US Mid-Sized B2B Leads",
@@ -161,32 +147,18 @@
       "score": 88
     },
     {
-      "title": "Daily Tally Bookkeeping Support",
-      "url": "https://www.freelancer.com/projects/accounting/daily-tally-bookkeeping-support-40711237",
-      "budget_raw": "$170 Average bid",
-      "desc": "The task calls for an accounting professional who can step into my books each working day and keep every figure current. All entries are handled in Tally, so confident, hands-on use of that platform is essential. Alongside Tally work, the numbers must be mirrored in the Excel worksheets I use for ma",
-      "bids": 12,
+      "title": "Copy PDF Data into Database",
+      "url": "https://www.freelancer.com/projects/database-management/copy-pdf-data-into-database",
+      "budget_raw": "$10 / hr Average bid",
+      "desc": "I have a collection of PDFs and Word files that contain structured information I need transferred directly into my database. This is a straightforward copy-pasting task no data mining or scraping just careful replication of the text and numbers exactly as they appear in the source documents. Here is",
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 170,
-      "hourly": false,
+      "fit": 5,
+      "usd": 10,
+      "hourly": true,
       "flags": [],
-      "score": 62
-    },
-    {
-      "title": "Python JSON Scraper to Excel",
-      "url": "https://www.freelancer.com/projects/data-scraping/python-json-scraper-excel",
-      "budget_raw": "$20 Average bid",
-      "desc": "I m looking for a clean-coded Python application that pulls product-detail JSON from an e-commerce site and turns it into a neatly formatted Excel workbook in one click. Here s what I have in mind: The script should call the site s public JSON endpoint (or simulate the site s own XHR requests if no ",
-      "bids": 26,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 9,
-      "usd": 20,
-      "hourly": false,
-      "flags": [],
-      "score": 57
+      "score": 65
     },
     {
       "title": "PDF to Plain-Text Conversion",
@@ -203,32 +175,18 @@
       "score": 51
     },
     {
-      "title": "Exceptions Reporting and Visualization Dashboard",
-      "url": "https://www.freelancer.com/projects/data-analysis/exceptions-reporting-visualization",
-      "budget_raw": "$191 Average bid",
-      "desc": "I need a comprehensive exceptions reporting system based on time lapses using Excel spreadsheets as the data source. All workings formaulae and visualization must be in power BI. The report should identify delayed tasks. Additionally, I require a visualization dashboard to display on-track and off-t",
-      "bids": 32,
+      "title": "Python JSON Scraper to Excel",
+      "url": "https://www.freelancer.com/projects/data-scraping/python-json-scraper-excel",
+      "budget_raw": "$19 Average bid",
+      "desc": "I m looking for a clean-coded Python application that pulls product-detail JSON from an e-commerce site and turns it into a neatly formatted Excel workbook in one click. Here s what I have in mind: The script should call the site s public JSON endpoint (or simulate the site s own XHR requests if no ",
+      "bids": 29,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 191,
+      "fit": 9,
+      "usd": 19,
       "hourly": false,
       "flags": [],
-      "score": 45
-    },
-    {
-      "title": "Develop a Screen-Based NSE Options Tick Scanner with Automated Broker Trading (Automated Trading System Development",
-      "url": "https://www.freelancer.com/projects/python/develop-screen-based-nse-options",
-      "budget_raw": "$82 Average bid",
-      "desc": "I am looking for an experienced Python developer with OCR, OpenCV, real-time screen monitoring, and Indian stock-broker API integration experience to develop a Windows-based automated trading application. The application will continuously monitor a selected rectangular area of my computer screen, wh",
-      "bids": 40,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 82,
-      "hourly": false,
-      "flags": [],
-      "score": 40
+      "score": 42
     },
     {
       "title": "Bulk Excel & Word Document Processing with PDF Output -- 2",
@@ -245,15 +203,29 @@
       "score": 38
     },
     {
-      "title": "Rank Students by Excel Scores",
-      "url": "https://www.freelancer.com/projects/data-analysis/rank-students-excel-scores",
-      "budget_raw": "$184 Average bid",
-      "desc": "I have an Excel spreadsheet that already contains every student s name, subject and raw score. I need those scores organised strictly by mark, highest to lowest, so I can see a clear ranking at a glance. Here is what I d like back: A cleaned-up version of the same workbook (no format changes to my o",
-      "bids": 34,
+      "title": "Excel Numerical Data Cleaning",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-numerical-data-cleaning",
+      "budget_raw": "$10 / hr Average bid",
+      "desc": "I have a collection of Excel sheets filled only with numerical data, and they need to be cleaned so the figures are reliable for downstream reporting. Every value is already in place there are no text fields so the task focuses on catching and fixing issues such as inconsistent formats, hidden error",
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 184,
+      "usd": 10,
+      "hourly": true,
+      "flags": [],
+      "score": 35
+    },
+    {
+      "title": "Rank Students by Excel Scores",
+      "url": "https://www.freelancer.com/projects/data-analysis/rank-students-excel-scores",
+      "budget_raw": "$185 Average bid",
+      "desc": "I have an Excel spreadsheet that already contains every student s name, subject and raw score. I need those scores organised strictly by mark, highest to lowest, so I can see a clear ranking at a glance. Here is what I d like back: A cleaned-up version of the same workbook (no format changes to my o",
+      "bids": 36,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 185,
       "hourly": false,
       "flags": [],
       "score": 32
@@ -301,18 +273,18 @@
       "score": 25
     },
     {
-      "title": "Targeted Web Scraping",
-      "url": "https://www.freelancer.com/projects/data-extraction/targeted-web-scraping",
-      "budget_raw": "$32 Average bid",
-      "desc": "I need a skilled web scraper to extract specific data from company websites for marketing purposes. The data required includes: - Names of key personnel: Managing Director, CEO, and other management - Email addresses - Phone numbers - Location Ideal skills and experience: - Proficiency in web scrapi",
-      "bids": 15,
+      "title": "Finalize 90% Developed Healthcare Platform [Senior Full-Stack Developer Needed to Complete & Finalize Existing Healthcare Platform Kolkata Preferred]",
+      "url": "https://www.freelancer.com/projects/full-stack-development/finalize-developed-healthcare-platform",
+      "budget_raw": "$263 Average bid",
+      "desc": "## Senior Full-Stack Developer Needed to Complete & Finalize Existing Healthcare Platform Kolkata Preferred We are looking for an **EXCELLENT and highly experienced Full-Stack Developer** to take over, audit, test, improve, debug, and finally complete an existing healthcare platform. ### IMPORTANT: ",
+      "bids": 33,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 32,
+      "fit": 2,
+      "usd": 263,
       "hourly": false,
       "flags": [],
-      "score": 23
+      "score": 24
     },
     {
       "title": "Banking B2B Lead Research",
@@ -343,6 +315,20 @@
       "score": 22
     },
     {
+      "title": "Automated Web-Based College Timetable Generator",
+      "url": "https://www.freelancer.com/projects/fastapi/automated-web-based-college-timetable",
+      "budget_raw": "$259 Average bid",
+      "desc": "Timetable Generator Automated College Scheduling SaaS A multi-tenant web application that automatically generates conflict-free timetables for colleges and universities using constraint programming. The Problem Creating timetables manually for colleges is a time-consuming, error-prone process. Sched",
+      "bids": null,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 259,
+      "hourly": false,
+      "flags": [],
+      "score": 20
+    },
+    {
       "title": "Neha barman",
       "url": "https://www.freelancer.com/projects/google-docs/neha-barman",
       "budget_raw": "$190 Average bid",
@@ -357,32 +343,32 @@
       "score": 20
     },
     {
+      "title": "Beginner's Data Management Course Notes",
+      "url": "https://www.freelancer.com/projects/data-entry/beginner-data-management-course-notes",
+      "budget_raw": "$196 Average bid",
+      "desc": "Data Management Course Notes (Complete Beginner Guide) Unit 1: Introduction to Data Management What is Data? Data is a collection of raw facts, numbers, text, images, or symbols that can be processed to produce meaningful information. Examples: Student name Age Roll number Marks Mobile number Inform",
+      "bids": 12,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 196,
+      "hourly": false,
+      "flags": [],
+      "score": 18
+    },
+    {
       "title": "Python - Data Analyst",
       "url": "https://www.freelancer.com/projects/data-analysis/python-data-analyst",
       "budget_raw": "$3 / hr Average bid",
       "desc": "Projects 1. Sports Footwear Sales & Consumer Behavior Performed EDA using Python to uncover sales trends, pricing patterns, and customer behavior Identified key drivers of purchase decisions through demographic and rating analysis Built Power BI dashboards for sales performance and customer segmenta",
-      "bids": 21,
+      "bids": 24,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
       "usd": 3,
       "hourly": true,
       "flags": [],
-      "score": 18
-    },
-    {
-      "title": "Beginner's Data Management Course Notes",
-      "url": "https://www.freelancer.com/projects/data-entry/beginner-data-management-course-notes",
-      "budget_raw": "$186 Average bid",
-      "desc": "Data Management Course Notes (Complete Beginner Guide) Unit 1: Introduction to Data Management What is Data? Data is a collection of raw facts, numbers, text, images, or symbols that can be processed to produce meaningful information. Examples: Student name Age Roll number Marks Mobile number Inform",
-      "bids": 10,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 186,
-      "hourly": false,
-      "flags": [],
-      "score": 18
+      "score": 15
     },
     {
       "title": "Python Interview Engineer from LATAM -- 2",
@@ -403,65 +389,49 @@
       "url": "https://www.freelancer.com/projects/salesforce-com/commerce-specialist",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I'm looking for a skilled freelancer to help me with monthly data cleansing in Salesforce. The volume of data that requires cleansing typically falls in the range of 1,000 to 10,000 records. Key Responsibilities: - Regularly cleanse data within Salesforce - Ensure data quality and cleanliness - Iden",
-      "bids": 6,
+      "bids": 8,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 8
+      "score": 7
     },
     {
-      "title": "Update Consulting Club Emails",
-      "url": "https://www.freelancer.com/projects/data-management/update-consulting-club-emails",
-      "budget_raw": "$24 Average bid",
-      "desc": "I m working with a master Excel sheet that holds roughly 1,500 email addresses for last year s officers of student consulting clubs worldwide. The task is to refresh that file with this academic year s leadership details while preserving the existing column structure club name, institution, website,",
-      "bids": 11,
+      "title": "Clone TikTok Strategy in Pine",
+      "url": "https://www.freelancer.com/projects/pine-script/clone-tiktok-strategy-pine",
+      "budget_raw": "$30 Average bid",
+      "desc": "I want the trading strategy shown in the linked TikTok video ( @amntrading1?_r=1&_t=ZT-99lQehMKtJu ) recreated line-for-line in Pine Script so it runs natively on TradingView. Everything the creator does every indicator setting, entry signal, exit trigger, filter and alert needs to behave exactly th",
+      "bids": 35,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 24,
+      "fit": 3,
+      "usd": 30,
       "hourly": false,
       "flags": [],
-      "score": 7
-    },
-    {
-      "title": "B2B Email & Form Outreach",
-      "url": "https://www.freelancer.com/projects/lead-generation/email-form-outreach",
-      "budget_raw": "$375 Average bid",
-      "desc": "I m ready to kick-off a lead-generation campaign aimed squarely at other businesses, and I need an outreach specialist who can handle the process end-to-end. The job starts with prospecting: you ll research and compile a fresh list of qualified companies that match the criteria I ll share (industry,",
-      "bids": 34,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 375,
-      "hourly": false,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 7
+      "score": 5
     },
     {
       "title": "Transcribe Digital Docs to Word",
       "url": "https://www.freelancer.com/projects/document-checking/transcribe-digital-docs-word",
       "budget_raw": "$4 / hr Average bid",
       "desc": "I have a collection of PDFs and existing Word files that need to be consolidated into one clean .docx. The task is strictly text-based: copy each paragraph, heading, and sub-heading exactly as it appears, keep the basic formatting (bold, italics, bullet points), and place everything in the same orde",
-      "bids": 6,
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
       "usd": 4,
       "hourly": true,
       "flags": [],
-      "score": 4
+      "score": 3
     },
     {
       "title": "Automated Playwright Bot With Proxy Rotation",
       "url": "https://www.freelancer.com/projects/web-scraping/automated-playwright-bot-with-proxy",
       "budget_raw": "$18 Average bid",
       "desc": "I have a repeatable browser workflow that begins with a login screen, moves through several authenticated pages, submits a form, and then logs out. I need the entire sequence reproduced in Python + Playwright so that it can run hands-free from start to finish. Each time the workflow completes a sing",
-      "bids": 36,
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -525,10 +495,6 @@
     {
       "title": "Hacker Database Web Scraping",
       "reason": "extragere din rețele sociale — încalcă termenii platformei"
-    },
-    {
-      "title": "Shipowner Contact Data Excel Compilation",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
       "title": "1000 USA Realtor Instagram Leads",
