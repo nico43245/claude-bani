@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:04:49.557Z",
+  "generated_at": "2026-09-16T18:03:00.842Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -513,34 +513,6 @@
         "score": 64
       },
       {
-        "theme": "public",
-        "mentions": 21,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
-          }
-        ],
-        "score": 63
-      },
-      {
         "theme": "company",
         "mentions": 27,
         "engagement": 80,
@@ -567,6 +539,34 @@
           }
         ],
         "score": 62
+      },
+      {
+        "theme": "public",
+        "mentions": 20,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
+          }
+        ],
+        "score": 61
       },
       {
         "theme": "browser",
@@ -793,6 +793,34 @@
         "score": 52
       },
       {
+        "theme": "government",
+        "mentions": 15,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "The frustration, I suppose, is that the government doesn't seem to demand this level of scrutiny to take my money, in the event that I owed on my tax returns fo",
+            "url": "https://news.ycombinator.com/item?id=48633704",
+            "date": "2026-06-22"
+          },
+          {
+            "text": "Elon Musk posts about self driving car technology coming in the next 3 years (for 10 years): very technology related, super cool, straight to the front page! Ta",
+            "url": "https://news.ycombinator.com/item?id=47708169",
+            "date": "2026-04-09"
+          }
+        ],
+        "score": 51
+      },
+      {
         "theme": "agents",
         "mentions": 15,
         "engagement": 112,
@@ -816,34 +844,6 @@
             "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
             "url": "https://news.ycombinator.com/item?id=46425971",
             "date": "2025-12-29"
-          }
-        ],
-        "score": 49
-      },
-      {
-        "theme": "project",
-        "mentions": 26,
-        "engagement": 45,
-        "evidence": [
-          {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
-          },
-          {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
-          },
-          {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
           }
         ],
         "score": 49
@@ -1017,7 +1017,7 @@
     "subjects": [
       {
         "subject": "excel",
-        "queries": 32,
+        "queries": 31,
         "seed_spread": 9,
         "avg_branches": 9.1,
         "examples": [
@@ -1027,27 +1027,27 @@
           "excel template for expense tracking",
           "excel template for job application tracking"
         ],
-        "score": 999
+        "score": 968
       },
       {
         "subject": "spreadsheet",
-        "queries": 32,
+        "queries": 31,
         "seed_spread": 7,
-        "avg_branches": 9.2,
+        "avg_branches": 8.9,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking",
-          "google sheets template for business expenses"
+          "google sheets template for apartment hunting"
         ],
-        "score": 779
+        "score": 749
       },
       {
         "subject": "budget",
         "queries": 25,
         "seed_spread": 7,
-        "avg_branches": 9.9,
+        "avg_branches": 9.6,
         "examples": [
           "excel template for budget",
           "excel template for expense tracking",
@@ -1055,11 +1055,11 @@
           "google sheets template for business expenses",
           "spreadsheet to track spending"
         ],
-        "score": 626
+        "score": 620
       },
       {
         "subject": "reddit",
-        "queries": 18,
+        "queries": 19,
         "seed_spread": 8,
         "avg_branches": 10,
         "examples": [
@@ -1069,21 +1069,7 @@
           "notion template for college",
           "excel template for budget"
         ],
-        "score": 516
-      },
-      {
-        "subject": "planner",
-        "queries": 25,
-        "seed_spread": 5,
-        "avg_branches": 9.3,
-        "examples": [
-          "notion template for students",
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd"
-        ],
-        "score": 437
+        "score": 545
       },
       {
         "subject": "business",
@@ -1100,18 +1086,46 @@
         "score": 437
       },
       {
+        "subject": "planner",
+        "queries": 24,
+        "seed_spread": 5,
+        "avg_branches": 9.3,
+        "examples": [
+          "notion template for students",
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd"
+        ],
+        "score": 420
+      },
+      {
         "subject": "google",
         "queries": 21,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9,
         "examples": [
+          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for tracking expenses",
-          "google sheets template for planning a trip",
-          "google sheets template for job applications"
+          "google sheets template for planning a trip"
         ],
-        "score": 298
+        "score": 291
+      },
+      {
+        "subject": "monthly",
+        "queries": 11,
+        "seed_spread": 7,
+        "avg_branches": 9.6,
+        "examples": [
+          "excel template for budget",
+          "excel template for monthly expenses",
+          "google sheets template for budget",
+          "google sheets template for tracking expenses",
+          "printable planner for january 2026"
+        ],
+        "score": 273
       },
       {
         "subject": "tracking",
@@ -1131,15 +1145,15 @@
         "subject": "sheets",
         "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 9.7,
+        "avg_branches": 9,
         "examples": [
+          "google sheets template for apartment hunting",
           "google sheets template for budget",
           "google sheets template for business expenses",
           "google sheets template for tracking expenses",
-          "google sheets template for planning a trip",
-          "google sheets template for job applications"
+          "google sheets template for planning a trip"
         ],
-        "score": 270
+        "score": 263
       },
       {
         "subject": "track",
@@ -1148,40 +1162,12 @@
         "avg_branches": 8.1,
         "examples": [
           "spreadsheet to track expenses",
-          "spreadsheet to track job applications",
           "spreadsheet to track expenses for small business",
+          "spreadsheet to track job applications",
           "spreadsheet to track spending",
           "spreadsheet to track income and expenses"
         ],
         "score": 254
-      },
-      {
-        "subject": "monthly",
-        "queries": 11,
-        "seed_spread": 6,
-        "avg_branches": 9.5,
-        "examples": [
-          "excel template for budget",
-          "excel template for monthly expenses",
-          "google sheets template for budget",
-          "google sheets template for tracking expenses",
-          "habit tracker template for notion"
-        ],
-        "score": 233
-      },
-      {
-        "subject": "pdf",
-        "queries": 14,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd",
-          "printable planner for 2025"
-        ],
-        "score": 201
       },
       {
         "subject": "expenses",
@@ -1212,10 +1198,10 @@
         "score": 191
       },
       {
-        "subject": "printable",
+        "subject": "pdf",
         "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 9.2,
+        "avg_branches": 10,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1223,7 +1209,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 181
+        "score": 186
       },
       {
         "subject": "download",
@@ -1240,6 +1226,20 @@
         "score": 177
       },
       {
+        "subject": "printable",
+        "queries": 12,
+        "seed_spread": 4,
+        "avg_branches": 9.2,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd",
+          "printable planner for 2025"
+        ],
+        "score": 167
+      },
+      {
         "subject": "sheet",
         "queries": 14,
         "seed_spread": 3,
@@ -1252,20 +1252,6 @@
           "google sheets template for budget"
         ],
         "score": 148
-      },
-      {
-        "subject": "students",
-        "queries": 9,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for medical students",
-          "notion template for college"
-        ],
-        "score": 129
       },
       {
         "subject": "notion",
@@ -1324,20 +1310,6 @@
         "score": 117
       },
       {
-        "subject": "college",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "google sheets template for college application"
-        ],
-        "score": 115
-      },
-      {
         "subject": "income",
         "queries": 8,
         "seed_spread": 4,
@@ -1352,18 +1324,32 @@
         "score": 115
       },
       {
+        "subject": "planning",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
+        "examples": [
+          "excel template for budget",
+          "google sheets template for budget",
+          "google sheets template for planning a trip",
+          "checklist for wedding planning",
+          "checklist for retirement"
+        ],
+        "score": 99
+      },
+      {
         "subject": "application",
-        "queries": 6,
+        "queries": 5,
         "seed_spread": 5,
         "avg_branches": 10,
         "examples": [
           "notion template for college",
           "excel template for job application tracking",
           "google sheets template for job applications",
-          "google sheets template for college application",
-          "spreadsheet to track job applications"
+          "spreadsheet to track job applications",
+          "budget template for grant proposal"
         ],
-        "score": 108
+        "score": 90
       },
       {
         "subject": "example",
@@ -1380,6 +1366,20 @@
         "score": 87
       },
       {
+        "subject": "students",
+        "queries": 8,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for medical students",
+          "notion template for college"
+        ],
+        "score": 86
+      },
+      {
         "subject": "expense",
         "queries": 8,
         "seed_spread": 3,
@@ -1392,48 +1392,6 @@
           "tracker template for google sheets"
         ],
         "score": 86
-      },
-      {
-        "subject": "planning",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 9.7,
-        "examples": [
-          "excel template for budget",
-          "google sheets template for budget",
-          "google sheets template for planning a trip",
-          "checklist for wedding planning",
-          "planner for small business owner"
-        ],
-        "score": 85
-      },
-      {
-        "subject": "list",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for wedding guest list",
-          "google sheets template for college application",
-          "printable planner for the week",
-          "checklist for moving out of state"
-        ],
-        "score": 83
-      },
-      {
-        "subject": "kids",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
-        ],
-        "score": 75
       },
       {
         "subject": "management",
@@ -1492,6 +1450,34 @@
         "score": 68
       },
       {
+        "subject": "college",
+        "queries": 6,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "checklist for moving"
+        ],
+        "score": 65
+      },
+      {
+        "subject": "kids",
+        "queries": 6,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for international travel",
+          "checklist for traveling",
+          "checklist for moving out of state"
+        ],
+        "score": 65
+      },
+      {
         "subject": "daily",
         "queries": 5,
         "seed_spread": 4,
@@ -1520,17 +1506,17 @@
         "score": 64
       },
       {
-        "subject": "university",
+        "subject": "list",
         "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 10,
+        "seed_spread": 4,
+        "avg_branches": 8.5,
         "examples": [
-          "notion template for college students",
-          "notion template for students",
-          "google sheets template for college application",
-          "budget template for college student"
+          "excel template for inventory",
+          "google sheets template for wedding guest list",
+          "printable planner for the week",
+          "checklist for moving out of state"
         ],
-        "score": 43
+        "score": 54
       },
       {
         "subject": "project",
@@ -1571,6 +1557,20 @@
           "best planner for small business owner"
         ],
         "score": 43
+      },
+      {
+        "subject": "financial",
+        "queries": 5,
+        "seed_spread": 2,
+        "avg_branches": 7.6,
+        "examples": [
+          "excel template to manage personal finance",
+          "planner for small business owner",
+          "planner for small business",
+          "financial planner for small business owners",
+          "budget planner for small business"
+        ],
+        "score": 33
       }
     ],
     "richest_veins": [
@@ -1881,23 +1881,6 @@
         ]
       },
       {
-        "seed": "google sheets template for",
-        "query": "google sheets template for college application",
-        "branches": 10,
-        "children": [
-          "google sheets template for college application",
-          "google sheets template for college classes",
-          "google sheets template for college list",
-          "google sheets template for college assignments",
-          "google sheets template for college",
-          "google sheets template for college students",
-          "google sheets template for college search",
-          "google sheets college application template free",
-          "google sheets template for university",
-          "spreadsheet template for college application process"
-        ]
-      },
-      {
         "seed": "spreadsheet to track",
         "query": "spreadsheet to track expenses",
         "branches": 10,
@@ -1997,6 +1980,23 @@
           "printable calendar for june 2026 free",
           "printable calendar for august 2026 pdf",
           "printable calendar for august 2026 free"
+        ]
+      },
+      {
+        "seed": "printable planner for",
+        "query": "printable planner for kids",
+        "branches": 10,
+        "children": [
+          "printable planner for kids",
+          "printable calendar for kids",
+          "printable calendar for kids 2026",
+          "printable calendar for kids 2025",
+          "printable planner for students",
+          "printable calendar for kids to color",
+          "printable calendar for kids free",
+          "printable calendar for kids pdf",
+          "printable calendar for kids schedule",
+          "printable calendar for kids april 2026"
         ]
       }
     ]
