@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T17:36:50.571Z",
-  "scanned": 178,
+  "generated_at": "2026-09-18T23:59:02.282Z",
+  "scanned": 179,
   "accepted": 39,
-  "refused_on_ethics": 13,
+  "refused_on_ethics": 12,
   "jobs": [
     {
       "title": "Convert Medical PDFs to Excel",
@@ -23,14 +23,14 @@
       "url": "https://www.freelancer.com/projects/automation/windows-bank-reconciliation-tool",
       "budget_raw": "$217 Average bid",
       "desc": "I need a bank reconciliation tool specifically for Windows. The tool should be able to reconcile data from bank statements and Excel/CSV files. Additionally, it should automate the following tasks: - Fetching bank statements - Generating reconciliation reports - Identifying discrepancies Ideal skill",
-      "bids": 28,
+      "bids": 29,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
       "usd": 217,
       "hourly": false,
       "flags": [],
-      "score": 305
+      "score": 279
     },
     {
       "title": "Automate 1,000 YouTube Ad Views",
@@ -75,20 +75,6 @@
       "score": 143
     },
     {
-      "title": "PDF Text & Table Extraction",
-      "url": "https://www.freelancer.com/projects/data-extraction/pdf-text-table-extraction",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a collection of structured PDFs that contain two main elements I need captured: the running text and a handful of simple, clearly-delineated tables. Your task is to pull both elements out accurately and place them into a single Excel workbook, setting up one sheet that lists the extracted tex",
-      "bids": 17,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 135
-    },
-    {
       "title": "Finance Market Research Cold Caller",
       "url": "https://www.freelancer.com/projects/cold-calling/finance-market-research-cold-caller",
       "budget_raw": "$18 / hr Average bid",
@@ -101,6 +87,20 @@
       "hourly": true,
       "flags": [],
       "score": 126
+    },
+    {
+      "title": "PDF Text & Table Extraction",
+      "url": "https://www.freelancer.com/projects/data-extraction/pdf-text-table-extraction",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a collection of structured PDFs that contain two main elements I need captured: the running text and a handful of simple, clearly-delineated tables. Your task is to pull both elements out accurately and place them into a single Excel workbook, setting up one sheet that lists the extracted tex",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 123
     },
     {
       "title": "Automated YouTube Ad Viewer",
@@ -145,25 +145,11 @@
       "score": 85
     },
     {
-      "title": "Copy Type 50-100 Handwritten Pages - 18/09/2026 12:36 EDT",
-      "url": "https://www.freelancer.com/projects/data-entry/copy-type-handwritten-pages-edt",
-      "budget_raw": "$190 Average bid",
-      "desc": "I have 50 100 pages of handwritten notes that must be copy typed into Microsoft Word with exceptional accuracy. This is my highest-priority task. After the notes are completed, I will also need a few PDF files converted to editable Word or Excel formats, some light web research to verify references,",
-      "bids": 11,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 190,
-      "hourly": false,
-      "flags": [],
-      "score": 72
-    },
-    {
       "title": "Django Backend for Inventory Dashboard",
       "url": "https://www.freelancer.com/projects/postgresql/django-backend-for-inventory-dashboard",
       "budget_raw": "$18 / hr Average bid",
       "desc": "I already have a nearly-finished frontend for our new inventory dashboard and now need the entire backend built in Django. Your main job is to craft a clean REST API (Django REST Framework is fine) that plugs straight into the existing UI and stores everything in PostgreSQL―that is the database we r",
-      "bids": 38,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
@@ -201,34 +187,6 @@
         "date personale — verifică GDPR și sursa"
       ],
       "score": 68
-    },
-    {
-      "title": "Accurate Mixed Data Excel Entry",
-      "url": "https://www.freelancer.com/projects/data-management/accurate-mixed-data-excel-entry-40719500",
-      "budget_raw": "$180 Average bid",
-      "desc": "I have fewer than 1,000 rows of mixed text-and-numeric information that must be transferred into a clean, well-structured Excel workbook. Every cell needs to match the source exactly, with consistent formatting for numbers, dates, and any categorical text so the file is ready for immediate analysis ",
-      "bids": 29,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 180,
-      "hourly": false,
-      "flags": [],
-      "score": 58
-    },
-    {
-      "title": "Email Customer Information Data Entry -- 2",
-      "url": "https://www.freelancer.com/projects/google-sheets/email-customer-information-data-entry",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I have a folder full of customer emails that need to be turned into a clean, well-structured spreadsheet. The job is strictly typing and organizing data no scraping or complex formulas just careful transcription of each name, contact detail, and any notes embedded in the message body into the column",
-      "bids": 5,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 5,
-      "hourly": true,
-      "flags": [],
-      "score": 41
     },
     {
       "title": "Automated Textbook Quiz Generator",
@@ -273,6 +231,48 @@
       "score": 37
     },
     {
+      "title": "Email Customer Information Data Entry -- 2",
+      "url": "https://www.freelancer.com/projects/google-sheets/email-customer-information-data-entry",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I have a folder full of customer emails that need to be turned into a clean, well-structured spreadsheet. The job is strictly typing and organizing data no scraping or complex formulas just careful transcription of each name, contact detail, and any notes embedded in the message body into the column",
+      "bids": 11,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 34
+    },
+    {
+      "title": "Accurate Mixed Data Excel Entry",
+      "url": "https://www.freelancer.com/projects/data-management/accurate-mixed-data-excel-entry-40719500",
+      "budget_raw": "$177 Average bid",
+      "desc": "I have fewer than 1,000 rows of mixed text-and-numeric information that must be transferred into a clean, well-structured Excel workbook. Every cell needs to match the source exactly, with consistent formatting for numbers, dates, and any categorical text so the file is ready for immediate analysis ",
+      "bids": 36,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 177,
+      "hourly": false,
+      "flags": [],
+      "score": 31
+    },
+    {
+      "title": "Copy Type 50-100 Handwritten Pages - 18/09/2026 12:36 EDT",
+      "url": "https://www.freelancer.com/projects/data-entry/copy-type-handwritten-pages-edt",
+      "budget_raw": "$190 Average bid",
+      "desc": "I have 50 100 pages of handwritten notes that must be copy typed into Microsoft Word with exceptional accuracy. This is my highest-priority task. After the notes are completed, I will also need a few PDF files converted to editable Word or Excel formats, some light web research to verify references,",
+      "bids": 28,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 190,
+      "hourly": false,
+      "flags": [],
+      "score": 30
+    },
+    {
       "title": "Transcribe Scans to Spreadsheet",
       "url": "https://www.freelancer.com/projects/google-sheets/transcribe-scans-spreadsheet",
       "budget_raw": "$5 / hr Average bid",
@@ -289,30 +289,16 @@
     {
       "title": "Configure CCNA Routing & Switching Devices",
       "url": "https://www.freelancer.com/projects/network-engineer/configure-ccna-routing-switching-devices",
-      "budget_raw": "$228 Average bid",
+      "budget_raw": "$248 Average bid",
       "desc": "I need a hands-on configuration session for both my Cisco routers and switches, covering all core routing and switching tasks required for CCNA-level production use. The scope is limited to initial setup and clean-up: assigning IP addresses, creating VLANs and trunks where appropriate, enabling the ",
-      "bids": 4,
+      "bids": 5,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 228,
+      "usd": 248,
       "hourly": false,
       "flags": [],
-      "score": 27
-    },
-    {
-      "title": "Excel Names & Addresses Entry",
-      "url": "https://www.freelancer.com/projects/data-management/excel-names-addresses-entry",
-      "budget_raw": "$192 Average bid",
-      "desc": "I have a set of digital files containing customer names and mailing addresses that need to be transferred into Excel. You re welcome to work with a template you already trust or build a fresh one for this project whichever lets you move fastest while keeping the data tidy. The job is straightforward",
-      "bids": 29,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 192,
-      "hourly": false,
-      "flags": [],
-      "score": 27
+      "score": 28
     },
     {
       "title": "Extract Website Contact Details",
@@ -325,6 +311,20 @@
       "fit": 3,
       "usd": 9,
       "hourly": true,
+      "flags": [],
+      "score": 25
+    },
+    {
+      "title": "Excel Names & Addresses Entry",
+      "url": "https://www.freelancer.com/projects/data-management/excel-names-addresses-entry",
+      "budget_raw": "$191 Average bid",
+      "desc": "I have a set of digital files containing customer names and mailing addresses that need to be transferred into Excel. You re welcome to work with a template you already trust or build a fresh one for this project whichever lets you move fastest while keeping the data tidy. The job is straightforward",
+      "bids": 30,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 191,
+      "hourly": false,
       "flags": [],
       "score": 25
     },
@@ -361,35 +361,35 @@
       "url": "https://www.freelancer.com/projects/excel/advanced-excel-model-collaboration-for",
       "budget_raw": "$14 / hr Average bid",
       "desc": "PLEASE SAY / DESCRIBE YOUR EXPERIENCE WITH ADVANCED EXCEL MODELING FOR REAL ESTATE ACQUISITIONS IN YOUR INTRO. THIS IS NOT M&A, or FP&A. Hi - I need you to be the super Excel user and lead modeler to collaborate with me to create an acquisition model template over the next 2-4 weeks. The template is",
-      "bids": 29,
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 14,
       "hourly": true,
       "flags": [],
-      "score": 16
+      "score": 15
     },
     {
       "title": "Jewellery Business AI Automation Required",
       "url": "https://www.freelancer.com/projects/ai-automation/jewellery-business-automation-required",
       "budget_raw": "$10 / hr Average bid",
       "desc": "AI Agent & Business Automation for Jewellery Business I am looking for an experienced AI Agent Developer / Automation Expert who can help me automate accounting and daily operational work for my jewellery business. Main Requirements: * Develop an AI agent that can understand and execute predefined b",
-      "bids": 33,
+      "bids": 35,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 10,
       "hourly": true,
       "flags": [],
-      "score": 16
+      "score": 14
     },
     {
       "title": "Excel Data Cleaning & Validation",
       "url": "https://www.freelancer.com/projects/data-analysis/excel-data-cleaning-validation",
       "budget_raw": "$3 / hr Average bid",
       "desc": "I have several spreadsheets containing a mix of text and numerical fields that now suffer from duplicates, inconsistent formats, and the occasional missing value. I need someone comfortable working directly in Excel to clean, validate, and standardise this data so I can trust every column for downst",
-      "bids": 19,
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -399,58 +399,16 @@
       "score": 11
     },
     {
-      "title": "WHM/cPanel & WHMCS Full Setup",
-      "url": "https://www.freelancer.com/projects/whmcs/whm-cpanel-whmcs-full-setup",
-      "budget_raw": "$17 Average bid",
-      "desc": "I have a brand-new server ready for production and want it fully prepared to sell shared hosting plans straight away. The work covers every layer from the operating-system tweaks through to turnkey WHMCS packages so that, once you are finished, clients can buy a plan, be provisioned automatically, a",
-      "bids": 16,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 17,
-      "hourly": false,
-      "flags": [],
-      "score": 9
-    },
-    {
-      "title": "Android SaaS & EVM App",
-      "url": "https://www.freelancer.com/projects/android-ui-design/android-saas-evm-app",
-      "budget_raw": "$305 Average bid",
-      "desc": "I am taking our company s EVM initiative together with a brand-new SaaS product to Android and need a developer who can own the mobile side from first screen to Play Store release. The immediate focus is a clean, reliable email-and-password sign-in flow. Session handling, password reset, and basic a",
-      "bids": 31,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 305,
-      "hourly": false,
-      "flags": [],
-      "score": 9
-    },
-    {
       "title": "Manual Text Document Data Entry",
       "url": "https://www.freelancer.com/projects/data-management/manual-text-document-data-entry-40718325",
-      "budget_raw": "$99 Average bid",
+      "budget_raw": "$97 Average bid",
       "desc": "I have a collection of text-based documents that must be keyed, line by line, into a structured spreadsheet template. Each character needs to match the original source exactly no OCR, macros, or automated shortcuts so the job is strictly manual data entry. You will receive the documents in batches, ",
-      "bids": 34,
+      "bids": 37,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 99,
+      "usd": 97,
       "hourly": false,
-      "flags": [],
-      "score": 8
-    },
-    {
-      "title": "Mathematics Class Pamphlet Designing",
-      "url": "https://www.freelancer.com/projects/adobe-illustrator/mathematics-class-pamphlet-designing",
-      "budget_raw": "$40 / hr Average bid",
-      "desc": "I need a clean, modern pamphlet that will persuade parents and students to enrol in our international mathematics classes. The piece has to feel formal and professional, so please build the colour palette around blue and white and keep the typography crisp and easy to read. Strong, math-related visu",
-      "bids": 32,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 40,
-      "hourly": true,
       "flags": [],
       "score": 8
     },
@@ -465,6 +423,62 @@
       "fit": 2,
       "usd": 22,
       "hourly": false,
+      "flags": [],
+      "score": 6
+    },
+    {
+      "title": "Bayesian Entropy Tutor & LaTeX Guidance",
+      "url": "https://www.freelancer.com/projects/statistical-analysis/bayesian-entropy-tutor-latex-guidance",
+      "budget_raw": "$152 Average bid",
+      "desc": "I m preparing a paper that applies Bayesian estimation to an entropy-based measure under upper record ranked set sampling scheme and I d like a mentor to walk me through the full workflow from sharpening the underlying theory right through to clean LaTeX write-up. Where I stand I already have some e",
+      "bids": 27,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 152,
+      "hourly": false,
+      "flags": [],
+      "score": 6
+    },
+    {
+      "title": "WHM/cPanel & WHMCS Full Setup",
+      "url": "https://www.freelancer.com/projects/whmcs/whm-cpanel-whmcs-full-setup",
+      "budget_raw": "$15 Average bid",
+      "desc": "I have a brand-new server ready for production and want it fully prepared to sell shared hosting plans straight away. The work covers every layer from the operating-system tweaks through to turnkey WHMCS packages so that, once you are finished, clients can buy a plan, be provisioned automatically, a",
+      "bids": 22,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 15,
+      "hourly": false,
+      "flags": [],
+      "score": 6
+    },
+    {
+      "title": "Android SaaS & EVM App",
+      "url": "https://www.freelancer.com/projects/android-ui-design/android-saas-evm-app",
+      "budget_raw": "$290 Average bid",
+      "desc": "I am taking our company s EVM initiative together with a brand-new SaaS product to Android and need a developer who can own the mobile side from first screen to Play Store release. The immediate focus is a clean, reliable email-and-password sign-in flow. Session handling, password reset, and basic a",
+      "bids": 34,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 290,
+      "hourly": false,
+      "flags": [],
+      "score": 6
+    },
+    {
+      "title": "Mathematics Class Pamphlet Designing",
+      "url": "https://www.freelancer.com/projects/adobe-illustrator/mathematics-class-pamphlet-designing",
+      "budget_raw": "$39 / hr Average bid",
+      "desc": "I need a clean, modern pamphlet that will persuade parents and students to enrol in our international mathematics classes. The piece has to feel formal and professional, so please build the colour palette around blue and white and keep the typography crisp and easy to read. Strong, math-related visu",
+      "bids": 34,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 39,
+      "hourly": true,
       "flags": [],
       "score": 6
     },
@@ -531,25 +545,11 @@
       "url": "https://www.freelancer.com/projects/network-administration/mining-gateway-stratum-connection",
       "budget_raw": "$26 Average bid",
       "desc": "I m running a data-mining cluster and have an account gateway in place, yet the moment I point it at the Stratum pool the link drops or returns empty metrics. My only goal here is to get clean, continuous Stratum traffic so I can monitor mining performance in real time share counts, latency, rejecte",
-      "bids": 37,
+      "bids": 36,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
       "usd": 26,
-      "hourly": false,
-      "flags": [],
-      "score": 1
-    },
-    {
-      "title": "Secure Business Portal Development",
-      "url": "https://www.freelancer.com/projects/api-developmet/secure-business-portal-development",
-      "budget_raw": "$21 Average bid",
-      "desc": "I need a small-to-mid-sized web portal built specifically for business professionals. Above everything else, the site must launch with robust user authentication so each visitor logs in, sees only the information meant for them, and feels confident their data is protected. What I m picturing Clean, ",
-      "bids": 29,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 21,
       "hourly": false,
       "flags": [],
       "score": 1
@@ -583,10 +583,6 @@
     {
       "title": "Automated 1000 Ad Daily Viewer",
       "reason": "rezolvare/ocolire de CAPTCHA"
-    },
-    {
-      "title": "GovCon Lead List Generation",
-      "reason": "listă masivă de date personale — GDPR și spam"
     },
     {
       "title": "Fresh 2026 Italian Email List",
