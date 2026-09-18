@@ -1,39 +1,99 @@
 {
-  "generated_at": "2026-09-18T10:48:18.028Z",
+  "generated_at": "2026-09-18T17:37:40.352Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 577,
+  "events_total": 583,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 116
+      "actions": 118
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 111
+      "actions": 112
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 234
+      "actions": 236
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 116
+      "actions": 117
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-18T17:37:40.305Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1107 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-18T17:36:50.572Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 182,
+      "status": null,
+      "desc": "Cel mai bun job: Convert Medical PDFs to Excel",
+      "evidence": "https://www.freelancer.com/projects/data-analysis/convert-medical-pdfs-excel",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-18T17:36:50.572Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 178 proiecte scanate → 39 potrivite, 13 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-18T17:36:37.439Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 41 scanate, 2 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-18T17:35:54.342Z",
+      "type": "opportunity",
+      "track": "bounty",
+      "amount_usd": 100,
+      "status": null,
+      "desc": "Cel mai bun bounty: RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube (Scottcjn/Rustchain)",
+      "evidence": "https://github.com/Scottcjn/Rustchain/issues/2239",
+      "agent": "bounty-radar"
+    },
+    {
+      "ts": "2026-09-18T17:35:54.342Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 735 candidați → 1 bounty-uri reale (734 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-18T10:48:17.968Z",
       "type": "action",
@@ -573,71 +633,11 @@
       "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
       "evidence": null,
       "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-15T00:24:37.827Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 571,
-      "status": null,
-      "desc": "Cel mai bun job: Python Chat System Development",
-      "evidence": "https://www.freelancer.com/projects/chatbot/python-chat-system-development",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-15T00:24:37.826Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 168 proiecte scanate → 42 potrivite, 15 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-15T00:24:25.139Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 41 scanate, 2 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-15T00:23:36.349Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 712 candidați → 0 bounty-uri reale (712 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-14T19:08:09.403Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1107 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-14T19:07:20.153Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 206,
-      "status": null,
-      "desc": "Cel mai bun job: Automate 1,000 YouTube Ad Views",
-      "evidence": "https://www.freelancer.com/projects/automation/automate-youtube-views-40707589",
-      "agent": "gig-radar"
     }
   ],
   "opportunities": {
-    "accepted": 2,
-    "rejected": 777,
+    "accepted": 3,
+    "rejected": 773,
     "top": [
       {
         "source": "comp-radar",
@@ -646,12 +646,12 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 3226,
+        "score": 3191,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 186,
-        "per_slot": 186,
-        "days_left": 77,
+        "participants": 188,
+        "per_slot": 188,
+        "days_left": 76,
         "objective": true
       },
       {
@@ -663,17 +663,32 @@
         "verdict": "accept",
         "amount_usd": 100,
         "funding_source": "algora-pbc",
-        "stars": 808,
+        "stars": 805,
         "language": "Python",
         "age_days": 159,
         "difficulty": "hard",
-        "score": 86
+        "score": 87
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "CSC Back-to-School Hackathon",
+        "url": "https://csc-back-to-school.devpost.com/",
+        "score": 4,
+        "prize_usd": 400,
+        "slots": 3,
+        "participants": 283,
+        "per_slot": 94,
+        "days_left": 17,
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 288
+        "count": 286
       },
       {
         "reason": "organizație-fermă cunoscută",
@@ -681,7 +696,7 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 99
+        "count": 97
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -693,7 +708,7 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 18
+        "count": 19
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -701,27 +716,23 @@
       },
       {
         "reason": "participare restricționată",
-        "count": 9
+        "count": 8
       },
       {
         "reason": "proiect inactiv",
         "count": 7
       },
       {
-        "reason": "revendicat activ",
-        "count": 3
+        "reason": "prea aglomerat",
+        "count": 4
       },
       {
         "reason": "regulament necitibil",
-        "count": 3
+        "count": 4
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "revendicat activ",
         "count": 3
-      },
-      {
-        "reason": "prea puțin timp de construit",
-        "count": 2
       },
       {
         "reason": "premiu prea mic",
@@ -732,7 +743,7 @@
         "count": 1
       },
       {
-        "reason": "premiul nu e în bani",
+        "reason": "prea puțin timp de construit",
         "count": 1
       },
       {
