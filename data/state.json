@@ -1,39 +1,99 @@
 {
-  "generated_at": "2026-09-17T18:02:26.376Z",
+  "generated_at": "2026-09-18T00:01:55.690Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 565,
+  "events_total": 571,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 112
+      "actions": 114
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 109
+      "actions": 110
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 230
+      "actions": 232
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 114
+      "actions": 115
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-18T00:01:55.633Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-18T00:00:17.868Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 143,
+      "status": null,
+      "desc": "Cel mai bun job: JSON XML & Web Scraper",
+      "evidence": "https://www.freelancer.com/projects/json-xml-web-scraper-fix",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-18T00:00:17.868Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 163 proiecte scanate → 35 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-18T00:00:05.093Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 41 scanate, 2 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-17T23:59:22.343Z",
+      "type": "opportunity",
+      "track": "bounty",
+      "amount_usd": 100,
+      "status": null,
+      "desc": "Cel mai bun bounty: RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube (Scottcjn/Rustchain)",
+      "evidence": "https://github.com/Scottcjn/Rustchain/issues/2239",
+      "agent": "bounty-radar"
+    },
+    {
+      "ts": "2026-09-17T23:59:22.343Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 736 candidați → 1 bounty-uri reale (735 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-17T18:02:26.316Z",
       "type": "action",
@@ -573,71 +633,11 @@
       "desc": "Radar joburi: 173 proiecte scanate → 42 potrivite, 14 refuzate pe motive etice",
       "evidence": null,
       "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-14T12:09:24.366Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 42 scanate, 2 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-14T12:08:37.874Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 715 candidați → 0 bounty-uri reale (715 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-13T23:58:59.692Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1107 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-13T23:58:09.209Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 208,
-      "status": null,
-      "desc": "Cel mai bun job: Automate 1,000 YouTube Ad Views",
-      "evidence": "https://www.freelancer.com/projects/automation/automate-youtube-views-40707589",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-13T23:58:09.209Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 171 proiecte scanate → 44 potrivite, 13 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-13T23:57:56.517Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 40 scanate, 2 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
     }
   ],
   "opportunities": {
-    "accepted": 2,
-    "rejected": 769,
+    "accepted": 3,
+    "rejected": 774,
     "top": [
       {
         "source": "comp-radar",
@@ -646,13 +646,28 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 3571,
+        "score": 3371,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 168,
-        "per_slot": 168,
+        "participants": 178,
+        "per_slot": 178,
         "days_left": 77,
         "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "ML Empowerment Build Challenge 3.0",
+        "url": "https://ml-build-challenge-3.devpost.com/",
+        "score": 166,
+        "prize_usd": 37800,
+        "slots": 1,
+        "participants": 228,
+        "per_slot": 228,
+        "days_left": 18,
+        "objective": false
       },
       {
         "url": "https://github.com/Scottcjn/Rustchain/issues/2239",
@@ -663,7 +678,7 @@
         "verdict": "accept",
         "amount_usd": 100,
         "funding_source": "algora-pbc",
-        "stars": 807,
+        "stars": 809,
         "language": "Python",
         "age_days": 158,
         "difficulty": "hard",
@@ -673,7 +688,7 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 306
+        "count": 294
       },
       {
         "reason": "organizație-fermă cunoscută",
@@ -685,31 +700,27 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 73
+        "count": 86
       },
       {
         "reason": "prea competitiv",
-        "count": 56
+        "count": 61
       },
       {
         "reason": "fără premiu în bani",
-        "count": 17
+        "count": 18
       },
       {
         "reason": "fork (task sintetic de benchmark)",
         "count": 16
       },
       {
-        "reason": "proiect inactiv",
+        "reason": "participare restricționată",
         "count": 8
       },
       {
-        "reason": "participare restricționată",
+        "reason": "proiect inactiv",
         "count": 7
-      },
-      {
-        "reason": "regulament necitibil",
-        "count": 6
       },
       {
         "reason": "revendicat activ",
@@ -720,11 +731,15 @@
         "count": 3
       },
       {
-        "reason": "premiu prea mic",
-        "count": 2
+        "reason": "regulament necitibil",
+        "count": 3
       },
       {
         "reason": "prea aglomerat",
+        "count": 3
+      },
+      {
+        "reason": "premiu prea mic",
         "count": 2
       },
       {
