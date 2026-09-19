@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T23:59:50.231Z",
+  "generated_at": "2026-09-19T10:32:29.686Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -122,7 +122,7 @@
       },
       {
         "theme": "spend",
-        "mentions": 83,
+        "mentions": 82,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 91
+        "score": 90
       },
       {
         "theme": "hate",
@@ -262,7 +262,7 @@
       },
       {
         "theme": "apps",
-        "mentions": 20,
+        "mentions": 21,
         "engagement": 194,
         "evidence": [
           {
@@ -286,7 +286,7 @@
             "date": "2026-06-17"
           }
         ],
-        "score": 71
+        "score": 73
       },
       {
         "theme": "open-source",
@@ -343,6 +343,34 @@
           }
         ],
         "score": 70
+      },
+      {
+        "theme": "browser",
+        "mentions": 16,
+        "engagement": 287,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
+            "url": "https://news.ycombinator.com/item?id=48973899",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "I solemnly proclaim I would pay reasonable money for a browser (Mozilla or otherwise) if their maker would truly try to make the best browser possible and succe",
+            "url": "https://news.ycombinator.com/item?id=49746339",
+            "date": "2026-09-17"
+          }
+        ],
+        "score": 69
       },
       {
         "theme": "it.",
@@ -508,34 +536,6 @@
             "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
             "url": "https://news.ycombinator.com/item?id=49388758",
             "date": "2026-08-21"
-          }
-        ],
-        "score": 63
-      },
-      {
-        "theme": "browser",
-        "mentions": 14,
-        "engagement": 287,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
-            "url": "https://news.ycombinator.com/item?id=48973899",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "I solemnly proclaim I would pay reasonable money for a browser (Mozilla or otherwise) if their maker would truly try to make the best browser possible and succe",
-            "url": "https://news.ycombinator.com/item?id=49746339",
-            "date": "2026-09-17"
           }
         ],
         "score": 63
