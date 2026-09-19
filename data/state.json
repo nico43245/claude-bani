@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-19T10:32:29.731Z",
+  "generated_at": "2026-09-19T17:05:06.065Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 595,
+  "events_total": 600,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 122
+      "actions": 123
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 114
+      "actions": 115
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 240
+      "actions": 242
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 119
+      "actions": 120
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-19T17:05:06.005Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1107 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-19T17:04:18.320Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-19T17:04:18.320Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 171 proiecte scanate → 43 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-19T17:04:05.877Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 44 scanate, 2 eligibile după citirea regulamentelor (42 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-19T17:03:30.064Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 733 candidați → 0 bounty-uri reale (733 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-19T10:32:29.687Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Radar competiții: 42 scanate, 2 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
       "evidence": "scouts/comp-radar.mjs",
       "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-16T11:03:03.734Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 721 candidați → 0 bounty-uri reale (721 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-16T00:05:13.370Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-16T00:04:23.670Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 467,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-16T00:04:23.670Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 163 proiecte scanate → 32 potrivite, 13 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-16T00:04:10.959Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 43 scanate, 1 eligibile după citirea regulamentelor (42 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
     }
   ],
   "opportunities": {
-    "accepted": 3,
-    "rejected": 772,
+    "accepted": 2,
+    "rejected": 775,
     "top": [
       {
         "source": "comp-radar",
@@ -646,57 +646,42 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 2927,
+        "score": 2885,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 205,
-        "per_slot": 205,
-        "days_left": 76,
+        "participants": 208,
+        "per_slot": 208,
+        "days_left": 75,
         "objective": true
-      },
-      {
-        "url": "https://github.com/Scottcjn/Rustchain/issues/2239",
-        "repo": "Scottcjn/Rustchain",
-        "title": "RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube",
-        "comments": 8,
-        "created_at": "2026-04-12T18:25:39Z",
-        "verdict": "accept",
-        "amount_usd": 100,
-        "funding_source": "algora-pbc",
-        "stars": 807,
-        "language": "Python",
-        "age_days": 160,
-        "difficulty": "hard",
-        "score": 85
       },
       {
         "source": "comp-radar",
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "CSC Back-to-School Hackathon",
-        "url": "https://csc-back-to-school.devpost.com/",
-        "score": 4,
-        "prize_usd": 400,
-        "slots": 3,
-        "participants": 295,
-        "per_slot": 98,
-        "days_left": 16,
+        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+        "url": "https://aws-cds-partner.devpost.com/",
+        "score": 645,
+        "prize_usd": 40000,
+        "slots": 4,
+        "participants": 248,
+        "per_slot": 62,
+        "days_left": 30,
         "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 287
+        "count": 294
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 182
+        "count": 183
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 99
+        "count": 92
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -704,7 +689,7 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 56
+        "count": 55
       },
       {
         "reason": "fără premiu în bani",
@@ -715,32 +700,28 @@
         "count": 9
       },
       {
+        "reason": "participare restricționată",
+        "count": 8
+      },
+      {
         "reason": "proiect inactiv",
         "count": 7
       },
       {
-        "reason": "participare restricționată",
-        "count": 7
-      },
-      {
-        "reason": "regulament necitibil",
-        "count": 4
+        "reason": "prea puțin timp de construit",
+        "count": 5
       },
       {
         "reason": "revendicat activ",
         "count": 3
       },
       {
-        "reason": "prea puțin timp de construit",
-        "count": 2
-      },
-      {
         "reason": "premiu prea mic",
-        "count": 2
+        "count": 3
       },
       {
         "reason": "prea aglomerat",
-        "count": 2
+        "count": 3
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
@@ -748,6 +729,10 @@
       },
       {
         "reason": "premiul nu e în bani",
+        "count": 1
+      },
+      {
+        "reason": "regulament necitibil",
         "count": 1
       },
       {

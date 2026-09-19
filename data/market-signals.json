@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:32:29.686Z",
+  "generated_at": "2026-09-19T17:05:06.003Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -94,7 +94,7 @@
       },
       {
         "theme": "hours",
-        "mentions": 86,
+        "mentions": 85,
         "engagement": 11,
         "evidence": [
           {
@@ -118,11 +118,11 @@
             "date": "2026-03-06"
           }
         ],
-        "score": 94
+        "score": 93
       },
       {
         "theme": "spend",
-        "mentions": 82,
+        "mentions": 81,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 90
+        "score": 89
       },
       {
         "theme": "hate",
@@ -205,34 +205,6 @@
         "score": 79
       },
       {
-        "theme": "life",
-        "mentions": 17,
-        "engagement": 356,
-        "evidence": [
-          {
-            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
-            "url": "https://news.ycombinator.com/item?id=48347725",
-            "date": "2026-05-31"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "There's few things where the drop in quality is astronomical, one of them being clothing. Clothes used to last a life time till few decades ago. Right now you b",
-            "url": "https://news.ycombinator.com/item?id=49710194",
-            "date": "2026-09-15"
-          },
-          {
-            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
-            "url": "https://news.ycombinator.com/item?id=49701697",
-            "date": "2026-09-14"
-          }
-        ],
-        "score": 77
-      },
-      {
         "theme": "code",
         "mentions": 50,
         "engagement": 41,
@@ -261,8 +233,36 @@
         "score": 75
       },
       {
+        "theme": "life",
+        "mentions": 16,
+        "engagement": 356,
+        "evidence": [
+          {
+            "text": "I would pay $49.99/mo for an unlimited plan that brings me only my friends' status updates (not their hyper-political likes and comments), just their life updat",
+            "url": "https://news.ycombinator.com/item?id=48347725",
+            "date": "2026-05-31"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "There's few things where the drop in quality is astronomical, one of them being clothing. Clothes used to last a life time till few decades ago. Right now you b",
+            "url": "https://news.ycombinator.com/item?id=49710194",
+            "date": "2026-09-15"
+          },
+          {
+            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
+            "url": "https://news.ycombinator.com/item?id=49701697",
+            "date": "2026-09-14"
+          }
+        ],
+        "score": 74
+      },
+      {
         "theme": "apps",
-        "mentions": 21,
+        "mentions": 20,
         "engagement": 194,
         "evidence": [
           {
@@ -286,7 +286,7 @@
             "date": "2026-06-17"
           }
         ],
-        "score": 73
+        "score": 71
       },
       {
         "theme": "open-source",
@@ -1021,8 +1021,8 @@
         "seed_spread": 9,
         "avg_branches": 9.1,
         "examples": [
-          "excel template for budget",
           "excel template for project management",
+          "excel template for budget",
           "excel template for small business accounting",
           "excel template for expense tracking",
           "excel template for job application tracking"
@@ -1119,8 +1119,8 @@
         "seed_spread": 4,
         "avg_branches": 9.8,
         "examples": [
-          "excel template for budget",
           "excel template for project management",
+          "excel template for budget",
           "excel template for expense tracking",
           "excel template for job application tracking",
           "excel template for inventory"
@@ -1170,20 +1170,6 @@
         "score": 233
       },
       {
-        "subject": "pdf",
-        "queries": 14,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd",
-          "printable planner for 2025"
-        ],
-        "score": 201
-      },
-      {
         "subject": "expenses",
         "queries": 11,
         "seed_spread": 5,
@@ -1212,10 +1198,10 @@
         "score": 191
       },
       {
-        "subject": "printable",
+        "subject": "pdf",
         "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 9.2,
+        "avg_branches": 10,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1223,7 +1209,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 181
+        "score": 186
       },
       {
         "subject": "download",
@@ -1240,6 +1226,20 @@
         "score": 177
       },
       {
+        "subject": "printable",
+        "queries": 11,
+        "seed_spread": 4,
+        "avg_branches": 9.6,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd",
+          "printable planner for 2025"
+        ],
+        "score": 156
+      },
+      {
         "subject": "sheet",
         "queries": 14,
         "seed_spread": 3,
@@ -1252,6 +1252,20 @@
           "google sheets template for budget"
         ],
         "score": 148
+      },
+      {
+        "subject": "college",
+        "queries": 9,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
+        ],
+        "score": 129
       },
       {
         "subject": "students",
@@ -1322,20 +1336,6 @@
           "printable planner for 2025"
         ],
         "score": 117
-      },
-      {
-        "subject": "college",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "google sheets template for college application"
-        ],
-        "score": 115
       },
       {
         "subject": "income",
@@ -1417,23 +1417,9 @@
           "google sheets template for wedding guest list",
           "google sheets template for college application",
           "printable planner for the week",
-          "checklist for moving out of state"
+          "checklist for college dorm"
         ],
         "score": 83
-      },
-      {
-        "subject": "kids",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
-        ],
-        "score": 75
       },
       {
         "subject": "management",
@@ -1441,8 +1427,8 @@
         "seed_spread": 3,
         "avg_branches": 9.4,
         "examples": [
-          "excel template for budget",
           "excel template for project management",
+          "excel template for budget",
           "excel template for expense tracking",
           "excel template for inventory",
           "google sheets template for inventory"
@@ -1518,6 +1504,20 @@
           "best spreadsheet for finances"
         ],
         "score": 64
+      },
+      {
+        "subject": "kids",
+        "queries": 5,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for traveling",
+          "checklist for international travel",
+          "budget template for teens"
+        ],
+        "score": 54
       },
       {
         "subject": "university",
@@ -1678,23 +1678,6 @@
       },
       {
         "seed": "excel template for",
-        "query": "excel template for budget",
-        "branches": 10,
-        "children": [
-          "excel template for budget tracking",
-          "excel template for budget planning",
-          "excel template for budget management",
-          "excel template for budget vs actual",
-          "excel template for budget",
-          "excel template for budget expenses",
-          "excel template for budget free",
-          "excel template for budget proposal",
-          "excel template for budget reddit",
-          "excel template for budget monthly"
-        ]
-      },
-      {
-        "seed": "excel template for",
         "query": "excel template for project management",
         "branches": 10,
         "children": [
@@ -1708,6 +1691,23 @@
           "excel template for project management download",
           "excel sheet for project management",
           "excel spreadsheet for project management"
+        ]
+      },
+      {
+        "seed": "excel template for",
+        "query": "excel template for budget",
+        "branches": 10,
+        "children": [
+          "excel template for budget tracking",
+          "excel template for budget planning",
+          "excel template for budget management",
+          "excel template for budget vs actual",
+          "excel template for budget",
+          "excel template for budget expenses",
+          "excel template for budget free",
+          "excel template for budget proposal",
+          "excel template for budget reddit",
+          "excel template for budget monthly"
         ]
       },
       {
