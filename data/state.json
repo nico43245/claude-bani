@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-19T17:05:06.065Z",
+  "generated_at": "2026-09-19T23:59:31.673Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 600,
+  "events_total": 605,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 123
+      "actions": 124
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 115
+      "actions": 116
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 242
+      "actions": 244
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 120
+      "actions": 121
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-19T23:59:31.612Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-19T23:58:44.071Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 15,
+      "status": null,
+      "desc": "Cel mai bun job: WEB SCRAPE - INSOLVENCY REGISTER UK",
+      "evidence": "https://www.freelancer.com/projects/web-scraping/web-scrape-insolvency-register-35212468",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-19T23:58:44.071Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 172 proiecte scanate → 42 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-19T23:58:31.535Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 42 scanate, 3 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-19T23:57:56.462Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 733 candidați → 0 bounty-uri reale (733 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-19T17:05:06.005Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Radar competiții: 42 scanate, 1 eligibile după citirea regulamentelor (41 respinse — premii false, restricții de participare, aglomerație).",
       "evidence": "scouts/comp-radar.mjs",
       "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-16T18:01:20.414Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 718 candidați → 0 bounty-uri reale (718 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-16T11:04:49.559Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-16T11:04:01.638Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 189,
-      "status": null,
-      "desc": "Cel mai bun job: Advanced Data Scraping and Lead Gen App",
-      "evidence": "https://www.freelancer.com/projects/django/advanced-data-scraping-lead-gen",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-16T11:04:01.638Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 158 proiecte scanate → 32 potrivite, 11 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-16T11:03:49.027Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 42 scanate, 2 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
     }
   ],
   "opportunities": {
-    "accepted": 2,
-    "rejected": 775,
+    "accepted": 3,
+    "rejected": 772,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 2885,
+        "score": 2844,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 208,
-        "per_slot": 208,
+        "participants": 211,
+        "per_slot": 211,
         "days_left": 75,
         "objective": true
       },
@@ -661,23 +661,38 @@
         "reason": null,
         "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
         "url": "https://aws-cds-partner.devpost.com/",
-        "score": 645,
+        "score": 159,
         "prize_usd": 40000,
-        "slots": 4,
-        "participants": 248,
-        "per_slot": 62,
+        "slots": 1,
+        "participants": 251,
+        "per_slot": 251,
         "days_left": 30,
         "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "OpenCV AI Competition 2026, powered by AWS",
+        "url": "https://opencv26.devpost.com/",
+        "score": 120,
+        "prize_usd": 20250,
+        "slots": 6,
+        "participants": 2027,
+        "per_slot": 338,
+        "days_left": 30,
+        "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 294
+        "count": 298
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 183
+        "count": 181
       },
       {
         "reason": "fără dovadă de finanțare",
@@ -685,15 +700,15 @@
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 89
+        "count": 88
       },
       {
         "reason": "prea competitiv",
-        "count": 55
+        "count": 54
       },
       {
         "reason": "fără premiu în bani",
-        "count": 20
+        "count": 19
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -709,7 +724,7 @@
       },
       {
         "reason": "prea puțin timp de construit",
-        "count": 5
+        "count": 4
       },
       {
         "reason": "revendicat activ",
@@ -725,10 +740,6 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
-        "count": 1
-      },
-      {
-        "reason": "premiul nu e în bani",
         "count": 1
       },
       {
