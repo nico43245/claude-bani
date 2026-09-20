@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-20T10:54:23.473Z",
+  "generated_at": "2026-09-20T17:23:11.244Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1106,
+    "signals_total": 1104,
     "themes": [
       {
         "theme": "app",
-        "mentions": 34,
+        "mentions": 33,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 121
+        "score": 119
       },
       {
         "theme": "web",
@@ -178,7 +178,7 @@
       },
       {
         "theme": "built",
-        "mentions": 26,
+        "mentions": 25,
         "engagement": 164,
         "evidence": [
           {
@@ -202,7 +202,7 @@
             "date": "2025-08-02"
           }
         ],
-        "score": 79
+        "score": 77
       },
       {
         "theme": "code",
@@ -233,6 +233,34 @@
         "score": 75
       },
       {
+        "theme": "stop",
+        "mentions": 19,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "Xen prevents modifying ACPI data. It also passes obvious \"Xen emulated drive\", and similar for all hardware interfaces. Passes CPUID. Can't stop any of this wit",
+            "url": "https://news.ycombinator.com/item?id=49685325",
+            "date": "2026-09-13"
+          }
+        ],
+        "score": 71
+      },
+      {
         "theme": "open-source",
         "mentions": 11,
         "engagement": 961,
@@ -261,6 +289,34 @@
         "score": 71
       },
       {
+        "theme": "them",
+        "mentions": 70,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
+          },
+          {
+            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
+            "url": "https://news.ycombinator.com/item?id=49388579",
+            "date": "2026-08-21"
+          },
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          }
+        ],
+        "score": 70
+      },
+      {
         "theme": "browser",
         "mentions": 16,
         "engagement": 287,
@@ -284,34 +340,6 @@
             "text": "I solemnly proclaim I would pay reasonable money for a browser (Mozilla or otherwise) if their maker would truly try to make the best browser possible and succe",
             "url": "https://news.ycombinator.com/item?id=49746339",
             "date": "2026-09-17"
-          }
-        ],
-        "score": 69
-      },
-      {
-        "theme": "them",
-        "mentions": 69,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
-          },
-          {
-            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
-            "url": "https://news.ycombinator.com/item?id=49388579",
-            "date": "2026-08-21"
-          },
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
           }
         ],
         "score": 69
@@ -373,62 +401,6 @@
         "score": 68
       },
       {
-        "theme": "stop",
-        "mentions": 18,
-        "engagement": 215,
-        "evidence": [
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "Xen prevents modifying ACPI data. It also passes obvious \"Xen emulated drive\", and similar for all hardware interfaces. Passes CPUID. Can't stop any of this wit",
-            "url": "https://news.ycombinator.com/item?id=49685325",
-            "date": "2026-09-13"
-          }
-        ],
-        "score": 68
-      },
-      {
-        "theme": "different",
-        "mentions": 33,
-        "engagement": 70,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 67
-      },
-      {
         "theme": "life",
         "mentions": 14,
         "engagement": 356,
@@ -480,6 +452,34 @@
             "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
             "url": "https://news.ycombinator.com/item?id=49356651",
             "date": "2026-08-19"
+          }
+        ],
+        "score": 66
+      },
+      {
+        "theme": "different",
+        "mentions": 32,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
           }
         ],
         "score": 66
@@ -598,7 +598,7 @@
       },
       {
         "theme": "public",
-        "mentions": 20,
+        "mentions": 19,
         "engagement": 126,
         "evidence": [
           {
@@ -622,7 +622,7 @@
             "date": "2026-06-04"
           }
         ],
-        "score": 61
+        "score": 59
       },
       {
         "theme": "trust",
@@ -1170,20 +1170,6 @@
         "score": 233
       },
       {
-        "subject": "pdf",
-        "queries": 14,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd",
-          "printable planner for 2025"
-        ],
-        "score": 201
-      },
-      {
         "subject": "expenses",
         "queries": 11,
         "seed_spread": 5,
@@ -1212,10 +1198,10 @@
         "score": 191
       },
       {
-        "subject": "printable",
+        "subject": "pdf",
         "queries": 13,
         "seed_spread": 4,
-        "avg_branches": 9.2,
+        "avg_branches": 10,
         "examples": [
           "printable planner for july 2026",
           "printable planner for kids",
@@ -1223,7 +1209,7 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 181
+        "score": 186
       },
       {
         "subject": "download",
@@ -1238,6 +1224,20 @@
           "printable planner for adhd"
         ],
         "score": 177
+      },
+      {
+        "subject": "printable",
+        "queries": 12,
+        "seed_spread": 4,
+        "avg_branches": 9.2,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd",
+          "printable planner for 2025"
+        ],
+        "score": 167
       },
       {
         "subject": "sheet",
@@ -1271,15 +1271,15 @@
         "subject": "notion",
         "queries": 12,
         "seed_spread": 3,
-        "avg_branches": 9.3,
+        "avg_branches": 9.2,
         "examples": [
           "notion template for college students",
           "notion template for school",
           "notion template for writing a book",
           "notion template for students",
-          "notion template for medical students"
+          "notion template for project management"
         ],
-        "score": 126
+        "score": 125
       },
       {
         "subject": "simple",
@@ -1324,20 +1324,6 @@
         "score": 117
       },
       {
-        "subject": "college",
-        "queries": 8,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "google sheets template for college application"
-        ],
-        "score": 115
-      },
-      {
         "subject": "income",
         "queries": 8,
         "seed_spread": 4,
@@ -1350,6 +1336,20 @@
           "spreadsheet to track expenses"
         ],
         "score": 115
+      },
+      {
+        "subject": "management",
+        "queries": 8,
+        "seed_spread": 4,
+        "avg_branches": 9.3,
+        "examples": [
+          "notion template for project management",
+          "excel template for budget",
+          "excel template for project management",
+          "excel template for expense tracking",
+          "excel template for inventory"
+        ],
+        "score": 112
       },
       {
         "subject": "application",
@@ -1366,18 +1366,18 @@
         "score": 108
       },
       {
-        "subject": "example",
-        "queries": 5,
-        "seed_spread": 5,
-        "avg_branches": 9.2,
+        "subject": "college",
+        "queries": 7,
+        "seed_spread": 4,
+        "avg_branches": 10,
         "examples": [
-          "notion template for content creators",
-          "google sheets template for wedding guest list",
-          "tracking template for google ads",
-          "template management system",
-          "budget planner for small business"
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
         ],
-        "score": 87
+        "score": 100
       },
       {
         "subject": "expense",
@@ -1411,15 +1411,15 @@
         "subject": "list",
         "queries": 6,
         "seed_spread": 4,
-        "avg_branches": 9,
+        "avg_branches": 8.5,
         "examples": [
           "excel template for inventory",
           "google sheets template for wedding guest list",
           "google sheets template for college application",
           "printable planner for the week",
-          "checklist for moving out of state"
+          "checklist for fire evacuation"
         ],
-        "score": 83
+        "score": 81
       },
       {
         "subject": "kids",
@@ -1436,20 +1436,6 @@
         "score": 75
       },
       {
-        "subject": "management",
-        "queries": 7,
-        "seed_spread": 3,
-        "avg_branches": 9.4,
-        "examples": [
-          "excel template for budget",
-          "excel template for project management",
-          "excel template for expense tracking",
-          "excel template for inventory",
-          "google sheets template for inventory"
-        ],
-        "score": 74
-      },
-      {
         "subject": "docs",
         "queries": 7,
         "seed_spread": 3,
@@ -1462,6 +1448,34 @@
           "google sheets template for wedding guest list"
         ],
         "score": 74
+      },
+      {
+        "subject": "plan",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.6,
+        "examples": [
+          "checklist for fire evacuation",
+          "budget template for college student",
+          "budget template for teens",
+          "budget template for biweekly pay",
+          "planner for small business owner"
+        ],
+        "score": 74
+      },
+      {
+        "subject": "project",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 9.6,
+        "examples": [
+          "notion template for project management",
+          "excel template for project management",
+          "tracker template for google sheets",
+          "tracker template for excel",
+          "budget template for grant proposal"
+        ],
+        "score": 71
       },
       {
         "subject": "create",
@@ -1520,6 +1534,33 @@
         "score": 64
       },
       {
+        "subject": "example",
+        "queries": 4,
+        "seed_spread": 4,
+        "avg_branches": 9,
+        "examples": [
+          "google sheets template for wedding guest list",
+          "tracking template for google ads",
+          "template management system",
+          "budget planner for small business"
+        ],
+        "score": 55
+      },
+      {
+        "subject": "software",
+        "queries": 5,
+        "seed_spread": 3,
+        "avg_branches": 8.6,
+        "examples": [
+          "notion template for project management",
+          "best spreadsheet for ipad",
+          "best spreadsheet for mac",
+          "best spreadsheet for linux",
+          "scheduler for small business"
+        ],
+        "score": 51
+      },
+      {
         "subject": "university",
         "queries": 4,
         "seed_spread": 3,
@@ -1529,46 +1570,6 @@
           "notion template for students",
           "google sheets template for college application",
           "budget template for college student"
-        ],
-        "score": 43
-      },
-      {
-        "subject": "project",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "excel template for project management",
-          "tracker template for google sheets",
-          "tracker template for excel",
-          "budget template for grant proposal"
-        ],
-        "score": 43
-      },
-      {
-        "subject": "spending",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "google sheets template for tracking expenses",
-          "spreadsheet to track expenses",
-          "spreadsheet to track spending",
-          "expense tracker template for google sheets"
-        ],
-        "score": 43
-      },
-      {
-        "subject": "plan",
-        "queries": 6,
-        "seed_spread": 2,
-        "avg_branches": 10,
-        "examples": [
-          "budget template for college student",
-          "budget template for teens",
-          "budget template for biweekly pay",
-          "planner for small business owner",
-          "best planner for small business owner"
         ],
         "score": 43
       }
@@ -1657,23 +1658,6 @@
           "notion templates for college students aesthetic free",
           "notion templates for college students aesthetic",
           "notion templates for college students reddit"
-        ]
-      },
-      {
-        "seed": "notion template for",
-        "query": "notion template for content creators",
-        "branches": 10,
-        "children": [
-          "notion template for content creators free",
-          "notion template for content creators",
-          "notion template for content creation",
-          "notion template for youtube creators",
-          "notion template for youtube creators free",
-          "best notion template for content creators",
-          "free notion template for content creation",
-          "best notion template for content creation",
-          "notion template for youtube content creation",
-          "content creator example"
         ]
       },
       {
@@ -1997,6 +1981,23 @@
           "printable calendar for june 2026 free",
           "printable calendar for august 2026 pdf",
           "printable calendar for august 2026 free"
+        ]
+      },
+      {
+        "seed": "printable planner for",
+        "query": "printable planner for kids",
+        "branches": 10,
+        "children": [
+          "printable planner for kids",
+          "printable calendar for kids",
+          "printable calendar for kids 2026",
+          "printable calendar for kids 2025",
+          "printable planner for students",
+          "printable calendar for kids to color",
+          "printable calendar for kids free",
+          "printable calendar for kids pdf",
+          "printable calendar for kids schedule",
+          "printable calendar for kids april 2026"
         ]
       }
     ]

@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-20T10:54:23.526Z",
+  "generated_at": "2026-09-20T17:23:11.305Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 610,
+  "events_total": 615,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 125
+      "actions": 126
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 117
+      "actions": 118
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 246
+      "actions": 248
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 122
+      "actions": 123
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-20T17:23:11.245Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1104 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-20T17:22:22.366Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 408,
+      "status": null,
+      "desc": "Cel mai bun job: Baserow Automation Specialist Needed",
+      "evidence": "https://www.freelancer.com/projects/automation/baserow-automation-specialist-needed",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-20T17:22:22.365Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 168 proiecte scanate → 41 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-20T17:22:09.676Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 42 scanate, 1 eligibile după citirea regulamentelor (41 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-20T17:21:23.206Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 725 candidați → 0 bounty-uri reale (725 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-20T10:54:23.474Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Radar competiții: 40 scanate, 2 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
       "evidence": "scouts/comp-radar.mjs",
       "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-17T11:13:21.599Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 716 candidați → 0 bounty-uri reale (716 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-17T00:14:06.220Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-17T00:13:17.193Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 198,
-      "status": null,
-      "desc": "Cel mai bun job: Python JSON Scraper to Excel",
-      "evidence": "https://www.freelancer.com/projects/data-scraping/python-json-scraper-excel",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-17T00:13:17.193Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 166 proiecte scanate → 35 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-17T00:13:04.353Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 40 scanate, 1 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
     }
   ],
   "opportunities": {
-    "accepted": 2,
-    "rejected": 772,
+    "accepted": 1,
+    "rejected": 766,
     "top": [
       {
         "source": "comp-radar",
@@ -646,46 +646,31 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 2804,
+        "score": 2752,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 214,
-        "per_slot": 214,
-        "days_left": 75,
-        "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "OpenCV AI Competition 2026, powered by AWS",
-        "url": "https://opencv26.devpost.com/",
-        "score": 119,
-        "prize_usd": 20250,
-        "slots": 6,
-        "participants": 2043,
-        "per_slot": 341,
-        "days_left": 30,
+        "participants": 218,
+        "per_slot": 218,
+        "days_left": 74,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 299
+        "count": 295
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 183
-      },
-      {
-        "reason": "fără dovadă de finanțare",
-        "count": 90
+        "count": 184
       },
       {
         "reason": "repo-fermă învățat automat",
         "count": 88
+      },
+      {
+        "reason": "fără dovadă de finanțare",
+        "count": 86
       },
       {
         "reason": "prea competitiv",
@@ -693,14 +678,10 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 18
+        "count": 19
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 9
-      },
-      {
-        "reason": "participare restricționată",
         "count": 8
       },
       {
@@ -708,8 +689,16 @@
         "count": 7
       },
       {
+        "reason": "participare restricționată",
+        "count": 7
+      },
+      {
+        "reason": "regulament necitibil",
+        "count": 5
+      },
+      {
         "reason": "prea puțin timp de construit",
-        "count": 4
+        "count": 3
       },
       {
         "reason": "premiu prea mic",
@@ -721,10 +710,6 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 2
-      },
-      {
-        "reason": "regulament necitibil",
         "count": 2
       },
       {
