@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-20T17:23:11.305Z",
+  "generated_at": "2026-09-20T23:58:33.401Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 615,
+  "events_total": 620,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 126
+      "actions": 127
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 118
+      "actions": 119
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 248
+      "actions": 250
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 123
+      "actions": 124
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-20T23:58:33.342Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1104 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-20T23:57:44.589Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 221,
+      "status": null,
+      "desc": "Cel mai bun job: Amazon Bulk Order Automation Script -- 2",
+      "evidence": "https://www.freelancer.com/projects/api/amazon-bulk-order-automation-script",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-20T23:57:44.589Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 169 proiecte scanate → 43 potrivite, 14 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-20T23:57:31.706Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 39 scanate, 2 eligibile după citirea regulamentelor (37 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-20T23:56:52.326Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 727 candidați → 0 bounty-uri reale (727 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-20T17:23:11.245Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Cel mai bun bounty: RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube (Scottcjn/Rustchain)",
       "evidence": "https://github.com/Scottcjn/Rustchain/issues/2239",
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-17T18:00:36.889Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 731 candidați → 1 bounty-uri reale (730 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-17T11:15:04.369Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-17T11:14:14.860Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 185,
-      "status": null,
-      "desc": "Cel mai bun job: Convert Medical PDFs to Excel",
-      "evidence": "https://www.freelancer.com/projects/data-analysis/convert-medical-pdfs-excel",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-17T11:14:14.860Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 168 proiecte scanate → 38 potrivite, 10 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-17T11:14:02.135Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 40 scanate, 2 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
     }
   ],
   "opportunities": {
-    "accepted": 1,
-    "rejected": 766,
+    "accepted": 2,
+    "rejected": 764,
     "top": [
       {
         "source": "comp-radar",
@@ -646,23 +646,38 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 2752,
+        "score": 2679,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 218,
-        "per_slot": 218,
+        "participants": 224,
+        "per_slot": 224,
         "days_left": 74,
         "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+        "url": "https://aws-cds-partner.devpost.com/",
+        "score": 154,
+        "prize_usd": 40000,
+        "slots": 1,
+        "participants": 260,
+        "per_slot": 260,
+        "days_left": 30,
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 295
+        "count": 296
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 184
+        "count": 186
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -670,7 +685,7 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 86
+        "count": 83
       },
       {
         "reason": "prea competitiv",
@@ -678,7 +693,11 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 19
+        "count": 17
+      },
+      {
+        "reason": "participare restricționată",
+        "count": 9
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -689,27 +708,23 @@
         "count": 7
       },
       {
-        "reason": "participare restricționată",
-        "count": 7
-      },
-      {
-        "reason": "regulament necitibil",
-        "count": 5
-      },
-      {
-        "reason": "prea puțin timp de construit",
-        "count": 3
+        "reason": "prea aglomerat",
+        "count": 4
       },
       {
         "reason": "premiu prea mic",
         "count": 3
       },
       {
+        "reason": "repo prea nou",
+        "count": 2
+      },
+      {
         "reason": "revendicat activ",
         "count": 2
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "prea puțin timp de construit",
         "count": 2
       },
       {
@@ -717,7 +732,7 @@
         "count": 1
       },
       {
-        "reason": "premiul nu e în bani",
+        "reason": "regulament necitibil",
         "count": 1
       },
       {
