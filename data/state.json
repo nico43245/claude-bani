@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-21T12:19:01.794Z",
+  "generated_at": "2026-09-21T19:09:49.213Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 625,
+  "events_total": 630,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 128
+      "actions": 129
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 120
+      "actions": 121
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 252
+      "actions": 254
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 125
+      "actions": 126
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-21T19:09:49.167Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1101 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-21T19:09:01.413Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 328,
+      "status": null,
+      "desc": "Cel mai bun job: River Earthwork Quantity Extraction -- 2",
+      "evidence": "https://www.freelancer.com/projects/quantity-surveying/river-earthwork-quantity-extraction",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-21T19:09:01.413Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 169 proiecte scanate → 43 potrivite, 10 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-21T19:08:48.525Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 37 scanate, 2 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-21T19:08:09.114Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 551 candidați → 0 bounty-uri reale (551 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-21T12:19:01.729Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
       "evidence": null,
       "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-18T00:00:17.868Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 143,
-      "status": null,
-      "desc": "Cel mai bun job: JSON XML & Web Scraper",
-      "evidence": "https://www.freelancer.com/projects/json-xml-web-scraper-fix",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-18T00:00:17.868Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 163 proiecte scanate → 35 potrivite, 12 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-18T00:00:05.093Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 41 scanate, 2 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-17T23:59:22.343Z",
-      "type": "opportunity",
-      "track": "bounty",
-      "amount_usd": 100,
-      "status": null,
-      "desc": "Cel mai bun bounty: RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube (Scottcjn/Rustchain)",
-      "evidence": "https://github.com/Scottcjn/Rustchain/issues/2239",
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-17T23:59:22.343Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 736 candidați → 1 bounty-uri reale (735 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 2,
-    "rejected": 766,
+    "rejected": 586,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 2609,
+        "score": 2586,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 230,
-        "per_slot": 230,
+        "participants": 232,
+        "per_slot": 232,
         "days_left": 73,
         "objective": true
       },
@@ -661,11 +661,11 @@
         "reason": null,
         "title": "OpenCV AI Competition 2026, powered by AWS",
         "url": "https://opencv26.devpost.com/",
-        "score": 112,
+        "score": 110,
         "prize_usd": 20250,
         "slots": 6,
-        "participants": 2178,
-        "per_slot": 363,
+        "participants": 2214,
+        "per_slot": 369,
         "days_left": 30,
         "objective": true
       }
@@ -673,31 +673,31 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 301
+        "count": 212
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 190
+        "count": 177
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 88
-      },
-      {
-        "reason": "fără dovadă de finanțare",
-        "count": 79
+        "count": 72
       },
       {
         "reason": "prea competitiv",
-        "count": 51
+        "count": 36
+      },
+      {
+        "reason": "fără dovadă de finanțare",
+        "count": 34
       },
       {
         "reason": "fără premiu în bani",
-        "count": 17
+        "count": 16
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 9
+        "count": 8
       },
       {
         "reason": "participare restricționată",
