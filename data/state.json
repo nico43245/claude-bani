@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-22T11:11:34.007Z",
+  "generated_at": "2026-09-22T18:02:45.029Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 640,
+  "events_total": 645,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 131
+      "actions": 132
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 123
+      "actions": 124
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 258
+      "actions": 260
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 128
+      "actions": 129
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-22T18:02:44.970Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1102 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 64 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-22T18:01:25.184Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 35,
+      "status": null,
+      "desc": "Cel mai bun job: Scrape Online Databases to Excel",
+      "evidence": "https://www.freelancer.com/projects/beautifulsoup/scrape-online-databases-excel",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-22T18:01:25.184Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 170 proiecte scanate → 37 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-22T18:01:11.861Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 40 scanate, 1 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-22T18:00:26.814Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 553 candidați → 0 bounty-uri reale (553 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-22T11:11:33.945Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Radar competiții: 42 scanate, 2 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
       "evidence": "scouts/comp-radar.mjs",
       "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-18T23:58:07.800Z",
-      "type": "opportunity",
-      "track": "bounty",
-      "amount_usd": 100,
-      "status": null,
-      "desc": "Cel mai bun bounty: RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube (Scottcjn/Rustchain)",
-      "evidence": "https://github.com/Scottcjn/Rustchain/issues/2239",
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-18T23:58:07.800Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 733 candidați → 1 bounty-uri reale (732 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-18T17:37:40.305Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1107 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-18T17:36:50.572Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 182,
-      "status": null,
-      "desc": "Cel mai bun job: Convert Medical PDFs to Excel",
-      "evidence": "https://www.freelancer.com/projects/data-analysis/convert-medical-pdfs-excel",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-18T17:36:50.572Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 178 proiecte scanate → 39 potrivite, 13 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
     }
   ],
   "opportunities": {
-    "accepted": 2,
-    "rejected": 589,
+    "accepted": 1,
+    "rejected": 592,
     "top": [
       {
         "source": "comp-radar",
@@ -646,38 +646,23 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 2500,
+        "score": 2449,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 240,
-        "per_slot": 240,
-        "days_left": 73,
+        "participants": 245,
+        "per_slot": 245,
+        "days_left": 72,
         "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-        "url": "https://aws-cds-partner.devpost.com/",
-        "score": 488,
-        "prize_usd": 40000,
-        "slots": 4,
-        "participants": 327,
-        "per_slot": 82,
-        "days_left": 30,
-        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 215
+        "count": 212
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 181
+        "count": 186
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -685,34 +670,38 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 37
+        "count": 38
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 35
+        "count": 34
       },
       {
         "reason": "fără premiu în bani",
-        "count": 17
+        "count": 18
       },
       {
         "reason": "participare restricționată",
         "count": 9
       },
       {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 7
-      },
-      {
         "reason": "proiect inactiv",
         "count": 6
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "fork (task sintetic de benchmark)",
+        "count": 5
+      },
+      {
+        "reason": "regulament necitibil",
         "count": 4
       },
       {
         "reason": "premiu prea mic",
+        "count": 3
+      },
+      {
+        "reason": "prea aglomerat",
         "count": 3
       },
       {
@@ -728,11 +717,7 @@
         "count": 1
       },
       {
-        "reason": "prea puțin timp de construit",
-        "count": 1
-      },
-      {
-        "reason": "regulament necitibil",
+        "reason": "premiul nu e în bani",
         "count": 1
       },
       {

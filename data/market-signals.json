@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:11:33.944Z",
+  "generated_at": "2026-09-22T18:02:44.968Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -206,7 +206,7 @@
       },
       {
         "theme": "them",
-        "mentions": 71,
+        "mentions": 72,
         "engagement": 0,
         "evidence": [
           {
@@ -230,35 +230,7 @@
             "date": "2026-08-21"
           }
         ],
-        "score": 71
-      },
-      {
-        "theme": "code",
-        "mentions": 46,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
-            "url": "https://news.ycombinator.com/item?id=47678065",
-            "date": "2026-04-07"
-          },
-          {
-            "text": "A noob question: is there a tool that automatically instructs Claude Code to \"continue\" when the token quota is reset after 5h? I am interested in that more tha",
-            "url": "https://news.ycombinator.com/item?id=47436574",
-            "date": "2026-03-19"
-          }
-        ],
-        "score": 70
+        "score": 72
       },
       {
         "theme": "browser",
@@ -312,6 +284,34 @@
             "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
             "url": "https://news.ycombinator.com/item?id=47714893",
             "date": "2026-04-10"
+          }
+        ],
+        "score": 69
+      },
+      {
+        "theme": "code",
+        "mentions": 45,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
+            "url": "https://news.ycombinator.com/item?id=47678065",
+            "date": "2026-04-07"
+          },
+          {
+            "text": "A noob question: is there a tool that automatically instructs Claude Code to \"continue\" when the token quota is reset after 5h? I am interested in that more tha",
+            "url": "https://news.ycombinator.com/item?id=47436574",
+            "date": "2026-03-19"
           }
         ],
         "score": 69
@@ -429,34 +429,6 @@
         "score": 66
       },
       {
-        "theme": "different",
-        "mentions": 32,
-        "engagement": 70,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 66
-      },
-      {
         "theme": "open-source",
         "mentions": 10,
         "engagement": 961,
@@ -483,6 +455,34 @@
           }
         ],
         "score": 66
+      },
+      {
+        "theme": "different",
+        "mentions": 31,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 65
       },
       {
         "theme": "language",
@@ -570,7 +570,7 @@
       },
       {
         "theme": "company",
-        "mentions": 25,
+        "mentions": 26,
         "engagement": 80,
         "evidence": [
           {
@@ -594,7 +594,7 @@
             "date": "2026-07-07"
           }
         ],
-        "score": 59
+        "score": 61
       },
       {
         "theme": "system",
@@ -654,7 +654,7 @@
       },
       {
         "theme": "public",
-        "mentions": 18,
+        "mentions": 17,
         "engagement": 126,
         "evidence": [
           {
@@ -678,7 +678,35 @@
             "date": "2026-06-04"
           }
         ],
-        "score": 57
+        "score": 55
+      },
+      {
+        "theme": "writing",
+        "mentions": 19,
+        "engagement": 96,
+        "evidence": [
+          {
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
+          },
+          {
+            "text": "I like the codegen = power tools analogy to writing software. I didn't go to school for CS or adjacent: I went to art school 20 years ago for 'new media' which ",
+            "url": "https://news.ycombinator.com/item?id=49671766",
+            "date": "2026-09-12"
+          },
+          {
+            "text": "This looks like such a nice cli/tui talking/chat harness - an agent with which I can work on non-coding tasks (where it literally doesn't need any tool - maybe ",
+            "url": "https://news.ycombinator.com/item?id=49660743",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
+            "url": "https://news.ycombinator.com/item?id=47437681",
+            "date": "2026-03-19"
+          }
+        ],
+        "score": 54
       },
       {
         "theme": "trust",
@@ -737,32 +765,32 @@
         "score": 53
       },
       {
-        "theme": "writing",
-        "mentions": 18,
-        "engagement": 96,
+        "theme": "project",
+        "mentions": 27,
+        "engagement": 45,
         "evidence": [
           {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
           },
           {
-            "text": "I like the codegen = power tools analogy to writing software. I didn't go to school for CS or adjacent: I went to art school 20 years ago for 'new media' which ",
-            "url": "https://news.ycombinator.com/item?id=49671766",
-            "date": "2026-09-12"
+            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
+            "url": "https://news.ycombinator.com/item?id=48956474",
+            "date": "2026-07-18"
           },
           {
-            "text": "This looks like such a nice cli/tui talking/chat harness - an agent with which I can work on non-coding tasks (where it literally doesn't need any tool - maybe ",
-            "url": "https://news.ycombinator.com/item?id=49660743",
-            "date": "2026-09-11"
+            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
+            "url": "https://news.ycombinator.com/item?id=48240608",
+            "date": "2026-05-22"
           },
           {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
+            "text": "What's the best project management tool you have ever used?",
+            "url": "https://news.ycombinator.com/item?id=42501443",
+            "date": "2024-12-24"
           }
         ],
-        "score": 52
+        "score": 51
       },
       {
         "theme": "world",
@@ -816,34 +844,6 @@
             "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
             "url": "https://news.ycombinator.com/item?id=46425971",
             "date": "2025-12-29"
-          }
-        ],
-        "score": 49
-      },
-      {
-        "theme": "project",
-        "mentions": 26,
-        "engagement": 45,
-        "evidence": [
-          {
-            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
-            "url": "https://news.ycombinator.com/item?id=48976712",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
-            "url": "https://news.ycombinator.com/item?id=48956474",
-            "date": "2026-07-18"
-          },
-          {
-            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
-            "url": "https://news.ycombinator.com/item?id=48240608",
-            "date": "2026-05-22"
-          },
-          {
-            "text": "What's the best project management tool you have ever used?",
-            "url": "https://news.ycombinator.com/item?id=42501443",
-            "date": "2024-12-24"
           }
         ],
         "score": 49
@@ -1429,9 +1429,9 @@
         "examples": [
           "printable planner for kids",
           "printable planner for adhd",
+          "checklist for moving out of state",
           "checklist for traveling",
-          "checklist for international travel",
-          "checklist for moving out of state"
+          "checklist for international travel"
         ],
         "score": 75
       },
