@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T00:40:50.716Z",
+  "generated_at": "2026-09-22T11:11:33.944Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -206,7 +206,7 @@
       },
       {
         "theme": "them",
-        "mentions": 70,
+        "mentions": 71,
         "engagement": 0,
         "evidence": [
           {
@@ -230,7 +230,7 @@
             "date": "2026-08-21"
           }
         ],
-        "score": 70
+        "score": 71
       },
       {
         "theme": "code",
@@ -368,6 +368,34 @@
             "text": "Xen prevents modifying ACPI data. It also passes obvious \"Xen emulated drive\", and similar for all hardware interfaces. Passes CPUID. Can't stop any of this wit",
             "url": "https://news.ycombinator.com/item?id=49685325",
             "date": "2026-09-13"
+          }
+        ],
+        "score": 68
+      },
+      {
+        "theme": "launch",
+        "mentions": 11,
+        "engagement": 799,
+        "evidence": [
+          {
+            "text": "Being fast and having a power target doesn’t mean it’s cost efficient though. I would pay the launch cost for one, but not 3-4x inflated.",
+            "url": "https://news.ycombinator.com/item?id=49796708",
+            "date": "2026-09-22"
+          },
+          {
+            "text": "My partial solution is to have the Android Zoom client on an idle tablet. Even though it is my office VOIP phone too, I power it off when I don't have meetings ",
+            "url": "https://news.ycombinator.com/item?id=49677927",
+            "date": "2026-09-12"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+            "url": "https://news.ycombinator.com/item?id=44891090",
+            "date": "2025-08-13"
           }
         ],
         "score": 68
@@ -597,62 +625,6 @@
         "score": 59
       },
       {
-        "theme": "public",
-        "mentions": 19,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
-          }
-        ],
-        "score": 59
-      },
-      {
-        "theme": "launch",
-        "mentions": 9,
-        "engagement": 799,
-        "evidence": [
-          {
-            "text": "My partial solution is to have the Android Zoom client on an idle tablet. Even though it is my office VOIP phone too, I power it off when I don't have meetings ",
-            "url": "https://news.ycombinator.com/item?id=49677927",
-            "date": "2026-09-12"
-          },
-          {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
-          },
-          {
-            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-            "url": "https://news.ycombinator.com/item?id=44891090",
-            "date": "2025-08-13"
-          },
-          {
-            "text": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
-            "url": "https://news.ycombinator.com/item?id=47794514",
-            "date": "2026-04-16"
-          }
-        ],
-        "score": 59
-      },
-      {
         "theme": "research",
         "mentions": 14,
         "engagement": 223,
@@ -679,6 +651,34 @@
           }
         ],
         "score": 58
+      },
+      {
+        "theme": "public",
+        "mentions": 18,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
+          }
+        ],
+        "score": 57
       },
       {
         "theme": "trust",
@@ -1170,20 +1170,6 @@
         "score": 232
       },
       {
-        "subject": "college",
-        "queries": 10,
-        "seed_spread": 6,
-        "avg_branches": 8.8,
-        "examples": [
-          "notion template for college students",
-          "notion template for school",
-          "notion template for students",
-          "notion template for college",
-          "google sheets template for college application"
-        ],
-        "score": 206
-      },
-      {
         "subject": "app",
         "queries": 11,
         "seed_spread": 5,
@@ -1196,6 +1182,20 @@
           "best spreadsheet for ipad"
         ],
         "score": 191
+      },
+      {
+        "subject": "college",
+        "queries": 9,
+        "seed_spread": 6,
+        "avg_branches": 8.7,
+        "examples": [
+          "notion template for college students",
+          "notion template for school",
+          "notion template for students",
+          "notion template for college",
+          "google sheets template for college application"
+        ],
+        "score": 184
       },
       {
         "subject": "download",
@@ -1213,7 +1213,7 @@
       },
       {
         "subject": "pdf",
-        "queries": 11,
+        "queries": 12,
         "seed_spread": 4,
         "avg_branches": 10,
         "examples": [
@@ -1223,7 +1223,21 @@
           "printable planner for adhd",
           "printable planner for 2025"
         ],
-        "score": 158
+        "score": 172
+      },
+      {
+        "subject": "printable",
+        "queries": 12,
+        "seed_spread": 4,
+        "avg_branches": 8.8,
+        "examples": [
+          "printable planner for school",
+          "printable planner for july 2026",
+          "printable planner for college students",
+          "printable planner for kids",
+          "printable planner for 2026"
+        ],
+        "score": 164
       },
       {
         "subject": "students",
@@ -1324,20 +1338,6 @@
         "score": 106
       },
       {
-        "subject": "printable",
-        "queries": 10,
-        "seed_spread": 3,
-        "avg_branches": 9.1,
-        "examples": [
-          "printable planner for school",
-          "printable planner for july 2026",
-          "printable planner for college students",
-          "printable planner for kids",
-          "printable planner for 2026"
-        ],
-        "score": 104
-      },
-      {
         "subject": "expense",
         "queries": 8,
         "seed_spread": 3,
@@ -1375,7 +1375,7 @@
           "google sheets template for wedding guest list",
           "google sheets template for college application",
           "printable planner for the week",
-          "checklist for college dorm"
+          "checklist for moving out of state"
         ],
         "score": 83
       },
@@ -1418,6 +1418,20 @@
           "google sheets template for tracking expenses",
           "google sheets template for business expenses",
           "spreadsheet to track expenses"
+        ],
+        "score": 75
+      },
+      {
+        "subject": "kids",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for kids",
+          "printable planner for adhd",
+          "checklist for traveling",
+          "checklist for international travel",
+          "checklist for moving out of state"
         ],
         "score": 75
       },
@@ -1489,20 +1503,6 @@
           "budget planner for small business"
         ],
         "score": 55
-      },
-      {
-        "subject": "kids",
-        "queries": 5,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for kids",
-          "printable planner for adhd",
-          "checklist for traveling",
-          "checklist for international travel",
-          "budget template for teens"
-        ],
-        "score": 54
       },
       {
         "subject": "school",
