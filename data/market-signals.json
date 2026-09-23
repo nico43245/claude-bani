@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:02:44.968Z",
+  "generated_at": "2026-09-23T00:08:52.684Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -94,7 +94,7 @@
       },
       {
         "theme": "hours",
-        "mentions": 85,
+        "mentions": 86,
         "engagement": 11,
         "evidence": [
           {
@@ -118,11 +118,11 @@
             "date": "2026-03-06"
           }
         ],
-        "score": 93
+        "score": 94
       },
       {
         "theme": "spend",
-        "mentions": 81,
+        "mentions": 82,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 89
+        "score": 90
       },
       {
         "theme": "hate",
@@ -206,7 +206,7 @@
       },
       {
         "theme": "them",
-        "mentions": 72,
+        "mentions": 70,
         "engagement": 0,
         "evidence": [
           {
@@ -230,7 +230,35 @@
             "date": "2026-08-21"
           }
         ],
-        "score": 72
+        "score": 70
+      },
+      {
+        "theme": "search",
+        "mentions": 22,
+        "engagement": 155,
+        "evidence": [
+          {
+            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
+            "url": "https://news.ycombinator.com/item?id=49360925",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
+            "url": "https://news.ycombinator.com/item?id=49068074",
+            "date": "2026-07-27"
+          },
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
+            "url": "https://news.ycombinator.com/item?id=49197069",
+            "date": "2026-08-06"
+          }
+        ],
+        "score": 70
       },
       {
         "theme": "browser",
@@ -317,34 +345,6 @@
         "score": 69
       },
       {
-        "theme": "search",
-        "mentions": 21,
-        "engagement": 155,
-        "evidence": [
-          {
-            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
-            "url": "https://news.ycombinator.com/item?id=49360925",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
-            "url": "https://news.ycombinator.com/item?id=49068074",
-            "date": "2026-07-27"
-          },
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
-            "url": "https://news.ycombinator.com/item?id=49197069",
-            "date": "2026-08-06"
-          }
-        ],
-        "score": 68
-      },
-      {
         "theme": "stop",
         "mentions": 18,
         "engagement": 215,
@@ -429,6 +429,34 @@
         "score": 66
       },
       {
+        "theme": "different",
+        "mentions": 32,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 66
+      },
+      {
         "theme": "open-source",
         "mentions": 10,
         "engagement": 961,
@@ -455,34 +483,6 @@
           }
         ],
         "score": 66
-      },
-      {
-        "theme": "different",
-        "mentions": 31,
-        "engagement": 70,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 65
       },
       {
         "theme": "language",
@@ -541,6 +541,34 @@
         "score": 63
       },
       {
+        "theme": "company",
+        "mentions": 27,
+        "engagement": 80,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
+          },
+          {
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
+          }
+        ],
+        "score": 62
+      },
+      {
         "theme": "agent",
         "mentions": 14,
         "engagement": 258,
@@ -569,36 +597,8 @@
         "score": 61
       },
       {
-        "theme": "company",
-        "mentions": 26,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 61
-      },
-      {
         "theme": "system",
-        "mentions": 23,
+        "mentions": 24,
         "engagement": 92,
         "evidence": [
           {
@@ -622,7 +622,7 @@
             "date": "2026-08-11"
           }
         ],
-        "score": 59
+        "score": 61
       },
       {
         "theme": "research",
@@ -793,6 +793,34 @@
         "score": 51
       },
       {
+        "theme": "without",
+        "mentions": 44,
+        "engagement": 9,
+        "evidence": [
+          {
+            "text": "Show HN: Remove your data from 100 platforms without signing up",
+            "url": "https://news.ycombinator.com/item?id=46453387",
+            "date": "2026-01-01"
+          },
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
+          }
+        ],
+        "score": 50
+      },
+      {
         "theme": "world",
         "mentions": 22,
         "engagement": 58,
@@ -816,34 +844,6 @@
             "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
             "url": "https://news.ycombinator.com/item?id=48916578",
             "date": "2026-07-15"
-          }
-        ],
-        "score": 49
-      },
-      {
-        "theme": "agents",
-        "mentions": 15,
-        "engagement": 112,
-        "evidence": [
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "Right? What a hideous and repulsive vision of the future. No humanity, just artifice and comfortable lies. I’ll take genuine human society any day. I would pay ",
-            "url": "https://news.ycombinator.com/item?id=48628116",
-            "date": "2026-06-22"
-          },
-          {
-            "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
-            "url": "https://news.ycombinator.com/item?id=48275460",
-            "date": "2026-05-26"
-          },
-          {
-            "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
-            "url": "https://news.ycombinator.com/item?id=46425971",
-            "date": "2025-12-29"
           }
         ],
         "score": 49
