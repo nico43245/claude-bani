@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:21:07.584Z",
+  "generated_at": "2026-09-24T18:20:22.776Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 33,
+        "mentions": 32,
         "engagement": 332,
         "evidence": [
           {
@@ -34,11 +34,11 @@
             "date": "2026-05-27"
           }
         ],
-        "score": 119
+        "score": 116
       },
       {
         "theme": "web",
-        "mentions": 24,
+        "mentions": 23,
         "engagement": 537,
         "evidence": [
           {
@@ -62,7 +62,7 @@
             "date": "2026-06-17"
           }
         ],
-        "score": 111
+        "score": 107
       },
       {
         "theme": "wish",
@@ -233,13 +233,13 @@
         "score": 73
       },
       {
-        "theme": "them",
-        "mentions": 71,
-        "engagement": 0,
+        "theme": "it.",
+        "mentions": 58,
+        "engagement": 18,
         "evidence": [
           {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
+            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
+            "url": "https://news.ycombinator.com/item?id=49794276",
             "date": "2026-09-21"
           },
           {
@@ -248,45 +248,17 @@
             "date": "2026-09-19"
           },
           {
+            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
+            "url": "https://news.ycombinator.com/item?id=49623827",
+            "date": "2026-09-09"
+          },
+          {
             "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
             "url": "https://news.ycombinator.com/item?id=49582833",
             "date": "2026-09-06"
-          },
-          {
-            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
-            "url": "https://news.ycombinator.com/item?id=49388579",
-            "date": "2026-08-21"
           }
         ],
-        "score": 71
-      },
-      {
-        "theme": "stop",
-        "mentions": 19,
-        "engagement": 215,
-        "evidence": [
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "Xen prevents modifying ACPI data. It also passes obvious \"Xen emulated drive\", and similar for all hardware interfaces. Passes CPUID. Can't stop any of this wit",
-            "url": "https://news.ycombinator.com/item?id=49685325",
-            "date": "2026-09-13"
-          }
-        ],
-        "score": 71
+        "score": 70
       },
       {
         "theme": "search",
@@ -312,6 +284,62 @@
             "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
             "url": "https://news.ycombinator.com/item?id=49197069",
             "date": "2026-08-06"
+          }
+        ],
+        "score": 70
+      },
+      {
+        "theme": "code",
+        "mentions": 46,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
+            "url": "https://news.ycombinator.com/item?id=47678065",
+            "date": "2026-04-07"
+          },
+          {
+            "text": "A noob question: is there a tool that automatically instructs Claude Code to \"continue\" when the token quota is reset after 5h? I am interested in that more tha",
+            "url": "https://news.ycombinator.com/item?id=47436574",
+            "date": "2026-03-19"
+          }
+        ],
+        "score": 70
+      },
+      {
+        "theme": "different",
+        "mentions": 35,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
           }
         ],
         "score": 70
@@ -345,8 +373,64 @@
         "score": 69
       },
       {
+        "theme": "them",
+        "mentions": 69,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
+          },
+          {
+            "text": "I would pay for Brave or Kagi for like $2-3 per month if one of them supported private payments(actually that's exactly what Brave costs). Paying should get you",
+            "url": "https://news.ycombinator.com/item?id=49388579",
+            "date": "2026-08-21"
+          }
+        ],
+        "score": 69
+      },
+      {
+        "theme": "stop",
+        "mentions": 18,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "Xen prevents modifying ACPI data. It also passes obvious \"Xen emulated drive\", and similar for all hardware interfaces. Passes CPUID. Can't stop any of this wit",
+            "url": "https://news.ycombinator.com/item?id=49685325",
+            "date": "2026-09-13"
+          }
+        ],
+        "score": 68
+      },
+      {
         "theme": "apps",
-        "mentions": 19,
+        "mentions": 18,
         "engagement": 194,
         "evidence": [
           {
@@ -370,91 +454,7 @@
             "date": "2026-04-10"
           }
         ],
-        "score": 69
-      },
-      {
-        "theme": "code",
-        "mentions": 45,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
-            "url": "https://news.ycombinator.com/item?id=47678065",
-            "date": "2026-04-07"
-          },
-          {
-            "text": "A noob question: is there a tool that automatically instructs Claude Code to \"continue\" when the token quota is reset after 5h? I am interested in that more tha",
-            "url": "https://news.ycombinator.com/item?id=47436574",
-            "date": "2026-03-19"
-          }
-        ],
-        "score": 69
-      },
-      {
-        "theme": "it.",
-        "mentions": 55,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
-            "url": "https://news.ycombinator.com/item?id=49794276",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
-            "url": "https://news.ycombinator.com/item?id=49623827",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
-          }
-        ],
-        "score": 67
-      },
-      {
-        "theme": "different",
-        "mentions": 33,
-        "engagement": 70,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 67
+        "score": 66
       },
       {
         "theme": "open-source",
@@ -483,6 +483,62 @@
           }
         ],
         "score": 66
+      },
+      {
+        "theme": "company",
+        "mentions": 28,
+        "engagement": 80,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
+          },
+          {
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
+          }
+        ],
+        "score": 64
+      },
+      {
+        "theme": "language",
+        "mentions": 14,
+        "engagement": 290,
+        "evidence": [
+          {
+            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
+            "url": "https://news.ycombinator.com/item?id=45086249",
+            "date": "2025-08-31"
+          },
+          {
+            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
+            "url": "https://news.ycombinator.com/item?id=46929160",
+            "date": "2026-02-07"
+          },
+          {
+            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
+            "url": "https://news.ycombinator.com/item?id=45075127",
+            "date": "2025-08-30"
+          },
+          {
+            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
+            "url": "https://news.ycombinator.com/item?id=49388758",
+            "date": "2026-08-21"
+          }
+        ],
+        "score": 63
       },
       {
         "theme": "system",
@@ -541,34 +597,6 @@
         "score": 63
       },
       {
-        "theme": "company",
-        "mentions": 27,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 62
-      },
-      {
         "theme": "agent",
         "mentions": 14,
         "engagement": 258,
@@ -625,34 +653,6 @@
         "score": 61
       },
       {
-        "theme": "language",
-        "mentions": 13,
-        "engagement": 290,
-        "evidence": [
-          {
-            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
-            "url": "https://news.ycombinator.com/item?id=45086249",
-            "date": "2025-08-31"
-          },
-          {
-            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
-            "url": "https://news.ycombinator.com/item?id=46929160",
-            "date": "2026-02-07"
-          },
-          {
-            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
-            "url": "https://news.ycombinator.com/item?id=45075127",
-            "date": "2025-08-30"
-          },
-          {
-            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
-            "url": "https://news.ycombinator.com/item?id=49388758",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 60
-      },
-      {
         "theme": "public",
         "mentions": 17,
         "engagement": 126,
@@ -682,7 +682,7 @@
       },
       {
         "theme": "writing",
-        "mentions": 20,
+        "mentions": 19,
         "engagement": 96,
         "evidence": [
           {
@@ -706,35 +706,7 @@
             "date": "2026-03-19"
           }
         ],
-        "score": 55
-      },
-      {
-        "theme": "trust",
-        "mentions": 8,
-        "engagement": 770,
-        "evidence": [
-          {
-            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
-            "url": "https://news.ycombinator.com/item?id=49687578",
-            "date": "2026-09-13"
-          },
-          {
-            "text": "The first thing I would do with any sort of weird issue remotely associated with my brain is to get an MRI. I would pay for it out of pocket if my doctor denied",
-            "url": "https://news.ycombinator.com/item?id=48388346",
-            "date": "2026-06-03"
-          },
-          {
-            "text": "I wish there was a way to do it without all the problems of having cameras on people's faces. The tech of AR glasses would be pretty neat to get working given I",
-            "url": "https://news.ycombinator.com/item?id=49247977",
-            "date": "2026-08-10"
-          },
-          {
-            "text": "I always get the highest end components I can find, and I try to stick with Asus and not the cheapest PSU. I've never had anything fail, and I do this every 5 y",
-            "url": "https://news.ycombinator.com/item?id=49222347",
-            "date": "2026-08-08"
-          }
-        ],
-        "score": 53
+        "score": 54
       },
       {
         "theme": "videos",
@@ -819,6 +791,34 @@
           }
         ],
         "score": 49
+      },
+      {
+        "theme": "trust",
+        "mentions": 7,
+        "engagement": 770,
+        "evidence": [
+          {
+            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
+            "url": "https://news.ycombinator.com/item?id=49687578",
+            "date": "2026-09-13"
+          },
+          {
+            "text": "I wish there was a way to do it without all the problems of having cameras on people's faces. The tech of AR glasses would be pretty neat to get working given I",
+            "url": "https://news.ycombinator.com/item?id=49247977",
+            "date": "2026-08-10"
+          },
+          {
+            "text": "I always get the highest end components I can find, and I try to stick with Asus and not the cheapest PSU. I've never had anything fail, and I do this every 5 y",
+            "url": "https://news.ycombinator.com/item?id=49222347",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "Thanks for all the insights! To be clear, I didn't want to say that developing for Apple is impossible, right? I totally trust that once you know how to deal wi",
+            "url": "https://news.ycombinator.com/item?id=49194931",
+            "date": "2026-08-06"
+          }
+        ],
+        "score": 48
       },
       {
         "theme": "project",
