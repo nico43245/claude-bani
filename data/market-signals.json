@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:19:44.951Z",
+  "generated_at": "2026-09-24T11:21:07.584Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -66,7 +66,7 @@
       },
       {
         "theme": "wish",
-        "mentions": 90,
+        "mentions": 91,
         "engagement": 11,
         "evidence": [
           {
@@ -90,7 +90,7 @@
             "date": "2025-03-15"
           }
         ],
-        "score": 98
+        "score": 99
       },
       {
         "theme": "hours",
@@ -122,7 +122,7 @@
       },
       {
         "theme": "spend",
-        "mentions": 82,
+        "mentions": 83,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 90
+        "score": 91
       },
       {
         "theme": "hate",
@@ -178,7 +178,7 @@
       },
       {
         "theme": "built",
-        "mentions": 25,
+        "mentions": 24,
         "engagement": 164,
         "evidence": [
           {
@@ -202,7 +202,35 @@
             "date": "2025-08-02"
           }
         ],
-        "score": 77
+        "score": 75
+      },
+      {
+        "theme": "launch",
+        "mentions": 12,
+        "engagement": 799,
+        "evidence": [
+          {
+            "text": "Being fast and having a power target doesn’t mean it’s cost efficient though. I would pay the launch cost for one, but not 3-4x inflated.",
+            "url": "https://news.ycombinator.com/item?id=49796708",
+            "date": "2026-09-22"
+          },
+          {
+            "text": "My partial solution is to have the Android Zoom client on an idle tablet. Even though it is my office VOIP phone too, I power it off when I don't have meetings ",
+            "url": "https://news.ycombinator.com/item?id=49677927",
+            "date": "2026-09-12"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+            "url": "https://news.ycombinator.com/item?id=44891090",
+            "date": "2025-08-13"
+          }
+        ],
+        "score": 73
       },
       {
         "theme": "them",
@@ -373,36 +401,8 @@
         "score": 69
       },
       {
-        "theme": "launch",
-        "mentions": 11,
-        "engagement": 799,
-        "evidence": [
-          {
-            "text": "Being fast and having a power target doesn’t mean it’s cost efficient though. I would pay the launch cost for one, but not 3-4x inflated.",
-            "url": "https://news.ycombinator.com/item?id=49796708",
-            "date": "2026-09-22"
-          },
-          {
-            "text": "My partial solution is to have the Android Zoom client on an idle tablet. Even though it is my office VOIP phone too, I power it off when I don't have meetings ",
-            "url": "https://news.ycombinator.com/item?id=49677927",
-            "date": "2026-09-12"
-          },
-          {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
-          },
-          {
-            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-            "url": "https://news.ycombinator.com/item?id=44891090",
-            "date": "2025-08-13"
-          }
-        ],
-        "score": 68
-      },
-      {
         "theme": "it.",
-        "mentions": 54,
+        "mentions": 55,
         "engagement": 18,
         "evidence": [
           {
@@ -426,11 +426,11 @@
             "date": "2026-09-06"
           }
         ],
-        "score": 66
+        "score": 67
       },
       {
         "theme": "different",
-        "mentions": 32,
+        "mentions": 33,
         "engagement": 70,
         "evidence": [
           {
@@ -454,7 +454,7 @@
             "date": "2026-09-02"
           }
         ],
-        "score": 66
+        "score": 67
       },
       {
         "theme": "open-source",
@@ -483,6 +483,34 @@
           }
         ],
         "score": 66
+      },
+      {
+        "theme": "system",
+        "mentions": 25,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
+          }
+        ],
+        "score": 63
       },
       {
         "theme": "life",
@@ -592,34 +620,6 @@
             "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
             "url": "https://news.ycombinator.com/item?id=49048747",
             "date": "2026-07-25"
-          }
-        ],
-        "score": 61
-      },
-      {
-        "theme": "system",
-        "mentions": 24,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
-          },
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
           }
         ],
         "score": 61
@@ -793,34 +793,6 @@
         "score": 51
       },
       {
-        "theme": "world",
-        "mentions": 22,
-        "engagement": 58,
-        "evidence": [
-          {
-            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
-            "url": "https://news.ycombinator.com/item?id=49687578",
-            "date": "2026-09-13"
-          },
-          {
-            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
-            "url": "https://news.ycombinator.com/item?id=49629894",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
-            "url": "https://news.ycombinator.com/item?id=49488605",
-            "date": "2026-08-29"
-          },
-          {
-            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
-            "url": "https://news.ycombinator.com/item?id=48916578",
-            "date": "2026-07-15"
-          }
-        ],
-        "score": 49
-      },
-      {
         "theme": "agents",
         "mentions": 15,
         "engagement": 112,
@@ -847,6 +819,34 @@
           }
         ],
         "score": 49
+      },
+      {
+        "theme": "project",
+        "mentions": 25,
+        "engagement": 45,
+        "evidence": [
+          {
+            "text": "I am a Developer and I am building projects for 8 years already - they kinda all failed but every failure made me learn very important things. Currently I am ag",
+            "url": "https://news.ycombinator.com/item?id=48976712",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "at the very least you could follow some trusted entity's recommendation for a bunch of crates at once. e.g. if the author of some large rust project like bevy p",
+            "url": "https://news.ycombinator.com/item?id=48956474",
+            "date": "2026-07-18"
+          },
+          {
+            "text": "Deno rules, I write some tiny and mid-size web services using it. Works like a Swiss clock, the project ideology is well aligned with the Unix sprit. In my pers",
+            "url": "https://news.ycombinator.com/item?id=48240608",
+            "date": "2026-05-22"
+          },
+          {
+            "text": "What's the best project management tool you have ever used?",
+            "url": "https://news.ycombinator.com/item?id=42501443",
+            "date": "2024-12-24"
+          }
+        ],
+        "score": 48
       }
     ],
     "loudest": [

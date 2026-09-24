@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-24T00:19:44.998Z",
+  "generated_at": "2026-09-24T11:21:07.630Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 665,
+  "events_total": 670,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 136
+      "actions": 137
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 128
+      "actions": 129
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 268
+      "actions": 270
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 133
+      "actions": 134
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-24T11:21:07.585Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1101 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-24T11:20:18.383Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 128,
+      "status": null,
+      "desc": "Cel mai bun job: Email Scraping & Excel Organization",
+      "evidence": "https://www.freelancer.com/projects/data-scraping/email-scraping-excel-organization",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-24T11:20:18.383Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 170 proiecte scanate → 33 potrivite, 12 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-24T11:20:05.667Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 40 scanate, 2 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-24T11:19:23.500Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 543 candidați → 0 bounty-uri reale (543 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-24T00:19:44.952Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 725 candidați → 0 bounty-uri reale (725 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-20T10:54:23.474Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-20T10:53:34.555Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 86,
-      "status": null,
-      "desc": "Cel mai bun job: Mutual Fund Data Scraping Automation",
-      "evidence": "https://www.freelancer.com/projects/data-scraping/mutual-fund-data-scraping-automation",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-20T10:53:34.554Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 172 proiecte scanate → 42 potrivite, 12 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-20T10:53:21.870Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 41 scanate, 2 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-20T10:52:41.600Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 733 candidați → 0 bounty-uri reale (733 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 2,
-    "rejected": 570,
+    "rejected": 581,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 2290,
+        "score": 2222,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 262,
-        "per_slot": 262,
+        "participants": 270,
+        "per_slot": 270,
         "days_left": 71,
         "objective": true
       },
@@ -659,14 +659,14 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "RevenueCat Shipaton 2026",
-        "url": "https://revenuecat-shipaton-2026.devpost.com/",
-        "score": 1492,
-        "prize_usd": 740000,
-        "slots": 55,
-        "participants": 27297,
-        "per_slot": 496,
-        "days_left": 7,
+        "title": "Next Founders Hackathon",
+        "url": "https://next-founders.devpost.com/",
+        "score": 2,
+        "prize_usd": 275,
+        "slots": 3,
+        "participants": 423,
+        "per_slot": 141,
+        "days_left": 21,
         "objective": false
       }
     ],
@@ -677,7 +677,7 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 75
+        "count": 67
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -685,26 +685,22 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 28
-      },
-      {
-        "reason": "fără premiu în bani",
-        "count": 16
+        "count": 37
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 11
+        "count": 19
+      },
+      {
+        "reason": "fără premiu în bani",
+        "count": 17
       },
       {
         "reason": "participare restricționată",
-        "count": 7
+        "count": 9
       },
       {
         "reason": "proiect inactiv",
-        "count": 6
-      },
-      {
-        "reason": "regulament necitibil",
         "count": 6
       },
       {
@@ -712,11 +708,15 @@
         "count": 4
       },
       {
+        "reason": "prea aglomerat",
+        "count": 4
+      },
+      {
         "reason": "premiu prea mic",
         "count": 3
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "regulament necitibil",
         "count": 3
       },
       {
@@ -729,6 +729,10 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
+        "count": 1
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 1
       },
       {
