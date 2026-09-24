@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-23T18:20:26.926Z",
+  "generated_at": "2026-09-24T00:19:44.998Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 660,
+  "events_total": 665,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 135
+      "actions": 136
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 127
+      "actions": 128
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 266
+      "actions": 268
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 132
+      "actions": 133
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-24T00:19:44.952Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1101 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-24T00:18:55.409Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 128,
+      "status": null,
+      "desc": "Cel mai bun job: Email Scraping & Excel Organization",
+      "evidence": "https://www.freelancer.com/projects/data-scraping/email-scraping-excel-organization",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-24T00:18:55.409Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 173 proiecte scanate → 27 potrivite, 14 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-24T00:18:42.560Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 38 scanate, 2 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-24T00:17:59.849Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 534 candidați → 0 bounty-uri reale (534 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-23T18:20:26.870Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 733 candidați → 0 bounty-uri reale (733 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-19T23:59:31.612Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1106 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 63 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-19T23:58:44.071Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 15,
-      "status": null,
-      "desc": "Cel mai bun job: WEB SCRAPE - INSOLVENCY REGISTER UK",
-      "evidence": "https://www.freelancer.com/projects/web-scraping/web-scrape-insolvency-register-35212468",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-19T23:58:44.071Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 172 proiecte scanate → 42 potrivite, 12 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-19T23:58:31.535Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 42 scanate, 3 eligibile după citirea regulamentelor (39 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-19T23:57:56.462Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 733 candidați → 0 bounty-uri reale (733 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 2,
-    "rejected": 560,
+    "rejected": 570,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 2335,
+        "score": 2290,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 257,
-        "per_slot": 257,
+        "participants": 262,
+        "per_slot": 262,
         "days_left": 71,
         "objective": true
       },
@@ -664,20 +664,20 @@
         "score": 1492,
         "prize_usd": 740000,
         "slots": 55,
-        "participants": 27265,
+        "participants": 27297,
         "per_slot": 496,
-        "days_left": 8,
+        "days_left": 7,
         "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 337
+        "count": 338
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 73
+        "count": 75
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -685,26 +685,26 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 22
+        "count": 28
       },
       {
         "reason": "fără premiu în bani",
-        "count": 17
+        "count": 16
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 9
+        "count": 11
       },
       {
         "reason": "participare restricționată",
         "count": 7
       },
       {
-        "reason": "regulament necitibil",
-        "count": 7
+        "reason": "proiect inactiv",
+        "count": 6
       },
       {
-        "reason": "proiect inactiv",
+        "reason": "regulament necitibil",
         "count": 6
       },
       {
@@ -716,15 +716,15 @@
         "count": 3
       },
       {
+        "reason": "prea aglomerat",
+        "count": 3
+      },
+      {
         "reason": "repo prea nou",
         "count": 2
       },
       {
         "reason": "revendicat activ",
-        "count": 2
-      },
-      {
-        "reason": "prea aglomerat",
         "count": 2
       },
       {

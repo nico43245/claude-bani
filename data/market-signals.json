@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:20:26.869Z",
+  "generated_at": "2026-09-24T00:19:44.951Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -485,34 +485,6 @@
         "score": 66
       },
       {
-        "theme": "company",
-        "mentions": 28,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 64
-      },
-      {
         "theme": "life",
         "mentions": 13,
         "engagement": 356,
@@ -541,6 +513,34 @@
         "score": 63
       },
       {
+        "theme": "company",
+        "mentions": 27,
+        "engagement": 80,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
+          },
+          {
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
+          }
+        ],
+        "score": 62
+      },
+      {
         "theme": "agent",
         "mentions": 14,
         "engagement": 258,
@@ -564,6 +564,34 @@
             "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
             "url": "https://news.ycombinator.com/item?id=49001865",
             "date": "2026-07-22"
+          }
+        ],
+        "score": 61
+      },
+      {
+        "theme": "research",
+        "mentions": 15,
+        "engagement": 223,
+        "evidence": [
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "In the US, usually you do a summer research program if you want to be a PhD student, so you can get a taste of research. At most universities as well, if you de",
+            "url": "https://news.ycombinator.com/item?id=49712553",
+            "date": "2026-09-15"
+          },
+          {
+            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
+            "url": "https://news.ycombinator.com/item?id=48824680",
+            "date": "2026-07-07"
+          },
+          {
+            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
+            "url": "https://news.ycombinator.com/item?id=49048747",
+            "date": "2026-07-25"
           }
         ],
         "score": 61
@@ -625,32 +653,32 @@
         "score": 60
       },
       {
-        "theme": "research",
-        "mentions": 14,
-        "engagement": 223,
+        "theme": "public",
+        "mentions": 17,
+        "engagement": 126,
         "evidence": [
           {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
           },
           {
-            "text": "In the US, usually you do a summer research program if you want to be a PhD student, so you can get a taste of research. At most universities as well, if you de",
-            "url": "https://news.ycombinator.com/item?id=49712553",
-            "date": "2026-09-15"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
           },
           {
-            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
-            "url": "https://news.ycombinator.com/item?id=48824680",
-            "date": "2026-07-07"
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
           },
           {
-            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
-            "url": "https://news.ycombinator.com/item?id=49048747",
-            "date": "2026-07-25"
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
           }
         ],
-        "score": 58
+        "score": 55
       },
       {
         "theme": "writing",
@@ -709,34 +737,6 @@
         "score": 53
       },
       {
-        "theme": "public",
-        "mentions": 16,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
-          }
-        ],
-        "score": 53
-      },
-      {
         "theme": "videos",
         "mentions": 12,
         "engagement": 233,
@@ -766,7 +766,7 @@
       },
       {
         "theme": "without",
-        "mentions": 44,
+        "mentions": 45,
         "engagement": 9,
         "evidence": [
           {
@@ -790,7 +790,7 @@
             "date": "2026-08-16"
           }
         ],
-        "score": 50
+        "score": 51
       },
       {
         "theme": "world",

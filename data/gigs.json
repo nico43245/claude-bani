@@ -1,29 +1,15 @@
 {
-  "generated_at": "2026-09-23T18:19:39.522Z",
-  "scanned": 174,
-  "accepted": 33,
-  "refused_on_ethics": 16,
+  "generated_at": "2026-09-24T00:18:55.409Z",
+  "scanned": 173,
+  "accepted": 27,
+  "refused_on_ethics": 14,
   "jobs": [
-    {
-      "title": "Mutual Fund Data Scraping Automation",
-      "url": "https://www.freelancer.com/projects/data-scraping/mutual-fund-data-scraping-automation",
-      "budget_raw": "$408 Average bid",
-      "desc": "We can discuss over call. Basically pulling data from certain online websites in excel which could be done at a click on real time basis",
-      "bids": 17,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 8,
-      "usd": 408,
-      "hourly": false,
-      "flags": [],
-      "score": 1952
-    },
     {
       "title": "Email Scraping & Excel Organization",
       "url": "https://www.freelancer.com/projects/data-scraping/email-scraping-excel-organization",
       "budget_raw": "$128 Average bid",
       "desc": "I need a clean, well-structured Excel workbook filled with fresh contact data pulled from three different source types: public websites, online directories, and a couple of databases that require login credentials (access will be provided). The information to collect is limited to email addresses an",
-      "bids": 9,
+      "bids": 10,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
@@ -32,21 +18,7 @@
       "flags": [
         "date personale — verifică GDPR și sursa"
       ],
-      "score": 464
-    },
-    {
-      "title": "Senior TypeScript / NestJS Developer Data Extraction & LLM Pipelines",
-      "url": "https://www.freelancer.com/projects/web-scraping/senior-typescript-nestjs-developer-data",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "We are looking for an experienced TypeScript/Node.js developer to work with our existing engineering team on backend services, web data extraction and LLM pipelines. You will work in an existing codebase, collaborate with other developers on code reviews, and help build reliable, tested services and",
-      "bids": null,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 225
+      "score": 449
     },
     {
       "title": "Geospatial Data Engineer for Satellite Imagery",
@@ -77,20 +49,6 @@
       "score": 123
     },
     {
-      "title": "Python Coding Interview Prep",
-      "url": "https://www.freelancer.com/projects/docker/python-coding-interview-prep",
-      "budget_raw": "$233 Average bid",
-      "desc": "I need assistance to pass a coding interview focused on Python. The interview will cover Docker, including both complex and medium-level questions. I have sample questions available. Ideal Skills and Experience: - Proficiency in Python - Strong knowledge of Docker - Experience with coding interviews",
-      "bids": 22,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 233,
-      "hourly": false,
-      "flags": [],
-      "score": 123
-    },
-    {
       "title": "Google Home Goods Data Entry",
       "url": "https://www.freelancer.com/projects/google-sheets/google-home-goods-data-entry",
       "budget_raw": "$50 / hr Average bid",
@@ -105,18 +63,18 @@
       "score": 120
     },
     {
-      "title": "Excel Data Cleanup & Entry",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-cleanup-entry-40729279",
-      "budget_raw": "$16 / hr Average bid",
-      "desc": "I will send you a set of text-based records currently sitting inside several PDF files. Your job is to move every line into a fresh Excel workbook, place each field in its proper column, and apply a clean, consistent layout throughout the sheet. While you work, please run systematic checks for dupli",
-      "bids": 12,
+      "title": "Python Coding Interview Prep",
+      "url": "https://www.freelancer.com/projects/docker/python-coding-interview-prep",
+      "budget_raw": "$231 Average bid",
+      "desc": "I need assistance to pass a coding interview focused on Python. The interview will cover Docker, including both complex and medium-level questions. I have sample questions available. Ideal Skills and Experience: - Proficiency in Python - Strong knowledge of Docker - Experience with coding interviews",
+      "bids": 23,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 16,
-      "hourly": true,
+      "usd": 231,
+      "hourly": false,
       "flags": [],
-      "score": 105
+      "score": 115
     },
     {
       "title": "Weekend Online Text Entry",
@@ -133,46 +91,34 @@
       "score": 104
     },
     {
-      "title": "Excel Timesheet & Payroll Tool",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-timesheet-payroll-tool",
-      "budget_raw": "$203 Average bid",
-      "desc": "I need a single Excel workbook that lets me drop in a weekly CSV export of crew hours and instantly see three things: Accurate hourly-wage and overtime totals for every employee A running tally of material costs linked to each shift or job code A clean payroll sheet I can hand straight to accounting",
-      "bids": 29,
+      "title": "Excel Data Cleanup & Entry",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-cleanup-entry-40729279",
+      "budget_raw": "$15 / hr Average bid",
+      "desc": "I will send you a set of text-based records currently sitting inside several PDF files. Your job is to move every line into a fresh Excel workbook, place each field in its proper column, and apply a clean, consistent layout throughout the sheet. While you work, please run systematic checks for dupli",
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 203,
-      "hourly": false,
-      "flags": [],
-      "score": 65
-    },
-    {
-      "title": "Excel Time-Material Invoice and Payroll Builder",
-      "url": "https://www.freelancer.com/projects/visual-basic/excel-time-material-invoice-payroll",
-      "budget_raw": "$189 Average bid",
-      "desc": "I already track every hour worked and every material purchase via field tech daily sheets that my techs fill out each day. I want to then put the info into excel. i copy the daily sheets and turn them into the client when I invoice. I have been hand writing them because I had not had a computer at t",
-      "bids": 18,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 189,
-      "hourly": false,
-      "flags": [],
-      "score": 54
-    },
-    {
-      "title": "Printed Data to Excel",
-      "url": "https://www.freelancer.com/projects/data-management/printed-data-excel",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I have a collection of printed documents that contain both text and numerical information. Your task is to key everything in accurately and structure it cleanly inside a single Excel spreadsheet. I will provide scanned copies of the pages; you will translate every word and figure into the appropriat",
-      "bids": 6,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 5,
+      "usd": 15,
       "hourly": true,
       "flags": [],
-      "score": 40
+      "score": 74
+    },
+    {
+      "title": "Remote Database Data Entry",
+      "url": "https://www.freelancer.com/projects/data-management/remote-database-data-entry",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I have a growing pool of records that need to be transferred, cleaned, and kept current in my online database. All files will be provided digitally scanned forms, CSV exports, and occasional email extracts so you can work entirely from home. Your job is straightforward: log in to the web-based syste",
+      "bids": 13,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 8,
+      "hourly": true,
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 51
     },
     {
       "title": "Multichannel SEO & Content Marketing",
@@ -189,18 +135,18 @@
       "score": 38
     },
     {
-      "title": "AI Time Series Pattern Recognition",
-      "url": "https://www.freelancer.com/projects/data-analysis/time-series-pattern-recognition",
-      "budget_raw": "$216 Average bid",
-      "desc": "I want to automate the analysis of my time-series data so that recurring patterns surface instantly and with reliable accuracy. This project is pure data analysis no chatbots or customer-service flows so everything you build should focus on ingesting streams of dated records and uncovering the struc",
-      "bids": 40,
+      "title": "Printed Data to Excel",
+      "url": "https://www.freelancer.com/projects/data-management/printed-data-excel",
+      "budget_raw": "$4 / hr Average bid",
+      "desc": "I have a collection of printed documents that contain both text and numerical information. Your task is to key everything in accurately and structure it cleanly inside a single Excel spreadsheet. I will provide scanned copies of the pages; you will translate every word and figure into the appropriat",
+      "bids": 9,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 216,
-      "hourly": false,
+      "usd": 4,
+      "hourly": true,
       "flags": [],
-      "score": 38
+      "score": 29
     },
     {
       "title": "Import Excel Notes to Zoho",
@@ -217,20 +163,6 @@
       "score": 22
     },
     {
-      "title": "Convert Bullet Reports to Excel",
-      "url": "https://www.freelancer.com/projects/optical-character-recognition/convert-bullet-reports-excel",
-      "budget_raw": "$54 Average bid",
-      "desc": "There is a stack of printed reports organised solely as bullet-point lists. Each bullet contains a name and its corresponding contact details, and nothing else in these documents matters for this job. I need every name and its full set of contact information lifted from those bullet points and place",
-      "bids": 27,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 54,
-      "hourly": false,
-      "flags": [],
-      "score": 21
-    },
-    {
       "title": "International Shipment Coordination Assistant Needed",
       "url": "https://www.freelancer.com/projects/logistics-shipping/international-shipment-coordination",
       "budget_raw": "$32 / hr Average bid",
@@ -245,18 +177,18 @@
       "score": 20
     },
     {
-      "title": "Transcribe Personal Notes to Word",
-      "url": "https://www.freelancer.com/projects/microsoft-word/transcribe-personal-notes-word",
-      "budget_raw": "$193 Average bid",
-      "desc": "I have a bundle of handwritten personal notes that I d like converted into a clean, easy-to-read Microsoft Word document. Accuracy is key I need every sentence transferred exactly as written, but arranged neatly so the final file reads like a polished digital version of the original pages. Wherever ",
-      "bids": 8,
+      "title": "Convert Bullet Reports to Excel",
+      "url": "https://www.freelancer.com/projects/optical-character-recognition/convert-bullet-reports-excel",
+      "budget_raw": "$55 Average bid",
+      "desc": "There is a stack of printed reports organised solely as bullet-point lists. Each bullet contains a name and its corresponding contact details, and nothing else in these documents matters for this job. I need every name and its full set of contact information lifted from those bullet points and place",
+      "bids": 28,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 1,
-      "usd": 193,
+      "fit": 3,
+      "usd": 55,
       "hourly": false,
       "flags": [],
-      "score": 20
+      "score": 19
     },
     {
       "title": "Chess & Go Player Database -- 2",
@@ -273,60 +205,18 @@
       "score": 17
     },
     {
-      "title": "Baserow Automation Specialist Needed",
-      "url": "https://www.freelancer.com/projects/automation/baserow-automation-specialist-needed",
-      "budget_raw": "$84 Average bid",
-      "desc": "I'm seeking a skilled Baserow developer to set up a dynamic and automated spreadsheet primarily for managing customer data. The spreadsheet needs to perform the following automation tasks: - Data Entry Automation - Generating Reports - Sending Notifications Based on Conditions The data will be manua",
-      "bids": 33,
+      "title": "Transcribe Personal Notes to Word",
+      "url": "https://www.freelancer.com/projects/microsoft-word/transcribe-personal-notes-word",
+      "budget_raw": "$179 Average bid",
+      "desc": "I have a bundle of handwritten personal notes that I d like converted into a clean, easy-to-read Microsoft Word document. Accuracy is key I need every sentence transferred exactly as written, but arranged neatly so the final file reads like a polished digital version of the original pages. Wherever ",
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 84,
+      "fit": 1,
+      "usd": 179,
       "hourly": false,
       "flags": [],
-      "score": 17
-    },
-    {
-      "title": "Excel Records Master Consolidation",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-records-master-consolidation",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I have a set of Excel spreadsheets that collectively hold about 52,638 rows. Sl No. / Certificate No.: Unique identifier/number for the issued Scheduled Caste certificate. Issue Date: The date the certificate was issued (ranging from January 2011 to May 2026). Applicant Name: Full name of the certif",
-      "bids": 19,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 5,
-      "hourly": true,
-      "flags": [],
-      "score": 11
-    },
-    {
-      "title": "Convert Handwritten Notes to Word",
-      "url": "https://www.freelancer.com/projects/excel/convert-handwritten-notes-word",
-      "budget_raw": "$13 / hr Average bid",
-      "desc": "I have several pages of neatly printed handwritten notes that I need transcribed into a clean Word (.docx) file. Accuracy is the priority every word, heading and line break should appear just as it does on the page, but laid out as standard paragraph text without special bullets or numbering unless ",
-      "bids": 14,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 13,
-      "hourly": true,
-      "flags": [],
-      "score": 9
-    },
-    {
-      "title": "PDF to Word Text Transfer",
-      "url": "https://www.freelancer.com/projects/copywriting/pdf-word-text-transfer-40729619",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I have a set of PDFs that contain nothing but plain, selectable text. I simply need that text lifted out and placed into clean, well-spaced Word documents no tables, images, or fancy formatting involved. Accuracy is the priority: paragraphs should stay in the same order, line breaks should match the",
-      "bids": 5,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 9
+      "score": 16
     },
     {
       "title": "Beauty & Skincare Product Copywriter Needed",
@@ -343,11 +233,25 @@
       "score": 7
     },
     {
+      "title": "PDF to Word Text Transfer",
+      "url": "https://www.freelancer.com/projects/copywriting/pdf-word-text-transfer-40729619",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a set of PDFs that contain nothing but plain, selectable text. I simply need that text lifted out and placed into clean, well-spaced Word documents no tables, images, or fancy formatting involved. Accuracy is the priority: paragraphs should stay in the same order, line breaks should match the",
+      "bids": 14,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 6
+    },
+    {
       "title": "Small Animal Food Buyer Insights",
       "url": "https://www.freelancer.com/projects/data-analysis/small-animal-food-buyer-insights",
       "budget_raw": "$34 / hr Average bid",
       "desc": "I need a concise yet meaningful view of how owners of hamsters, rabbits, guinea-pigs and similar small animals actually choose their food. The spotlight is firmly on consumer buying behavior, not on broad industry trend reports or competitive share tables. Your main raw material will be real custome",
-      "bids": 35,
+      "bids": 36,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -373,13 +277,13 @@
     {
       "title": "Comprehensive Data Analysis Report",
       "url": "https://www.freelancer.com/projects/data-analysis/comprehensive-data-analysis-report",
-      "budget_raw": "$185 Average bid",
+      "budget_raw": "$184 Average bid",
       "desc": "I need a skilled analyst to take my raw data, clean it, explore it, and translate the findings into clear-cut insights I can act on. The exact domain will be shared once we start, but expect a mix of numeric and categorical fields that should lend themselves well to summary statistics, visualisation",
-      "bids": 38,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 185,
+      "usd": 184,
       "hourly": false,
       "flags": [],
       "score": 4
@@ -399,29 +303,15 @@
       "score": 4
     },
     {
-      "title": "Excel Revenue Forecasting Workbook Creation",
-      "url": "https://www.freelancer.com/projects/financial-modeling/excel-revenue-forecasting-workbook",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I need an Excel-based workbook that turns my raw sales figures and assumptions into a clear, quarterly revenue forecast. Key Requirements: - Fully editable model with a dedicated Input sheet (historical data, growth assumptions, pricing changes, seasonality factors). - Dynamic calculation sheets tha",
-      "bids": 40,
+      "title": "Advanced Excel Workbook Creation",
+      "url": "https://www.freelancer.com/projects/excel-vba/advanced-excel-workbook-creation",
+      "budget_raw": "$13 Average bid",
+      "desc": "One-Time Excel Expert Required Create a Pre-Formatted & Formula-Based Excel File I am looking for an Excel expert for a one-time project to create a new Excel workbook from scratch. The freelancer will need to design the Excel sheet, enter/structure the required data, and create formulas so that cal",
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 5,
-      "hourly": true,
-      "flags": [],
-      "score": 3
-    },
-    {
-      "title": "Excel Entry From Scanned Documents",
-      "url": "https://www.freelancer.com/projects/data-annotation/excel-entry-from-scanned-documents",
-      "budget_raw": "$11 Average bid",
-      "desc": "I have a batch of scanned documents that must be re-typed into a single, tidy Excel workbook. The pages contain mixed data numbers, dates, codes, and text remarks so accuracy matters more than speed. I prefer a fully manual approach rather than quick OCR extractions; every character needs to match w",
-      "bids": 16,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 11,
+      "usd": 13,
       "hourly": false,
       "flags": [],
       "score": 3
@@ -431,12 +321,26 @@
       "url": "https://www.freelancer.com/projects/amazon/amazon-laptop-specs-entry",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I ve compiled a list of laptop products that still need to be created or updated in my Amazon Seller Central catalogue. Your job is straightforward: for every laptop on the list, add the specification section and make sure the processor type field is accurately filled in. I am not asking for price d",
-      "bids": 32,
+      "bids": 33,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
       "usd": 9,
       "hourly": true,
+      "flags": [],
+      "score": 2
+    },
+    {
+      "title": "Excel Entry From Scanned Documents",
+      "url": "https://www.freelancer.com/projects/data-annotation/excel-entry-from-scanned-documents",
+      "budget_raw": "$11 Average bid",
+      "desc": "I have a batch of scanned documents that must be re-typed into a single, tidy Excel workbook. The pages contain mixed data numbers, dates, codes, and text remarks so accuracy matters more than speed. I prefer a fully manual approach rather than quick OCR extractions; every character needs to match w",
+      "bids": 18,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 11,
+      "hourly": false,
       "flags": [],
       "score": 2
     },
@@ -459,11 +363,25 @@
       "url": "https://www.freelancer.com/projects/odoo/odoo-setup-customization-training",
       "budget_raw": "$21 Average bid",
       "desc": "I am launching a brand-new Odoo environment and want it running smoothly from day one. The core modules I need brought to life are Sales, Inventory, and Accounting. Your mission is to configure each of them, tailor the workflows to match our real-world processes, and keep an eye out for anything tha",
-      "bids": 17,
+      "bids": 24,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
       "usd": 21,
+      "hourly": false,
+      "flags": [],
+      "score": 1
+    },
+    {
+      "title": "Power BI Dashboard to built",
+      "url": "https://www.freelancer.com/projects/power-bi/power-dashboard-built",
+      "budget_raw": "$17 Average bid",
+      "desc": ": Power BI dashboard (.pbix) Load your cleaned data into Power BI and build a leadership-grade dashboard. Quality of thinking over quantity of visuals. Must include: An executive summary view answering \"are we healthy?\" at a glance: a small set of headline cards, not a wall of charts. At least three",
+      "bids": 25,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 17,
       "hourly": false,
       "flags": [],
       "score": 1
@@ -503,10 +421,6 @@
       "reason": "extragere din rețele sociale — încalcă termenii platformei"
     },
     {
-      "title": "Repair Google Registration Bug in Browser Script",
-      "reason": "rezolvare/ocolire de CAPTCHA"
-    },
-    {
       "title": "Montreal Real Estate Landlord Contact Enrichment -- 2",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
@@ -517,10 +431,6 @@
     {
       "title": "B2B Sales Partner / SDR Needed (50% Commission Based)",
       "reason": "listă masivă de date personale — GDPR și spam"
-    },
-    {
-      "title": "Enterprise Lead Email Collection",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
       "title": "BankNifty Options Algo Automation",
