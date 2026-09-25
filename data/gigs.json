@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T18:19:35.599Z",
-  "scanned": 172,
-  "accepted": 37,
+  "generated_at": "2026-09-25T00:21:33.361Z",
+  "scanned": 169,
+  "accepted": 33,
   "refused_on_ethics": 13,
   "jobs": [
     {
@@ -21,76 +21,6 @@
       "score": 449
     },
     {
-      "title": "IICS CAI JSON Integration",
-      "url": "https://www.freelancer.com/projects/json/iics-cai-json-integration",
-      "budget_raw": "$282 Average bid",
-      "desc": "I am looking for someone who knows Informatica Intelligent Cloud Services, specifically the Cloud Application Integration module, to build an application-level integration for me. The core of the job is to take a deeply nested JSON payload, walk through every level, pick only the columns I specify, ",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 4,
-      "usd": 282,
-      "hourly": false,
-      "flags": [],
-      "score": 293
-    },
-    {
-      "title": "Google Sheets Cleanup & Automation",
-      "url": "https://www.freelancer.com/projects/automation/google-sheets-cleanup-automation-40728924",
-      "budget_raw": "$17 / hr Average bid",
-      "desc": "I have several live Google Sheets that have grown messy and time-consuming to manage. I need a specialist to jump in and: Clean the data remove duplicates, fix inconsistent formats (dates, currencies, text case), and track down any errors that are throwing off calculations. Build light-weight automa",
-      "bids": 22,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 17,
-      "hourly": true,
-      "flags": [],
-      "score": 286
-    },
-    {
-      "title": "Full-Stack Developer Needed: Automated Multi-State Indian Lottery Result Platform (Next.js / Node / Python Scraping / Instant SEO)",
-      "url": "https://www.freelancer.com/projects/full-stack-development/full-stack-developer-needed-automated",
-      "budget_raw": "$94 Average bid",
-      "desc": "​We are looking for an experienced Full-Stack Developer to build a high-performance, automated multi-state lottery result portal targeting Indian State Lotteries (Nagaland State/Dear Lottery, Kerala, Maharashtra, Sikkim, Shillong Teer). ​The target of this website is #1 ranking on Google Search. Spe",
-      "bids": null,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 94,
-      "hourly": false,
-      "flags": [],
-      "score": 264
-    },
-    {
-      "title": "Power BI Business Sales Analysis Dashboard -- 2",
-      "url": "https://www.freelancer.com/projects/power-bi/power-business-sales-analysis-dashboard",
-      "budget_raw": "$215 Average bid",
-      "desc": "Project Title: Power BI Sales & Business Analytics Dashboard Project Description: I need a professional Power BI dashboard created from Excel/CSV business data. The project should include complete data cleaning, transformation, analysis, and visualization using Excel, Power Query, and Power BI. Requ",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 215,
-      "hourly": false,
-      "flags": [],
-      "score": 157
-    },
-    {
-      "title": "PDF Text Extraction to Word",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-text-extraction-word-40730986",
-      "budget_raw": "$193 Average bid",
-      "desc": "I have a set of PDF files that contain plain text I need transferred exactly character for character into a Word document. No rewriting, re-formatting, or summarising is required; I simply need the original wording reproduced so I can work with it later. Your task is to open each PDF, copy the text ",
-      "bids": 16,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 193,
-      "hourly": false,
-      "flags": [],
-      "score": 135
-    },
-    {
       "title": "Geospatial Data Engineer for Satellite Imagery",
       "url": "https://www.freelancer.com/projects/big-data-sales/geospatial-data-engineer-for-satellite",
       "budget_raw": "$988 Average bid",
@@ -100,20 +30,6 @@
       "verdict": "accept",
       "fit": 3,
       "usd": 988,
-      "hourly": false,
-      "flags": [],
-      "score": 131
-    },
-    {
-      "title": "PCG Transformer Feature Extraction Model",
-      "url": "https://www.freelancer.com/projects/pytorch/pcg-transformer-feature-extraction-model",
-      "budget_raw": "$154 Average bid",
-      "desc": "I m advancing my Master s research on congenital-heart-disease diagnosis from phonocardiogram (PCG) recordings and now need a complete, ready-to-run model. Your core mission is to craft rich feature representations: convert the raw heart-sound waveforms into spectrograms, then feed them through a Tr",
-      "bids": 11,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 154,
       "hourly": false,
       "flags": [],
       "score": 131
@@ -131,6 +47,34 @@
       "hourly": true,
       "flags": [],
       "score": 123
+    },
+    {
+      "title": "Power BI Business Sales Analysis Dashboard -- 2",
+      "url": "https://www.freelancer.com/projects/power-bi/power-business-sales-analysis-dashboard",
+      "budget_raw": "$220 Average bid",
+      "desc": "Project Title: Power BI Sales & Business Analytics Dashboard Project Description: I need a professional Power BI dashboard created from Excel/CSV business data. The project should include complete data cleaning, transformation, analysis, and visualization using Excel, Power Query, and Power BI. Requ",
+      "bids": 21,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 220,
+      "hourly": false,
+      "flags": [],
+      "score": 122
+    },
+    {
+      "title": "PDF Text Extraction to Word",
+      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-text-extraction-word-40730986",
+      "budget_raw": "$194 Average bid",
+      "desc": "I have a set of PDF files that contain plain text I need transferred exactly character for character into a Word document. No rewriting, re-formatting, or summarising is required; I simply need the original wording reproduced so I can work with it later. Your task is to open each PDF, copy the text ",
+      "bids": 19,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 194,
+      "hourly": false,
+      "flags": [],
+      "score": 119
     },
     {
       "title": "Python MLB Data Refresh Repair",
@@ -151,28 +95,28 @@
       "url": "https://www.freelancer.com/projects/data-annotation/printed-docs-excel-entry",
       "budget_raw": "$176 Average bid",
       "desc": "I have a collection of printed documents that contain text-only information which I need transferred into a clean, well-structured Excel spreadsheet. Each page will be provided as a clear PDF scan; your task is to read the text accurately and enter it into the corresponding columns of the template I",
-      "bids": 20,
+      "bids": 22,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 176,
       "hourly": false,
       "flags": [],
-      "score": 103
+      "score": 93
     },
     {
       "title": "Excel Spreadsheets to PDF Conversion",
       "url": "https://www.freelancer.com/projects/data-entry/excel-spreadsheets-pdf-conversion",
-      "budget_raw": "$15 / hr Average bid",
+      "budget_raw": "$14 / hr Average bid",
       "desc": "I have a collection of spreadsheets sitting in Excel that need to be converted into clean, print-ready PDF files. Every file must retain its current layout, formulas, charts, and page breaks so the finished documents look exactly as they do on screen. The source material is exclusively in Excel noth",
-      "bids": 15,
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 15,
+      "usd": 14,
       "hourly": true,
       "flags": [],
-      "score": 88
+      "score": 79
     },
     {
       "title": "Excel Data Cleanup & Entry",
@@ -219,16 +163,16 @@
     {
       "title": "Accurate PDF Images to Text",
       "url": "https://www.freelancer.com/projects/adobe-acrobat/accurate-pdf-images-text",
-      "budget_raw": "$159 Average bid",
+      "budget_raw": "$160 Average bid",
       "desc": "I have a batch of PDFs that contain only scanned images of filled-in forms. I need every field, checkbox, and structured element lifted out of those images and delivered as machine-readable text so I can feed the data straight into our database. This isn t a rough OCR job I m looking for 100 % accur",
-      "bids": 17,
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 159,
+      "usd": 160,
       "hourly": false,
       "flags": [],
-      "score": 48
+      "score": 44
     },
     {
       "title": "Remote Database Data Entry",
@@ -251,7 +195,7 @@
       "url": "https://www.freelancer.com/projects/react-native/react-native-patient-image-upload",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I m enhancing my existing React Native mobile app, which is backed by a Python / Flask API, with a simple but critical feature: patients (or staff on their behalf) must be able to pick a photo from the device or camera, send it to the server, and later open the app to view that same image when they ",
-      "bids": 38,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
@@ -259,20 +203,6 @@
       "hourly": true,
       "flags": [],
       "score": 35
-    },
-    {
-      "title": "Transcribe Documents into Google Sheets",
-      "url": "https://www.freelancer.com/projects/google-sheets/transcribe-documents-into-google-sheets",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a stack of physical documents that contain purely text-based information I now need in digital form. I will scan each page and share the images with you; from there, your job is to enter every piece of text into the Google Sheet template I provide. Accuracy is much more important to me than s",
-      "bids": 9,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 29
     },
     {
       "title": "Printed Data to Excel",
@@ -289,29 +219,43 @@
       "score": 28
     },
     {
-      "title": "Smartphone Home Activity Data Collection",
-      "url": "https://www.freelancer.com/projects/data-collection/smartphone-home-activity-data-collection",
-      "budget_raw": "$387 Average bid",
-      "desc": "Paid Video Data Collection Record Everyday Household Activities ($400 USD / 1 Month) We are looking for reliable participants for a paid, remote data collection project. You will record yourself doing everyday household activities (cooking, cleaning, tidying, laundry, etc.) using a smartphone mounte",
-      "bids": 20,
+      "title": "Transcribe Documents into Google Sheets",
+      "url": "https://www.freelancer.com/projects/google-sheets/transcribe-documents-into-google-sheets",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a stack of physical documents that contain purely text-based information I now need in digital form. I will scan each page and share the images with you; from there, your job is to enter every piece of text into the Google Sheet template I provide. Accuracy is much more important to me than s",
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 1,
-      "usd": 387,
-      "hourly": false,
+      "fit": 2,
+      "usd": 9,
+      "hourly": true,
       "flags": [],
-      "score": 25
+      "score": 27
     },
     {
       "title": "OQZARO Data Cleaning & Analysis Platform -- 2",
       "url": "https://www.freelancer.com/projects/python/oqzaro-data-cleaning-analysis-platform",
       "budget_raw": "$30 Average bid",
       "desc": "I m building a platform called OQZARO that will take raw business datasets primarily tables and spreadsheets, with the odd mixed-type record and turn them into clean, analysis-ready information in a single pass. The core need is a robust workflow that automates data cleaning (missing-value handling,",
-      "bids": 38,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
       "usd": 30,
+      "hourly": false,
+      "flags": [],
+      "score": 21
+    },
+    {
+      "title": "Smartphone Home Activity Data Collection",
+      "url": "https://www.freelancer.com/projects/data-collection/smartphone-home-activity-data-collection",
+      "budget_raw": "$378 Average bid",
+      "desc": "Paid Video Data Collection Record Everyday Household Activities ($400 USD / 1 Month) We are looking for reliable participants for a paid, remote data collection project. You will record yourself doing everyday household activities (cooking, cleaning, tidying, laundry, etc.) using a smartphone mounte",
+      "bids": 23,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 378,
       "hourly": false,
       "flags": [],
       "score": 21
@@ -333,30 +277,16 @@
     {
       "title": "Blog Site with Social Sharing",
       "url": "https://www.freelancer.com/projects/data-entry/blog-site-with-social-sharing",
-      "budget_raw": "$209 Average bid",
+      "budget_raw": "$207 Average bid",
       "desc": "I want a clean, responsive blog built from the ground up and ready to publish. The core requirement is seamless social-media sharing on every post so readers can spread the word in a click. Design, CMS choice, and hosting setup are open to your recommendation as long as the finished site loads fast,",
-      "bids": 15,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 209,
+      "usd": 207,
       "hourly": false,
       "flags": [],
-      "score": 17
-    },
-    {
-      "title": "Python Healthcare Web App Prototype",
-      "url": "https://www.freelancer.com/projects/flask/python-healthcare-web-app-prototype",
-      "budget_raw": "$4 / hr Average bid",
-      "desc": "I am an Information Technology student who wants to turn theory into practice by building a small-scale healthcare-oriented web application in Python. My goal is to deepen my programming skills and understand how modern web frameworks can streamline data-driven services for clinics or hospitals. Her",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 4,
-      "hourly": true,
-      "flags": [],
-      "score": 14
+      "score": 15
     },
     {
       "title": "Transcribe Personal Notes to Word",
@@ -377,7 +307,7 @@
       "url": "https://www.freelancer.com/projects/ai-development/quick-trends-survey",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I m running a short, 10-minute online survey that focuses on machine-learning-related industry trends. I want to hear real-world perspectives from freelancers at any stage of their career, whether you are just starting out or have years of experience with Python, scikit-learn, TensorFlow, Hugging Fa",
-      "bids": 38,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -401,11 +331,25 @@
       "score": 13
     },
     {
+      "title": "Python Healthcare Web App Prototype",
+      "url": "https://www.freelancer.com/projects/flask/python-healthcare-web-app-prototype",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I am an Information Technology student who wants to turn theory into practice by building a small-scale healthcare-oriented web application in Python. My goal is to deepen my programming skills and understand how modern web frameworks can streamline data-driven services for clinics or hospitals. Her",
+      "bids": 31,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 11
+    },
+    {
       "title": "Multichannel SEO & Content Marketing",
       "url": "https://www.freelancer.com/projects/seo/multichannel-seo-content-marketing",
       "budget_raw": "$452 Average bid",
       "desc": "I m ready to ramp up my online presence and I need a single partner who can guide the entire journey from visibility to engagement to conversions. Here s what I need handled: SEO: On-page optimization, keyword research, and monthly performance reporting to keep our rankings moving upward. Social Med",
-      "bids": 37,
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -417,41 +361,27 @@
     {
       "title": "Copy Type Printed Documents",
       "url": "https://www.freelancer.com/projects/copy-editing/copy-type-printed-documents",
-      "budget_raw": "$8 / hr Average bid",
+      "budget_raw": "$9 / hr Average bid",
       "desc": "I have a batch of printed documents, usually between three and ten pages each, that I need turned into clean, editable digital files. Accuracy is crucial: every word, heading, and page break from the original must appear exactly the same in the final version. Several pages include tables, so I ll re",
-      "bids": 7,
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 8,
+      "usd": 9,
       "hourly": true,
       "flags": [],
       "score": 7
     },
     {
-      "title": "Amazon Listing Data Scraper",
-      "url": "https://www.freelancer.com/projects/data-scraping/amazon-listing-data-scraper",
-      "budget_raw": "$4 / hr Average bid",
-      "desc": "I need a consolidated spreadsheet of Amazon product listings that match two key filters I will provide: a specific price range and a minimum product rating. Feel free to reach the data by manually browsing, using approved scraping tools, or combining both methods the method is up to you as long as t",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 4,
-      "hourly": true,
-      "flags": [],
-      "score": 6
-    },
-    {
       "title": "Southeast Asia Virtual Assistant",
       "url": "https://www.freelancer.com/projects/microsoft-office/southeast-asia-virtual-assistant",
-      "budget_raw": "$22 Average bid",
+      "budget_raw": "$21 Average bid",
       "desc": "I m searching for a reliable, detail-focused virtual assistant located anywhere within Southeast Asia s time zones to give me daily support. The core of the role is straightforward: keep my inbox under control and keep my databases clean and up to date. You will: Sort, flag, and draft replies inside",
-      "bids": 27,
+      "bids": 28,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 22,
+      "usd": 21,
       "hourly": false,
       "flags": [],
       "score": 6
@@ -483,6 +413,20 @@
       "hourly": true,
       "flags": [],
       "score": 5
+    },
+    {
+      "title": "Amazon Listing Data Scraper",
+      "url": "https://www.freelancer.com/projects/data-scraping/amazon-listing-data-scraper",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I need a consolidated spreadsheet of Amazon product listings that match two key filters I will provide: a specific price range and a minimum product rating. Feel free to reach the data by manually browsing, using approved scraping tools, or combining both methods the method is up to you as long as t",
+      "bids": 32,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 4
     },
     {
       "title": "London Caf & Retail Leads",
@@ -553,10 +497,6 @@
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
-      "title": "Trending TikTok Video Scraper",
-      "reason": "extragere din rețele sociale — încalcă termenii platformei"
-    },
-    {
       "title": "Montreal Real Estate Landlord Contact Enrichment -- 2",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
@@ -573,12 +513,16 @@
       "reason": "automatizare financiară sau de pariuri"
     },
     {
-      "title": "Outreach Assistant",
-      "reason": "automatizare LinkedIn — încalcă termenii platformei"
+      "title": "Verified USA Construction Email Leads",
+      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
       "title": "Client Service & Lead Conversion Executive Part-Time",
       "reason": "listă masivă de date personale — GDPR și spam"
+    },
+    {
+      "title": "Outreach Assistant",
+      "reason": "automatizare LinkedIn — încalcă termenii platformei"
     }
   ]
 }
