@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:20:36.207Z",
+  "generated_at": "2026-09-26T00:27:32.227Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -205,6 +205,34 @@
         "score": 77
       },
       {
+        "theme": "it.",
+        "mentions": 61,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
+            "url": "https://news.ycombinator.com/item?id=49794276",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
+            "url": "https://news.ycombinator.com/item?id=49623827",
+            "date": "2026-09-09"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
+          }
+        ],
+        "score": 73
+      },
+      {
         "theme": "launch",
         "mentions": 12,
         "engagement": 799,
@@ -231,34 +259,6 @@
           }
         ],
         "score": 73
-      },
-      {
-        "theme": "it.",
-        "mentions": 60,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
-            "url": "https://news.ycombinator.com/item?id=49794276",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
-            "url": "https://news.ycombinator.com/item?id=49623827",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
-          }
-        ],
-        "score": 72
       },
       {
         "theme": "search",
@@ -766,7 +766,7 @@
       },
       {
         "theme": "without",
-        "mentions": 44,
+        "mentions": 43,
         "engagement": 9,
         "evidence": [
           {
@@ -790,7 +790,7 @@
             "date": "2026-08-16"
           }
         ],
-        "score": 50
+        "score": 49
       },
       {
         "theme": "project",

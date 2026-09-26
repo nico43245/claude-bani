@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-09-25T18:20:36.259Z",
+  "generated_at": "2026-09-26T00:27:32.277Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 690,
+  "events_total": 695,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 141
+      "actions": 142
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 133
+      "actions": 134
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 278
+      "actions": 280
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 138
+      "actions": 139
     }
   ],
   "activity": [
+    {
+      "ts": "2026-09-26T00:27:32.229Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1101 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-09-26T00:26:44.973Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 290,
+      "status": null,
+      "desc": "Cel mai bun job: Commission-Based Global Sales & Business Development Partner Software, Automatio",
+      "evidence": "https://www.freelancer.com/projects/sales/commission-based-global-sales-business",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-26T00:26:44.973Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 173 proiecte scanate → 31 potrivite, 8 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-09-26T00:26:31.953Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 39 scanate, 2 eligibile după citirea regulamentelor (37 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-09-26T00:25:44.680Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 568 candidați → 0 bounty-uri reale (568 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-09-25T18:20:36.208Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 553 candidați → 0 bounty-uri reale (553 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-22T00:40:50.718Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1102 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-22T00:40:02.686Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 24,
-      "status": null,
-      "desc": "Cel mai bun job: Automated News Crawling Script",
-      "evidence": "https://www.freelancer.com/projects/scrapy/automated-news-crawling-script",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-22T00:40:02.686Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 173 proiecte scanate → 44 potrivite, 9 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-22T00:39:50.078Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 37 scanate, 2 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-22T00:39:12.936Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 553 candidați → 0 bounty-uri reale (553 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
-    "accepted": 1,
-    "rejected": 601,
+    "accepted": 2,
+    "rejected": 605,
     "top": [
       {
         "source": "comp-radar",
@@ -646,23 +646,38 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1923,
+        "score": 1887,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 312,
-        "per_slot": 312,
+        "participants": 318,
+        "per_slot": 318,
         "days_left": 69,
         "objective": true
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "Creator Colosseum: The Startup Showdown",
+        "url": "https://creatorcolosseumshowdown.devpost.com/",
+        "score": 421,
+        "prize_usd": 29900,
+        "slots": 1,
+        "participants": 71,
+        "per_slot": 71,
+        "days_left": 15,
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 311
+        "count": 312
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 101
+        "count": 95
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -670,11 +685,11 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 42
+        "count": 45
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 26
+        "count": 34
       },
       {
         "reason": "fără premiu în bani",
@@ -697,15 +712,7 @@
         "count": 4
       },
       {
-        "reason": "prea puțin timp de construit",
-        "count": 3
-      },
-      {
         "reason": "premiu prea mic",
-        "count": 3
-      },
-      {
-        "reason": "prea aglomerat",
         "count": 3
       },
       {
@@ -714,6 +721,14 @@
       },
       {
         "reason": "revendicat activ",
+        "count": 2
+      },
+      {
+        "reason": "prea puțin timp de construit",
+        "count": 2
+      },
+      {
+        "reason": "prea aglomerat",
         "count": 2
       },
       {

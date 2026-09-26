@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-25T18:19:48.258Z",
-  "scanned": 169,
-  "accepted": 32,
-  "refused_on_ethics": 9,
+  "generated_at": "2026-09-26T00:26:44.972Z",
+  "scanned": 173,
+  "accepted": 31,
+  "refused_on_ethics": 8,
   "jobs": [
     {
       "title": "Commission-Based Global Sales & Business Development Partner Software, Automation & Digital Solutions",
@@ -37,58 +37,44 @@
     {
       "title": "SW Maps Geospatial Reporting",
       "url": "https://www.freelancer.com/projects/arcgis/maps-geospatial-reporting",
-      "budget_raw": "$406 Average bid",
+      "budget_raw": "$410 Average bid",
       "desc": "I m preparing an urban-planning study and need a hand turning raw field readings collected in SW Maps into materials that stakeholders can grasp at a glance. Here s the flow I have in mind: you ll first help configure SW Maps to capture the geospatial features I m surveying on-site, then extract tho",
-      "bids": 22,
+      "bids": 23,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
-      "usd": 406,
+      "usd": 410,
       "hourly": false,
       "flags": [],
-      "score": 380
-    },
-    {
-      "title": "Excel Timesheet & Payroll Builder",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-timesheet-payroll-builder",
-      "budget_raw": "$187 Average bid",
-      "desc": "I need a single Excel workbook that lets me enter clock-in and clock-out times for each employee and have the sheet instantly calculate their regular hours as well as any overtime they rack up. The file also has to let me store different hourly rates per person so the totals update automatically whe",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 187,
-      "hourly": false,
-      "flags": [],
-      "score": 228
+      "score": 362
     },
     {
       "title": "Diagnostic AI for Blood & Pathology",
       "url": "https://www.freelancer.com/projects/machine-learning/diagnostic-for-blood-pathology",
-      "budget_raw": "$214 Average bid",
+      "budget_raw": "$218 Average bid",
       "desc": "I am building an AI-driven application that supports medical diagnostics by reading raw blood-test and pathology reports, extracting the relevant figures, and instantly returning an easy-to-read interpretation along with evidence-based clinical suggestions. The core workflow is straightforward: a cl",
-      "bids": 22,
+      "bids": 24,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
-      "usd": 214,
+      "usd": 218,
       "hourly": false,
       "flags": [],
-      "score": 200
+      "score": 181
     },
     {
-      "title": "Python-based AI & Software Development",
-      "url": "https://www.freelancer.com/projects/api/python-based-software-development",
-      "budget_raw": "$254 Average bid",
-      "desc": "Developed and delivered Python-based AI and software solutions based on client requirements, focusing on automation, data processing, and intelligent applications. Built AI-powered applications using Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), and API inte",
-      "bids": 37,
+      "title": "Excel Timesheet & Payroll Builder",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-timesheet-payroll-builder",
+      "budget_raw": "$186 Average bid",
+      "desc": "I need a single Excel workbook that lets me enter clock-in and clock-out times for each employee and have the sheet instantly calculate their regular hours as well as any overtime they rack up. The file also has to let me store different hourly rates per person so the totals update automatically whe",
+      "bids": 31,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 6,
-      "usd": 254,
+      "fit": 5,
+      "usd": 186,
       "hourly": false,
       "flags": [],
-      "score": 178
+      "score": 136
     },
     {
       "title": "Geospatial Data Engineer for Satellite Imagery",
@@ -123,7 +109,7 @@
       "url": "https://www.freelancer.com/projects/excel-vba/automated-excel-timesheet-payroll",
       "budget_raw": "$19 / hr Average bid",
       "desc": "I want a single Excel workbook that lets me keep daily time records and instantly turn them into clean, ready-to-run payroll figures. The file must serve two core functions: track hours worked and calculate the resulting pay in one place. Key elements I need built in: A simple employee database shee",
-      "bids": 34,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
@@ -137,56 +123,28 @@
       "url": "https://www.freelancer.com/projects/business-intelligence/power-report-generation-specialist",
       "budget_raw": "$65 Average bid",
       "desc": "I need an expert in Power BI to generate reports using Excel file data sources. Key Requirements: - Expertise in Power BI report generation - Proficiency in data manipulation and visualization - Experience with Excel data integration - Attention to detail and accuracy in reporting Please provide you",
-      "bids": 21,
+      "bids": 22,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
       "usd": 65,
       "hourly": false,
       "flags": [],
-      "score": 100
-    },
-    {
-      "title": "PDF Text Extraction to Word",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-text-extraction-word-40730986",
-      "budget_raw": "$199 Average bid",
-      "desc": "I have a set of PDF files that contain plain text I need transferred exactly character for character into a Word document. No rewriting, re-formatting, or summarising is required; I simply need the original wording reproduced so I can work with it later. Your task is to open each PDF, copy the text ",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 199,
-      "hourly": false,
-      "flags": [],
-      "score": 87
+      "score": 95
     },
     {
       "title": "Enterprise Excel Timesheet & Payroll System",
       "url": "https://www.freelancer.com/projects/data-analysis/enterprise-excel-timesheet-payroll",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I need a single Excel workbook that lets me record daily hours for well over 50 employees and instantly turns that data into clean payroll figures. The sheet must: Capture clock-in / clock-out times (or total daily hours) on an easy-to-fill timesheet tab Roll those hours into weekly and monthly summ",
-      "bids": 6,
+      "bids": 7,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 72
-    },
-    {
-      "title": "HR Records Management Support",
-      "url": "https://www.freelancer.com/projects/data-management/records-management-support",
-      "budget_raw": "$214 Average bid",
-      "desc": "I need an extra set of hands to keep my employee records accurate, organised, and up-to-date. Today everything lives in a series of Excel spreadsheets; they work, but they re starting to feel unwieldy as head-count grows. Your core focus will be maintaining three record types personal information, a",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 214,
-      "hourly": false,
-      "flags": [],
-      "score": 70
+      "score": 69
     },
     {
       "title": "Part-Time Bilingual Virtual Assistant (English + Spanish) - Screening Calls",
@@ -203,46 +161,46 @@
       "score": 67
     },
     {
-      "title": "Simple Data Input Task",
-      "url": "https://www.freelancer.com/projects/data-management/simple-data-input-task",
-      "budget_raw": "$210 Average bid",
-      "desc": "I have a batch of raw information that must be keyed into our database quickly and without errors. The work is straightforward data input: copy the values from the source files I supply (mostly spreadsheets and PDFs) and paste or type them into the destination fields I will specify. Accuracy is crit",
-      "bids": 17,
+      "title": "HR Records Management Support",
+      "url": "https://www.freelancer.com/projects/data-management/records-management-support",
+      "budget_raw": "$213 Average bid",
+      "desc": "I need an extra set of hands to keep my employee records accurate, organised, and up-to-date. Today everything lives in a series of Excel spreadsheets; they work, but they re starting to feel unwieldy as head-count grows. Your core focus will be maintaining three record types personal information, a",
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 210,
+      "usd": 213,
       "hourly": false,
       "flags": [],
-      "score": 63
+      "score": 66
     },
     {
       "title": "Charting Platform Architecture & Improvement Plan",
       "url": "https://www.freelancer.com/projects/php/charting-platform-architecture",
-      "budget_raw": "$123 Average bid",
+      "budget_raw": "$128 Average bid",
       "desc": "Architecture review TradingView-style charting platform (broker hist + live WS) We re building an Indian-markets charting platform (TradingView Advanced Charts on the front end) powered by a broker market-data API. I d like your help as a senior engineer to review and propose a clean architecture fo",
       "bids": 24,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 123,
+      "usd": 128,
       "hourly": false,
       "flags": [],
-      "score": 58
+      "score": 60
     },
     {
-      "title": "Villa Renovation BOQ Takeoff",
-      "url": "https://www.freelancer.com/projects/quantity-surveying/villa-renovation-boq-takeoff",
-      "budget_raw": "$394 Average bid",
-      "desc": "I have a full set of AutoCAD and PDF drawings for a UAE villa renovation and I need a seasoned Quantity Surveyor to translate them into a comprehensive, editable Excel BOQ. The scope covers every discipline Architectural & Finishing, MEP, and the Structural/Civil elements tied to new extension areas",
-      "bids": 31,
+      "title": "Simple Data Input Task",
+      "url": "https://www.freelancer.com/projects/data-management/simple-data-input-task",
+      "budget_raw": "$205 Average bid",
+      "desc": "I have a batch of raw information that must be keyed into our database quickly and without errors. The work is straightforward data input: copy the values from the source files I supply (mostly spreadsheets and PDFs) and paste or type them into the destination fields I will specify. Accuracy is crit",
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 394,
+      "usd": 205,
       "hourly": false,
       "flags": [],
-      "score": 46
+      "score": 53
     },
     {
       "title": "Enter & Format 150 Excel Records",
@@ -273,20 +231,6 @@
       "score": 30
     },
     {
-      "title": "Construction Payroll Excel Template",
-      "url": "https://www.freelancer.com/projects/construction/construction-payroll-excel-template",
-      "budget_raw": "$6 / hr Average bid",
-      "desc": "I need a single-workbook Excel solution that turns raw timesheet data into clean, industry-standard payroll reports for a construction company. The focus is on accurate calculations and formatting that align with the construction sector s common reporting expectations, so foremen and accountants can",
-      "bids": 22,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 6,
-      "hourly": true,
-      "flags": [],
-      "score": 25
-    },
-    {
       "title": "Transcribe Documents into Google Sheets",
       "url": "https://www.freelancer.com/projects/google-sheets/transcribe-documents-into-google-sheets",
       "budget_raw": "$9 / hr Average bid",
@@ -299,6 +243,20 @@
       "hourly": true,
       "flags": [],
       "score": 25
+    },
+    {
+      "title": "Construction Payroll Excel Template",
+      "url": "https://www.freelancer.com/projects/construction/construction-payroll-excel-template",
+      "budget_raw": "$6 / hr Average bid",
+      "desc": "I need a single-workbook Excel solution that turns raw timesheet data into clean, industry-standard payroll reports for a construction company. The focus is on accurate calculations and formatting that align with the construction sector s common reporting expectations, so foremen and accountants can",
+      "bids": 23,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 6,
+      "hourly": true,
+      "flags": [],
+      "score": 24
     },
     {
       "title": "PDF Text to Excel Transfer",
@@ -317,16 +275,16 @@
     {
       "title": "Tableau Financial Visualizations Needed",
       "url": "https://www.freelancer.com/projects/tableau/tableau-financial-visualizations-needed",
-      "budget_raw": "$18 Average bid",
+      "budget_raw": "$19 Average bid",
       "desc": "I already have a clean, well-structured financial dataset and now need an experienced Tableau specialist to turn those numbers into clear, interactive visuals. The focus is purely on data visualization no extraction or heavy prep work so you can dive straight into building compelling charts, time-se",
-      "bids": 11,
+      "bids": 15,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
-      "usd": 18,
+      "usd": 19,
       "hourly": false,
       "flags": [],
-      "score": 21
+      "score": 19
     },
     {
       "title": "Chess & Go Player Database -- 2",
@@ -341,20 +299,6 @@
       "hourly": false,
       "flags": [],
       "score": 17
-    },
-    {
-      "title": "Sales Metrics Power BI Visualization",
-      "url": "https://www.freelancer.com/projects/power-bi/sales-metrics-power-visualization",
-      "budget_raw": "$22 Average bid",
-      "desc": "I need an experienced Power BI specialist to turn our raw sales tables into clear, interactive visuals that highlight three key metrics revenue, units sold, and customer acquisition. The source files (CSV exports from our ERP) are already cleaned; your focus is on building compelling visual stories ",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 22,
-      "hourly": false,
-      "flags": [],
-      "score": 12
     },
     {
       "title": "Excel Sales Growth Analysis",
@@ -385,6 +329,20 @@
       "score": 9
     },
     {
+      "title": "Sales Metrics Power BI Visualization",
+      "url": "https://www.freelancer.com/projects/power-bi/sales-metrics-power-visualization",
+      "budget_raw": "$21 Average bid",
+      "desc": "I need an experienced Power BI specialist to turn our raw sales tables into clear, interactive visuals that highlight three key metrics revenue, units sold, and customer acquisition. The source files (CSV exports from our ERP) are already cleaned; your focus is on building compelling visual stories ",
+      "bids": 22,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 21,
+      "hourly": false,
+      "flags": [],
+      "score": 9
+    },
+    {
       "title": "Excel Data Cleaning & Reporting -- 2",
       "url": "https://www.freelancer.com/projects/data-analysis/excel-data-cleaning-reporting",
       "budget_raw": "$13 Average bid",
@@ -399,6 +357,20 @@
       "score": 7
     },
     {
+      "title": "1M Enterprise Tech Leads Needed",
+      "url": "https://www.freelancer.com/projects/data-collection/enterprise-tech-leads-needed",
+      "budget_raw": "$77 Average bid",
+      "desc": "I need a clean, well-segmented list of one million verified enterprise-level companies operating in the technology sector so my software agency can reach out with tailored service offers. The file must be ready for direct outreach: company name, website, headquarters country, key decision-maker s fu",
+      "bids": 16,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 77,
+      "hourly": false,
+      "flags": [],
+      "score": 6
+    },
+    {
       "title": "London Caf & Retail Leads",
       "url": "https://www.freelancer.com/projects/data-collection/london-caf-retail-leads",
       "budget_raw": "$28199 Average bid",
@@ -408,6 +380,20 @@
       "verdict": "accept",
       "fit": 3,
       "usd": 28199,
+      "hourly": false,
+      "flags": [],
+      "score": 3
+    },
+    {
+      "title": "Business Development Manager - International Sales (Reporting and Analytics -Strictly Commission-Based)",
+      "url": "https://www.freelancer.com/projects/business-development/business-development-manager-40733590",
+      "budget_raw": "$25 Average bid",
+      "desc": "We are a growing technology company seeking an experienced Business Development Manager specializing in international sales for a strictly commission-based role. This is an exciting opportunity for professionals focused on earning more as they deliver results. # Target Regions: USA | UK | Canada | A",
+      "bids": 2,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 25,
       "hourly": false,
       "flags": [],
       "score": 3
@@ -429,13 +415,13 @@
     {
       "title": "Convert Scans into Editable Text",
       "url": "https://www.freelancer.com/projects/proofreading/convert-scans-into-editable-text",
-      "budget_raw": "$91 Average bid",
+      "budget_raw": "$95 Average bid",
       "desc": "I have a batch of scanned documents that I need turned into clean, editable text files. Accuracy is far more important to me than speed, so every page must be carefully transcribed or run through reliable OCR software and then proof-read to remove any stray errors, formatting glitches, or unreadable",
-      "bids": 33,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 91,
+      "usd": 95,
       "hourly": false,
       "flags": [],
       "score": 2
@@ -445,7 +431,7 @@
       "url": "https://www.freelancer.com/projects/adobe-acrobat/precise-pdf-word-conversion-40733478",
       "budget_raw": "$1 / hr Average bid",
       "desc": "I need a clean, faithful conversion of a PDF that mixes straight text with several tables and graphs into a single, editable .docx file. The figures can stay as embedded images; accuracy of the surrounding text is what matters most. Please keep the original page layout and margins intact so the Word",
-      "bids": 3,
+      "bids": 7,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -487,10 +473,6 @@
     {
       "title": "ZoomInfo Tech Finance Leads Needed",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
-    },
-    {
-      "title": "BankNifty Options Algo Automation",
-      "reason": "automatizare financiară sau de pariuri"
     }
   ]
 }
