@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:27:32.227Z",
+  "generated_at": "2026-09-26T11:02:24.627Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -10,7 +10,7 @@
     "themes": [
       {
         "theme": "app",
-        "mentions": 32,
+        "mentions": 30,
         "engagement": 332,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-05-27"
           }
         ],
-        "score": 116
+        "score": 111
       },
       {
         "theme": "web",
@@ -233,34 +233,6 @@
         "score": 73
       },
       {
-        "theme": "launch",
-        "mentions": 12,
-        "engagement": 799,
-        "evidence": [
-          {
-            "text": "Being fast and having a power target doesn’t mean it’s cost efficient though. I would pay the launch cost for one, but not 3-4x inflated.",
-            "url": "https://news.ycombinator.com/item?id=49796708",
-            "date": "2026-09-22"
-          },
-          {
-            "text": "My partial solution is to have the Android Zoom client on an idle tablet. Even though it is my office VOIP phone too, I power it off when I don't have meetings ",
-            "url": "https://news.ycombinator.com/item?id=49677927",
-            "date": "2026-09-12"
-          },
-          {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
-          },
-          {
-            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-            "url": "https://news.ycombinator.com/item?id=44891090",
-            "date": "2025-08-13"
-          }
-        ],
-        "score": 73
-      },
-      {
         "theme": "search",
         "mentions": 22,
         "engagement": 155,
@@ -345,6 +317,34 @@
         "score": 69
       },
       {
+        "theme": "launch",
+        "mentions": 11,
+        "engagement": 799,
+        "evidence": [
+          {
+            "text": "Being fast and having a power target doesn’t mean it’s cost efficient though. I would pay the launch cost for one, but not 3-4x inflated.",
+            "url": "https://news.ycombinator.com/item?id=49796708",
+            "date": "2026-09-22"
+          },
+          {
+            "text": "My partial solution is to have the Android Zoom client on an idle tablet. Even though it is my office VOIP phone too, I power it off when I don't have meetings ",
+            "url": "https://news.ycombinator.com/item?id=49677927",
+            "date": "2026-09-12"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+            "url": "https://news.ycombinator.com/item?id=44891090",
+            "date": "2025-08-13"
+          }
+        ],
+        "score": 68
+      },
+      {
         "theme": "code",
         "mentions": 43,
         "engagement": 41,
@@ -399,34 +399,6 @@
           }
         ],
         "score": 67
-      },
-      {
-        "theme": "apps",
-        "mentions": 18,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
-            "url": "https://news.ycombinator.com/item?id=49697808",
-            "date": "2026-09-14"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          }
-        ],
-        "score": 66
       },
       {
         "theme": "stop",
@@ -485,6 +457,62 @@
         "score": 66
       },
       {
+        "theme": "apps",
+        "mentions": 17,
+        "engagement": 194,
+        "evidence": [
+          {
+            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
+            "url": "https://news.ycombinator.com/item?id=49697808",
+            "date": "2026-09-14"
+          },
+          {
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
+          },
+          {
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
+          },
+          {
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
+          }
+        ],
+        "score": 64
+      },
+      {
+        "theme": "system",
+        "mentions": 26,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
+          }
+        ],
+        "score": 64
+      },
+      {
         "theme": "language",
         "mentions": 14,
         "engagement": 290,
@@ -508,34 +536,6 @@
             "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
             "url": "https://news.ycombinator.com/item?id=49388758",
             "date": "2026-08-21"
-          }
-        ],
-        "score": 63
-      },
-      {
-        "theme": "system",
-        "mentions": 25,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
-          },
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
           }
         ],
         "score": 63
@@ -569,34 +569,6 @@
         "score": 63
       },
       {
-        "theme": "company",
-        "mentions": 27,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 62
-      },
-      {
         "theme": "research",
         "mentions": 15,
         "engagement": 223,
@@ -625,6 +597,62 @@
         "score": 61
       },
       {
+        "theme": "company",
+        "mentions": 26,
+        "engagement": 80,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
+          },
+          {
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
+          }
+        ],
+        "score": 61
+      },
+      {
+        "theme": "public",
+        "mentions": 19,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
+          }
+        ],
+        "score": 59
+      },
+      {
         "theme": "agent",
         "mentions": 13,
         "engagement": 258,
@@ -651,34 +679,6 @@
           }
         ],
         "score": 58
-      },
-      {
-        "theme": "public",
-        "mentions": 18,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
-          }
-        ],
-        "score": 57
       },
       {
         "theme": "writing",
@@ -765,8 +765,36 @@
         "score": 51
       },
       {
+        "theme": "world",
+        "mentions": 22,
+        "engagement": 58,
+        "evidence": [
+          {
+            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
+            "url": "https://news.ycombinator.com/item?id=49687578",
+            "date": "2026-09-13"
+          },
+          {
+            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
+            "url": "https://news.ycombinator.com/item?id=49629894",
+            "date": "2026-09-09"
+          },
+          {
+            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
+            "url": "https://news.ycombinator.com/item?id=49488605",
+            "date": "2026-08-29"
+          },
+          {
+            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
+            "url": "https://news.ycombinator.com/item?id=48916578",
+            "date": "2026-07-15"
+          }
+        ],
+        "score": 49
+      },
+      {
         "theme": "without",
-        "mentions": 43,
+        "mentions": 42,
         "engagement": 9,
         "evidence": [
           {
@@ -790,7 +818,7 @@
             "date": "2026-08-16"
           }
         ],
-        "score": 49
+        "score": 48
       },
       {
         "theme": "project",
@@ -819,34 +847,6 @@
           }
         ],
         "score": 48
-      },
-      {
-        "theme": "world",
-        "mentions": 21,
-        "engagement": 58,
-        "evidence": [
-          {
-            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
-            "url": "https://news.ycombinator.com/item?id=49687578",
-            "date": "2026-09-13"
-          },
-          {
-            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
-            "url": "https://news.ycombinator.com/item?id=49629894",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
-            "url": "https://news.ycombinator.com/item?id=49488605",
-            "date": "2026-08-29"
-          },
-          {
-            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
-            "url": "https://news.ycombinator.com/item?id=48916578",
-            "date": "2026-07-15"
-          }
-        ],
-        "score": 47
       }
     ],
     "loudest": [
