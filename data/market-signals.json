@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:02:24.627Z",
+  "generated_at": "2026-09-26T17:41:26.877Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -94,7 +94,7 @@
       },
       {
         "theme": "hours",
-        "mentions": 87,
+        "mentions": 86,
         "engagement": 11,
         "evidence": [
           {
@@ -118,11 +118,11 @@
             "date": "2026-03-06"
           }
         ],
-        "score": 95
+        "score": 94
       },
       {
         "theme": "spend",
-        "mentions": 84,
+        "mentions": 83,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 92
+        "score": 91
       },
       {
         "theme": "hate",
@@ -206,7 +206,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 61,
+        "mentions": 60,
         "engagement": 18,
         "evidence": [
           {
@@ -230,7 +230,7 @@
             "date": "2026-09-06"
           }
         ],
-        "score": 73
+        "score": 72
       },
       {
         "theme": "search",
@@ -290,7 +290,7 @@
       },
       {
         "theme": "them",
-        "mentions": 69,
+        "mentions": 68,
         "engagement": 0,
         "evidence": [
           {
@@ -314,7 +314,35 @@
             "date": "2026-08-21"
           }
         ],
-        "score": 69
+        "score": 68
+      },
+      {
+        "theme": "stop",
+        "mentions": 18,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "Xen prevents modifying ACPI data. It also passes obvious \"Xen emulated drive\", and similar for all hardware interfaces. Passes CPUID. Can't stop any of this wit",
+            "url": "https://news.ycombinator.com/item?id=49685325",
+            "date": "2026-09-13"
+          }
+        ],
+        "score": 68
       },
       {
         "theme": "launch",
@@ -345,34 +373,6 @@
         "score": 68
       },
       {
-        "theme": "code",
-        "mentions": 43,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
-            "url": "https://news.ycombinator.com/item?id=47678065",
-            "date": "2026-04-07"
-          },
-          {
-            "text": "A noob question: is there a tool that automatically instructs Claude Code to \"continue\" when the token quota is reset after 5h? I am interested in that more tha",
-            "url": "https://news.ycombinator.com/item?id=47436574",
-            "date": "2026-03-19"
-          }
-        ],
-        "score": 67
-      },
-      {
         "theme": "different",
         "mentions": 33,
         "engagement": 70,
@@ -401,29 +401,57 @@
         "score": 67
       },
       {
-        "theme": "stop",
-        "mentions": 17,
-        "engagement": 215,
+        "theme": "apps",
+        "mentions": 18,
+        "engagement": 194,
         "evidence": [
           {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
+            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
+            "url": "https://news.ycombinator.com/item?id=49697808",
+            "date": "2026-09-14"
           },
           {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
           },
           {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
           },
           {
-            "text": "Xen prevents modifying ACPI data. It also passes obvious \"Xen emulated drive\", and similar for all hardware interfaces. Passes CPUID. Can't stop any of this wit",
-            "url": "https://news.ycombinator.com/item?id=49685325",
-            "date": "2026-09-13"
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
+          }
+        ],
+        "score": 66
+      },
+      {
+        "theme": "code",
+        "mentions": 42,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
+            "url": "https://news.ycombinator.com/item?id=47678065",
+            "date": "2026-04-07"
+          },
+          {
+            "text": "A noob question: is there a tool that automatically instructs Claude Code to \"continue\" when the token quota is reset after 5h? I am interested in that more tha",
+            "url": "https://news.ycombinator.com/item?id=47436574",
+            "date": "2026-03-19"
           }
         ],
         "score": 66
@@ -455,34 +483,6 @@
           }
         ],
         "score": 66
-      },
-      {
-        "theme": "apps",
-        "mentions": 17,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
-            "url": "https://news.ycombinator.com/item?id=49697808",
-            "date": "2026-09-14"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          }
-        ],
-        "score": 64
       },
       {
         "theme": "system",
@@ -625,34 +625,6 @@
         "score": 61
       },
       {
-        "theme": "public",
-        "mentions": 19,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
-            "url": "https://news.ycombinator.com/item?id=48403052",
-            "date": "2026-06-04"
-          }
-        ],
-        "score": 59
-      },
-      {
         "theme": "agent",
         "mentions": 13,
         "engagement": 258,
@@ -679,6 +651,34 @@
           }
         ],
         "score": 58
+      },
+      {
+        "theme": "public",
+        "mentions": 18,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Assuming you have a public library that offers these things, of course. Much like people talking about how great Libby is; you can get it through my library, bu",
+            "url": "https://news.ycombinator.com/item?id=48403052",
+            "date": "2026-06-04"
+          }
+        ],
+        "score": 57
       },
       {
         "theme": "writing",
