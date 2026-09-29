@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T20:26:53.369Z",
+  "generated_at": "2026-09-29T01:34:59.399Z",
   "scanned": 162,
-  "accepted": 33,
-  "refused_on_ethics": 11,
+  "accepted": 30,
+  "refused_on_ethics": 10,
   "jobs": [
     {
       "title": "Simple Microsoft Excel",
@@ -23,28 +23,14 @@
       "url": "https://www.freelancer.com/projects/data-management/manual-entry-financial-pdfs",
       "budget_raw": "$191 Average bid",
       "desc": "I have a collection of financial statements provided strictly as PDF files and I need every figure transferred into an Excel workbook with zero transcription errors. The task is 100 % manual data entry no automated scraping tools so a sharp eye for detail and fast, accurate typing are essential. Her",
-      "bids": 24,
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
       "usd": 191,
       "hourly": false,
       "flags": [],
-      "score": 248
-    },
-    {
-      "title": "Handwritten Notes Into Organized Excel",
-      "url": "https://www.freelancer.com/projects/data-analysis/handwritten-notes-into-organized-excel-40735820",
-      "budget_raw": "$26 / hr Average bid",
-      "desc": "I have a stack of handwritten notes that must be transcribed with a high level of accuracy and delivered as a clean Excel workbook. Each entry needs to appear under the correct calendar day so the sheet remains easy to sort and analyze later. What you ll receive from me: Scanned copies of the handwr",
-      "bids": 11,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 26,
-      "hourly": true,
-      "flags": [],
-      "score": 176
+      "score": 202
     },
     {
       "title": "WEB SCRAPE - INSOLVENCY REGISTER UK",
@@ -59,20 +45,6 @@
       "hourly": true,
       "flags": [],
       "score": 175
-    },
-    {
-      "title": "Descriptive Sales Data Analysis",
-      "url": "https://www.freelancer.com/projects/data-analysis/descriptive-sales-data-analysis-40738475",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a sizeable set of sales records that needs clear, insightful descriptive analysis. All raw information lives in a relational database, so the work starts with writing efficient SQL to extract, clean, and aggregate the data. From there I want to understand overall performance patterns totals, ",
-      "bids": 23,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 143
     },
     {
       "title": "업비트 빗썸 공지 모니터링",
@@ -103,18 +75,18 @@
       "score": 135
     },
     {
-      "title": "Manual Data Entry From PDFs",
-      "url": "https://www.freelancer.com/projects/data-management/manual-data-entry-from-pdfs-40738029",
-      "budget_raw": "$216 Average bid",
-      "desc": "I have a collection of scanned documents saved as PDFs that I need transcribed with great care into a structured digital format. Because the files are scans, automated extraction tools are unreliable so I m looking for meticulous manual data entry. Here s what you ll be working with: Source files: s",
-      "bids": 22,
+      "title": "Descriptive Sales Data Analysis",
+      "url": "https://www.freelancer.com/projects/data-analysis/descriptive-sales-data-analysis-40738475",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a sizeable set of sales records that needs clear, insightful descriptive analysis. All raw information lives in a relational database, so the work starts with writing efficient SQL to extract, clean, and aggregate the data. From there I want to understand overall performance patterns totals, ",
+      "bids": 24,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 216,
-      "hourly": false,
+      "fit": 6,
+      "usd": 9,
+      "hourly": true,
       "flags": [],
-      "score": 114
+      "score": 135
     },
     {
       "title": "PDF to Word Text Extraction",
@@ -145,32 +117,18 @@
       "score": 103
     },
     {
-      "title": "Physical Text To Spreadsheet Entry",
-      "url": "https://www.freelancer.com/projects/google-sheets/physical-text-spreadsheet-entry",
-      "budget_raw": "$215 Average bid",
-      "desc": "I need handwritten and printed text that currently sits on paper documents transcribed into a clean spreadsheet. You will receive high-resolution scans of each page along with a ready-made Google Sheets template; every document corresponds to one row, and the columns capture the key fields exactly a",
-      "bids": 34,
+      "title": "Manual Data Entry From PDFs",
+      "url": "https://www.freelancer.com/projects/data-management/manual-data-entry-from-pdfs-40738029",
+      "budget_raw": "$218 Average bid",
+      "desc": "I have a collection of scanned documents saved as PDFs that I need transcribed with great care into a structured digital format. Because the files are scans, automated extraction tools are unreliable so I m looking for meticulous manual data entry. Here s what you ll be working with: Source files: s",
+      "bids": 28,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 215,
+      "usd": 218,
       "hourly": false,
       "flags": [],
-      "score": 38
-    },
-    {
-      "title": "AI Multi-Agent Engine Development",
-      "url": "https://www.freelancer.com/projects/fastapi/multi-agent-engine-development",
-      "budget_raw": "$129 Average bid",
-      "desc": "We need an AI engineer to build a standalone, modular multi-agent engine with a simple REST API (FastAPI) that we can plug into our existing backend and future apps. The goal is to run parallel research, self-verify findings, synthesize cited reports, and support outreach with capped follow-ups. Sco",
-      "bids": 31,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 129,
-      "hourly": false,
-      "flags": [],
-      "score": 34
+      "score": 77
     },
     {
       "title": "Intermediate Data Analytics Online Training",
@@ -191,28 +149,28 @@
       "url": "https://www.freelancer.com/projects/etl/talend-etl-transformation-assistance",
       "budget_raw": "$28 Average bid",
       "desc": "I have an existing ETL workflow that moves data from SQL Server through Talend into downstream tables. Extraction and loading are stable; the transformation layer is where I need focused help. Using Talend as the primary tool, I want to tighten up three areas: Data cleaning removing duplicates, fixi",
-      "bids": 17,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
       "usd": 28,
       "hourly": false,
       "flags": [],
-      "score": 33
+      "score": 32
     },
     {
       "title": "Excel-to-PDF Conversion with Formatting",
       "url": "https://www.freelancer.com/projects/data-entry/excel-pdf-conversion-with-formatting",
       "budget_raw": "$11 / hr Average bid",
       "desc": "I need several Excel workbooks turned into polished, ready-to-share PDFs without losing any of their structure. Every table, chart, and page break has to look exactly as it does in the original sheets, so the finished files can be circulated internally and sent to clients straight away. You will ope",
-      "bids": 13,
+      "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 11,
       "hourly": true,
       "flags": [],
-      "score": 31
+      "score": 30
     },
     {
       "title": "Manual Website Text Entry",
@@ -229,29 +187,15 @@
       "score": 23
     },
     {
-      "title": "Printed Text to Excel",
-      "url": "https://www.freelancer.com/projects/transcription/printed-text-excel",
-      "budget_raw": "$17 / hr Average bid",
-      "desc": "I have a stack of printed documents that need to be brought into an Excel spreadsheet exactly as they appear on paper every word, every line break, and all basic punctuation intact. The task is strictly text-based; there are no formulas or calculations involved, only accurate transcription. You will",
-      "bids": 28,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 17,
-      "hourly": true,
-      "flags": [],
-      "score": 21
-    },
-    {
       "title": "Enter 100-500 Texts into Excel",
       "url": "https://www.freelancer.com/projects/transcription/enter-texts-into-excel",
-      "budget_raw": "$8 / hr Average bid",
+      "budget_raw": "$9 / hr Average bid",
       "desc": "I have between 100 and 500 standard phone text messages that need to be copied accurately into an Excel spreadsheet. Each entry will include the message content, the date-time stamp exactly as it appears on the phone, and the sender/recipient label. The spreadsheet template is ready; you ll just be ",
-      "bids": 15,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 8,
+      "usd": 9,
       "hourly": true,
       "flags": [],
       "score": 21
@@ -259,16 +203,30 @@
     {
       "title": "Accounts Executive for Payroll & Reporting",
       "url": "https://www.freelancer.com/projects/payroll/accounts-executive-for-payroll-reporting",
-      "budget_raw": "$242 Average bid",
+      "budget_raw": "$236 Average bid",
       "desc": "I am looking for a dependable, mid-level Accounts Executive who can take charge of three core functions within our finance team: managing payroll, keeping every accounts receivable and payable entry up to date, and producing timely, accurate financial reports. Your day will revolve around Tally Prim",
-      "bids": 15,
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 242,
+      "usd": 236,
       "hourly": false,
       "flags": [],
-      "score": 20
+      "score": 18
+    },
+    {
+      "title": "Printed Text to Excel",
+      "url": "https://www.freelancer.com/projects/transcription/printed-text-excel",
+      "budget_raw": "$17 / hr Average bid",
+      "desc": "I have a stack of printed documents that need to be brought into an Excel spreadsheet exactly as they appear on paper every word, every line break, and all basic punctuation intact. The task is strictly text-based; there are no formulas or calculations involved, only accurate transcription. You will",
+      "bids": 31,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 17,
+      "hourly": true,
+      "flags": [],
+      "score": 16
     },
     {
       "title": "Swiggy JSON Data Extraction Tool",
@@ -299,34 +257,6 @@
       "score": 14
     },
     {
-      "title": "PDF Form Data to Excel Workbook",
-      "url": "https://www.freelancer.com/projects/data-analysis/pdf-form-data-excel-workbook",
-      "budget_raw": "$12 / hr Average bid",
-      "desc": "I have a batch of PDF forms that capture both text and numerical information. The content is consistent from one file to the next names, dates, amounts, comments but the layouts vary slightly because each template was designed differently. Your task is to pull every data point from those PDFs and pl",
-      "bids": 33,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 12,
-      "hourly": true,
-      "flags": [],
-      "score": 9
-    },
-    {
-      "title": "Alphabetical Text Data Organization",
-      "url": "https://www.freelancer.com/projects/data-analysis/alphabetical-text-data-organization",
-      "budget_raw": "$14 / hr Average bid",
-      "desc": "I have a collection of plain-text files that needs to be put into perfect alphabetical order. The content is purely text no numbers, no special formatting just raw lines that have to be cleaned (little to no editing required) and then sorted from A to Z. Here s what I need from you: take the origina",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 14,
-      "hourly": true,
-      "flags": [],
-      "score": 9
-    },
-    {
       "title": "QGIS Union Overlay Analysis Assistance",
       "url": "https://www.freelancer.com/projects/cartography-maps/qgis-union-overlay-analysis-assistance",
       "budget_raw": "$11 / hr Average bid",
@@ -341,18 +271,46 @@
       "score": 8
     },
     {
+      "title": "Alphabetical Text Data Organization",
+      "url": "https://www.freelancer.com/projects/data-analysis/alphabetical-text-data-organization",
+      "budget_raw": "$14 / hr Average bid",
+      "desc": "I have a collection of plain-text files that needs to be put into perfect alphabetical order. The content is purely text no numbers, no special formatting just raw lines that have to be cleaned (little to no editing required) and then sorted from A to Z. Here s what I need from you: take the origina",
+      "bids": 17,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 14,
+      "hourly": true,
+      "flags": [],
+      "score": 8
+    },
+    {
+      "title": "PDF Form Data to Excel Workbook",
+      "url": "https://www.freelancer.com/projects/data-analysis/pdf-form-data-excel-workbook",
+      "budget_raw": "$12 / hr Average bid",
+      "desc": "I have a batch of PDF forms that capture both text and numerical information. The content is consistent from one file to the next names, dates, amounts, comments but the layouts vary slightly because each template was designed differently. Your task is to pull every data point from those PDFs and pl",
+      "bids": 35,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 12,
+      "hourly": true,
+      "flags": [],
+      "score": 7
+    },
+    {
       "title": "Data Verification & Entry Specialist",
       "url": "https://www.freelancer.com/projects/data-cleansing/data-verification-entry-specialist",
-      "budget_raw": "$13 Average bid",
+      "budget_raw": "$12 Average bid",
       "desc": "I have several Excel spreadsheets that contain a mix of alphanumeric records. I need every row checked for accuracy against the source information I will provide, any obvious errors corrected, and the clean, verified data entered back into the same files. Because the sheets combine text fields (name",
-      "bids": 12,
+      "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 13,
+      "usd": 12,
       "hourly": false,
       "flags": [],
-      "score": 8
+      "score": 7
     },
     {
       "title": "Excel Survey Data Analysis Reports",
@@ -373,7 +331,7 @@
       "url": "https://www.freelancer.com/projects/power-bi/amazon-sales-dashboard-description",
       "budget_raw": "$5 / hr Average bid",
       "desc": "Developed an interactive **Power BI dashboard** to analyze Amazon product sales, product performance, and customer reviews. The dashboard helps identify sales trends, high-performing product categories, top-selling products, and weekly/monthly sales patterns. **Key KPIs:** * YTD Sales **$2.18M** * Q",
-      "bids": 16,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -387,7 +345,7 @@
       "url": "https://www.freelancer.com/projects/data-annotation/pdf-database-text-transfer",
       "budget_raw": "$2 / hr Average bid",
       "desc": "I have a batch of PDF documents from which plain text must be lifted exactly as it appears and inserted into my online database. Everything you will handle is text no numbers, links, or file conversions just straightforward copy-and-paste work. You will receive: A shared folder containing the source",
-      "bids": 22,
+      "bids": 23,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
@@ -399,13 +357,13 @@
     {
       "title": "Power BI HR Analytics Dashboards",
       "url": "https://www.freelancer.com/projects/power-bi/power-analytics-dashboards",
-      "budget_raw": "$75 Average bid",
+      "budget_raw": "$74 Average bid",
       "desc": "We are an HR consulting firm and need help turning complex client requirements into clear, multi-page Power BI dashboards that can be shared through publicly published web links. On some projects you will start from one of our existing PBIX files, on others you will build from scratch. You will hold",
-      "bids": 30,
+      "bids": 32,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 75,
+      "usd": 74,
       "hourly": false,
       "flags": [],
       "score": 2
@@ -427,13 +385,13 @@
     {
       "title": "WTR-Lab Telegram Bot",
       "url": "https://www.freelancer.com/projects/web-scraping/wtr-lab-telegram-bot",
-      "budget_raw": "$21 Average bid",
+      "budget_raw": "$20 Average bid",
       "desc": "I need a straightforward Telegram bot that accepts a WTR-Lab novel or chapter URL, fetches any publicly accessible or authorised content, converts it to a clean TXT file, and drops that file straight back into the chat while showing a simple progress notice along the way. The bot must run happily in",
-      "bids": 18,
+      "bids": 19,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 21,
+      "usd": 20,
       "hourly": false,
       "flags": [],
       "score": 1
@@ -455,13 +413,13 @@
     {
       "title": "EU GDPR Representative Needed (EU Based)",
       "url": "https://www.freelancer.com/projects/compliance/gdpr-representative-needed",
-      "budget_raw": "$42062 Average bid",
+      "budget_raw": "$41568 Average bid",
       "desc": "Gevelopers LLC is hiring an EU GDPR Representative (EU Based only) to act as our official legal point of contact within the European Union, fulfilling our obligations under Article 27 of the EU GDPR. As a non-EU entity processing the personal data of European residents, we require a reliable complia",
-      "bids": 7,
+      "bids": 9,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 42062,
+      "usd": 41568,
       "hourly": false,
       "flags": [],
       "score": 1
@@ -507,10 +465,6 @@
     {
       "title": "US-Based Instagram Beauty/Fashion Influencer Leads",
       "reason": "extragere din rețele sociale — încalcă termenii platformei"
-    },
-    {
-      "title": "B2B Lead Generation for Garment Industry",
-      "reason": "listă masivă de date personale — GDPR și spam"
     }
   ]
 }
