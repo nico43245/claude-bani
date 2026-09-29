@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-29T12:23:34.095Z",
+  "generated_at": "2026-09-29T19:13:28.892Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1102,
+    "signals_total": 1103,
     "themes": [
       {
         "theme": "app",
-        "mentions": 31,
+        "mentions": 32,
         "engagement": 330,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 113
+        "score": 116
       },
       {
         "theme": "web",
@@ -94,7 +94,7 @@
       },
       {
         "theme": "hours",
-        "mentions": 87,
+        "mentions": 88,
         "engagement": 11,
         "evidence": [
           {
@@ -118,11 +118,11 @@
             "date": "2026-03-06"
           }
         ],
-        "score": 95
+        "score": 96
       },
       {
         "theme": "spend",
-        "mentions": 84,
+        "mentions": 85,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 92
+        "score": 93
       },
       {
         "theme": "hate",
@@ -233,34 +233,6 @@
         "score": 72
       },
       {
-        "theme": "it.",
-        "mentions": 58,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
-            "url": "https://news.ycombinator.com/item?id=49794276",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
-            "url": "https://news.ycombinator.com/item?id=49623827",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
-          }
-        ],
-        "score": 70
-      },
-      {
         "theme": "language",
         "mentions": 16,
         "engagement": 290,
@@ -317,36 +289,8 @@
         "score": 69
       },
       {
-        "theme": "them",
-        "mentions": 68,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
-            "url": "https://news.ycombinator.com/item?id=49878407",
-            "date": "2026-09-28"
-          },
-          {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
-          }
-        ],
-        "score": 68
-      },
-      {
         "theme": "code",
-        "mentions": 44,
+        "mentions": 45,
         "engagement": 41,
         "evidence": [
           {
@@ -368,6 +312,34 @@
             "text": "A noob question: is there a tool that automatically instructs Claude Code to \"continue\" when the token quota is reset after 5h? I am interested in that more tha",
             "url": "https://news.ycombinator.com/item?id=47436574",
             "date": "2026-03-19"
+          }
+        ],
+        "score": 69
+      },
+      {
+        "theme": "it.",
+        "mentions": 56,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
+            "url": "https://news.ycombinator.com/item?id=49794276",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
+            "url": "https://news.ycombinator.com/item?id=49623827",
+            "date": "2026-09-09"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
           }
         ],
         "score": 68
@@ -401,6 +373,34 @@
         "score": 68
       },
       {
+        "theme": "different",
+        "mentions": 33,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 67
+      },
+      {
         "theme": "life",
         "mentions": 14,
         "engagement": 354,
@@ -429,57 +429,29 @@
         "score": 67
       },
       {
-        "theme": "apps",
-        "mentions": 18,
-        "engagement": 194,
+        "theme": "them",
+        "mentions": 66,
+        "engagement": 0,
         "evidence": [
           {
-            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
-            "url": "https://news.ycombinator.com/item?id=49697808",
-            "date": "2026-09-14"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          }
-        ],
-        "score": 66
-      },
-      {
-        "theme": "stop",
-        "mentions": 17,
-        "engagement": 215,
-        "evidence": [
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a pro",
-            "url": "https://news.ycombinator.com/item?id=49882007",
+            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
+            "url": "https://news.ycombinator.com/item?id=49878407",
             "date": "2026-09-28"
+          },
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
           }
         ],
         "score": 66
@@ -513,57 +485,29 @@
         "score": 66
       },
       {
-        "theme": "different",
-        "mentions": 31,
-        "engagement": 70,
+        "theme": "apps",
+        "mentions": 17,
+        "engagement": 194,
         "evidence": [
           {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
+            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
+            "url": "https://news.ycombinator.com/item?id=49697808",
+            "date": "2026-09-14"
           },
           {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
           },
           {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
           },
           {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 65
-      },
-      {
-        "theme": "research",
-        "mentions": 16,
-        "engagement": 223,
-        "evidence": [
-          {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "In the US, usually you do a summer research program if you want to be a PhD student, so you can get a taste of research. At most universities as well, if you de",
-            "url": "https://news.ycombinator.com/item?id=49712553",
-            "date": "2026-09-15"
-          },
-          {
-            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
-            "url": "https://news.ycombinator.com/item?id=48824680",
-            "date": "2026-07-07"
-          },
-          {
-            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
-            "url": "https://news.ycombinator.com/item?id=49048747",
-            "date": "2026-07-25"
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
           }
         ],
         "score": 64
@@ -597,6 +541,34 @@
         "score": 63
       },
       {
+        "theme": "stop",
+        "mentions": 16,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a pro",
+            "url": "https://news.ycombinator.com/item?id=49882007",
+            "date": "2026-09-28"
+          }
+        ],
+        "score": 63
+      },
+      {
         "theme": "company",
         "mentions": 27,
         "engagement": 80,
@@ -623,6 +595,34 @@
           }
         ],
         "score": 62
+      },
+      {
+        "theme": "research",
+        "mentions": 15,
+        "engagement": 223,
+        "evidence": [
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "In the US, usually you do a summer research program if you want to be a PhD student, so you can get a taste of research. At most universities as well, if you de",
+            "url": "https://news.ycombinator.com/item?id=49712553",
+            "date": "2026-09-15"
+          },
+          {
+            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
+            "url": "https://news.ycombinator.com/item?id=48824680",
+            "date": "2026-07-07"
+          },
+          {
+            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
+            "url": "https://news.ycombinator.com/item?id=49048747",
+            "date": "2026-07-25"
+          }
+        ],
+        "score": 61
       },
       {
         "theme": "public",
@@ -822,7 +822,7 @@
       },
       {
         "theme": "without",
-        "mentions": 45,
+        "mentions": 44,
         "engagement": 9,
         "evidence": [
           {
@@ -846,7 +846,7 @@
             "date": "2026-08-16"
           }
         ],
-        "score": 51
+        "score": 50
       }
     ],
     "loudest": [
