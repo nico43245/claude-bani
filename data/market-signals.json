@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:35:47.254Z",
+  "generated_at": "2026-09-29T12:23:34.095Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -11,7 +11,7 @@
       {
         "theme": "app",
         "mentions": 31,
-        "engagement": 332,
+        "engagement": 330,
         "evidence": [
           {
             "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
@@ -34,12 +34,12 @@
             "date": "2026-06-11"
           }
         ],
-        "score": 114
+        "score": 113
       },
       {
         "theme": "web",
         "mentions": 24,
-        "engagement": 537,
+        "engagement": 535,
         "evidence": [
           {
             "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
@@ -62,7 +62,7 @@
             "date": "2026-06-17"
           }
         ],
-        "score": 111
+        "score": 110
       },
       {
         "theme": "wish",
@@ -205,34 +205,6 @@
         "score": 77
       },
       {
-        "theme": "browser",
-        "mentions": 17,
-        "engagement": 287,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
-            "url": "https://news.ycombinator.com/item?id=48973899",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This looks a good idea to let people choose their preferred medium. I am not into video either, but I turned one of my latest blog article into a video using Cl",
-            "url": "https://news.ycombinator.com/item?id=49883122",
-            "date": "2026-09-28"
-          }
-        ],
-        "score": 72
-      },
-      {
         "theme": "search",
         "mentions": 23,
         "engagement": 155,
@@ -287,6 +259,62 @@
           }
         ],
         "score": 70
+      },
+      {
+        "theme": "language",
+        "mentions": 16,
+        "engagement": 290,
+        "evidence": [
+          {
+            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
+            "url": "https://news.ycombinator.com/item?id=45086249",
+            "date": "2025-08-31"
+          },
+          {
+            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
+            "url": "https://news.ycombinator.com/item?id=46929160",
+            "date": "2026-02-07"
+          },
+          {
+            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
+            "url": "https://news.ycombinator.com/item?id=45075127",
+            "date": "2025-08-30"
+          },
+          {
+            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
+            "url": "https://news.ycombinator.com/item?id=49388758",
+            "date": "2026-08-21"
+          }
+        ],
+        "score": 69
+      },
+      {
+        "theme": "browser",
+        "mentions": 16,
+        "engagement": 287,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
+            "url": "https://news.ycombinator.com/item?id=48973899",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This looks a good idea to let people choose their preferred medium. I am not into video either, but I turned one of my latest blog article into a video using Cl",
+            "url": "https://news.ycombinator.com/item?id=49883122",
+            "date": "2026-09-28"
+          }
+        ],
+        "score": 69
       },
       {
         "theme": "them",
@@ -375,7 +403,7 @@
       {
         "theme": "life",
         "mentions": 14,
-        "engagement": 356,
+        "engagement": 354,
         "evidence": [
           {
             "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
@@ -401,34 +429,6 @@
         "score": 67
       },
       {
-        "theme": "language",
-        "mentions": 15,
-        "engagement": 290,
-        "evidence": [
-          {
-            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
-            "url": "https://news.ycombinator.com/item?id=45086249",
-            "date": "2025-08-31"
-          },
-          {
-            "text": "I would like to hijack the \"high level language\" term to mean dopamine hits from using an LLM. \"Generate a Frontend End for me now please so I don't need to thi",
-            "url": "https://news.ycombinator.com/item?id=46929160",
-            "date": "2026-02-07"
-          },
-          {
-            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
-            "url": "https://news.ycombinator.com/item?id=45075127",
-            "date": "2025-08-30"
-          },
-          {
-            "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
-            "url": "https://news.ycombinator.com/item?id=49388758",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 66
-      },
-      {
         "theme": "apps",
         "mentions": 18,
         "engagement": 194,
@@ -452,34 +452,6 @@
             "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
             "url": "https://news.ycombinator.com/item?id=47714893",
             "date": "2026-04-10"
-          }
-        ],
-        "score": 66
-      },
-      {
-        "theme": "different",
-        "mentions": 32,
-        "engagement": 70,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
           }
         ],
         "score": 66
@@ -539,6 +511,34 @@
           }
         ],
         "score": 66
+      },
+      {
+        "theme": "different",
+        "mentions": 31,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 65
       },
       {
         "theme": "research",
@@ -878,7 +878,7 @@
         "kind": "story",
         "text": "Show HN: I made a web app to bring children's drawings to life",
         "url": "https://news.ycombinator.com/item?id=42524848",
-        "engagement": 320,
+        "engagement": 318,
         "date": "2024-12-27",
         "query": "\"spend hours\""
       },
