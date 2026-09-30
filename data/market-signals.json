@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:13:28.892Z",
+  "generated_at": "2026-09-30T01:11:02.424Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -94,7 +94,7 @@
       },
       {
         "theme": "hours",
-        "mentions": 88,
+        "mentions": 89,
         "engagement": 11,
         "evidence": [
           {
@@ -118,11 +118,11 @@
             "date": "2026-03-06"
           }
         ],
-        "score": 96
+        "score": 97
       },
       {
         "theme": "spend",
-        "mentions": 85,
+        "mentions": 86,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 93
+        "score": 94
       },
       {
         "theme": "hate",
@@ -178,7 +178,7 @@
       },
       {
         "theme": "built",
-        "mentions": 25,
+        "mentions": 26,
         "engagement": 164,
         "evidence": [
           {
@@ -202,7 +202,7 @@
             "date": "2025-08-02"
           }
         ],
-        "score": 77
+        "score": 79
       },
       {
         "theme": "search",
@@ -231,6 +231,34 @@
           }
         ],
         "score": 72
+      },
+      {
+        "theme": "code",
+        "mentions": 46,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
+            "url": "https://news.ycombinator.com/item?id=47678065",
+            "date": "2026-04-07"
+          },
+          {
+            "text": "A noob question: is there a tool that automatically instructs Claude Code to \"continue\" when the token quota is reset after 5h? I am interested in that more tha",
+            "url": "https://news.ycombinator.com/item?id=47436574",
+            "date": "2026-03-19"
+          }
+        ],
+        "score": 70
       },
       {
         "theme": "language",
@@ -289,34 +317,6 @@
         "score": 69
       },
       {
-        "theme": "code",
-        "mentions": 45,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
-            "url": "https://news.ycombinator.com/item?id=47678065",
-            "date": "2026-04-07"
-          },
-          {
-            "text": "A noob question: is there a tool that automatically instructs Claude Code to \"continue\" when the token quota is reset after 5h? I am interested in that more tha",
-            "url": "https://news.ycombinator.com/item?id=47436574",
-            "date": "2026-03-19"
-          }
-        ],
-        "score": 69
-      },
-      {
         "theme": "it.",
         "mentions": 56,
         "engagement": 18,
@@ -345,57 +345,57 @@
         "score": 68
       },
       {
-        "theme": "launch",
-        "mentions": 11,
-        "engagement": 799,
+        "theme": "them",
+        "mentions": 67,
+        "engagement": 0,
         "evidence": [
           {
-            "text": "Being fast and having a power target doesn’t mean it’s cost efficient though. I would pay the launch cost for one, but not 3-4x inflated.",
-            "url": "https://news.ycombinator.com/item?id=49796708",
-            "date": "2026-09-22"
+            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
+            "url": "https://news.ycombinator.com/item?id=49878407",
+            "date": "2026-09-28"
           },
           {
-            "text": "My partial solution is to have the Android Zoom client on an idle tablet. Even though it is my office VOIP phone too, I power it off when I don't have meetings ",
-            "url": "https://news.ycombinator.com/item?id=49677927",
-            "date": "2026-09-12"
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
           },
           {
-            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-            "url": "https://news.ycombinator.com/item?id=45373008",
-            "date": "2025-09-25"
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
           },
           {
-            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-            "url": "https://news.ycombinator.com/item?id=44891090",
-            "date": "2025-08-13"
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
           }
         ],
-        "score": 68
+        "score": 67
       },
       {
-        "theme": "different",
-        "mentions": 33,
-        "engagement": 70,
+        "theme": "company",
+        "mentions": 30,
+        "engagement": 80,
         "evidence": [
           {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
           },
           {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
           },
           {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
           },
           {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
           }
         ],
         "score": 67
@@ -429,29 +429,29 @@
         "score": 67
       },
       {
-        "theme": "them",
-        "mentions": 66,
-        "engagement": 0,
+        "theme": "different",
+        "mentions": 32,
+        "engagement": 70,
         "evidence": [
           {
-            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
-            "url": "https://news.ycombinator.com/item?id=49878407",
-            "date": "2026-09-28"
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
           },
           {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
           },
           {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
           },
           {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
           }
         ],
         "score": 66
@@ -513,6 +513,34 @@
         "score": 64
       },
       {
+        "theme": "launch",
+        "mentions": 10,
+        "engagement": 799,
+        "evidence": [
+          {
+            "text": "Being fast and having a power target doesn’t mean it’s cost efficient though. I would pay the launch cost for one, but not 3-4x inflated.",
+            "url": "https://news.ycombinator.com/item?id=49796708",
+            "date": "2026-09-22"
+          },
+          {
+            "text": "My partial solution is to have the Android Zoom client on an idle tablet. Even though it is my office VOIP phone too, I power it off when I don't have meetings ",
+            "url": "https://news.ycombinator.com/item?id=49677927",
+            "date": "2026-09-12"
+          },
+          {
+            "text": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+            "url": "https://news.ycombinator.com/item?id=45373008",
+            "date": "2025-09-25"
+          },
+          {
+            "text": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+            "url": "https://news.ycombinator.com/item?id=44891090",
+            "date": "2025-08-13"
+          }
+        ],
+        "score": 64
+      },
+      {
         "theme": "system",
         "mentions": 25,
         "engagement": 92,
@@ -567,34 +595,6 @@
           }
         ],
         "score": 63
-      },
-      {
-        "theme": "company",
-        "mentions": 27,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 62
       },
       {
         "theme": "research",
@@ -709,6 +709,34 @@
         "score": 55
       },
       {
+        "theme": "writing",
+        "mentions": 20,
+        "engagement": 96,
+        "evidence": [
+          {
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
+          },
+          {
+            "text": "I like the codegen = power tools analogy to writing software. I didn't go to school for CS or adjacent: I went to art school 20 years ago for 'new media' which ",
+            "url": "https://news.ycombinator.com/item?id=49671766",
+            "date": "2026-09-12"
+          },
+          {
+            "text": "This looks like such a nice cli/tui talking/chat harness - an agent with which I can work on non-coding tasks (where it literally doesn't need any tool - maybe ",
+            "url": "https://news.ycombinator.com/item?id=49660743",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
+            "url": "https://news.ycombinator.com/item?id=47437681",
+            "date": "2026-03-19"
+          }
+        ],
+        "score": 55
+      },
+      {
         "theme": "world",
         "mentions": 26,
         "engagement": 58,
@@ -732,34 +760,6 @@
             "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
             "url": "https://news.ycombinator.com/item?id=48916578",
             "date": "2026-07-15"
-          }
-        ],
-        "score": 54
-      },
-      {
-        "theme": "writing",
-        "mentions": 19,
-        "engagement": 96,
-        "evidence": [
-          {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
-          },
-          {
-            "text": "I like the codegen = power tools analogy to writing software. I didn't go to school for CS or adjacent: I went to art school 20 years ago for 'new media' which ",
-            "url": "https://news.ycombinator.com/item?id=49671766",
-            "date": "2026-09-12"
-          },
-          {
-            "text": "This looks like such a nice cli/tui talking/chat harness - an agent with which I can work on non-coding tasks (where it literally doesn't need any tool - maybe ",
-            "url": "https://news.ycombinator.com/item?id=49660743",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
           }
         ],
         "score": 54
@@ -822,7 +822,7 @@
       },
       {
         "theme": "without",
-        "mentions": 44,
+        "mentions": 43,
         "engagement": 9,
         "evidence": [
           {
@@ -846,7 +846,7 @@
             "date": "2026-08-16"
           }
         ],
-        "score": 50
+        "score": 49
       }
     ],
     "loudest": [

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T19:12:40.341Z",
-  "scanned": 150,
-  "accepted": 38,
-  "refused_on_ethics": 9,
+  "generated_at": "2026-09-30T01:10:12.813Z",
+  "scanned": 148,
+  "accepted": 41,
+  "refused_on_ethics": 8,
   "jobs": [
     {
       "title": "Simple Microsoft Excel",
@@ -19,20 +19,6 @@
       "score": 560
     },
     {
-      "title": "Weekly Customer Contact Entry",
-      "url": "https://www.freelancer.com/projects/copywriting/weekly-customer-contact-entry",
-      "budget_raw": "$203 Average bid",
-      "desc": "Every week I receive a batch of PDF documents containing fresh customer contact information names, phone numbers, email addresses and mailing details that must be transferred into a clean, well-structured Excel spreadsheet. Your task is to extract the details accurately, standardise the formatting (",
-      "bids": 23,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 203,
-      "hourly": false,
-      "flags": [],
-      "score": 404
-    },
-    {
       "title": "Finance Lead-Gen Partnership Needed",
       "url": "https://www.freelancer.com/projects/finance/finance-lead-gen-partnership-needed",
       "budget_raw": "$83 Average bid",
@@ -45,6 +31,20 @@
       "hourly": false,
       "flags": [],
       "score": 350
+    },
+    {
+      "title": "Weekly Customer Contact Entry",
+      "url": "https://www.freelancer.com/projects/copywriting/weekly-customer-contact-entry",
+      "budget_raw": "$199 Average bid",
+      "desc": "Every week I receive a batch of PDF documents containing fresh customer contact information names, phone numbers, email addresses and mailing details that must be transferred into a clean, well-structured Excel spreadsheet. Your task is to extract the details accurately, standardise the formatting (",
+      "bids": 28,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 6,
+      "usd": 199,
+      "hourly": false,
+      "flags": [],
+      "score": 279
     },
     {
       "title": "WEB SCRAPE - INSOLVENCY REGISTER UK",
@@ -103,11 +103,25 @@
       "score": 93
     },
     {
+      "title": "Extract Developer Skills From LinkedIn Profiles",
+      "url": "https://www.freelancer.com/projects/data-extraction/extract-developer-skills-from-linkedin",
+      "budget_raw": "$4 / hr Average bid",
+      "desc": "I m expanding our candidate database and need a detail-oriented researcher to pull two focused data sets from LinkedIn profiles: Skills and their endorsement counts specific to Software Development Brief descriptions of any listed project experience No other profile elements are required names, cont",
+      "bids": 6,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 4,
+      "hourly": true,
+      "flags": [],
+      "score": 88
+    },
+    {
       "title": "Manual Data Entry From Digital Files",
       "url": "https://www.freelancer.com/projects/data-management/manual-data-entry-from-digital-40739752",
       "budget_raw": "$18 / hr Average bid",
       "desc": "I have 11-50 PDF and Word documents that must be re-keyed, cell-for-cell, into the spreadsheet template I will supply. Everything has to be done by hand no scripts or automated scraping so the final sheet mirrors the source files in content, spelling, and basic formatting. You will receive the files",
-      "bids": 38,
+      "bids": 40,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
@@ -149,7 +163,7 @@
       "url": "https://www.freelancer.com/projects/data-cleansing/spreadsheet-contact-extraction-project",
       "budget_raw": "$2 / hr Average bid",
       "desc": "I have a collection of spreadsheet files that contain rows of contact information mixed in with other data. I need every contact pulled out, cleaned up, and delivered back to me in a single, tidy file that I can drop straight into my CRM. Here s what I have in mind: Open each spreadsheet, locate eve",
-      "bids": 12,
+      "bids": 15,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
@@ -158,7 +172,7 @@
       "flags": [
         "date personale — verifică GDPR și sursa"
       ],
-      "score": 40
+      "score": 36
     },
     {
       "title": "Intermediate Data Analytics Online Training",
@@ -173,20 +187,6 @@
       "hourly": true,
       "flags": [],
       "score": 32
-    },
-    {
-      "title": "CSV Numerical Data to Excel",
-      "url": "https://www.freelancer.com/projects/data-analysis/csv-numerical-data-excel-40739475",
-      "budget_raw": "$173 Average bid",
-      "desc": "I have a batch of CSV files containing strictly numerical data that needs to be transferred into a clean, well-structured Microsoft Excel workbook. Your task is straightforward: import each CSV, double-check that every figure lands in the correct column, keep existing number formats intact, and flag",
-      "bids": 40,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 173,
-      "hourly": false,
-      "flags": [],
-      "score": 30
     },
     {
       "title": "Manual Website Text Entry",
@@ -231,88 +231,60 @@
       "score": 23
     },
     {
-      "title": "Website Contact Data Entry -- 2",
-      "url": "https://www.freelancer.com/projects/data-management/website-contact-data-entry",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a set of webpages that contain business contact details names, phone numbers, email addresses and, where available, postal addresses. I will supply the URLs and a blank Excel template; your task is pure online data entry: visit each link, extract the contact fields exactly as they appear, and",
-      "bids": 17,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 22
-    },
-    {
       "title": "Part-Time Admin Support Needed",
       "url": "https://www.freelancer.com/projects/google-sheets/part-time-admin-support-needed",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I need reliable, ongoing help a few hours per week to keep my back-office running smoothly. The role is purely administrative and centres on three routine duties: Entering data into spreadsheets with a high degree of accuracy Keeping my inbox organised flagging priority messages and drafting simple ",
-      "bids": 17,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 22
+      "score": 21
     },
     {
-      "title": "One P&L Statement for a Bank Loan",
-      "url": "https://www.freelancer.com/projects/accounting/one-statement-for-bank-loan",
-      "budget_raw": "$113 Average bid",
-      "desc": "I have complete tax returns and supporting schedules for the last three fiscal years and now need them converted into a clean, professional profit and loss statement in Excel. Each year should sit on its own sheet with properly grouped revenue, operating expenses, other income/expenses, and a clear ",
-      "bids": 38,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 113,
-      "hourly": false,
-      "flags": [],
-      "score": 20
-    },
-    {
-      "title": "Website Contact Data Entry",
-      "url": "https://www.freelancer.com/projects/data-annotation/website-contact-data-entry",
-      "budget_raw": "$8 / hr Average bid",
+      "title": "Website Contact Data Entry -- 2",
+      "url": "https://www.freelancer.com/projects/data-management/website-contact-data-entry",
+      "budget_raw": "$9 / hr Average bid",
       "desc": "I have a set of webpages that contain business contact details names, phone numbers, email addresses and, where available, postal addresses. I will supply the URLs and a blank Excel template; your task is pure online data entry: visit each link, extract the contact fields exactly as they appear, and",
-      "bids": 21,
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 8,
+      "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 16
+      "score": 19
     },
     {
       "title": "Convert PDF Forms to Excel",
       "url": "https://www.freelancer.com/projects/data-management/convert-pdf-forms-excel",
       "budget_raw": "$175 Average bid",
       "desc": "I have a collection of completed PDF forms that hold mixed data names, addresses, IDs, dates, quantities, dollar amounts everything a typical form can capture. I need every field moved accurately into an Excel workbook that is organised across multiple sheets. Think of one sheet per form type (or ot",
-      "bids": 33,
+      "bids": 37,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 175,
       "hourly": false,
       "flags": [],
-      "score": 16
+      "score": 14
     },
     {
-      "title": "PDF Tables to Formatted Excel",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-tables-formatted-excel",
-      "budget_raw": "$183 Average bid",
-      "desc": "I have a collection of PDFs that contain structured tables and accompanying charts. I need every table lifted from those files and placed into an Excel workbook so it mirrors the original layout row order, column widths, merged cells, borders, basic colours, and any percentage or currency formats mu",
-      "bids": 36,
+      "title": "JavaScript Study Assistance -- 2",
+      "url": "https://www.freelancer.com/projects/html/javascript-study-assistance",
+      "budget_raw": "$75 Average bid",
+      "desc": "I'm seeking a freelancer to help with JavaScript homework. Requirements: - Expertise in JavaScript, especially with Java HTML - Ability to explain concepts clearly - Experience with homework assistance Ideal Skills: - Proficiency in JavaScript - Strong communication skills - Prior tutoring or teachi",
+      "bids": 37,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 183,
+      "fit": 3,
+      "usd": 75,
       "hourly": false,
       "flags": [],
-      "score": 14
+      "score": 13
     },
     {
       "title": "Swiggy JSON Data Extraction Tool",
@@ -343,58 +315,100 @@
       "score": 12
     },
     {
-      "title": "Gephi Network Visualisation Research Project",
-      "url": "https://www.freelancer.com/projects/data-visualization/gephi-network-visualisation-research",
-      "budget_raw": "$19 Average bid",
-      "desc": "I am looking for someone experienced in Gephi and network analysis to create a clear, publication-quality actor network visualisation for a PhD research project. The dataset contains 15 households and approximately 20 25 nodes per household, including human, technological, material, environmental an",
-      "bids": 15,
+      "title": "GeetMP3 YouTube Channel Excel System",
+      "url": "https://www.freelancer.com/projects/data-management/geetmp-youtube-channel-excel-system",
+      "budget_raw": "$15 Average bid",
+      "desc": "Hi, We need a **professional and scalable Excel system specifically for the GeetMP3 YouTube Channel**. ### Required Excel Sheet Create one dedicated sheet for **GeetMP3** with a professional and clean format. ### Required Columns Sr. No. | Label | Release Date | Song Name | Album / Project | Content",
+      "bids": 8,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 19,
+      "usd": 15,
       "hourly": false,
       "flags": [],
       "score": 11
+    },
+    {
+      "title": "Populate Excel with Sales Data",
+      "url": "https://www.freelancer.com/projects/data-analysis/populate-excel-with-sales-data",
+      "budget_raw": "$23 Average bid",
+      "desc": "I have a freshly generated database export and I need that information transferred into a clean, well-structured Excel workbook. The export contains mixed data numbers such as quantities and totals alongside text like order IDs and customer names. Your task is simple but requires accuracy: pull only",
+      "bids": 20,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 23,
+      "hourly": false,
+      "flags": [],
+      "score": 10
+    },
+    {
+      "title": "Enterprise SaaS Analytics Platform",
+      "url": "https://www.freelancer.com/projects/data-analytics/enterprise-saas-analytics-platform",
+      "budget_raw": "$1118 Average bid",
+      "desc": "I m commissioning an enterprise-grade SaaS application whose primary purpose is data analytics. The platform must ingest large volumes of data, process it quickly, and surface insights through: Real-time reporting that refreshes instantly as new data lands Predictive analytics models that help users",
+      "bids": 27,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 1118,
+      "hourly": false,
+      "flags": [],
+      "score": 10
+    },
+    {
+      "title": "Gephi Network Visualisation Research Project",
+      "url": "https://www.freelancer.com/projects/data-visualization/gephi-network-visualisation-research",
+      "budget_raw": "$20 Average bid",
+      "desc": "I am looking for someone experienced in Gephi and network analysis to create a clear, publication-quality actor network visualisation for a PhD research project. The dataset contains 15 households and approximately 20 25 nodes per household, including human, technological, material, environmental an",
+      "bids": 21,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 20,
+      "hourly": false,
+      "flags": [],
+      "score": 9
     },
     {
       "title": "Mixed Data Transfer to Database",
       "url": "https://www.freelancer.com/projects/data-analysis/mixed-data-transfer-database",
       "budget_raw": "$18 Average bid",
       "desc": "I need help moving a collection of existing Excel spreadsheets containing both text and numerical fields into my central database. Your task is to take each file, check that every value matches the column headers provided, correct simple inconsistencies where they appear, and then import the cleaned",
-      "bids": 15,
+      "bids": 17,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 18,
       "hourly": false,
       "flags": [],
-      "score": 10
+      "score": 9
     },
     {
-      "title": "GeetMP3 YouTube Channel Excel System",
-      "url": "https://www.freelancer.com/projects/data-management/geetmp-youtube-channel-excel-system",
-      "budget_raw": "$10 Average bid",
-      "desc": "Hi, We need a **professional and scalable Excel system specifically for the GeetMP3 YouTube Channel**. ### Required Excel Sheet Create one dedicated sheet for **GeetMP3** with a professional and clean format. ### Required Columns Sr. No. | Label | Release Date | Song Name | Album / Project | Content",
-      "bids": 6,
+      "title": "Word Document Data Entry",
+      "url": "https://www.freelancer.com/projects/data-entry/word-document-data-entry-40741262",
+      "budget_raw": "$17 / hr Average bid",
+      "desc": "I need up to 50 pages of source material re-typed manually into Microsoft Word. Accuracy comes first, so please avoid OCR or automated copy-paste solutions; I want a clean, mistake-free transcription that mirrors the original text exactly. Only standard text formatting is required consistent fonts, ",
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 10,
-      "hourly": false,
+      "fit": 1,
+      "usd": 17,
+      "hourly": true,
       "flags": [],
       "score": 8
     },
     {
-      "title": "Provide Bulk Outlook Accounts",
-      "url": "https://www.freelancer.com/projects/email-marketing/provide-bulk-outlook-accounts",
-      "budget_raw": "$21 Average bid",
-      "desc": "I need between 100 and 500 fresh Outlook email accounts, all created within the past week and able to pass Microsoft s standard security checks. Please deliver a spreadsheet (CSV or Excel) containing for each account: Outlook address Password The same recovery email address I will supply once we sta",
-      "bids": 9,
+      "title": "Audio Speaker Identification Annotation -- 2",
+      "url": "https://www.freelancer.com/projects/audio-editing/audio-speaker-identification-annotation",
+      "budget_raw": "$7 / hr Average bid",
+      "desc": "I need help turning a batch of raw recordings into clean, speaker-labelled data. Every file already carries basic metadata; what is missing is precise speaker identification. Your task is to listen through each track, mark the start- and end-times whenever a new voice begins, and assign a consistent",
+      "bids": 2,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 21,
-      "hourly": false,
+      "fit": 1,
+      "usd": 7,
+      "hourly": true,
       "flags": [],
       "score": 7
     },
@@ -413,18 +427,18 @@
       "score": 7
     },
     {
-      "title": "Remove Nulls & Duplicates (MySQL)",
-      "url": "https://www.freelancer.com/projects/database-management/remove-nulls-duplicates-mysql",
-      "budget_raw": "$12 Average bid",
-      "desc": "I have a MySQL database that holds a mix of text and numerical fields, and it needs a quick yet thorough clean-up. The goals are simple: Identify every record containing NULL values and either replace those NULLs with the appropriate defaults or remove the rows when a sensible default is impossible.",
-      "bids": 15,
+      "title": "Provide Bulk Outlook Accounts",
+      "url": "https://www.freelancer.com/projects/email-marketing/provide-bulk-outlook-accounts",
+      "budget_raw": "$21 Average bid",
+      "desc": "I need between 100 and 500 fresh Outlook email accounts, all created within the past week and able to pass Microsoft s standard security checks. Please deliver a spreadsheet (CSV or Excel) containing for each account: Outlook address Password The same recovery email address I will supply once we sta",
+      "bids": 13,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 12,
+      "fit": 2,
+      "usd": 21,
       "hourly": false,
       "flags": [],
-      "score": 7
+      "score": 6
     },
     {
       "title": "PDF to Word Conversion & Spellcheck",
@@ -443,13 +457,13 @@
     {
       "title": "PDF Text to Excel Transfer",
       "url": "https://www.freelancer.com/projects/data-management/pdf-text-excel-transfer-40740733",
-      "budget_raw": "$56 Average bid",
+      "budget_raw": "$52 Average bid",
       "desc": "I have a PDF document that contains only text fields, and I need every entry moved into an Excel spreadsheet while preserving the column structure and styling I ll share with you up front. This means matching header names, keeping specified column widths, applying the designated fonts and cell forma",
-      "bids": 34,
+      "bids": 40,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 56,
+      "usd": 52,
       "hourly": false,
       "flags": [],
       "score": 4
@@ -481,6 +495,34 @@
       "hourly": false,
       "flags": [],
       "score": 4
+    },
+    {
+      "title": "Remove Nulls & Duplicates (MySQL)",
+      "url": "https://www.freelancer.com/projects/database-management/remove-nulls-duplicates-mysql",
+      "budget_raw": "$12 Average bid",
+      "desc": "I have a MySQL database that holds a mix of text and numerical fields, and it needs a quick yet thorough clean-up. The goals are simple: Identify every record containing NULL values and either replace those NULLs with the appropriate defaults or remove the rows when a sensible default is impossible.",
+      "bids": 24,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 12,
+      "hourly": false,
+      "flags": [],
+      "score": 4
+    },
+    {
+      "title": "Retail Financial Reporting Executive",
+      "url": "https://www.freelancer.com/projects/data-analysis/retail-financial-reporting-executive",
+      "budget_raw": "$6545 Average bid",
+      "desc": "I m looking for an accounts-savvy professional who can take full charge of our retail financial reporting cycle. Your main focus will be producing an accurate, insight-driven monthly Income Statement that helps me see exactly how each store, product line, and promotion is performing. Here s what the",
+      "bids": 20,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 6545,
+      "hourly": false,
+      "flags": [],
+      "score": 3
     },
     {
       "title": "Hindi & Sanskrit Answer Sheet Grading",
@@ -523,20 +565,6 @@
       "hourly": false,
       "flags": [],
       "score": 1
-    },
-    {
-      "title": "EU GDPR Representative Needed (EU Based)",
-      "url": "https://www.freelancer.com/projects/compliance/gdpr-representative-needed",
-      "budget_raw": "$41568 Average bid",
-      "desc": "Gevelopers LLC is hiring an EU GDPR Representative (EU Based only) to act as our official legal point of contact within the European Union, fulfilling our obligations under Article 27 of the EU GDPR. As a non-EU entity processing the personal data of European residents, we require a reliable complia",
-      "bids": 9,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 41568,
-      "hourly": false,
-      "flags": [],
-      "score": 1
     }
   ],
   "refused": [
@@ -558,10 +586,6 @@
     },
     {
       "title": "Curated US CPA Leads Needed",
-      "reason": "listă masivă de date personale — GDPR și spam"
-    },
-    {
-      "title": "B2B Lead List Builder",
       "reason": "listă masivă de date personale — GDPR și spam"
     },
     {
