@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:11:02.815Z",
+  "generated_at": "2026-10-01T12:42:25.899Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -317,34 +317,6 @@
         "score": 68
       },
       {
-        "theme": "company",
-        "mentions": 30,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 67
-      },
-      {
         "theme": "life",
         "mentions": 14,
         "engagement": 354,
@@ -396,34 +368,6 @@
             "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
             "url": "https://news.ycombinator.com/item?id=49388758",
             "date": "2026-08-21"
-          }
-        ],
-        "score": 66
-      },
-      {
-        "theme": "them",
-        "mentions": 66,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
-            "url": "https://news.ycombinator.com/item?id=49878407",
-            "date": "2026-09-28"
-          },
-          {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
           }
         ],
         "score": 66
@@ -483,6 +427,62 @@
           }
         ],
         "score": 66
+      },
+      {
+        "theme": "them",
+        "mentions": 65,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
+            "url": "https://news.ycombinator.com/item?id=49878407",
+            "date": "2026-09-28"
+          },
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
+          }
+        ],
+        "score": 65
+      },
+      {
+        "theme": "company",
+        "mentions": 29,
+        "engagement": 80,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
+          },
+          {
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
+          }
+        ],
+        "score": 65
       },
       {
         "theme": "apps",
