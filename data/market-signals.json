@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T12:42:25.899Z",
+  "generated_at": "2026-10-01T19:21:49.963Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1103,
+    "signals_total": 1102,
     "themes": [
       {
         "theme": "app",
@@ -373,29 +373,29 @@
         "score": 66
       },
       {
-        "theme": "different",
-        "mentions": 32,
-        "engagement": 70,
+        "theme": "stop",
+        "mentions": 17,
+        "engagement": 215,
         "evidence": [
           {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
           },
           {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
           },
           {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
           },
           {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
+            "text": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a pro",
+            "url": "https://news.ycombinator.com/item?id=49882007",
+            "date": "2026-09-28"
           }
         ],
         "score": 66
@@ -485,6 +485,34 @@
         "score": 65
       },
       {
+        "theme": "different",
+        "mentions": 31,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 65
+      },
+      {
         "theme": "apps",
         "mentions": 17,
         "engagement": 194,
@@ -536,34 +564,6 @@
             "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
             "url": "https://news.ycombinator.com/item?id=49260810",
             "date": "2026-08-11"
-          }
-        ],
-        "score": 63
-      },
-      {
-        "theme": "stop",
-        "mentions": 16,
-        "engagement": 215,
-        "evidence": [
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a pro",
-            "url": "https://news.ycombinator.com/item?id=49882007",
-            "date": "2026-09-28"
           }
         ],
         "score": 63
