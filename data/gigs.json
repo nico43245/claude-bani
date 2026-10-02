@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T19:21:03.426Z",
-  "scanned": 164,
-  "accepted": 40,
+  "generated_at": "2026-10-02T01:23:43.904Z",
+  "scanned": 166,
+  "accepted": 41,
   "refused_on_ethics": 4,
   "jobs": [
     {
@@ -19,18 +19,18 @@
       "score": 560
     },
     {
-      "title": "PhoneHub AI-Powered E-commerce Platform",
-      "url": "https://www.freelancer.com/projects/fastapi/phonehub-powered-commerce-platform",
-      "budget_raw": "$135 Average bid",
-      "desc": "I m putting together a full-stack e-commerce application, PhoneHub, and I need an experienced developer who can take it from architecture to deployment. The storefront will run on React + Vite with Tailwind CSS for styling, while the API layer will rely on Python, FastAPI, and SQLModel. Key piece of",
-      "bids": 24,
+      "title": "Python Developer for Algo Trading System",
+      "url": "https://www.freelancer.com/projects/algorithmic-trading/python-developer-for-algo-trading",
+      "budget_raw": "$112 Average bid",
+      "desc": "Python Developer Needed for Dhan API Algo Trading System Looking for an experienced Python developer with Dhan API expertise to build a complete automated trading system from scratch. Scope: Set up Python environment and Dhan API integration. Configure real-time market data using WebSockets. Develop",
+      "bids": null,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
-      "usd": 135,
+      "usd": 112,
       "hourly": false,
       "flags": [],
-      "score": 176
+      "score": 218
     },
     {
       "title": "WEB SCRAPE - INSOLVENCY REGISTER UK",
@@ -47,6 +47,20 @@
       "score": 175
     },
     {
+      "title": "PhoneHub AI-Powered E-commerce Platform",
+      "url": "https://www.freelancer.com/projects/fastapi/phonehub-powered-commerce-platform",
+      "budget_raw": "$135 Average bid",
+      "desc": "I m putting together a full-stack e-commerce application, PhoneHub, and I need an experienced developer who can take it from architecture to deployment. The storefront will run on React + Vite with Tailwind CSS for styling, while the API layer will rely on Python, FastAPI, and SQLModel. Key piece of",
+      "bids": 25,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 135,
+      "hourly": false,
+      "flags": [],
+      "score": 165
+    },
+    {
       "title": "Automated Ant Colony Monitoring & Content Generation",
       "url": "https://www.freelancer.com/projects/raspberry-pi/automated-ant-colony-monitoring-content",
       "budget_raw": "$135 Average bid",
@@ -61,46 +75,32 @@
       "score": 119
     },
     {
-      "title": "PDF Form Data to Excel",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-form-data-excel",
-      "budget_raw": "$18 / hr Average bid",
-      "desc": "I have a batch of completed forms saved as PDFs and I need every field transferred accurately into an Excel workbook. The PDFs all follow the same basic layout, so once the first document is mapped the rest should flow with a repeatable process. Feel free to use Adobe Acrobat scripting, Power Query,",
-      "bids": 36,
+      "title": "Spreadsheet Data Entry from Scans",
+      "url": "https://www.freelancer.com/projects/google-sheets/spreadsheet-data-entry-from-scans-40744977",
+      "budget_raw": "$37 / hr Average bid",
+      "desc": "I have a set of scanned documents each page is a block of text rather than tables or forms and I need that information transferred accurately into a spreadsheet. Your task is straightforward: read each paragraph, extract the required fields I ll specify (e.g., heading, key figures, citations), and e",
+      "bids": 13,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 6,
-      "usd": 18,
+      "fit": 2,
+      "usd": 37,
       "hourly": true,
       "flags": [],
-      "score": 101
+      "score": 104
     },
     {
       "title": "PDF Text to Spreadsheet",
       "url": "https://www.freelancer.com/projects/data-entry/pdf-text-spreadsheet-40744777",
-      "budget_raw": "$8 / hr Average bid",
+      "budget_raw": "$9 / hr Average bid",
       "desc": "I have a batch of typed documents mainly PDFs and the odd Word file that need to be transferred into a clean, well-structured spreadsheet. All the content is plain text; no numeric calculations or formulas are involved, just accurate transcription and tidy formatting. You will receive the source fil",
-      "bids": 7,
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 8,
+      "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 62
-    },
-    {
-      "title": "Spreadsheet Data Entry from Scans",
-      "url": "https://www.freelancer.com/projects/google-sheets/spreadsheet-data-entry-from-scans-40744977",
-      "budget_raw": "$15 / hr Average bid",
-      "desc": "I have a set of scanned documents each page is a block of text rather than tables or forms and I need that information transferred accurately into a spreadsheet. Your task is straightforward: read each paragraph, extract the required fields I ll specify (e.g., heading, key figures, citations), and e",
-      "bids": 2,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 15,
-      "hourly": true,
-      "flags": [],
-      "score": 59
+      "score": 61
     },
     {
       "title": "Automated 1,000 Daily YouTube Ad Views",
@@ -131,34 +131,46 @@
       "score": 41
     },
     {
+      "title": "Automated YouTube Content Generator Development",
+      "url": "https://www.freelancer.com/projects/ai-image-generation/automated-youtube-content-generator",
+      "budget_raw": "$94 Average bid",
+      "desc": "I am looking for an experienced Python/AI Automation developer to build an automated YouTube content generation system hosted on my existing Hostinger VPS. The system will initially manage 2 YouTube channels from one central dashboard. Channel 1 Kids Stories & Rhymes The system should automatically:",
+      "bids": 32,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 4,
+      "usd": 94,
+      "hourly": false,
+      "flags": [],
+      "score": 39
+    },
+    {
+      "title": "Tradetron EMA Scalping Strategy",
+      "url": "https://www.freelancer.com/projects/python/tradetron-ema-scalping-strategy",
+      "budget_raw": "$47 Average bid",
+      "desc": "I have a concise scalping concept for stocks and need it hard-coded into Tradetron. The entire logic rests on Exponential Moving Averages no RSI, MACD, or other filters so the job is straightforward for someone who already understands Tradetron s condition builder or its Python-enabled custom code b",
+      "bids": 13,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 47,
+      "hourly": false,
+      "flags": [],
+      "score": 37
+    },
+    {
       "title": "Expand Data Visualizations & Integrations -- 2",
       "url": "https://www.freelancer.com/projects/data-visualization/expand-data-visualizations-integrations",
       "budget_raw": "$221 Average bid",
       "desc": "I run the Streamlit application at and I m ready to take it beyond simple charts. The priority is to introduce richer, more flexible data-visualization options so users can explore insights from multiple angles without leaving the app. Think along the lines of Plotly, Altair, or Bokeh for interactiv",
-      "bids": 27,
+      "bids": 28,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 221,
       "hourly": false,
       "flags": [],
-      "score": 37
-    },
-    {
-      "title": "MACT Lawyers Phone Scraping",
-      "url": "https://www.freelancer.com/projects/data-scraping/mact-lawyers-phone-scraping",
-      "budget_raw": "$12 Average bid",
-      "desc": "I need a clean, well-structured spreadsheet that lists lawyers who handle MACT (Motor Accident Claims Tribunal) matters, along with their direct phone numbers. Only phone numbers are required no emails, addresses or other details so the file stays focused and easy to act on. Your sources should incl",
-      "bids": 7,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 12,
-      "hourly": false,
-      "flags": [
-        "date personale — verifică GDPR și sursa"
-      ],
-      "score": 36
+      "score": 34
     },
     {
       "title": "Excel Visualization Tutor Needed",
@@ -175,17 +187,19 @@
       "score": 34
     },
     {
-      "title": "Excel Data Management Formula Support",
-      "url": "https://www.freelancer.com/projects/data-management/excel-data-management-formula-support",
-      "budget_raw": "$193 Average bid",
-      "desc": "I m working on an Excel workbook that stores and organises large volumes of GST- and TDS-related figures. The structure is solid data validation, filters, sorting and some conditional formatting are already in place but the heart of the file, the formulas and functions, now need a careful audit and ",
-      "bids": 27,
+      "title": "MACT Lawyers Phone Scraping",
+      "url": "https://www.freelancer.com/projects/data-scraping/mact-lawyers-phone-scraping",
+      "budget_raw": "$12 Average bid",
+      "desc": "I need a clean, well-structured spreadsheet that lists lawyers who handle MACT (Motor Accident Claims Tribunal) matters, along with their direct phone numbers. Only phone numbers are required no emails, addresses or other details so the file stays focused and easy to act on. Your sources should incl",
+      "bids": 9,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 193,
+      "fit": 6,
+      "usd": 12,
       "hourly": false,
-      "flags": [],
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
       "score": 33
     },
     {
@@ -199,20 +213,6 @@
       "fit": 2,
       "usd": 11,
       "hourly": true,
-      "flags": [],
-      "score": 32
-    },
-    {
-      "title": "Enter Mixed Data From Scans",
-      "url": "https://www.freelancer.com/projects/data-annotation/enter-mixed-data-from-scans",
-      "budget_raw": "$178 Average bid",
-      "desc": "I have a set of scanned copies of paper documents that contain both text and numerical fields. I need every character words, figures, dates, codes typed with absolute accuracy into a digital format of my choosing (most likely an Excel sheet or Google Sheet, though I m open to your suggestion if you ",
-      "bids": 26,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 178,
-      "hourly": false,
       "flags": [],
       "score": 32
     },
@@ -245,15 +245,29 @@
       "score": 28
     },
     {
-      "title": "Python CAD Automation for 2D Drawings",
-      "url": "https://www.freelancer.com/projects/cad-solidworks/python-cad-automation-for-drawings",
-      "budget_raw": "$114 Average bid",
-      "desc": "I am looking for a freelancer to complete a Python-based automated workflow that generates 2D engineering drawings from STEP (.step / .stp) files. The solution needs to cover the following geometries and features: pipes (round, rectangular, oval, stadium), bars (H-bar, T-bar, L-bar, I-bar, O-bar, C-",
-      "bids": 32,
+      "title": "Enter Mixed Data From Scans",
+      "url": "https://www.freelancer.com/projects/data-annotation/enter-mixed-data-from-scans",
+      "budget_raw": "$179 Average bid",
+      "desc": "I have a set of scanned copies of paper documents that contain both text and numerical fields. I need every character words, figures, dates, codes typed with absolute accuracy into a digital format of my choosing (most likely an Excel sheet or Google Sheet, though I m open to your suggestion if you ",
+      "bids": 28,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 114,
+      "fit": 2,
+      "usd": 179,
+      "hourly": false,
+      "flags": [],
+      "score": 28
+    },
+    {
+      "title": "Excel Data Management Formula Support",
+      "url": "https://www.freelancer.com/projects/data-management/excel-data-management-formula-support",
+      "budget_raw": "$189 Average bid",
+      "desc": "I m working on an Excel workbook that stores and organises large volumes of GST- and TDS-related figures. The structure is solid data validation, filters, sorting and some conditional formatting are already in place but the heart of the file, the formulas and functions, now need a careful audit and ",
+      "bids": 29,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 189,
       "hourly": false,
       "flags": [],
       "score": 27
@@ -273,6 +287,34 @@
       "score": 23
     },
     {
+      "title": "Python CAD Automation for 2D Drawings",
+      "url": "https://www.freelancer.com/projects/cad-solidworks/python-cad-automation-for-drawings",
+      "budget_raw": "$113 Average bid",
+      "desc": "I am looking for a freelancer to complete a Python-based automated workflow that generates 2D engineering drawings from STEP (.step / .stp) files. The solution needs to cover the following geometries and features: pipes (round, rectangular, oval, stadium), bars (H-bar, T-bar, L-bar, I-bar, O-bar, C-",
+      "bids": 33,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 113,
+      "hourly": false,
+      "flags": [],
+      "score": 23
+    },
+    {
+      "title": "Transcribe Paper Text to Excel",
+      "url": "https://www.freelancer.com/projects/data-management/transcribe-paper-text-excel",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have several pages of printed material that I need transferred into an Excel workbook. The content is strictly text there are no numbers to sum, formulas to build, or special formatting tricks required. I simply want the words on the page reproduced accurately in a spreadsheet so I can search and ",
+      "bids": 17,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 22
+    },
+    {
       "title": "Convert PDF Tables to Spreadsheet",
       "url": "https://www.freelancer.com/projects/adobe-acrobat/convert-pdf-tables-spreadsheet",
       "budget_raw": "$169 Average bid",
@@ -287,46 +329,32 @@
       "score": 22
     },
     {
-      "title": "Transcribe Paper Text to Excel",
-      "url": "https://www.freelancer.com/projects/data-management/transcribe-paper-text-excel",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I have several pages of printed material that I need transferred into an Excel workbook. The content is strictly text there are no numbers to sum, formulas to build, or special formatting tricks required. I simply want the words on the page reproduced accurately in a spreadsheet so I can search and ",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 21
-    },
-    {
-      "title": "Myntra Excel-to-CSV VBA Automation",
-      "url": "https://www.freelancer.com/projects/excel-vba/myntra-excel-csv-vba-automation",
-      "budget_raw": "$15 Average bid",
-      "desc": "I maintain large Excel files exported from Myntra and need them transformed into clean, ready-to-upload CSVs at the click of a button. The work is strictly re-organising: reshuffle columns into a fixed layout, normalise headers, drop unused rows, and save each sheet (or a consolidated range, if easi",
-      "bids": 29,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 15,
-      "hourly": false,
-      "flags": [],
-      "score": 15
-    },
-    {
       "title": "Website Contact Data Entry -- 2",
       "url": "https://www.freelancer.com/projects/data-management/website-contact-data-entry",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a set of webpages that contain business contact details names, phone numbers, email addresses and, where available, postal addresses. I will supply the URLs and a blank Excel template; your task is pure online data entry: visit each link, extract the contact fields exactly as they appear, and",
-      "bids": 26,
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 13
+      "score": 12
+    },
+    {
+      "title": "Myntra Excel-to-CSV VBA Automation",
+      "url": "https://www.freelancer.com/projects/excel-vba/myntra-excel-csv-vba-automation",
+      "budget_raw": "$15 Average bid",
+      "desc": "I maintain large Excel files exported from Myntra and need them transformed into clean, ready-to-upload CSVs at the click of a button. The work is strictly re-organising: reshuffle columns into a fixed layout, normalise headers, drop unused rows, and save each sheet (or a consolidated range, if easi",
+      "bids": 31,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 6,
+      "usd": 15,
+      "hourly": false,
+      "flags": [],
+      "score": 12
     },
     {
       "title": "Error-Free Data Sheet Organization",
@@ -357,43 +385,15 @@
       "score": 10
     },
     {
-      "title": "Comprehensive Financial Analysis Review",
-      "url": "https://www.freelancer.com/projects/accounting/comprehensive-financial-analysis-review",
-      "budget_raw": "$104 Average bid",
-      "desc": "I need a clear, data-driven picture of how my business is really performing. All bookkeeping is already up to date in Excel and QuickBooks; what I lack is an expert eye to turn those raw numbers into insight. Your task is to dig into the financials, run the appropriate ratios and trend comparisons, ",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 104,
-      "hourly": false,
-      "flags": [],
-      "score": 8
-    },
-    {
-      "title": "Freelance Bidder & Portfolio Manager Needed",
-      "url": "https://www.freelancer.com/projects/chatbot/freelance-bidder-portfolio-manager",
-      "budget_raw": "$26 Average bid",
-      "desc": "I m looking for a Freelance Bidder & Portfolio Manager to help me find relevant projects on Freelancer.com, write targeted proposals, and organize/improve my existing portfolio. The projects will mainly be related to AI & Data Science, Python, Machine Learning, AI Automation, Chatbots, Computer Visi",
-      "bids": 31,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 26,
-      "hourly": false,
-      "flags": [],
-      "score": 7
-    },
-    {
       "title": "macOS iMessage Automation System",
       "url": "https://www.freelancer.com/projects/applescript/macos-imessage-automation-system",
-      "budget_raw": "$19576 Average bid",
+      "budget_raw": "$19708 Average bid",
       "desc": "I need an experienced macOS automation developer who can design and build a distributed iMessage-only scheduling and delivery system. First, I d like a concise technical assessment and proposed architecture; once approved, we ll move on to full implementation. Core features I m aiming for Handle mul",
       "bids": 23,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 19576,
+      "usd": 19708,
       "hourly": false,
       "flags": [],
       "score": 7
@@ -413,25 +413,11 @@
       "score": 7
     },
     {
-      "title": "Compile GST Refund Claim Data",
-      "url": "https://www.freelancer.com/projects/data-analysis/compile-gst-refund-claim-data",
-      "budget_raw": "$68 Average bid",
-      "desc": "I need a clean, audit-ready data pack to support an inverted duty structure refund claim under GST. All of the raw information already sits inside Tally; what s missing is a well-organised export of every Purchase Order, Sales Invoice and Tax Payment Receipt for the chosen tax period, matched and re",
-      "bids": 14,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 68,
-      "hourly": false,
-      "flags": [],
-      "score": 6
-    },
-    {
       "title": "Convert PDF Form Data to Excel",
       "url": "https://www.freelancer.com/projects/data-analysis/convert-pdf-form-data-excel",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a small batch of PDF forms fewer than ten that contain a mix of text and numerical fields. I need every field captured with absolute accuracy in an Excel workbook so the information can be filtered and analyzed later. Please mirror the structure of each form: every unique field should map to ",
-      "bids": 35,
+      "bids": 36,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
@@ -441,32 +427,46 @@
       "score": 6
     },
     {
-      "title": "PDF to Word Conversion & Spellcheck",
-      "url": "https://www.freelancer.com/projects/copy-typing/pdf-word-conversion-spellcheck",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have several official documents in PDF that need to become clean, editable Word files (.docx). After converting, run a basic spell-check using Indian English conventions and correct any clear typos you don t have to dive into full grammar or style edits. Keep the layout simple: headings, paragraph",
-      "bids": 13,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 6
-    },
-    {
       "title": "Power BI Developer for Telecom Analytics",
       "url": "https://www.freelancer.com/projects/power-bi/power-developer-for-telecom-analytics",
-      "budget_raw": "$85 Average bid",
+      "budget_raw": "$87 Average bid",
       "desc": "We are looking for an experienced Power BI developer to build an interactive, drill-through-based analytics solution for a Telecom project. The objective is to create something that feels more like an interactive analytics tool/application than a traditional Power BI dashboard. Users should be able ",
-      "bids": 21,
+      "bids": 23,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 85,
+      "usd": 87,
       "hourly": false,
       "flags": [],
       "score": 5
+    },
+    {
+      "title": "Compile GST Refund Claim Data",
+      "url": "https://www.freelancer.com/projects/data-analysis/compile-gst-refund-claim-data",
+      "budget_raw": "$70 Average bid",
+      "desc": "I need a clean, audit-ready data pack to support an inverted duty structure refund claim under GST. All of the raw information already sits inside Tally; what s missing is a well-organised export of every Purchase Order, Sales Invoice and Tax Payment Receipt for the chosen tax period, matched and re",
+      "bids": 16,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 70,
+      "hourly": false,
+      "flags": [],
+      "score": 5
+    },
+    {
+      "title": "Freelance Bidder & Portfolio Manager Needed",
+      "url": "https://www.freelancer.com/projects/chatbot/freelance-bidder-portfolio-manager",
+      "budget_raw": "$25 Average bid",
+      "desc": "I m looking for a Freelance Bidder & Portfolio Manager to help me find relevant projects on Freelancer.com, write targeted proposals, and organize/improve my existing portfolio. The projects will mainly be related to AI & Data Science, Python, Machine Learning, AI Automation, Chatbots, Computer Visi",
+      "bids": 35,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 25,
+      "hourly": false,
+      "flags": [],
+      "score": 4
     },
     {
       "title": "Excel Formula Setup & PDF Conversion",
@@ -487,14 +487,14 @@
       "url": "https://www.freelancer.com/projects/data-entry/pdf-text-tables-conversion",
       "budget_raw": "$17 Average bid",
       "desc": "I have a PDF full of paragraphs, images, and several tables. I need every paragraph re-typed into a clean, editable Word document while keeping the original formatting. The tables should not be recreated inside Word; instead, convert each one into a separate, well-structured Excel sheet so I can wor",
-      "bids": 33,
+      "bids": 34,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 17,
       "hourly": false,
       "flags": [],
-      "score": 3
+      "score": 2
     },
     {
       "title": "Batch Maintenance Software Development",
@@ -529,7 +529,7 @@
       "url": "https://www.freelancer.com/projects/api/tiktok-phone-username-privacy-audit",
       "budget_raw": "$24 Average bid",
       "desc": "I need a clear, reproducible assessment that proves (or disproves) whether a phone number can be turned into a TikTok username and, in the process, expose personal information such as a user s name or email. My goal is to understand the extent of this user-data exposure and verify whether the curren",
-      "bids": 26,
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -553,18 +553,18 @@
       "score": 1
     },
     {
-      "title": "WTR-Lab Telegram Bot",
-      "url": "https://www.freelancer.com/projects/web-scraping/wtr-lab-telegram-bot",
-      "budget_raw": "$18 Average bid",
-      "desc": "I need a straightforward Telegram bot that accepts a WTR-Lab novel or chapter URL, fetches any publicly accessible or authorised content, converts it to a clean TXT file, and drops that file straight back into the chat while showing a simple progress notice along the way. The bot must run happily in",
-      "bids": 33,
+      "title": "Manufacturing SOP Development & Documentation",
+      "url": "https://www.freelancer.com/projects/manufacturing/manufacturing-sop-development",
+      "budget_raw": "$11 Average bid",
+      "desc": "I m looking for a specialist who lives and breathes Quality Documentation to bring our manufacturing processes under one clear, compliant roof. The immediate focus is on our Standard Operating Procedures (SOPs) from gathering shop-floor know-how through to producing clean, audit-ready documents that",
+      "bids": 2,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 18,
+      "usd": 11,
       "hourly": false,
       "flags": [],
-      "score": 0
+      "score": 1
     }
   ],
   "refused": [
