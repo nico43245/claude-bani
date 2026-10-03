@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T19:05:10.457Z",
+  "generated_at": "2026-10-03T01:02:05.876Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -150,7 +150,7 @@
       },
       {
         "theme": "hate",
-        "mentions": 77,
+        "mentions": 78,
         "engagement": 13,
         "evidence": [
           {
@@ -174,7 +174,7 @@
             "date": "2026-09-09"
           }
         ],
-        "score": 86
+        "score": 87
       },
       {
         "theme": "built",
@@ -315,34 +315,6 @@
           }
         ],
         "score": 69
-      },
-      {
-        "theme": "life",
-        "mentions": 14,
-        "engagement": 354,
-        "evidence": [
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "There's few things where the drop in quality is astronomical, one of them being clothing. Clothes used to last a life time till few decades ago. Right now you b",
-            "url": "https://news.ycombinator.com/item?id=49710194",
-            "date": "2026-09-15"
-          },
-          {
-            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
-            "url": "https://news.ycombinator.com/item?id=49701697",
-            "date": "2026-09-14"
-          },
-          {
-            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
-            "url": "https://news.ycombinator.com/item?id=49384698",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 67
       },
       {
         "theme": "language",
@@ -508,6 +480,34 @@
             "text": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a pro",
             "url": "https://news.ycombinator.com/item?id=49882007",
             "date": "2026-09-28"
+          }
+        ],
+        "score": 63
+      },
+      {
+        "theme": "life",
+        "mentions": 13,
+        "engagement": 354,
+        "evidence": [
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "There's few things where the drop in quality is astronomical, one of them being clothing. Clothes used to last a life time till few decades ago. Right now you b",
+            "url": "https://news.ycombinator.com/item?id=49710194",
+            "date": "2026-09-15"
+          },
+          {
+            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
+            "url": "https://news.ycombinator.com/item?id=49701697",
+            "date": "2026-09-14"
+          },
+          {
+            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
+            "url": "https://news.ycombinator.com/item?id=49384698",
+            "date": "2026-08-21"
           }
         ],
         "score": 63
@@ -1017,9 +1017,9 @@
     "subjects": [
       {
         "subject": "excel",
-        "queries": 31,
+        "queries": 32,
         "seed_spread": 9,
-        "avg_branches": 9,
+        "avg_branches": 9.1,
         "examples": [
           "excel template for budget",
           "excel template for project management",
@@ -1027,27 +1027,13 @@
           "excel template for job application tracking",
           "excel template for bills and payments"
         ],
-        "score": 964
-      },
-      {
-        "subject": "budget",
-        "queries": 26,
-        "seed_spread": 7,
-        "avg_branches": 9.7,
-        "examples": [
-          "excel template for budget",
-          "excel template for expense tracking",
-          "google sheets template for budget",
-          "google sheets template for business expenses",
-          "google sheets template for small business bookkeeping"
-        ],
-        "score": 645
+        "score": 1001
       },
       {
         "subject": "spreadsheet",
         "queries": 31,
         "seed_spread": 6,
-        "avg_branches": 9,
+        "avg_branches": 9.2,
         "examples": [
           "excel template for project management",
           "excel template for small business accounting",
@@ -1055,11 +1041,25 @@
           "excel template for expense tracking",
           "google sheets template for tracking expenses"
         ],
-        "score": 643
+        "score": 648
+      },
+      {
+        "subject": "budget",
+        "queries": 25,
+        "seed_spread": 7,
+        "avg_branches": 9.8,
+        "examples": [
+          "excel template for budget",
+          "excel template for expense tracking",
+          "google sheets template for budget",
+          "google sheets template for business expenses",
+          "spreadsheet to track spending"
+        ],
+        "score": 623
       },
       {
         "subject": "reddit",
-        "queries": 19,
+        "queries": 20,
         "seed_spread": 8,
         "avg_branches": 10,
         "examples": [
@@ -1069,7 +1069,7 @@
           "notion template for medical students",
           "excel template for budget"
         ],
-        "score": 545
+        "score": 573
       },
       {
         "subject": "planner",
@@ -1087,9 +1087,9 @@
       },
       {
         "subject": "google",
-        "queries": 22,
+        "queries": 23,
         "seed_spread": 5,
-        "avg_branches": 9.5,
+        "avg_branches": 9.7,
         "examples": [
           "google sheets template for budget",
           "google sheets template for tracking expenses",
@@ -1097,41 +1097,41 @@
           "google sheets template for trip planning",
           "google sheets template for college application"
         ],
-        "score": 388
+        "score": 407
       },
       {
         "subject": "business",
-        "queries": 17,
+        "queries": 16,
         "seed_spread": 6,
-        "avg_branches": 8.9,
+        "avg_branches": 9.2,
         "examples": [
           "excel template for small business accounting",
           "google sheets template for tracking expenses",
           "google sheets template for business expenses",
-          "google sheets template for small business bookkeeping",
-          "spreadsheet to track expenses"
+          "spreadsheet to track expenses",
+          "spreadsheet to track income and expenses"
         ],
-        "score": 352
+        "score": 334
       },
       {
-        "subject": "sheets",
+        "subject": "track",
         "queries": 19,
-        "seed_spread": 4,
-        "avg_branches": 9.6,
+        "seed_spread": 5,
+        "avg_branches": 7.6,
         "examples": [
-          "google sheets template for budget",
-          "google sheets template for tracking expenses",
-          "google sheets template for business expenses",
-          "google sheets template for trip planning",
-          "google sheets template for college application"
+          "google sheets template for tracking job applications",
+          "spreadsheet to track expenses",
+          "spreadsheet to track income and expenses",
+          "spreadsheet to track job applications",
+          "spreadsheet to track spending"
         ],
-        "score": 269
+        "score": 310
       },
       {
         "subject": "tracking",
-        "queries": 18,
+        "queries": 19,
         "seed_spread": 4,
-        "avg_branches": 9.8,
+        "avg_branches": 9.7,
         "examples": [
           "excel template for budget",
           "excel template for project management",
@@ -1139,7 +1139,21 @@
           "excel template for expense tracking",
           "excel template for monthly expenses"
         ],
-        "score": 256
+        "score": 270
+      },
+      {
+        "subject": "sheets",
+        "queries": 19,
+        "seed_spread": 4,
+        "avg_branches": 9.7,
+        "examples": [
+          "google sheets template for budget",
+          "google sheets template for tracking expenses",
+          "google sheets template for business expenses",
+          "google sheets template for trip planning",
+          "google sheets template for college application"
+        ],
+        "score": 270
       },
       {
         "subject": "download",
@@ -1152,20 +1166,6 @@
           "excel template for monthly expenses",
           "excel template for inventory",
           "google sheets template for assignment tracker"
-        ],
-        "score": 234
-      },
-      {
-        "subject": "track",
-        "queries": 18,
-        "seed_spread": 4,
-        "avg_branches": 7.6,
-        "examples": [
-          "spreadsheet to track expenses",
-          "spreadsheet to track job applications",
-          "spreadsheet to track income and expenses",
-          "spreadsheet to track spending",
-          "spreadsheet to track college applications"
         ],
         "score": 234
       },
@@ -1184,10 +1184,24 @@
         "score": 232
       },
       {
+        "subject": "sheet",
+        "queries": 16,
+        "seed_spread": 4,
+        "avg_branches": 9.6,
+        "examples": [
+          "excel template for project management",
+          "excel template for small business accounting",
+          "excel template for job application tracking",
+          "excel template for expense tracking",
+          "google sheets template for budget"
+        ],
+        "score": 227
+      },
+      {
         "subject": "college",
-        "queries": 10,
+        "queries": 9,
         "seed_spread": 6,
-        "avg_branches": 8.8,
+        "avg_branches": 8.7,
         "examples": [
           "notion template for college students",
           "notion template for school",
@@ -1195,7 +1209,7 @@
           "notion template for college",
           "google sheets template for college application"
         ],
-        "score": 206
+        "score": 184
       },
       {
         "subject": "pdf",
@@ -1240,38 +1254,24 @@
         "score": 164
       },
       {
-        "subject": "sheet",
-        "queries": 14,
+        "subject": "tracker",
+        "queries": 13,
         "seed_spread": 3,
-        "avg_branches": 9.4,
+        "avg_branches": 9.8,
         "examples": [
-          "excel template for project management",
-          "excel template for small business accounting",
           "excel template for job application tracking",
           "excel template for expense tracking",
-          "google sheets template for budget"
+          "google sheets template for tracking expenses",
+          "google sheets template for business expenses",
+          "google sheets template for assignment tracker"
         ],
-        "score": 148
-      },
-      {
-        "subject": "app",
-        "queries": 10,
-        "seed_spread": 4,
-        "avg_branches": 9.5,
-        "examples": [
-          "printable planner for adhd",
-          "how do i keep track of my period",
-          "best spreadsheet for budgeting",
-          "best spreadsheet for ipad",
-          "best spreadsheet for mac"
-        ],
-        "score": 141
+        "score": 139
       },
       {
         "subject": "expenses",
         "queries": 9,
         "seed_spread": 4,
-        "avg_branches": 10,
+        "avg_branches": 9.9,
         "examples": [
           "excel template for budget",
           "excel template for expense tracking",
@@ -1282,18 +1282,18 @@
         "score": 129
       },
       {
-        "subject": "tracker",
-        "queries": 12,
-        "seed_spread": 3,
-        "avg_branches": 9.9,
+        "subject": "app",
+        "queries": 9,
+        "seed_spread": 4,
+        "avg_branches": 9.4,
         "examples": [
-          "excel template for job application tracking",
-          "excel template for expense tracking",
-          "google sheets template for tracking expenses",
-          "google sheets template for business expenses",
-          "google sheets template for assignment tracker"
+          "printable planner for adhd",
+          "how do i keep track of my period",
+          "best spreadsheet for budgeting",
+          "best spreadsheet for ipad",
+          "best spreadsheet for mac"
         ],
-        "score": 129
+        "score": 127
       },
       {
         "subject": "notion",
@@ -1305,7 +1305,7 @@
           "notion template for school",
           "notion template for students",
           "notion template for life organization",
-          "notion template for writing a book"
+          "notion template for writers"
         ],
         "score": 126
       },
@@ -1338,6 +1338,20 @@
         "score": 106
       },
       {
+        "subject": "create",
+        "queries": 5,
+        "seed_spread": 5,
+        "avg_branches": 8.8,
+        "examples": [
+          "notion template for writing a book",
+          "excel template for job application tracking",
+          "google sheets template for tracking job applications",
+          "tracking template for google ads",
+          "best spreadsheet for budgeting free"
+        ],
+        "score": 86
+      },
+      {
         "subject": "planning",
         "queries": 6,
         "seed_spread": 4,
@@ -1366,18 +1380,18 @@
         "score": 86
       },
       {
-        "subject": "list",
+        "subject": "application",
         "queries": 6,
         "seed_spread": 4,
-        "avg_branches": 9.2,
+        "avg_branches": 8.5,
         "examples": [
-          "excel template for inventory",
+          "notion template for college",
+          "excel template for job application tracking",
           "google sheets template for college application",
-          "google sheets template for wedding guest list",
-          "printable planner for the week",
-          "checklist for moving out of state"
+          "google sheets template for tracking job applications",
+          "spreadsheet to track job applications"
         ],
-        "score": 84
+        "score": 81
       },
       {
         "subject": "daily",
@@ -1422,18 +1436,32 @@
         "score": 75
       },
       {
-        "subject": "application",
+        "subject": "management",
+        "queries": 7,
+        "seed_spread": 3,
+        "avg_branches": 9.4,
+        "examples": [
+          "excel template for budget",
+          "excel template for project management",
+          "excel template for expense tracking",
+          "excel template for inventory",
+          "best spreadsheet for inventory"
+        ],
+        "score": 74
+      },
+      {
+        "subject": "list",
         "queries": 5,
         "seed_spread": 4,
-        "avg_branches": 8.6,
+        "avg_branches": 9,
         "examples": [
-          "notion template for college",
-          "excel template for job application tracking",
+          "excel template for inventory",
           "google sheets template for college application",
-          "spreadsheet to track job applications",
-          "spreadsheet to track college applications"
+          "google sheets template for wedding guest list",
+          "printable planner for the week",
+          "checklist for moving out of state"
         ],
-        "score": 68
+        "score": 69
       },
       {
         "subject": "weekly",
@@ -1453,7 +1481,7 @@
         "subject": "budgeting",
         "queries": 6,
         "seed_spread": 3,
-        "avg_branches": 9.8,
+        "avg_branches": 9.7,
         "examples": [
           "google sheets template for budget",
           "budget template for google sheets",
@@ -1462,6 +1490,20 @@
           "best spreadsheet for budgeting free"
         ],
         "score": 64
+      },
+      {
+        "subject": "docs",
+        "queries": 6,
+        "seed_spread": 3,
+        "avg_branches": 9.5,
+        "examples": [
+          "google sheets template for budget",
+          "google sheets template for trip planning",
+          "google sheets template for wedding guest list",
+          "google sheets template for tracking job applications",
+          "habit tracker template for google sheets"
+        ],
+        "score": 63
       },
       {
         "subject": "example",
@@ -1475,33 +1517,6 @@
           "budget planner for small business"
         ],
         "score": 56
-      },
-      {
-        "subject": "create",
-        "queries": 4,
-        "seed_spread": 4,
-        "avg_branches": 9,
-        "examples": [
-          "notion template for writing a book",
-          "excel template for job application tracking",
-          "tracking template for google ads",
-          "best spreadsheet for budgeting free"
-        ],
-        "score": 55
-      },
-      {
-        "subject": "docs",
-        "queries": 5,
-        "seed_spread": 3,
-        "avg_branches": 9.8,
-        "examples": [
-          "google sheets template for budget",
-          "google sheets template for trip planning",
-          "google sheets template for wedding guest list",
-          "habit tracker template for google sheets",
-          "budget template for google sheets"
-        ],
-        "score": 53
       },
       {
         "subject": "school",
@@ -1554,19 +1569,6 @@
           "notion template for students",
           "google sheets template for college application",
           "budget template for college student"
-        ],
-        "score": 43
-      },
-      {
-        "subject": "spending",
-        "queries": 4,
-        "seed_spread": 3,
-        "avg_branches": 10,
-        "examples": [
-          "google sheets template for tracking expenses",
-          "spreadsheet to track expenses",
-          "spreadsheet to track spending",
-          "expense tracker template for google sheets"
         ],
         "score": 43
       }
@@ -1680,9 +1682,9 @@
         "branches": 10,
         "children": [
           "excel template for budget tracking",
+          "excel template for budget management",
           "excel template for budget planning",
           "excel template for budget vs actual",
-          "excel template for budget management",
           "excel template for budget",
           "excel template for budget expenses",
           "excel template for budget free",
@@ -1784,11 +1786,11 @@
           "excel template for inventory management",
           "excel template for inventory tracking",
           "excel template for inventory and sales",
+          "excel template for inventory list",
           "excel template for inventory and sales management",
           "excel template for inventory",
           "excel template for inventory in and out",
           "excel template for inventory free download",
-          "excel template for inventory list",
           "excel template for inventory with pictures",
           "excel template for inventory management free"
         ]
@@ -1815,8 +1817,8 @@
         "query": "google sheets template for tracking expenses",
         "branches": 10,
         "children": [
-          "google sheets template for tracking expenses",
           "google sheets template for tracking expenses free",
+          "google sheets template for tracking expenses",
           "google sheets template for tracking spending",
           "google sheets template for tracking business expenses",
           "google sheets template for tracking monthly expenses",
@@ -1914,23 +1916,6 @@
       },
       {
         "seed": "spreadsheet to track",
-        "query": "spreadsheet to track job applications",
-        "branches": 10,
-        "children": [
-          "spreadsheet to track job applications",
-          "excel sheet to track job applications",
-          "template to track job applications",
-          "excel sheet to track job applications reddit",
-          "spreadsheet to track job search",
-          "spreadsheet template to track job applications",
-          "google spreadsheet to track job applications",
-          "template to track job search",
-          "excel template to track job applications",
-          "notion template to track job application"
-        ]
-      },
-      {
-        "seed": "spreadsheet to track",
         "query": "spreadsheet to track income and expenses",
         "branches": 10,
         "children": [
@@ -1944,6 +1929,23 @@
           "best spreadsheet to track income and expenses",
           "excel template to track income and expenses",
           "how to make a spreadsheet to track income and expenses"
+        ]
+      },
+      {
+        "seed": "spreadsheet to track",
+        "query": "spreadsheet to track job applications",
+        "branches": 10,
+        "children": [
+          "spreadsheet to track job applications",
+          "excel sheet to track job applications",
+          "template to track job applications",
+          "excel sheet to track job applications reddit",
+          "spreadsheet to track job search",
+          "spreadsheet template to track job applications",
+          "google spreadsheet to track job applications",
+          "template to track job search",
+          "excel template to track job applications",
+          "notion template to track job application"
         ]
       },
       {
