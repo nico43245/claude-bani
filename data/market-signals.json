@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:18:34.351Z",
+  "generated_at": "2026-10-03T17:52:30.168Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -625,34 +625,6 @@
         "score": 58
       },
       {
-        "theme": "public",
-        "mentions": 18,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
-            "url": "https://news.ycombinator.com/item?id=49637227",
-            "date": "2026-09-10"
-          }
-        ],
-        "score": 57
-      },
-      {
         "theme": "agents",
         "mentions": 19,
         "engagement": 112,
@@ -732,6 +704,34 @@
             "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
             "url": "https://news.ycombinator.com/item?id=48916578",
             "date": "2026-07-15"
+          }
+        ],
+        "score": 55
+      },
+      {
+        "theme": "public",
+        "mentions": 17,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
+            "url": "https://news.ycombinator.com/item?id=49637227",
+            "date": "2026-09-10"
           }
         ],
         "score": 55
@@ -1199,9 +1199,9 @@
       },
       {
         "subject": "college",
-        "queries": 10,
+        "queries": 9,
         "seed_spread": 6,
-        "avg_branches": 8.8,
+        "avg_branches": 8.7,
         "examples": [
           "notion template for college students",
           "notion template for school",
@@ -1209,21 +1209,7 @@
           "notion template for college",
           "google sheets template for college application"
         ],
-        "score": 206
-      },
-      {
-        "subject": "pdf",
-        "queries": 12,
-        "seed_spread": 4,
-        "avg_branches": 10,
-        "examples": [
-          "printable planner for july 2026",
-          "printable planner for kids",
-          "printable planner for 2026",
-          "printable planner for adhd",
-          "printable planner for 2025"
-        ],
-        "score": 172
+        "score": 184
       },
       {
         "subject": "students",
@@ -1252,6 +1238,20 @@
           "printable planner for 2026"
         ],
         "score": 164
+      },
+      {
+        "subject": "pdf",
+        "queries": 11,
+        "seed_spread": 4,
+        "avg_branches": 10,
+        "examples": [
+          "printable planner for july 2026",
+          "printable planner for kids",
+          "printable planner for 2026",
+          "printable planner for adhd",
+          "printable planner for 2025"
+        ],
+        "score": 158
       },
       {
         "subject": "tracker",
@@ -1366,20 +1366,6 @@
         "score": 86
       },
       {
-        "subject": "list",
-        "queries": 6,
-        "seed_spread": 4,
-        "avg_branches": 9.2,
-        "examples": [
-          "excel template for inventory",
-          "google sheets template for college application",
-          "google sheets template for wedding guest list",
-          "printable planner for the week",
-          "checklist for moving out of state"
-        ],
-        "score": 84
-      },
-      {
         "subject": "application",
         "queries": 6,
         "seed_spread": 4,
@@ -1448,6 +1434,20 @@
           "best spreadsheet for inventory"
         ],
         "score": 74
+      },
+      {
+        "subject": "list",
+        "queries": 5,
+        "seed_spread": 4,
+        "avg_branches": 9,
+        "examples": [
+          "excel template for inventory",
+          "google sheets template for college application",
+          "google sheets template for wedding guest list",
+          "printable planner for the week",
+          "checklist for moving out of state"
+        ],
+        "score": 69
       },
       {
         "subject": "weekly",

@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-03T11:18:34.419Z",
+  "generated_at": "2026-10-03T17:52:30.231Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 805,
+  "events_total": 810,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 164
+      "actions": 165
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 156
+      "actions": 157
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 324
+      "actions": 326
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 161
+      "actions": 162
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-03T17:52:30.169Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1101 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 67 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-03T17:51:44.179Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 232,
+      "status": null,
+      "desc": "Cel mai bun job: Python Web Scraper for E-commerce",
+      "evidence": "https://www.freelancer.com/projects/data-processing/python-web-scraper-for-commerce",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-03T17:51:44.179Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 157 proiecte scanate → 48 potrivite, 7 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-03T17:51:31.549Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 39 scanate, 4 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-03T17:50:57.039Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 719 candidați → 0 bounty-uri reale (719 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-03T11:18:34.353Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 605 candidați → 0 bounty-uri reale (605 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-29T19:13:28.894Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1103 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-29T19:12:40.342Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 431,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-29T19:12:40.342Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 150 proiecte scanate → 38 potrivite, 9 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-29T19:12:27.644Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 40 scanate, 3 eligibile după citirea regulamentelor (37 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-29T19:11:53.742Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 603 candidați → 0 bounty-uri reale (603 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 4,
-    "rejected": 669,
+    "rejected": 754,
     "top": [
       {
         "source": "comp-radar",
@@ -646,28 +646,13 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1415,
+        "score": 1402,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 424,
-        "per_slot": 424,
-        "days_left": 62,
+        "participants": 428,
+        "per_slot": 428,
+        "days_left": 61,
         "objective": true
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
-        "title": "Qloo Agentic Hackathon",
-        "url": "https://qloo.devpost.com/",
-        "score": 269,
-        "prize_usd": 25000,
-        "slots": 3,
-        "participants": 278,
-        "per_slot": 93,
-        "days_left": 28,
-        "objective": false
       },
       {
         "source": "comp-radar",
@@ -676,12 +661,27 @@
         "reason": null,
         "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
         "url": "https://aws-cds-partner.devpost.com/",
-        "score": 255,
+        "score": 252,
         "prize_usd": 40000,
         "slots": 4,
-        "participants": 627,
-        "per_slot": 157,
+        "participants": 634,
+        "per_slot": 159,
         "days_left": 25,
+        "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "Qloo Agentic Hackathon",
+        "url": "https://qloo.devpost.com/",
+        "score": 248,
+        "prize_usd": 25000,
+        "slots": 3,
+        "participants": 302,
+        "per_slot": 101,
+        "days_left": 27,
         "objective": false
       },
       {
@@ -691,11 +691,11 @@
         "reason": null,
         "title": "Galuxium Nexus V2",
         "url": "https://galuxium-nexus-v2-29411.devpost.com/",
-        "score": 99,
+        "score": 98,
         "prize_usd": 14644,
         "slots": 3,
-        "participants": 890,
-        "per_slot": 297,
+        "participants": 894,
+        "per_slot": 298,
         "days_left": 28,
         "objective": true
       }
@@ -703,35 +703,35 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 270
+        "count": 317
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 188
+        "count": 185
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 75
+        "count": 105
       },
       {
         "reason": "prea competitiv",
-        "count": 45
+        "count": 49
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 34
+        "count": 36
       },
       {
         "reason": "fără premiu în bani",
-        "count": 17
+        "count": 18
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 11
+        "count": 13
       },
       {
         "reason": "proiect inactiv",
-        "count": 7
+        "count": 9
       },
       {
         "reason": "participare restricționată",
@@ -739,7 +739,7 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 4
+        "count": 5
       },
       {
         "reason": "prea puțin timp de construit",
@@ -754,11 +754,11 @@
         "count": 2
       },
       {
-        "reason": "regulament necitibil",
-        "count": 2
+        "reason": "maintainer cere oprirea PR-urilor",
+        "count": 1
       },
       {
-        "reason": "maintainer cere oprirea PR-urilor",
+        "reason": "regulament necitibil",
         "count": 1
       },
       {
