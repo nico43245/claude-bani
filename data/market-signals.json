@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T00:25:42.254Z",
+  "generated_at": "2026-10-04T11:59:46.955Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1101,
+    "signals_total": 1100,
     "themes": [
       {
         "theme": "app",
@@ -65,6 +65,34 @@
         "score": 107
       },
       {
+        "theme": "wish",
+        "mentions": 90,
+        "engagement": 11,
+        "evidence": [
+          {
+            "text": "Absolutely love Fastmail. I badly wish that they added a few key enterprise features: mandatory 2FA, SSO, provisioning, and more robust audit logs. If you’re re",
+            "url": "https://news.ycombinator.com/item?id=49344997",
+            "date": "2026-08-18"
+          },
+          {
+            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
+            "url": "https://news.ycombinator.com/item?id=48746602",
+            "date": "2026-07-01"
+          },
+          {
+            "text": "Strongly agree. I wish more things came in jars, cans and sacks. I would pay a premium for this alone. The plastic liner in a tall box workflow adds so much fri",
+            "url": "https://news.ycombinator.com/item?id=49537191",
+            "date": "2026-09-02"
+          },
+          {
+            "text": "Tell HN: I wish there was \"IntelliSense\" for math-heavy papers",
+            "url": "https://news.ycombinator.com/item?id=43374632",
+            "date": "2025-03-15"
+          }
+        ],
+        "score": 98
+      },
+      {
         "theme": "hours",
         "mentions": 90,
         "engagement": 11,
@@ -91,34 +119,6 @@
           }
         ],
         "score": 98
-      },
-      {
-        "theme": "wish",
-        "mentions": 89,
-        "engagement": 11,
-        "evidence": [
-          {
-            "text": "Absolutely love Fastmail. I badly wish that they added a few key enterprise features: mandatory 2FA, SSO, provisioning, and more robust audit logs. If you’re re",
-            "url": "https://news.ycombinator.com/item?id=49344997",
-            "date": "2026-08-18"
-          },
-          {
-            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
-            "url": "https://news.ycombinator.com/item?id=48746602",
-            "date": "2026-07-01"
-          },
-          {
-            "text": "Strongly agree. I wish more things came in jars, cans and sacks. I would pay a premium for this alone. The plastic liner in a tall box workflow adds so much fri",
-            "url": "https://news.ycombinator.com/item?id=49537191",
-            "date": "2026-09-02"
-          },
-          {
-            "text": "Tell HN: I wish there was \"IntelliSense\" for math-heavy papers",
-            "url": "https://news.ycombinator.com/item?id=43374632",
-            "date": "2025-03-15"
-          }
-        ],
-        "score": 97
       },
       {
         "theme": "spend",
@@ -178,7 +178,7 @@
       },
       {
         "theme": "built",
-        "mentions": 27,
+        "mentions": 28,
         "engagement": 164,
         "evidence": [
           {
@@ -202,7 +202,7 @@
             "date": "2025-08-02"
           }
         ],
-        "score": 81
+        "score": 83
       },
       {
         "theme": "search",
@@ -318,7 +318,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 57,
+        "mentions": 56,
         "engagement": 18,
         "evidence": [
           {
@@ -342,7 +342,7 @@
             "date": "2026-09-06"
           }
         ],
-        "score": 69
+        "score": 68
       },
       {
         "theme": "language",
@@ -569,6 +569,34 @@
         "score": 59
       },
       {
+        "theme": "public",
+        "mentions": 19,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
+            "url": "https://news.ycombinator.com/item?id=49637227",
+            "date": "2026-09-10"
+          }
+        ],
+        "score": 59
+      },
+      {
         "theme": "research",
         "mentions": 14,
         "engagement": 223,
@@ -595,34 +623,6 @@
           }
         ],
         "score": 58
-      },
-      {
-        "theme": "public",
-        "mentions": 18,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
-            "url": "https://news.ycombinator.com/item?id=49637227",
-            "date": "2026-09-10"
-          }
-        ],
-        "score": 57
       },
       {
         "theme": "agents",
