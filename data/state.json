@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-04T11:59:47.002Z",
+  "generated_at": "2026-10-04T18:04:05.692Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 820,
+  "events_total": 825,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 167
+      "actions": 168
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 159
+      "actions": 160
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 330
+      "actions": 332
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 164
+      "actions": 165
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-04T18:04:05.620Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1100 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-04T18:03:18.476Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 496,
+      "status": null,
+      "desc": "Cel mai bun job: Python Crawler for Building Case Archive",
+      "evidence": "https://www.freelancer.com/projects/data-extraction/python-crawler-for-building-case",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-04T18:03:18.476Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 161 proiecte scanate → 42 potrivite, 9 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-04T18:03:05.798Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 37 scanate, 4 eligibile după citirea regulamentelor (33 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-04T18:02:30.957Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 717 candidați → 0 bounty-uri reale (717 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-04T11:59:46.956Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 623 candidați → 0 bounty-uri reale (623 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-09-30T18:55:10.036Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1103 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 66 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-09-30T18:54:22.182Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 431,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-30T18:54:22.182Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 154 proiecte scanate → 33 potrivite, 4 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-09-30T18:54:09.651Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 36 scanate, 5 eligibile după citirea regulamentelor (31 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-09-30T18:53:35.413Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 620 candidați → 0 bounty-uri reale (620 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 4,
-    "rejected": 757,
+    "rejected": 750,
     "top": [
       {
         "source": "comp-radar",
@@ -646,12 +646,12 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1379,
+        "score": 1370,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 435,
-        "per_slot": 435,
-        "days_left": 61,
+        "participants": 438,
+        "per_slot": 438,
+        "days_left": 60,
         "objective": true
       },
       {
@@ -661,11 +661,11 @@
         "reason": null,
         "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
         "url": "https://aws-cds-partner.devpost.com/",
-        "score": 248,
+        "score": 245,
         "prize_usd": 40000,
         "slots": 4,
-        "participants": 643,
-        "per_slot": 161,
+        "participants": 652,
+        "per_slot": 163,
         "days_left": 24,
         "objective": false
       },
@@ -676,12 +676,12 @@
         "reason": null,
         "title": "Qloo Agentic Hackathon",
         "url": "https://qloo.devpost.com/",
-        "score": 202,
+        "score": 187,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 373,
-        "per_slot": 124,
-        "days_left": 27,
+        "participants": 402,
+        "per_slot": 134,
+        "days_left": 26,
         "objective": false
       },
       {
@@ -689,60 +689,60 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "Galuxium Nexus V2",
-        "url": "https://galuxium-nexus-v2-29411.devpost.com/",
-        "score": 98,
-        "prize_usd": 14644,
-        "slots": 3,
-        "participants": 897,
-        "per_slot": 299,
+        "title": "InterWell Hack2.0",
+        "url": "https://interwell-hack2-0.devpost.com/",
+        "score": 53,
+        "prize_usd": 1000,
+        "slots": 1,
+        "participants": 19,
+        "per_slot": 19,
         "days_left": 27,
-        "objective": true
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 324
+        "count": 317
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 179
+        "count": 178
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 106
+        "count": 108
       },
       {
         "reason": "prea competitiv",
-        "count": 55
+        "count": 59
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 28
+        "count": 32
       },
       {
         "reason": "fără premiu în bani",
-        "count": 18
-      },
-      {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 15
+        "count": 16
       },
       {
         "reason": "proiect inactiv",
         "count": 10
       },
       {
-        "reason": "participare restricționată",
-        "count": 7
+        "reason": "fork (task sintetic de benchmark)",
+        "count": 8
       },
       {
-        "reason": "prea aglomerat",
+        "reason": "participare restricționată",
         "count": 6
       },
       {
-        "reason": "prea puțin timp de construit",
+        "reason": "prea aglomerat",
+        "count": 5
+      },
+      {
+        "reason": "regulament necitibil",
         "count": 3
       },
       {
@@ -751,6 +751,10 @@
       },
       {
         "reason": "revendicat activ",
+        "count": 2
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 2
       },
       {
