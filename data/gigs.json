@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T18:03:18.475Z",
-  "scanned": 161,
-  "accepted": 42,
-  "refused_on_ethics": 9,
+  "generated_at": "2026-10-05T00:32:52.587Z",
+  "scanned": 162,
+  "accepted": 39,
+  "refused_on_ethics": 8,
   "jobs": [
     {
       "title": "Python Crawler for Building Case Archive",
@@ -51,16 +51,16 @@
     {
       "title": "Copy PDF Tables to Excel",
       "url": "https://www.freelancer.com/projects/data-extraction/copy-pdf-tables-excel-40747656",
-      "budget_raw": "$375 Average bid",
+      "budget_raw": "$374 Average bid",
       "desc": "I have a collection of PDFs that contain more than ten separate tables, all made up of text-only cells. I need each of those tables extracted and placed into an Excel spreadsheet while keeping the original row and column order intact. No numbers or calculations are involved just clean, accurately tr",
       "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 375,
+      "usd": 374,
       "hourly": false,
       "flags": [],
-      "score": 834
+      "score": 831
     },
     {
       "title": "Browser Automation for Real Estate Data Migration",
@@ -91,60 +91,60 @@
       "score": 217
     },
     {
+      "title": "Convert STEP Files Into 2D Drawings",
+      "url": "https://www.freelancer.com/projects/cad-solidworks/convert-step-files-into-drawings",
+      "budget_raw": "$227 Average bid",
+      "desc": "Python CAD Automation Generate 2D Engineering Drawings from STEP Files I am looking for a freelancer to complete a Python-based automated workflow that generates 2D engineering drawings from STEP (.step / .stp) files. The solution needs to cover the following geometries and features: pipes (round, r",
+      "bids": 17,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 227,
+      "hourly": false,
+      "flags": [],
+      "score": 153
+    },
+    {
       "title": "Excel Automation & PDF Reporting",
       "url": "https://www.freelancer.com/projects/data-analysis/excel-automation-pdf-reporting",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have an Excel workbook that needs to do more than hold raw numbers. Using IF, SUMIF (and similar) formulas, I want the file to: filter my data on the fly, run conditional calculations that adapt as new rows appear, and roll everything up into clear, criteria-based summaries. Once that logic is sol",
-      "bids": 21,
+      "bids": 22,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 160
+      "score": 152
     },
     {
       "title": "Forms Digitization & Categorization -- 2",
       "url": "https://www.freelancer.com/projects/data-entry/forms-digitization-categorization",
-      "budget_raw": "$179 Average bid",
+      "budget_raw": "$181 Average bid",
       "desc": "I have a backlog of paper-based forms and applications that must be brought into a fully searchable digital archive. Your task is to take each form, convert it into a clean, text-searchable PDF (or an agreed spreadsheet/database format when fields allow), and store it inside a well-structured folder",
-      "bids": 13,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 179,
+      "usd": 181,
       "hourly": false,
       "flags": [],
-      "score": 141
+      "score": 116
     },
     {
-      "title": "Revenue Tracking Excel Template",
-      "url": "https://www.freelancer.com/projects/excel-vba/revenue-tracking-excel-template",
-      "budget_raw": "$152 Average bid",
-      "desc": "I need an Excel template that makes it quick and fool-proof to log our revenue. The sheet will only capture sales amounts, and every entry has to be automatically tagged by product or service so I can slice totals instantly. Core requirements Simple, protected entry form for daily sales amounts Drop",
-      "bids": 30,
+      "title": "Excel Data Cleaning & Forecasting Formulas",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-cleaning-forecasting-formulas",
+      "budget_raw": "$155 Average bid",
+      "desc": "I have a raw spreadsheet that needs to be tidied up and then pushed a step further into simple predictive work. I only need four well-chosen Excel formulas that will: clean the data first removing blanks, standardising text and isolating usable rows, feed a lightweight predictive-model setup so I ca",
+      "bids": null,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 5,
-      "usd": 152,
+      "fit": 3,
+      "usd": 155,
       "hourly": false,
       "flags": [],
-      "score": 124
-    },
-    {
-      "title": "Excel Quotation Automation Tool",
-      "url": "https://www.freelancer.com/projects/data-management/excel-quotation-automation-tool",
-      "budget_raw": "$6 / hr Average bid",
-      "desc": "I keep all of my customer information in one Excel file that is starting to sprawl across several worksheets. What I want is a single-entry workflow: I type a customer s name or code once and the file instantly pulls the relevant details from the various sheets, then produces a clean, printable quot",
-      "bids": 20,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 6,
-      "hourly": true,
-      "flags": [],
-      "score": 112
+      "score": 109
     },
     {
       "title": "Publish-Ready PDF Text Extraction",
@@ -189,25 +189,11 @@
       "score": 91
     },
     {
-      "title": "Python Bot for Audiobook TTS & Localization",
-      "url": "https://www.freelancer.com/projects/python/python-bot-for-audiobook-tts",
-      "budget_raw": "$102 Average bid",
-      "desc": "Job Post Title: Python / Automation Expert Needed for Pocket FM-Style Multi-Voice TTS Audiobook Bot (Dialogue Aware) Job Description: Hi, I run a novel-publishing platform and create high-volume audiobooks daily. I am looking for an expert Python developer to build a dedicated Text-to-Speech (TTS) A",
-      "bids": 12,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 102,
-      "hourly": false,
-      "flags": [],
-      "score": 84
-    },
-    {
       "title": "Extract PDF Form Data to Excel",
       "url": "https://www.freelancer.com/projects/data-extraction/extract-pdf-form-data-excel",
       "budget_raw": "$20 / hr Average bid",
       "desc": "I have a batch of PDF forms filled in with text-only answers. The catch is that the information was typed into open, unlabeled spaces, so there is no tidy table or predefined field to grab; each file looks slightly different even though the same questions were asked. I need every answer lifted out, ",
-      "bids": 38,
+      "bids": 40,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
@@ -215,6 +201,20 @@
       "hourly": true,
       "flags": [],
       "score": 78
+    },
+    {
+      "title": "Revenue Tracking Excel Template",
+      "url": "https://www.freelancer.com/projects/excel-vba/revenue-tracking-excel-template",
+      "budget_raw": "$154 Average bid",
+      "desc": "I need an Excel template that makes it quick and fool-proof to log our revenue. The sheet will only capture sales amounts, and every entry has to be automatically tagged by product or service so I can slice totals instantly. Core requirements Simple, protected entry form for daily sales amounts Drop",
+      "bids": 40,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 154,
+      "hourly": false,
+      "flags": [],
+      "score": 75
     },
     {
       "title": "Desktop Auto Ad Watcher",
@@ -249,28 +249,14 @@
       "url": "https://www.freelancer.com/projects/abbyy-finereader/forms-digitization-categorization",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a backlog of paper-based forms and applications that must be brought into a fully searchable digital archive. Your task is to take each form, convert it into a clean, text-searchable PDF (or an agreed spreadsheet/database format when fields allow), and store it inside a well-structured folder",
-      "bids": 10,
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 63
-    },
-    {
-      "title": "Landscape BOQ & Quantity Takeoff",
-      "url": "https://www.freelancer.com/projects/quantity-surveying/landscape-boq-quantity-takeoff",
-      "budget_raw": "$83 Average bid",
-      "desc": "I have a full set of detailed drawings for a new Residntial landscape build and now need a precise Bill of Quantities. Using the plans I provide (PDF and CAD), I want every item that will be installed on-site measured and scheduled so purchasing and tendering can start immediately. Please extract qu",
-      "bids": null,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 83,
-      "hourly": false,
-      "flags": [],
-      "score": 58
+      "score": 59
     },
     {
       "title": "Scrape 10K Domains Verified Email, Phone & Address",
@@ -287,74 +273,46 @@
       "score": 48
     },
     {
-      "title": "2026 Zoom Info Canada-US Finance Leads",
-      "url": "https://www.freelancer.com/projects/data-collection/canada-finance-leads",
-      "budget_raw": "$120 Average bid",
-      "desc": "I need a fresh, accuracy-checked database of finance-department contacts at medium-sized businesses across Canada and the United States. My outreach calendar is built around 2026, so I m only interested in records that will stay valid through that period. Target sectors are specific: Healthcare, Con",
-      "bids": 9,
+      "title": "Excel Spreadsheet Cleaning & Formatting",
+      "url": "https://www.freelancer.com/projects/excel-vba/excel-spreadsheet-cleaning-formatting",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "An existing Excel workbook is starting to slow down reporting because the raw data was compiled from multiple sources. The file now needs a proper clean-up and a consistent structure so I can use formulas, pivot tables, and dashboards without fighting errors. Here s the scope in plain terms: the ent",
+      "bids": null,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 120,
-      "hourly": false,
+      "fit": 3,
+      "usd": 8,
+      "hourly": true,
       "flags": [],
-      "score": 48
+      "score": 45
     },
     {
       "title": "Personal Finance Excel Workbook",
       "url": "https://www.freelancer.com/projects/data-analysis/personal-finance-excel-workbook",
-      "budget_raw": "$20 Average bid",
+      "budget_raw": "$19 Average bid",
       "desc": "I m putting together a three-sheet Excel workbook to help me stay on top of my money and I d like a specialist to build it cleanly so everything updates automatically. Sheet 1 Income & Expenditure I want a straightforward table with separate columns for income and expenses. As I add rows, running to",
-      "bids": 16,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 20,
+      "usd": 19,
       "hourly": false,
       "flags": [],
-      "score": 43
+      "score": 38
     },
     {
       "title": "Web Scraping & Data Extraction Specialist: Healthcare Directory (Excel / Google Sheets)",
       "url": "https://www.freelancer.com/projects/data-extraction/web-scraping-data-extraction-specialist",
-      "budget_raw": "$76 Average bid",
+      "budget_raw": "$75 Average bid",
       "desc": "Project Overview: ​We are looking for a reliable, detail-oriented freelancer to extract and compile structured healthcare-related business data from 2 3 specified directory websites into an organized Excel / Google Sheets workbook. ​The directory covers healthcare entities categorized by location (C",
-      "bids": 34,
+      "bids": 35,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
-      "usd": 76,
+      "usd": 75,
       "hourly": false,
       "flags": [],
       "score": 37
-    },
-    {
-      "title": "Clean JioMart Beauty Inventory",
-      "url": "https://www.freelancer.com/projects/data-cleansing/clean-jiomart-beauty-inventory",
-      "budget_raw": "$204 Average bid",
-      "desc": "I have a raw inventory spreadsheet for the JioMart Beauty category that is riddled with incorrect data entries. The issues I ve already identified include mismatched SKUs, inaccurate prices, and product names that don t line up with the catalogue. I need someone who can dive into the file, validate ",
-      "bids": 39,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 204,
-      "hourly": false,
-      "flags": [],
-      "score": 36
-    },
-    {
-      "title": "Excel Data Cleaning & Forecasting Formulas",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-cleaning-forecasting-formulas",
-      "budget_raw": "$155 Average bid",
-      "desc": "I have a raw spreadsheet that needs to be tidied up and then pushed a step further into simple predictive work. I only need four well-chosen Excel formulas that will: clean the data first removing blanks, standardising text and isolating usable rows, feed a lightweight predictive-model setup so I ca",
-      "bids": 32,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 155,
-      "hourly": false,
-      "flags": [],
-      "score": 36
     },
     {
       "title": "Instagram Commenting & VA Support",
@@ -375,42 +333,28 @@
       "url": "https://www.freelancer.com/projects/power-bi/site-power-dashboard",
       "budget_raw": "$39 Average bid",
       "desc": "I need a compact yet insightful Power BI dashboard focused on sales analysis. The key visuals I want to see are Revenue by Product and clear Monthly Sales Trends, all driven from a set of Excel/CSV files that I cannot email or upload because of strict company policy. Since I am based in Hyderabad, I",
-      "bids": 11,
+      "bids": 13,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 39,
       "hourly": false,
       "flags": [],
-      "score": 33
+      "score": 31
     },
     {
       "title": "Power BI Dashboards & Excel Analysis -- 2",
       "url": "https://www.freelancer.com/projects/power-bi/power-dashboards-excel-analysis",
       "budget_raw": "$5 / hr Average bid",
       "desc": "My highest priority is to turn raw information from several Excel files and a SQL database into insightful, interactive Power BI dashboards. These dashboards must let management drill from high-level KPIs down to transaction detail, with slicers for dates, regions, and product lines. I also need pre",
-      "bids": 13,
+      "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 5,
       "hourly": true,
       "flags": [],
-      "score": 32
-    },
-    {
-      "title": "Excel IF/SUMIF CSV Setup",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-sumif-csv-setup",
-      "budget_raw": "$162 Average bid",
-      "desc": "I have a live spreadsheet that has to be cleaned, have smart logic added, and be ready to share today. The job breaks down into three fast-moving parts: 1. Data organisation tidy the existing rows, ensure consistent headers, remove blank or duplicate lines, and generally get the file into a solid ta",
-      "bids": 37,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 162,
-      "hourly": false,
-      "flags": [],
-      "score": 28
+      "score": 30
     },
     {
       "title": "Custom Python LLM Creation for PositoAI",
@@ -423,6 +367,20 @@
       "fit": 3,
       "usd": 9,
       "hourly": true,
+      "flags": [],
+      "score": 17
+    },
+    {
+      "title": "Create Advanced AI/ML & Data Science Lecture videos",
+      "url": "https://www.freelancer.com/projects/machine-learning/create-advanced-data-science-lecture",
+      "budget_raw": "$12 Average bid",
+      "desc": "I m planning a comprehensive set of advanced-level video lectures that will walk learners through deep learning techniques, natural language processing, and reinforcement learning. Every lesson must feel like a polished conference talk: clear theory explanations, live Python coding in Jupyter or a s",
+      "bids": 4,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 4,
+      "usd": 12,
+      "hourly": false,
       "flags": [],
       "score": 17
     },
@@ -459,56 +417,28 @@
       "url": "https://www.freelancer.com/projects/excel/bulk-excel-pdf-formatting",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a batch of more than ten Excel workbooks that must be turned into polished, press-ready PDFs. Before you generate each file, I need three specific customisations applied: Formatting changes adjust column widths, fonts, margins and page breaks so every page sits neatly on standard A4/Letter. A",
-      "bids": 26,
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 13
-    },
-    {
-      "title": "Excel Spreadsheet Cleaning & Formatting",
-      "url": "https://www.freelancer.com/projects/excel-vba/excel-spreadsheet-cleaning-formatting",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "An existing Excel workbook is starting to slow down reporting because the raw data was compiled from multiple sources. The file now needs a proper clean-up and a consistent structure so I can use formulas, pivot tables, and dashboards without fighting errors. Here s the scope in plain terms: the ent",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 11
+      "score": 12
     },
     {
       "title": "Kaleidoscope Bat Species Analysis",
       "url": "https://www.freelancer.com/projects/audio-processing/kaleidoscope-bat-species-analysis",
       "budget_raw": "$19 / hr Average bid",
       "desc": "I have a folder of ultrasonic bat recordings ready to be run through Kaleidoscope (or any other acoustic analysis software). Alongside the audio files I will send you a reference sheet that pairs each target species with its diagnostic call characteristics. Your job is to process every file, identif",
-      "bids": 19,
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
       "usd": 19,
       "hourly": true,
       "flags": [],
-      "score": 10
-    },
-    {
-      "title": "Type Data From Digital Files",
-      "url": "https://www.freelancer.com/projects/content-verification/type-data-from-digital-files",
-      "budget_raw": "$16 / hr Average bid",
-      "desc": "I have a set of digital files mainly PDFs and a few image scans that need to be re-typed into Microsoft Word. The content is a mix of text passages and numerical entries. All I m after is clean, accurate transcription with the standard Word defaults for headings, paragraphs, and tables; no elaborate",
-      "bids": null,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 16,
-      "hourly": true,
-      "flags": [],
-      "score": 10
+      "score": 9
     },
     {
       "title": "Full Financial Statement Preparation",
@@ -525,6 +455,22 @@
       "score": 7
     },
     {
+      "title": "Poland Database Customer Lead Generation",
+      "url": "https://www.freelancer.com/projects/lead-generation/poland-database-customer-lead-generation",
+      "budget_raw": "$14 Average bid",
+      "desc": "Find customers for databases in Poland. I dont know how to find them. Maybe from LinkedIn. You can use AI to find them. Only tru leads. Budget 10 USD.",
+      "bids": 22,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 14,
+      "hourly": false,
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 3
+    },
+    {
       "title": "Tally Tax & Bank Reconciliation",
       "url": "https://www.freelancer.com/projects/tax-preparation/tally-tax-bank-reconciliation",
       "budget_raw": "$26 Average bid",
@@ -537,6 +483,20 @@
       "hourly": false,
       "flags": [],
       "score": 3
+    },
+    {
+      "title": "Excel Logic & PDF Automation",
+      "url": "https://www.freelancer.com/projects/automation/excel-logic-pdf-automation",
+      "budget_raw": "$2 / hr Average bid",
+      "desc": "I have an existing workbook that needs two upgrades: solid IF / SUMIF logic and a clean, automated export to PDF. The current sheets already hold the raw data, but totals, flags, and conditional results are still being calculated manually. I d like you to: Replace the manual steps with reliable IF a",
+      "bids": 39,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 2,
+      "hourly": true,
+      "flags": [],
+      "score": 2
     },
     {
       "title": "Flipkart Clothing Shopping Assistance",
@@ -557,7 +517,7 @@
       "url": "https://www.freelancer.com/projects/rpa-development/supply-chain-process-automation",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I run a mid-sized logistics firm and I m ready to replace our patchwork of manual workflows with a single, AI-driven automation layer. The goal is to streamline three core areas and have the finished system plug cleanly into our existing WMS and carrier APIs. What needs to be automated Inventory man",
-      "bids": 38,
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -565,6 +525,34 @@
       "hourly": true,
       "flags": [],
       "score": 1
+    },
+    {
+      "title": "Rental Boyfriend Finder Platform",
+      "url": "https://www.freelancer.com/projects/nextjs/rental-boyfriend-finder-platform",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I m building an online rental boyfriend platform and need a clean MVP that lets people discover the right match quickly. The core of this first release is a fast, intuitive search and filter system: users choose a location (city or radius) and select shared interests, then see matching profiles inst",
+      "bids": 38,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 1
+    },
+    {
+      "title": "Virtual Assistant- Office admin and research work AUD$2/hr",
+      "url": "https://www.freelancer.com/projects/administrative-support/virtual-assistant-office-admin-research",
+      "budget_raw": "$1 / hr Average bid",
+      "desc": "I need a reliable virtual assistant who can jump in right away and keep my small office running smoothly at AU$2 per hour. The work is a blend of routine admin and quick-turnaround market research, so you ll switch between inbox management, spreadsheet updates, and fact-finding assignments during th",
+      "bids": 35,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 1,
+      "hourly": true,
+      "flags": [],
+      "score": 0
     }
   ],
   "refused": [
@@ -599,10 +587,6 @@
     {
       "title": "Upstox Intraday Auto-Trading Bot",
       "reason": "automatizare financiară sau de pariuri"
-    },
-    {
-      "title": "Varanasi Architecture Contact Research",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     }
   ]
 }

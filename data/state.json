@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-04T18:04:05.692Z",
+  "generated_at": "2026-10-05T00:33:41.126Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 825,
+  "events_total": 830,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 168
+      "actions": 169
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 160
+      "actions": 161
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 332
+      "actions": 334
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 165
+      "actions": 166
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-05T00:33:41.058Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1100 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 67 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-05T00:32:52.588Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 496,
+      "status": null,
+      "desc": "Cel mai bun job: Python Crawler for Building Case Archive",
+      "evidence": "https://www.freelancer.com/projects/data-extraction/python-crawler-for-building-case",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-05T00:32:52.588Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 162 proiecte scanate → 39 potrivite, 8 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-05T00:32:39.129Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 36 scanate, 4 eligibile după citirea regulamentelor (32 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-05T00:32:07.897Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 714 candidați → 0 bounty-uri reale (714 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-04T18:04:05.620Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 609 candidați → 0 bounty-uri reale (609 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-01T01:11:02.817Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1103 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 65 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-01T01:10:15.757Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 431,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-01T01:10:15.757Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 159 proiecte scanate → 34 potrivite, 4 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-01T01:10:02.762Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 36 scanate, 3 eligibile după citirea regulamentelor (33 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-01T01:09:23.774Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 623 candidați → 0 bounty-uri reale (623 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 4,
-    "rejected": 750,
+    "rejected": 746,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1370,
+        "score": 1345,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 438,
-        "per_slot": 438,
+        "participants": 446,
+        "per_slot": 446,
         "days_left": 60,
         "objective": true
       },
@@ -659,28 +659,13 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-        "url": "https://aws-cds-partner.devpost.com/",
-        "score": 245,
-        "prize_usd": 40000,
-        "slots": 4,
-        "participants": 652,
-        "per_slot": 163,
-        "days_left": 24,
-        "objective": false
-      },
-      {
-        "source": "comp-radar",
-        "platform": "devpost",
-        "verdict": "accept",
-        "reason": null,
         "title": "Qloo Agentic Hackathon",
         "url": "https://qloo.devpost.com/",
-        "score": 187,
+        "score": 176,
         "prize_usd": 25000,
         "slots": 3,
-        "participants": 402,
-        "per_slot": 134,
+        "participants": 426,
+        "per_slot": 142,
         "days_left": 26,
         "objective": false
       },
@@ -689,25 +674,40 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "InterWell Hack2.0",
-        "url": "https://interwell-hack2-0.devpost.com/",
-        "score": 53,
-        "prize_usd": 1000,
-        "slots": 1,
-        "participants": 19,
-        "per_slot": 19,
-        "days_left": 27,
+        "title": "PayPal AI Hackathon",
+        "url": "https://paypalaihackathon.devpost.com/",
+        "score": 168,
+        "prize_usd": 67500,
+        "slots": 14,
+        "participants": 5615,
+        "per_slot": 401,
+        "days_left": 30,
         "objective": false
+      },
+      {
+        "source": "comp-radar",
+        "platform": "devpost",
+        "verdict": "accept",
+        "reason": null,
+        "title": "Galuxium Nexus V2",
+        "url": "https://galuxium-nexus-v2-29411.devpost.com/",
+        "score": 98,
+        "prize_usd": 14644,
+        "slots": 3,
+        "participants": 901,
+        "per_slot": 300,
+        "days_left": 26,
+        "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 317
+        "count": 318
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 178
+        "count": 177
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -715,15 +715,15 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 59
+        "count": 57
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 32
+        "count": 31
       },
       {
         "reason": "fără premiu în bani",
-        "count": 16
+        "count": 15
       },
       {
         "reason": "proiect inactiv",
@@ -735,15 +735,11 @@
       },
       {
         "reason": "participare restricționată",
-        "count": 6
+        "count": 7
       },
       {
         "reason": "prea aglomerat",
-        "count": 5
-      },
-      {
-        "reason": "regulament necitibil",
-        "count": 3
+        "count": 7
       },
       {
         "reason": "repo prea nou",
