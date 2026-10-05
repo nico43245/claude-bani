@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T13:57:45.551Z",
+  "generated_at": "2026-10-05T21:31:32.015Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1100,
+    "signals_total": 1098,
     "themes": [
       {
         "theme": "app",
@@ -94,7 +94,7 @@
       },
       {
         "theme": "wish",
-        "mentions": 89,
+        "mentions": 90,
         "engagement": 11,
         "evidence": [
           {
@@ -118,7 +118,7 @@
             "date": "2025-03-15"
           }
         ],
-        "score": 97
+        "score": 98
       },
       {
         "theme": "spend",
@@ -322,6 +322,11 @@
         "engagement": 18,
         "evidence": [
           {
+            "text": "Among your friends and family, who use AI for fun, do they pay for it? Would they? My non-tech friends use AI to make funny meme images that they send around on",
+            "url": "https://news.ycombinator.com/item?id=49970150",
+            "date": "2026-10-05"
+          },
+          {
             "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
             "url": "https://news.ycombinator.com/item?id=49794276",
             "date": "2026-09-21"
@@ -335,11 +340,34 @@
             "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
             "url": "https://news.ycombinator.com/item?id=49623827",
             "date": "2026-09-09"
+          }
+        ],
+        "score": 67
+      },
+      {
+        "theme": "life",
+        "mentions": 14,
+        "engagement": 354,
+        "evidence": [
+          {
+            "text": "Among your friends and family, who use AI for fun, do they pay for it? Would they? My non-tech friends use AI to make funny meme images that they send around on",
+            "url": "https://news.ycombinator.com/item?id=49970150",
+            "date": "2026-10-05"
           },
           {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "There's few things where the drop in quality is astronomical, one of them being clothing. Clothes used to last a life time till few decades ago. Right now you b",
+            "url": "https://news.ycombinator.com/item?id=49710194",
+            "date": "2026-09-15"
+          },
+          {
+            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
+            "url": "https://news.ycombinator.com/item?id=49701697",
+            "date": "2026-09-14"
           }
         ],
         "score": 67
@@ -368,6 +396,34 @@
             "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
             "url": "https://news.ycombinator.com/item?id=49582833",
             "date": "2026-09-06"
+          }
+        ],
+        "score": 64
+      },
+      {
+        "theme": "apps",
+        "mentions": 17,
+        "engagement": 194,
+        "evidence": [
+          {
+            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
+            "url": "https://news.ycombinator.com/item?id=49697808",
+            "date": "2026-09-14"
+          },
+          {
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
+          },
+          {
+            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
+            "url": "https://news.ycombinator.com/item?id=48570244",
+            "date": "2026-06-17"
+          },
+          {
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
           }
         ],
         "score": 64
@@ -457,92 +513,8 @@
         "score": 63
       },
       {
-        "theme": "life",
-        "mentions": 13,
-        "engagement": 354,
-        "evidence": [
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "There's few things where the drop in quality is astronomical, one of them being clothing. Clothes used to last a life time till few decades ago. Right now you b",
-            "url": "https://news.ycombinator.com/item?id=49710194",
-            "date": "2026-09-15"
-          },
-          {
-            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
-            "url": "https://news.ycombinator.com/item?id=49701697",
-            "date": "2026-09-14"
-          },
-          {
-            "text": "I wish there was something like this for China where you could see normal street life live, but for obvious reasons that's impossible.",
-            "url": "https://news.ycombinator.com/item?id=49384698",
-            "date": "2026-08-21"
-          }
-        ],
-        "score": 63
-      },
-      {
-        "theme": "apps",
-        "mentions": 16,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
-            "url": "https://news.ycombinator.com/item?id=49697808",
-            "date": "2026-09-14"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "If I were to get one, I would certainly get beige... just bought a nice beige mechanical keyboard. I don't think I would pay $500 for it. $150 to $200 maybe. I ",
-            "url": "https://news.ycombinator.com/item?id=48570244",
-            "date": "2026-06-17"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          }
-        ],
-        "score": 61
-      },
-      {
-        "theme": "company",
-        "mentions": 26,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 61
-      },
-      {
         "theme": "system",
-        "mentions": 23,
+        "mentions": 24,
         "engagement": 92,
         "evidence": [
           {
@@ -566,67 +538,39 @@
             "date": "2026-08-11"
           }
         ],
+        "score": 61
+      },
+      {
+        "theme": "company",
+        "mentions": 25,
+        "engagement": 80,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
+          },
+          {
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
+          }
+        ],
         "score": 59
       },
       {
-        "theme": "world",
-        "mentions": 28,
-        "engagement": 58,
-        "evidence": [
-          {
-            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
-            "url": "https://news.ycombinator.com/item?id=49687578",
-            "date": "2026-09-13"
-          },
-          {
-            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
-            "url": "https://news.ycombinator.com/item?id=49629894",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
-            "url": "https://news.ycombinator.com/item?id=49488605",
-            "date": "2026-08-29"
-          },
-          {
-            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
-            "url": "https://news.ycombinator.com/item?id=48916578",
-            "date": "2026-07-15"
-          }
-        ],
-        "score": 57
-      },
-      {
-        "theme": "public",
-        "mentions": 18,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
-            "url": "https://news.ycombinator.com/item?id=49637227",
-            "date": "2026-09-10"
-          }
-        ],
-        "score": 57
-      },
-      {
         "theme": "agent",
-        "mentions": 12,
+        "mentions": 13,
         "engagement": 258,
         "evidence": [
           {
@@ -650,7 +594,35 @@
             "date": "2026-07-22"
           }
         ],
-        "score": 55
+        "score": 58
+      },
+      {
+        "theme": "computer",
+        "mentions": 13,
+        "engagement": 230,
+        "evidence": [
+          {
+            "text": "Agreed, completely. I would pay for that Star Trek computer interface.",
+            "url": "https://news.ycombinator.com/item?id=49865579",
+            "date": "2026-09-27"
+          },
+          {
+            "text": "There is a story from the early days of Napster where music industry executives discovered the service. One of the executives describes it as: \"We had a laptop ",
+            "url": "https://news.ycombinator.com/item?id=48932907",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
+            "url": "https://news.ycombinator.com/item?id=48664411",
+            "date": "2026-06-24"
+          },
+          {
+            "text": "Yeah, all of them claim that... but I just walk into the bank and say I don't have an Android or Apple 'smart' phone, only a Linux pocket computer (Librem 5). S",
+            "url": "https://news.ycombinator.com/item?id=48781014",
+            "date": "2026-07-03"
+          }
+        ],
+        "score": 56
       },
       {
         "theme": "research",
@@ -676,6 +648,62 @@
             "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
             "url": "https://news.ycombinator.com/item?id=49048747",
             "date": "2026-07-25"
+          }
+        ],
+        "score": 55
+      },
+      {
+        "theme": "world",
+        "mentions": 27,
+        "engagement": 58,
+        "evidence": [
+          {
+            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
+            "url": "https://news.ycombinator.com/item?id=49687578",
+            "date": "2026-09-13"
+          },
+          {
+            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
+            "url": "https://news.ycombinator.com/item?id=49629894",
+            "date": "2026-09-09"
+          },
+          {
+            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
+            "url": "https://news.ycombinator.com/item?id=49488605",
+            "date": "2026-08-29"
+          },
+          {
+            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
+            "url": "https://news.ycombinator.com/item?id=48916578",
+            "date": "2026-07-15"
+          }
+        ],
+        "score": 55
+      },
+      {
+        "theme": "public",
+        "mentions": 17,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
+            "url": "https://news.ycombinator.com/item?id=49637227",
+            "date": "2026-09-10"
           }
         ],
         "score": 55
@@ -735,34 +763,6 @@
           }
         ],
         "score": 54
-      },
-      {
-        "theme": "computer",
-        "mentions": 12,
-        "engagement": 230,
-        "evidence": [
-          {
-            "text": "Agreed, completely. I would pay for that Star Trek computer interface.",
-            "url": "https://news.ycombinator.com/item?id=49865579",
-            "date": "2026-09-27"
-          },
-          {
-            "text": "There is a story from the early days of Napster where music industry executives discovered the service. One of the executives describes it as: \"We had a laptop ",
-            "url": "https://news.ycombinator.com/item?id=48932907",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
-            "url": "https://news.ycombinator.com/item?id=48664411",
-            "date": "2026-06-24"
-          },
-          {
-            "text": "Yeah, all of them claim that... but I just walk into the bank and say I don't have an Android or Apple 'smart' phone, only a Linux pocket computer (Librem 5). S",
-            "url": "https://news.ycombinator.com/item?id=48781014",
-            "date": "2026-07-03"
-          }
-        ],
-        "score": 53
       },
       {
         "theme": "videos",
