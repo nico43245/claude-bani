@@ -11,6 +11,7 @@
     "relayhop/sn-monetization-runtime",
     "ClankerNation/OpenAgents",
     "NSPG13/agent-bounties",
-    "Vikingr2023/awesome-agent-bounties"
+    "Vikingr2023/awesome-agent-bounties",
+    "mazebench-temp/GreekIndexBounty"
   ]
 }

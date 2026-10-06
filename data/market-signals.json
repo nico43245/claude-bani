@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T02:08:50.387Z",
+  "generated_at": "2026-10-06T13:00:07.238Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -38,7 +38,7 @@
       },
       {
         "theme": "web",
-        "mentions": 23,
+        "mentions": 24,
         "engagement": 535,
         "evidence": [
           {
@@ -62,7 +62,7 @@
             "date": "2026-06-17"
           }
         ],
-        "score": 107
+        "score": 110
       },
       {
         "theme": "hours",
@@ -513,34 +513,6 @@
         "score": 63
       },
       {
-        "theme": "system",
-        "mentions": 24,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
-          },
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
-          }
-        ],
-        "score": 61
-      },
-      {
         "theme": "company",
         "mentions": 25,
         "engagement": 80,
@@ -564,6 +536,34 @@
             "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
             "url": "https://news.ycombinator.com/item?id=48814587",
             "date": "2026-07-07"
+          }
+        ],
+        "score": 59
+      },
+      {
+        "theme": "system",
+        "mentions": 23,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
           }
         ],
         "score": 59
@@ -595,6 +595,62 @@
           }
         ],
         "score": 58
+      },
+      {
+        "theme": "public",
+        "mentions": 18,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
+            "url": "https://news.ycombinator.com/item?id=49637227",
+            "date": "2026-09-10"
+          }
+        ],
+        "score": 57
+      },
+      {
+        "theme": "agents",
+        "mentions": 19,
+        "engagement": 112,
+        "evidence": [
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "Right? What a hideous and repulsive vision of the future. No humanity, just artifice and comfortable lies. I’ll take genuine human society any day. I would pay ",
+            "url": "https://news.ycombinator.com/item?id=48628116",
+            "date": "2026-06-22"
+          },
+          {
+            "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
+            "url": "https://news.ycombinator.com/item?id=48275460",
+            "date": "2026-05-26"
+          },
+          {
+            "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
+            "url": "https://news.ycombinator.com/item?id=46425971",
+            "date": "2025-12-29"
+          }
+        ],
+        "score": 57
       },
       {
         "theme": "computer",
@@ -681,64 +737,8 @@
         "score": 55
       },
       {
-        "theme": "public",
-        "mentions": 17,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
-            "url": "https://news.ycombinator.com/item?id=49637227",
-            "date": "2026-09-10"
-          }
-        ],
-        "score": 55
-      },
-      {
-        "theme": "agents",
-        "mentions": 18,
-        "engagement": 112,
-        "evidence": [
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "Right? What a hideous and repulsive vision of the future. No humanity, just artifice and comfortable lies. I’ll take genuine human society any day. I would pay ",
-            "url": "https://news.ycombinator.com/item?id=48628116",
-            "date": "2026-06-22"
-          },
-          {
-            "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
-            "url": "https://news.ycombinator.com/item?id=48275460",
-            "date": "2026-05-26"
-          },
-          {
-            "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
-            "url": "https://news.ycombinator.com/item?id=46425971",
-            "date": "2025-12-29"
-          }
-        ],
-        "score": 55
-      },
-      {
         "theme": "writing",
-        "mentions": 19,
+        "mentions": 20,
         "engagement": 96,
         "evidence": [
           {
@@ -762,7 +762,7 @@
             "date": "2026-03-19"
           }
         ],
-        "score": 54
+        "score": 55
       },
       {
         "theme": "videos",
@@ -821,29 +821,29 @@
         "score": 53
       },
       {
-        "theme": "trust",
-        "mentions": 7,
-        "engagement": 770,
+        "theme": "without",
+        "mentions": 42,
+        "engagement": 9,
         "evidence": [
           {
-            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
-            "url": "https://news.ycombinator.com/item?id=49687578",
-            "date": "2026-09-13"
+            "text": "Show HN: Remove your data from 100 platforms without signing up",
+            "url": "https://news.ycombinator.com/item?id=46453387",
+            "date": "2026-01-01"
           },
           {
-            "text": "I always get the highest end components I can find, and I try to stick with Asus and not the cheapest PSU. I've never had anything fail, and I do this every 5 y",
-            "url": "https://news.ycombinator.com/item?id=49222347",
-            "date": "2026-08-08"
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
           },
           {
-            "text": "Thanks for all the insights! To be clear, I didn't want to say that developing for Apple is impossible, right? I totally trust that once you know how to deal wi",
-            "url": "https://news.ycombinator.com/item?id=49194931",
-            "date": "2026-08-06"
+            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
+            "url": "https://news.ycombinator.com/item?id=49356651",
+            "date": "2026-08-19"
           },
           {
-            "text": "You should try to add comments with that built-in editor. You can spend hours of writing the comments, and then suddenly, some comment gets corrupted and it rem",
-            "url": "https://news.ycombinator.com/item?id=49898885",
-            "date": "2026-09-29"
+            "text": "> without it they won't produce quality content. If the content would be really high quality and exceptional, people would pay for it. But if it close to someth",
+            "url": "https://news.ycombinator.com/item?id=49322165",
+            "date": "2026-08-16"
           }
         ],
         "score": 48
