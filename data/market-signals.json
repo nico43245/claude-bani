@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:54:10.444Z",
+  "generated_at": "2026-10-07T19:49:37.184Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -318,7 +318,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 55,
+        "mentions": 56,
         "engagement": 18,
         "evidence": [
           {
@@ -342,7 +342,7 @@
             "date": "2026-09-09"
           }
         ],
-        "score": 67
+        "score": 68
       },
       {
         "theme": "them",
