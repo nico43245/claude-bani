@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-06T19:22:49.846Z",
+  "generated_at": "2026-10-07T01:17:34.511Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 855,
+  "events_total": 860,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 174
+      "actions": 175
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 166
+      "actions": 167
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 344
+      "actions": 346
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 171
+      "actions": 172
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-07T01:17:34.455Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1097 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-07T01:16:48.418Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 491,
+      "status": null,
+      "desc": "Cel mai bun job: eCommerce Product Data Scraping - MG",
+      "evidence": "https://www.freelancer.com/projects/automation/ecommerce-product-data-scraping",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-07T01:16:48.418Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 159 proiecte scanate → 39 potrivite, 7 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-07T01:16:35.857Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 38 scanate, 3 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-07T01:15:55.295Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 675 candidați → 0 bounty-uri reale (675 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-06T19:22:49.782Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 635 candidați → 0 bounty-uri reale (635 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-03T01:02:05.878Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1102 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-03T01:00:41.588Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 9,
-      "status": null,
-      "desc": "Cel mai bun job: PDF Text Extraction & Entry - 02/10/2026 00:53 EDT",
-      "evidence": "https://www.freelancer.com/projects/abbyy-finereader/pdf-text-extraction-entry-edt",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-03T01:00:41.588Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 158 proiecte scanate → 39 potrivite, 5 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-03T01:00:28.558Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 37 scanate, 3 eligibile după citirea regulamentelor (34 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-03T00:59:53.711Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 610 candidați → 0 bounty-uri reale (610 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 3,
-    "rejected": 708,
+    "rejected": 710,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1224,
+        "score": 1212,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 490,
-        "per_slot": 490,
+        "participants": 495,
+        "per_slot": 495,
         "days_left": 58,
         "objective": true
       },
@@ -659,14 +659,14 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-        "url": "https://aws-cds-partner.devpost.com/",
-        "score": 215,
-        "prize_usd": 40000,
-        "slots": 4,
-        "participants": 743,
-        "per_slot": 186,
-        "days_left": 22,
+        "title": "Life After Code",
+        "url": "https://gitlab-transcend.devpost.com/",
+        "score": 446,
+        "prize_usd": 45000,
+        "slots": 9,
+        "participants": 910,
+        "per_slot": 101,
+        "days_left": 20,
         "objective": false
       },
       {
@@ -674,25 +674,25 @@
         "platform": "devpost",
         "verdict": "accept",
         "reason": null,
-        "title": "Galuxium Nexus V2",
-        "url": "https://galuxium-nexus-v2-29411.devpost.com/",
-        "score": 95,
-        "prize_usd": 14644,
-        "slots": 3,
-        "participants": 927,
-        "per_slot": 309,
-        "days_left": 25,
-        "objective": true
+        "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+        "url": "https://aws-cds-partner.devpost.com/",
+        "score": 214,
+        "prize_usd": 40000,
+        "slots": 4,
+        "participants": 747,
+        "per_slot": 187,
+        "days_left": 22,
+        "objective": false
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 352
+        "count": 353
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 108
+        "count": 109
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -720,15 +720,15 @@
       },
       {
         "reason": "participare restricționată",
-        "count": 8
-      },
-      {
-        "reason": "prea aglomerat",
-        "count": 6
+        "count": 7
       },
       {
         "reason": "regulament necitibil",
-        "count": 3
+        "count": 6
+      },
+      {
+        "reason": "prea aglomerat",
+        "count": 4
       },
       {
         "reason": "revendicat activ",

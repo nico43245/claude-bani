@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:22:49.781Z",
+  "generated_at": "2026-10-07T01:17:34.454Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -122,7 +122,7 @@
       },
       {
         "theme": "spend",
-        "mentions": 87,
+        "mentions": 86,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 95
+        "score": 94
       },
       {
         "theme": "hate",
@@ -345,34 +345,6 @@
         "score": 68
       },
       {
-        "theme": "life",
-        "mentions": 14,
-        "engagement": 354,
-        "evidence": [
-          {
-            "text": "Among your friends and family, who use AI for fun, do they pay for it? Would they? My non-tech friends use AI to make funny meme images that they send around on",
-            "url": "https://news.ycombinator.com/item?id=49970150",
-            "date": "2026-10-05"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "There's few things where the drop in quality is astronomical, one of them being clothing. Clothes used to last a life time till few decades ago. Right now you b",
-            "url": "https://news.ycombinator.com/item?id=49710194",
-            "date": "2026-09-15"
-          },
-          {
-            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
-            "url": "https://news.ycombinator.com/item?id=49701697",
-            "date": "2026-09-14"
-          }
-        ],
-        "score": 67
-      },
-      {
         "theme": "them",
         "mentions": 64,
         "engagement": 0,
@@ -424,6 +396,34 @@
             "text": "My son is currently learning Romanian and I was trying to help him with verbs. I don’t know Romanian but recalled when learning a foreign language for the first",
             "url": "https://news.ycombinator.com/item?id=49388758",
             "date": "2026-08-21"
+          }
+        ],
+        "score": 63
+      },
+      {
+        "theme": "life",
+        "mentions": 13,
+        "engagement": 354,
+        "evidence": [
+          {
+            "text": "Among your friends and family, who use AI for fun, do they pay for it? Would they? My non-tech friends use AI to make funny meme images that they send around on",
+            "url": "https://news.ycombinator.com/item?id=49970150",
+            "date": "2026-10-05"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "There's few things where the drop in quality is astronomical, one of them being clothing. Clothes used to last a life time till few decades ago. Right now you b",
+            "url": "https://news.ycombinator.com/item?id=49710194",
+            "date": "2026-09-15"
+          },
+          {
+            "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
+            "url": "https://news.ycombinator.com/item?id=49701697",
+            "date": "2026-09-14"
           }
         ],
         "score": 63
@@ -738,7 +738,7 @@
       },
       {
         "theme": "world",
-        "mentions": 27,
+        "mentions": 26,
         "engagement": 58,
         "evidence": [
           {
@@ -762,7 +762,7 @@
             "date": "2026-07-15"
           }
         ],
-        "score": 55
+        "score": 54
       },
       {
         "theme": "videos",
