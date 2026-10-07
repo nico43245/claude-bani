@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:17:34.454Z",
+  "generated_at": "2026-10-07T12:54:10.444Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -66,7 +66,7 @@
       },
       {
         "theme": "hours",
-        "mentions": 91,
+        "mentions": 92,
         "engagement": 11,
         "evidence": [
           {
@@ -90,7 +90,7 @@
             "date": "2026-03-06"
           }
         ],
-        "score": 99
+        "score": 100
       },
       {
         "theme": "wish",
@@ -122,7 +122,7 @@
       },
       {
         "theme": "spend",
-        "mentions": 86,
+        "mentions": 87,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 94
+        "score": 95
       },
       {
         "theme": "hate",
@@ -318,7 +318,7 @@
       },
       {
         "theme": "it.",
-        "mentions": 56,
+        "mentions": 55,
         "engagement": 18,
         "evidence": [
           {
@@ -342,7 +342,7 @@
             "date": "2026-09-09"
           }
         ],
-        "score": 68
+        "score": 67
       },
       {
         "theme": "them",
@@ -653,34 +653,6 @@
         "score": 57
       },
       {
-        "theme": "writing",
-        "mentions": 21,
-        "engagement": 96,
-        "evidence": [
-          {
-            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
-            "url": "https://news.ycombinator.com/item?id=47271677",
-            "date": "2026-03-06"
-          },
-          {
-            "text": "I like the codegen = power tools analogy to writing software. I didn't go to school for CS or adjacent: I went to art school 20 years ago for 'new media' which ",
-            "url": "https://news.ycombinator.com/item?id=49671766",
-            "date": "2026-09-12"
-          },
-          {
-            "text": "This looks like such a nice cli/tui talking/chat harness - an agent with which I can work on non-coding tasks (where it literally doesn't need any tool - maybe ",
-            "url": "https://news.ycombinator.com/item?id=49660743",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
-            "url": "https://news.ycombinator.com/item?id=47437681",
-            "date": "2026-03-19"
-          }
-        ],
-        "score": 57
-      },
-      {
         "theme": "computer",
         "mentions": 13,
         "engagement": 230,
@@ -732,6 +704,34 @@
             "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
             "url": "https://news.ycombinator.com/item?id=49048747",
             "date": "2026-07-25"
+          }
+        ],
+        "score": 55
+      },
+      {
+        "theme": "writing",
+        "mentions": 20,
+        "engagement": 96,
+        "evidence": [
+          {
+            "text": "Recently I got a problem with spending too much hours writing docs that describe our workflows, whether it's a how-to guide for a product user or a process walk",
+            "url": "https://news.ycombinator.com/item?id=47271677",
+            "date": "2026-03-06"
+          },
+          {
+            "text": "I like the codegen = power tools analogy to writing software. I didn't go to school for CS or adjacent: I went to art school 20 years ago for 'new media' which ",
+            "url": "https://news.ycombinator.com/item?id=49671766",
+            "date": "2026-09-12"
+          },
+          {
+            "text": "This looks like such a nice cli/tui talking/chat harness - an agent with which I can work on non-coding tasks (where it literally doesn't need any tool - maybe ",
+            "url": "https://news.ycombinator.com/item?id=49660743",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "I've been writing a series on making sites readable by AI agents — llms.txt, MCP endpoints, JSON-LD, the whole stack. Every time I finished implementing somethi",
+            "url": "https://news.ycombinator.com/item?id=47437681",
+            "date": "2026-03-19"
           }
         ],
         "score": 55
