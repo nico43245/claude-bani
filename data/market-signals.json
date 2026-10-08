@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T19:49:37.184Z",
+  "generated_at": "2026-10-08T01:39:10.824Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1097,
+    "signals_total": 1096,
     "themes": [
       {
         "theme": "app",
@@ -513,6 +513,34 @@
         "score": 61
       },
       {
+        "theme": "computer",
+        "mentions": 14,
+        "engagement": 230,
+        "evidence": [
+          {
+            "text": "It looks forced. It doesn’t look bad, but it’s not something I would pay for, nor would I give it access to my computer? I also believe that a small talented gr",
+            "url": "https://news.ycombinator.com/item?id=49999662",
+            "date": "2026-10-07"
+          },
+          {
+            "text": "Agreed, completely. I would pay for that Star Trek computer interface.",
+            "url": "https://news.ycombinator.com/item?id=49865579",
+            "date": "2026-09-27"
+          },
+          {
+            "text": "There is a story from the early days of Napster where music industry executives discovered the service. One of the executives describes it as: \"We had a laptop ",
+            "url": "https://news.ycombinator.com/item?id=48932907",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
+            "url": "https://news.ycombinator.com/item?id=48664411",
+            "date": "2026-06-24"
+          }
+        ],
+        "score": 59
+      },
+      {
         "theme": "company",
         "mentions": 25,
         "engagement": 80,
@@ -651,34 +679,6 @@
           }
         ],
         "score": 57
-      },
-      {
-        "theme": "computer",
-        "mentions": 13,
-        "engagement": 230,
-        "evidence": [
-          {
-            "text": "Agreed, completely. I would pay for that Star Trek computer interface.",
-            "url": "https://news.ycombinator.com/item?id=49865579",
-            "date": "2026-09-27"
-          },
-          {
-            "text": "There is a story from the early days of Napster where music industry executives discovered the service. One of the executives describes it as: \"We had a laptop ",
-            "url": "https://news.ycombinator.com/item?id=48932907",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
-            "url": "https://news.ycombinator.com/item?id=48664411",
-            "date": "2026-06-24"
-          },
-          {
-            "text": "Yeah, all of them claim that... but I just walk into the bank and say I don't have an Android or Apple 'smart' phone, only a Linux pocket computer (Librem 5). S",
-            "url": "https://news.ycombinator.com/item?id=48781014",
-            "date": "2026-07-03"
-          }
-        ],
-        "score": 56
       },
       {
         "theme": "research",
