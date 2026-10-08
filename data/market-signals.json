@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:39:10.824Z",
+  "generated_at": "2026-10-08T13:03:01.122Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -429,34 +429,6 @@
         "score": 63
       },
       {
-        "theme": "different",
-        "mentions": 30,
-        "engagement": 70,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
-          },
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
-          }
-        ],
-        "score": 63
-      },
-      {
         "theme": "stop",
         "mentions": 16,
         "engagement": 215,
@@ -483,6 +455,34 @@
           }
         ],
         "score": 63
+      },
+      {
+        "theme": "different",
+        "mentions": 29,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 62
       },
       {
         "theme": "apps",
@@ -681,34 +681,6 @@
         "score": 57
       },
       {
-        "theme": "research",
-        "mentions": 13,
-        "engagement": 223,
-        "evidence": [
-          {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "In the US, usually you do a summer research program if you want to be a PhD student, so you can get a taste of research. At most universities as well, if you de",
-            "url": "https://news.ycombinator.com/item?id=49712553",
-            "date": "2026-09-15"
-          },
-          {
-            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
-            "url": "https://news.ycombinator.com/item?id=48824680",
-            "date": "2026-07-07"
-          },
-          {
-            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
-            "url": "https://news.ycombinator.com/item?id=49048747",
-            "date": "2026-07-25"
-          }
-        ],
-        "score": 55
-      },
-      {
         "theme": "writing",
         "mentions": 20,
         "engagement": 96,
@@ -819,6 +791,34 @@
           }
         ],
         "score": 53
+      },
+      {
+        "theme": "research",
+        "mentions": 12,
+        "engagement": 223,
+        "evidence": [
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "In the US, usually you do a summer research program if you want to be a PhD student, so you can get a taste of research. At most universities as well, if you de",
+            "url": "https://news.ycombinator.com/item?id=49712553",
+            "date": "2026-09-15"
+          },
+          {
+            "text": "Thanks! Nice findings. Is the output, that others can use, the research and findings, or is there a tool or something that came out of this that I can plug in t",
+            "url": "https://news.ycombinator.com/item?id=48824680",
+            "date": "2026-07-07"
+          },
+          {
+            "text": "For those who've said that advertising has led them to previously unknown / unrealised products or opportunities.... I've spent much time over the past few year",
+            "url": "https://news.ycombinator.com/item?id=49048747",
+            "date": "2026-07-25"
+          }
+        ],
+        "score": 52
       },
       {
         "theme": "without",

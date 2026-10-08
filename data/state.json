@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-08T01:39:10.895Z",
+  "generated_at": "2026-10-08T13:03:01.173Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 875,
+  "events_total": 880,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 178
+      "actions": 179
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 170
+      "actions": 171
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 352
+      "actions": 354
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 175
+      "actions": 176
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-08T13:03:01.124Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1096 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-08T13:02:03.448Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 426,
+      "status": null,
+      "desc": "Cel mai bun job: Startup Funding Data Collection in Python",
+      "evidence": "https://www.freelancer.com/projects/python/startup-funding-data-collection-python",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-08T13:02:03.448Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 166 proiecte scanate → 36 potrivite, 8 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-08T13:01:50.366Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-08T13:01:14.343Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 695 candidați → 0 bounty-uri reale (695 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-08T01:39:10.826Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 717 candidați → 0 bounty-uri reale (717 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-04T11:59:46.956Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1100 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 67 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-04T11:57:42.137Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 386,
-      "status": null,
-      "desc": "Cel mai bun job: Contact Extraction to Spreadsheet",
-      "evidence": "https://www.freelancer.com/projects/data-extraction/contact-extraction-spreadsheet",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-04T11:57:42.137Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 158 proiecte scanate → 40 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-04T11:57:29.337Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 39 scanate, 4 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-04T11:56:54.202Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 722 candidați → 0 bounty-uri reale (722 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 726,
+    "rejected": 731,
     "top": [
       {
         "source": "comp-radar",
@@ -646,19 +646,19 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1183,
+        "score": 1163,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 507,
-        "per_slot": 507,
-        "days_left": 57,
+        "participants": 516,
+        "per_slot": 516,
+        "days_left": 56,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 372
+        "count": 377
       },
       {
         "reason": "organizație-fermă cunoscută",
@@ -674,15 +674,15 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 34
+        "count": 36
       },
       {
         "reason": "fără premiu în bani",
-        "count": 17
+        "count": 16
       },
       {
         "reason": "regulament necitibil",
-        "count": 13
+        "count": 14
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -694,7 +694,7 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 6
+        "count": 5
       },
       {
         "reason": "revendicat activ",
@@ -706,10 +706,6 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
-        "count": 1
-      },
-      {
-        "reason": "prea puțin timp de construit",
         "count": 1
       },
       {
