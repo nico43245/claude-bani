@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-09T12:49:02.249Z",
+  "generated_at": "2026-10-09T19:21:39.407Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1096,
+    "signals_total": 1094,
     "themes": [
       {
         "theme": "app",
-        "mentions": 30,
+        "mentions": 29,
         "engagement": 330,
         "evidence": [
           {
@@ -34,7 +34,7 @@
             "date": "2026-09-28"
           }
         ],
-        "score": 111
+        "score": 109
       },
       {
         "theme": "web",
@@ -150,14 +150,9 @@
       },
       {
         "theme": "hate",
-        "mentions": 78,
+        "mentions": 77,
         "engagement": 13,
         "evidence": [
-          {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
           {
             "text": "I know there's a lot of hate for LinkedIn here on HN but it really is the only place to see where ex-colleagues are working at and what competitors say they are",
             "url": "https://news.ycombinator.com/item?id=49904611",
@@ -172,9 +167,14 @@
             "text": "I play the credit card \"game\" because I hate feeling like I'm leaving money on the table, but I really wish I didn't have to. Some degrees of fees make sense, t",
             "url": "https://news.ycombinator.com/item?id=49632403",
             "date": "2026-09-09"
+          },
+          {
+            "text": "> Why is there no outreach to other minorities in tech, like the Amish, for example? They are certainly more underrepresented than women in the python community",
+            "url": "https://news.ycombinator.com/item?id=46184602",
+            "date": "2025-12-07"
           }
         ],
-        "score": 87
+        "score": 86
       },
       {
         "theme": "built",
@@ -261,8 +261,36 @@
         "score": 70
       },
       {
+        "theme": "browser",
+        "mentions": 16,
+        "engagement": 287,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "it was nice while it lasted. I guess my next step is a jev+cron to sort good from bad. Browser automation here we come. Someone want to write a Firefox extensio",
+            "url": "https://news.ycombinator.com/item?id=50022196",
+            "date": "2026-10-09"
+          },
+          {
+            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
+            "url": "https://news.ycombinator.com/item?id=48973899",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          }
+        ],
+        "score": 69
+      },
+      {
         "theme": "code",
-        "mentions": 46,
+        "mentions": 45,
         "engagement": 41,
         "evidence": [
           {
@@ -286,7 +314,7 @@
             "date": "2026-03-19"
           }
         ],
-        "score": 70
+        "score": 69
       },
       {
         "theme": "it.",
@@ -317,36 +345,8 @@
         "score": 67
       },
       {
-        "theme": "browser",
-        "mentions": 15,
-        "engagement": 287,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
-            "url": "https://news.ycombinator.com/item?id=48973899",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This looks a good idea to let people choose their preferred medium. I am not into video either, but I turned one of my latest blog article into a video using Cl",
-            "url": "https://news.ycombinator.com/item?id=49883122",
-            "date": "2026-09-28"
-          }
-        ],
-        "score": 66
-      },
-      {
         "theme": "them",
-        "mentions": 66,
+        "mentions": 65,
         "engagement": 0,
         "evidence": [
           {
@@ -370,7 +370,7 @@
             "date": "2026-09-06"
           }
         ],
-        "score": 66
+        "score": 65
       },
       {
         "theme": "system",
@@ -416,14 +416,14 @@
             "date": "2026-07-02"
           },
           {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
-          },
-          {
             "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
             "url": "https://news.ycombinator.com/item?id=49542110",
             "date": "2026-09-02"
+          },
+          {
+            "text": "I submitted a long product suggestion to apple a couple years ago for an iPhone nano but they still haven’t taken me up on it lol. They were mad the mini was a ",
+            "url": "https://news.ycombinator.com/item?id=49374703",
+            "date": "2026-08-20"
           }
         ],
         "score": 63
@@ -709,34 +709,6 @@
         "score": 55
       },
       {
-        "theme": "agents",
-        "mentions": 18,
-        "engagement": 112,
-        "evidence": [
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "Right? What a hideous and repulsive vision of the future. No humanity, just artifice and comfortable lies. I’ll take genuine human society any day. I would pay ",
-            "url": "https://news.ycombinator.com/item?id=48628116",
-            "date": "2026-06-22"
-          },
-          {
-            "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
-            "url": "https://news.ycombinator.com/item?id=48275460",
-            "date": "2026-05-26"
-          },
-          {
-            "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
-            "url": "https://news.ycombinator.com/item?id=46425971",
-            "date": "2025-12-29"
-          }
-        ],
-        "score": 55
-      },
-      {
         "theme": "world",
         "mentions": 25,
         "engagement": 58,
@@ -821,8 +793,36 @@
         "score": 52
       },
       {
+        "theme": "agents",
+        "mentions": 16,
+        "engagement": 112,
+        "evidence": [
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "Right? What a hideous and repulsive vision of the future. No humanity, just artifice and comfortable lies. I’ll take genuine human society any day. I would pay ",
+            "url": "https://news.ycombinator.com/item?id=48628116",
+            "date": "2026-06-22"
+          },
+          {
+            "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
+            "url": "https://news.ycombinator.com/item?id=48275460",
+            "date": "2026-05-26"
+          },
+          {
+            "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
+            "url": "https://news.ycombinator.com/item?id=46425971",
+            "date": "2025-12-29"
+          }
+        ],
+        "score": 51
+      },
+      {
         "theme": "without",
-        "mentions": 44,
+        "mentions": 43,
         "engagement": 9,
         "evidence": [
           {
@@ -846,7 +846,7 @@
             "date": "2026-08-19"
           }
         ],
-        "score": 50
+        "score": 49
       }
     ],
     "loudest": [
