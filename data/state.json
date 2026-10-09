@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-09T01:50:21.296Z",
+  "generated_at": "2026-10-09T12:49:02.328Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 890,
+  "events_total": 895,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 181
+      "actions": 182
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 173
+      "actions": 174
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 358
+      "actions": 360
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 178
+      "actions": 179
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-09T12:49:02.251Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1096 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-09T12:48:15.217Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 9,
+      "status": null,
+      "desc": "Cel mai bun job: Excel ,vlookup",
+      "evidence": "https://www.freelancer.com/projects/data-processing/excel-vlookup",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-09T12:48:15.217Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 167 proiecte scanate → 32 potrivite, 8 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-09T12:48:02.563Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-09T12:47:32.003Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 704 candidați → 0 bounty-uri reale (704 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-09T01:50:21.229Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 672 candidați → 0 bounty-uri reale (672 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-05T13:57:45.553Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1100 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-05T13:56:58.714Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 386,
-      "status": null,
-      "desc": "Cel mai bun job: Contact Extraction to Spreadsheet",
-      "evidence": "https://www.freelancer.com/projects/data-extraction/contact-extraction-spreadsheet",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-05T13:56:58.714Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 165 proiecte scanate → 31 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-05T13:56:46.059Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 33 scanate, 3 eligibile după citirea regulamentelor (30 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-05T13:56:09.875Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 713 candidați → 0 bounty-uri reale (713 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 737,
+    "rejected": 740,
     "top": [
       {
         "source": "comp-radar",
@@ -646,19 +646,19 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1152,
+        "score": 1141,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 521,
-        "per_slot": 521,
-        "days_left": 56,
+        "participants": 526,
+        "per_slot": 526,
+        "days_left": 55,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 374
+        "count": 376
       },
       {
         "reason": "organizație-fermă cunoscută",
@@ -670,7 +670,7 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 47
+        "count": 48
       },
       {
         "reason": "fără dovadă de finanțare",
@@ -682,18 +682,18 @@
       },
       {
         "reason": "regulament necitibil",
-        "count": 11
+        "count": 12
       },
       {
         "reason": "proiect inactiv",
         "count": 10
       },
       {
-        "reason": "prea aglomerat",
-        "count": 7
+        "reason": "fork (task sintetic de benchmark)",
+        "count": 6
       },
       {
-        "reason": "fork (task sintetic de benchmark)",
+        "reason": "prea aglomerat",
         "count": 6
       },
       {
