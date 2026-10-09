@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-08T19:45:13.898Z",
+  "generated_at": "2026-10-09T01:50:21.296Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 885,
+  "events_total": 890,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 180
+      "actions": 181
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 172
+      "actions": 173
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 356
+      "actions": 358
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 177
+      "actions": 178
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-09T01:50:21.229Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1096 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-09T01:49:32.607Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 427,
+      "status": null,
+      "desc": "Cel mai bun job: Startup Funding Data Collection in Python",
+      "evidence": "https://www.freelancer.com/projects/python/startup-funding-data-collection-python",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-09T01:49:32.607Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 164 proiecte scanate → 30 potrivite, 8 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-09T01:49:19.811Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-09T01:48:50.124Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 701 candidați → 0 bounty-uri reale (701 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-08T19:45:13.843Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 713 candidați → 0 bounty-uri reale (713 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-05T00:33:41.058Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1100 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 67 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-05T00:32:52.588Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 496,
-      "status": null,
-      "desc": "Cel mai bun job: Python Crawler for Building Case Archive",
-      "evidence": "https://www.freelancer.com/projects/data-extraction/python-crawler-for-building-case",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-05T00:32:52.588Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 162 proiecte scanate → 39 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-05T00:32:39.129Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 36 scanate, 4 eligibile după citirea regulamentelor (32 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-05T00:32:07.897Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 714 candidați → 0 bounty-uri reale (714 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 735,
+    "rejected": 737,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1154,
+        "score": 1152,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 520,
-        "per_slot": 520,
+        "participants": 521,
+        "per_slot": 521,
         "days_left": 56,
         "objective": true
       }
@@ -682,11 +682,11 @@
       },
       {
         "reason": "regulament necitibil",
-        "count": 12
+        "count": 11
       },
       {
         "reason": "proiect inactiv",
-        "count": 8
+        "count": 10
       },
       {
         "reason": "prea aglomerat",
@@ -710,6 +710,10 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
+        "count": 1
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 1
       },
       {

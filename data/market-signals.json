@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:45:13.841Z",
+  "generated_at": "2026-10-09T01:50:21.228Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -122,7 +122,7 @@
       },
       {
         "theme": "spend",
-        "mentions": 87,
+        "mentions": 86,
         "engagement": 11,
         "evidence": [
           {
@@ -146,7 +146,7 @@
             "date": "2026-08-08"
           }
         ],
-        "score": 95
+        "score": 94
       },
       {
         "theme": "hate",
@@ -373,6 +373,34 @@
         "score": 64
       },
       {
+        "theme": "different",
+        "mentions": 30,
+        "engagement": 70,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
+            "url": "https://news.ycombinator.com/item?id=48757773",
+            "date": "2026-07-02"
+          },
+          {
+            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
+            "url": "https://news.ycombinator.com/item?id=48721974",
+            "date": "2026-06-29"
+          },
+          {
+            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
+            "url": "https://news.ycombinator.com/item?id=49542110",
+            "date": "2026-09-02"
+          }
+        ],
+        "score": 63
+      },
+      {
         "theme": "stop",
         "mentions": 16,
         "engagement": 215,
@@ -401,32 +429,60 @@
         "score": 63
       },
       {
-        "theme": "different",
-        "mentions": 29,
-        "engagement": 70,
+        "theme": "apps",
+        "mentions": 16,
+        "engagement": 194,
         "evidence": [
           {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
+            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
+            "url": "https://news.ycombinator.com/item?id=49697808",
+            "date": "2026-09-14"
           },
           {
-            "text": "Why does the human have to turn up every day? You're the one who added that requirement. That's on you. The moment you reduce it down to 10 visits per month you",
-            "url": "https://news.ycombinator.com/item?id=48757773",
-            "date": "2026-07-02"
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
           },
           {
-            "text": "I hate this phrase, it is not a good analog for the situation and it slanders piracy. I understand the idea behind it and I hate the streaming/renting/digital p",
-            "url": "https://news.ycombinator.com/item?id=48721974",
-            "date": "2026-06-29"
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
           },
           {
-            "text": "It definitely can, but Its easier than ever to fork an older version and modify with claude, or just switch to a different OSS provider. With commercial tools t",
-            "url": "https://news.ycombinator.com/item?id=49542110",
-            "date": "2026-09-02"
+            "text": "Wow, this looks very clean. I'm not the target audience, but if I was looking for a tool in this category, this would be highly attractive to me. Very subtle de",
+            "url": "https://news.ycombinator.com/item?id=47742556",
+            "date": "2026-04-12"
           }
         ],
-        "score": 62
+        "score": 61
+      },
+      {
+        "theme": "system",
+        "mentions": 24,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
+          }
+        ],
+        "score": 61
       },
       {
         "theme": "life",
@@ -485,34 +541,6 @@
         "score": 59
       },
       {
-        "theme": "apps",
-        "mentions": 15,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
-            "url": "https://news.ycombinator.com/item?id=49697808",
-            "date": "2026-09-14"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          },
-          {
-            "text": "Wow, this looks very clean. I'm not the target audience, but if I was looking for a tool in this category, this would be highly attractive to me. Very subtle de",
-            "url": "https://news.ycombinator.com/item?id=47742556",
-            "date": "2026-04-12"
-          }
-        ],
-        "score": 59
-      },
-      {
         "theme": "company",
         "mentions": 25,
         "engagement": 80,
@@ -536,62 +564,6 @@
             "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
             "url": "https://news.ycombinator.com/item?id=48814587",
             "date": "2026-07-07"
-          }
-        ],
-        "score": 59
-      },
-      {
-        "theme": "system",
-        "mentions": 23,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
-          },
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
-          }
-        ],
-        "score": 59
-      },
-      {
-        "theme": "public",
-        "mentions": 19,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
-            "url": "https://news.ycombinator.com/item?id=49637227",
-            "date": "2026-09-10"
           }
         ],
         "score": 59
@@ -648,6 +620,34 @@
             "text": "I don't think we speak the same language. I was refering to the use case (in C) that's been described by sph. Where you indeed malloc only the relevant size, an",
             "url": "https://news.ycombinator.com/item?id=46511570",
             "date": "2026-01-06"
+          }
+        ],
+        "score": 57
+      },
+      {
+        "theme": "public",
+        "mentions": 18,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
+            "url": "https://news.ycombinator.com/item?id=49637227",
+            "date": "2026-09-10"
           }
         ],
         "score": 57
@@ -737,6 +737,34 @@
         "score": 53
       },
       {
+        "theme": "videos",
+        "mentions": 12,
+        "engagement": 233,
+        "evidence": [
+          {
+            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
+            "url": "https://news.ycombinator.com/item?id=48746602",
+            "date": "2026-07-01"
+          },
+          {
+            "text": "The GamersNexus arc is such a YouTube success story: from a dude uploading videos, to superbly rigorous methodology in top tier hardware reviews, to occasional ",
+            "url": "https://news.ycombinator.com/item?id=48116868",
+            "date": "2026-05-13"
+          },
+          {
+            "text": "These videos are worth a watch. There are tons of impressive moments, but they had me at the very first one where a woman says: \"I'm going to tell you a story,\"",
+            "url": "https://news.ycombinator.com/item?id=48102110",
+            "date": "2026-05-11"
+          },
+          {
+            "text": "is there a tool to generate AI videos that doesn't change the original picture so much? Whisk redraws the entire thing and it barely resembles source picture.",
+            "url": "https://news.ycombinator.com/item?id=43697683",
+            "date": "2025-04-15"
+          }
+        ],
+        "score": 53
+      },
+      {
         "theme": "launch",
         "mentions": 8,
         "engagement": 799,
@@ -816,34 +844,6 @@
             "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
             "url": "https://news.ycombinator.com/item?id=49356651",
             "date": "2026-08-19"
-          }
-        ],
-        "score": 50
-      },
-      {
-        "theme": "videos",
-        "mentions": 11,
-        "engagement": 233,
-        "evidence": [
-          {
-            "text": "I saw my first Dolby Vision Blu-ray and immediately started a Blu-Ray collection. The Blu-ray player on the PS5 is fine, but a nice dedicated player from Sony b",
-            "url": "https://news.ycombinator.com/item?id=48746602",
-            "date": "2026-07-01"
-          },
-          {
-            "text": "The GamersNexus arc is such a YouTube success story: from a dude uploading videos, to superbly rigorous methodology in top tier hardware reviews, to occasional ",
-            "url": "https://news.ycombinator.com/item?id=48116868",
-            "date": "2026-05-13"
-          },
-          {
-            "text": "These videos are worth a watch. There are tons of impressive moments, but they had me at the very first one where a woman says: \"I'm going to tell you a story,\"",
-            "url": "https://news.ycombinator.com/item?id=48102110",
-            "date": "2026-05-11"
-          },
-          {
-            "text": "is there a tool to generate AI videos that doesn't change the original picture so much? Whisk redraws the entire thing and it barely resembles source picture.",
-            "url": "https://news.ycombinator.com/item?id=43697683",
-            "date": "2025-04-15"
           }
         ],
         "score": 50
