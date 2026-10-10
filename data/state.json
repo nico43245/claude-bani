@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-10T01:36:23.929Z",
+  "generated_at": "2026-10-10T12:07:40.754Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 905,
+  "events_total": 910,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 184
+      "actions": 185
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 176
+      "actions": 177
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 364
+      "actions": 366
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 181
+      "actions": 182
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-10T12:07:40.686Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1092 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 48 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-10T12:06:47.092Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 124,
+      "status": null,
+      "desc": "Cel mai bun job: QuickBooks Data Integration for PowerBI",
+      "evidence": "https://www.freelancer.com/projects/power-bi/quickbooks-data-integration-for-powerbi",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-10T12:06:47.092Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 166 proiecte scanate → 42 potrivite, 4 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-10T12:06:33.851Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 38 scanate, 1 eligibile după citirea regulamentelor (37 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-10T12:05:57.418Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 676 candidați → 0 bounty-uri reale (676 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-10T01:36:23.866Z",
       "type": "action",
@@ -583,56 +633,6 @@
       "desc": "Scanare radar: 673 candidați → 0 bounty-uri reale (673 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-06T13:00:07.240Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1098 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-06T12:59:21.296Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 486,
-      "status": null,
-      "desc": "Cel mai bun job: eCommerce Product Data Scraping - MG",
-      "evidence": "https://www.freelancer.com/projects/automation/ecommerce-product-data-scraping",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-06T12:59:21.295Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 165 proiecte scanate → 37 potrivite, 7 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-06T12:59:08.658Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 38 scanate, 3 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-06T12:58:30.270Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 656 candidați → 0 bounty-uri reale (656 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
@@ -646,27 +646,27 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1128,
+        "score": 1111,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 532,
-        "per_slot": 532,
-        "days_left": 55,
+        "participants": 540,
+        "per_slot": 540,
+        "days_left": 54,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 384
+        "count": 385
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 111
+        "count": 108
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 105
+        "count": 106
       },
       {
         "reason": "prea competitiv",
@@ -674,7 +674,7 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 23
+        "count": 24
       },
       {
         "reason": "fără premiu în bani",
@@ -682,7 +682,7 @@
       },
       {
         "reason": "regulament necitibil",
-        "count": 14
+        "count": 13
       },
       {
         "reason": "proiect inactiv",
@@ -701,6 +701,10 @@
         "count": 2
       },
       {
+        "reason": "prea puțin timp de construit",
+        "count": 2
+      },
+      {
         "reason": "repo prea nou",
         "count": 1
       },
@@ -710,10 +714,6 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
-        "count": 1
-      },
-      {
-        "reason": "prea puțin timp de construit",
         "count": 1
       },
       {
