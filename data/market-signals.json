@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:21:39.407Z",
+  "generated_at": "2026-10-10T01:36:23.864Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -205,6 +205,34 @@
         "score": 81
       },
       {
+        "theme": "search",
+        "mentions": 24,
+        "engagement": 155,
+        "evidence": [
+          {
+            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
+            "url": "https://news.ycombinator.com/item?id=49360925",
+            "date": "2026-08-19"
+          },
+          {
+            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
+            "url": "https://news.ycombinator.com/item?id=49068074",
+            "date": "2026-07-27"
+          },
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
+            "url": "https://news.ycombinator.com/item?id=49197069",
+            "date": "2026-08-06"
+          }
+        ],
+        "score": 74
+      },
+      {
         "theme": "open-source",
         "mentions": 11,
         "engagement": 961,
@@ -231,34 +259,6 @@
           }
         ],
         "score": 71
-      },
-      {
-        "theme": "search",
-        "mentions": 22,
-        "engagement": 155,
-        "evidence": [
-          {
-            "text": "I recommend Amazon. You can buy a tanks of the stuff to call your own if you feel like paying someone something. There'd be specialist companies that do bulk ox",
-            "url": "https://news.ycombinator.com/item?id=49360925",
-            "date": "2026-08-19"
-          },
-          {
-            "text": "I do not define user-agents, they announce themselves and present a particular behavior. I let them define their behavior and I respond accordingly. I have no n",
-            "url": "https://news.ycombinator.com/item?id=49068074",
-            "date": "2026-07-27"
-          },
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "I’d say the same about Claude Code. I am on the cheap 20€/month subscription - given how much coding and internet search it replaced for me I would pay 200€/mon",
-            "url": "https://news.ycombinator.com/item?id=49197069",
-            "date": "2026-08-06"
-          }
-        ],
-        "score": 70
       },
       {
         "theme": "browser",
@@ -315,6 +315,34 @@
           }
         ],
         "score": 69
+      },
+      {
+        "theme": "computer",
+        "mentions": 17,
+        "engagement": 230,
+        "evidence": [
+          {
+            "text": "It looks forced. It doesn’t look bad, but it’s not something I would pay for, nor would I give it access to my computer? I also believe that a small talented gr",
+            "url": "https://news.ycombinator.com/item?id=49999662",
+            "date": "2026-10-07"
+          },
+          {
+            "text": "Agreed, completely. I would pay for that Star Trek computer interface.",
+            "url": "https://news.ycombinator.com/item?id=49865579",
+            "date": "2026-09-27"
+          },
+          {
+            "text": "There is a story from the early days of Napster where music industry executives discovered the service. One of the executives describes it as: \"We had a laptop ",
+            "url": "https://news.ycombinator.com/item?id=48932907",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
+            "url": "https://news.ycombinator.com/item?id=48664411",
+            "date": "2026-06-24"
+          }
+        ],
+        "score": 67
       },
       {
         "theme": "it.",
@@ -374,7 +402,7 @@
       },
       {
         "theme": "system",
-        "mentions": 25,
+        "mentions": 26,
         "engagement": 92,
         "evidence": [
           {
@@ -398,7 +426,7 @@
             "date": "2026-08-11"
           }
         ],
-        "score": 63
+        "score": 64
       },
       {
         "theme": "different",
@@ -457,34 +485,6 @@
         "score": 63
       },
       {
-        "theme": "computer",
-        "mentions": 15,
-        "engagement": 230,
-        "evidence": [
-          {
-            "text": "It looks forced. It doesn’t look bad, but it’s not something I would pay for, nor would I give it access to my computer? I also believe that a small talented gr",
-            "url": "https://news.ycombinator.com/item?id=49999662",
-            "date": "2026-10-07"
-          },
-          {
-            "text": "Agreed, completely. I would pay for that Star Trek computer interface.",
-            "url": "https://news.ycombinator.com/item?id=49865579",
-            "date": "2026-09-27"
-          },
-          {
-            "text": "There is a story from the early days of Napster where music industry executives discovered the service. One of the executives describes it as: \"We had a laptop ",
-            "url": "https://news.ycombinator.com/item?id=48932907",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
-            "url": "https://news.ycombinator.com/item?id=48664411",
-            "date": "2026-06-24"
-          }
-        ],
-        "score": 62
-      },
-      {
         "theme": "apps",
         "mentions": 16,
         "engagement": 194,
@@ -541,34 +541,6 @@
         "score": 60
       },
       {
-        "theme": "company",
-        "mentions": 25,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 59
-      },
-      {
         "theme": "launch",
         "mentions": 9,
         "engagement": 799,
@@ -620,6 +592,34 @@
             "text": "I want to continue to use the enterprise products paid for with billions of dollars of investment, because they still have tremendous value. Similarly, I want t",
             "url": "https://news.ycombinator.com/item?id=49001865",
             "date": "2026-07-22"
+          }
+        ],
+        "score": 58
+      },
+      {
+        "theme": "company",
+        "mentions": 24,
+        "engagement": 80,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
+          },
+          {
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
           }
         ],
         "score": 58
@@ -709,34 +709,6 @@
         "score": 55
       },
       {
-        "theme": "world",
-        "mentions": 25,
-        "engagement": 58,
-        "evidence": [
-          {
-            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
-            "url": "https://news.ycombinator.com/item?id=49687578",
-            "date": "2026-09-13"
-          },
-          {
-            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
-            "url": "https://news.ycombinator.com/item?id=49629894",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
-            "url": "https://news.ycombinator.com/item?id=49488605",
-            "date": "2026-08-29"
-          },
-          {
-            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
-            "url": "https://news.ycombinator.com/item?id=48916578",
-            "date": "2026-07-15"
-          }
-        ],
-        "score": 53
-      },
-      {
         "theme": "videos",
         "mentions": 12,
         "engagement": 233,
@@ -793,6 +765,34 @@
         "score": 52
       },
       {
+        "theme": "world",
+        "mentions": 24,
+        "engagement": 58,
+        "evidence": [
+          {
+            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
+            "url": "https://news.ycombinator.com/item?id=49687578",
+            "date": "2026-09-13"
+          },
+          {
+            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
+            "url": "https://news.ycombinator.com/item?id=49629894",
+            "date": "2026-09-09"
+          },
+          {
+            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
+            "url": "https://news.ycombinator.com/item?id=49488605",
+            "date": "2026-08-29"
+          },
+          {
+            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
+            "url": "https://news.ycombinator.com/item?id=48916578",
+            "date": "2026-07-15"
+          }
+        ],
+        "score": 51
+      },
+      {
         "theme": "agents",
         "mentions": 16,
         "engagement": 112,
@@ -821,32 +821,32 @@
         "score": 51
       },
       {
-        "theme": "without",
-        "mentions": 43,
-        "engagement": 9,
+        "theme": "open",
+        "mentions": 31,
+        "engagement": 29,
         "evidence": [
           {
-            "text": "Show HN: Remove your data from 100 platforms without signing up",
-            "url": "https://news.ycombinator.com/item?id=46453387",
-            "date": "2026-01-01"
+            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
+            "url": "https://news.ycombinator.com/item?id=45086249",
+            "date": "2025-08-31"
           },
           {
-            "text": "Without exaggeration, given a choice between models, I would pay for Mistral's model over Anthropic's based on the name alone, completely ignoring features or o",
-            "url": "https://news.ycombinator.com/item?id=49980764",
-            "date": "2026-10-06"
+            "text": "it was nice while it lasted. I guess my next step is a jev+cron to sort good from bad. Browser automation here we come. Someone want to write a Firefox extensio",
+            "url": "https://news.ycombinator.com/item?id=50022196",
+            "date": "2026-10-09"
           },
           {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
+            "text": "Kimi is open weights and you can rent cloud compute cheaply. It's only going to get more affordable. Once a proof of concept exists you can distill it down to s",
+            "url": "https://news.ycombinator.com/item?id=49008599",
+            "date": "2026-07-22"
           },
           {
-            "text": "Even if the headline claim is true (other people have already critiqued it), this would dramatically increase the federal deficit without massive tax increases ",
-            "url": "https://news.ycombinator.com/item?id=49356651",
-            "date": "2026-08-19"
+            "text": "That's fair. Personally I don't find their searches to be sufficiently better than DDG that I will open my wallet. I did have a former job that would pay for Ka",
+            "url": "https://news.ycombinator.com/item?id=48973304",
+            "date": "2026-07-20"
           }
         ],
-        "score": 49
+        "score": 48
       }
     ],
     "loudest": [
