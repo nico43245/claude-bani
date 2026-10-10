@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-10T12:07:40.754Z",
+  "generated_at": "2026-10-10T18:18:52.139Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 910,
+  "events_total": 915,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 185
+      "actions": 186
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 177
+      "actions": 178
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 366
+      "actions": 368
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 182
+      "actions": 183
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-10T18:18:52.077Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1093 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-10T18:18:02.955Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 125,
+      "status": null,
+      "desc": "Cel mai bun job: QuickBooks Data Integration for PowerBI",
+      "evidence": "https://www.freelancer.com/projects/power-bi/quickbooks-data-integration-for-powerbi",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-10T18:18:02.955Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 166 proiecte scanate → 44 potrivite, 4 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-10T18:17:50.019Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 39 scanate, 1 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-10T18:17:15.617Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 677 candidați → 0 bounty-uri reale (677 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-10T12:07:40.686Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 675 candidați → 0 bounty-uri reale (675 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-06T19:22:49.782Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1097 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-06T19:22:03.327Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 486,
-      "status": null,
-      "desc": "Cel mai bun job: eCommerce Product Data Scraping - MG",
-      "evidence": "https://www.freelancer.com/projects/automation/ecommerce-product-data-scraping",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-06T19:22:03.327Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 163 proiecte scanate → 39 potrivite, 7 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-06T19:21:50.531Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 38 scanate, 3 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-06T19:21:12.646Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 673 candidați → 0 bounty-uri reale (673 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 713,
+    "rejected": 715,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1111,
+        "score": 1107,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 540,
-        "per_slot": 540,
+        "participants": 542,
+        "per_slot": 542,
         "days_left": 54,
         "objective": true
       }
@@ -658,11 +658,11 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 385
+        "count": 383
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 108
+        "count": 110
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -674,11 +674,11 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 24
+        "count": 25
       },
       {
         "reason": "fără premiu în bani",
-        "count": 16
+        "count": 17
       },
       {
         "reason": "regulament necitibil",
