@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-10T18:18:52.139Z",
+  "generated_at": "2026-10-11T00:45:44.935Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 915,
+  "events_total": 920,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 186
+      "actions": 187
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 178
+      "actions": 179
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 368
+      "actions": 370
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 183
+      "actions": 184
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-11T00:45:44.887Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1093 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-11T00:44:53.477Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 124,
+      "status": null,
+      "desc": "Cel mai bun job: QuickBooks Data Integration for PowerBI",
+      "evidence": "https://www.freelancer.com/projects/power-bi/quickbooks-data-integration-for-powerbi",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-11T00:44:53.477Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 170 proiecte scanate → 45 potrivite, 5 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-11T00:44:40.688Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 39 scanate, 1 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-11T00:44:09.563Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 689 candidați → 0 bounty-uri reale (689 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-10T18:18:52.077Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 667 candidați → 0 bounty-uri reale (667 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-07T01:17:34.455Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1097 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-07T01:16:48.418Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 491,
-      "status": null,
-      "desc": "Cel mai bun job: eCommerce Product Data Scraping - MG",
-      "evidence": "https://www.freelancer.com/projects/automation/ecommerce-product-data-scraping",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-07T01:16:48.418Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 159 proiecte scanate → 39 potrivite, 7 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-07T01:16:35.857Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 38 scanate, 3 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-07T01:15:55.295Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 675 candidați → 0 bounty-uri reale (675 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 715,
+    "rejected": 727,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1107,
+        "score": 1101,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 542,
-        "per_slot": 542,
+        "participants": 545,
+        "per_slot": 545,
         "days_left": 54,
         "objective": true
       }
@@ -658,11 +658,11 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 383
+        "count": 392
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 110
+        "count": 113
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -670,11 +670,11 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 33
+        "count": 35
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 25
+        "count": 24
       },
       {
         "reason": "fără premiu în bani",
@@ -682,19 +682,19 @@
       },
       {
         "reason": "regulament necitibil",
-        "count": 13
+        "count": 11
       },
       {
         "reason": "proiect inactiv",
-        "count": 9
+        "count": 8
+      },
+      {
+        "reason": "prea aglomerat",
+        "count": 7
       },
       {
         "reason": "fork (task sintetic de benchmark)",
         "count": 6
-      },
-      {
-        "reason": "prea aglomerat",
-        "count": 5
       },
       {
         "reason": "revendicat activ",
