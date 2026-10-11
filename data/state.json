@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-11T00:45:44.935Z",
+  "generated_at": "2026-10-11T12:20:27.869Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 920,
+  "events_total": 925,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 187
+      "actions": 188
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 179
+      "actions": 180
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 370
+      "actions": 372
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 184
+      "actions": 185
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-11T12:20:27.807Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-11T12:19:42.378Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-11T12:19:42.378Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 171 proiecte scanate → 47 potrivite, 7 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-11T12:19:29.937Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 39 scanate, 1 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-11T12:18:58.460Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 692 candidați → 0 bounty-uri reale (692 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-11T00:45:44.887Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 668 candidați → 0 bounty-uri reale (668 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-07T12:54:10.445Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1097 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-07T12:53:22.650Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 491,
-      "status": null,
-      "desc": "Cel mai bun job: eCommerce Product Data Scraping - MG",
-      "evidence": "https://www.freelancer.com/projects/automation/ecommerce-product-data-scraping",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-07T12:53:22.650Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 161 proiecte scanate → 37 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-07T12:53:09.870Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 39 scanate, 1 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-07T12:52:32.393Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 667 candidați → 0 bounty-uri reale (667 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 727,
+    "rejected": 730,
     "top": [
       {
         "source": "comp-radar",
@@ -646,23 +646,23 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1101,
+        "score": 1093,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 545,
-        "per_slot": 545,
-        "days_left": 54,
+        "participants": 549,
+        "per_slot": 549,
+        "days_left": 53,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 392
+        "count": 397
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 113
+        "count": 114
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -674,7 +674,7 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 24
+        "count": 22
       },
       {
         "reason": "fără premiu în bani",
@@ -682,7 +682,7 @@
       },
       {
         "reason": "regulament necitibil",
-        "count": 11
+        "count": 12
       },
       {
         "reason": "proiect inactiv",
@@ -690,11 +690,11 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 7
+        "count": 6
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 6
+        "count": 5
       },
       {
         "reason": "revendicat activ",
