@@ -1,64 +1,36 @@
 {
-  "generated_at": "2026-10-11T12:19:42.377Z",
-  "scanned": 171,
-  "accepted": 47,
-  "refused_on_ethics": 7,
+  "generated_at": "2026-10-11T18:42:25.436Z",
+  "scanned": 162,
+  "accepted": 40,
+  "refused_on_ethics": 5,
   "jobs": [
-    {
-      "title": "Simple Microsoft Excel",
-      "url": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "budget_raw": "$431 Average bid",
-      "desc": "Hello, I have a list of details, using those you need to collect a lot of data from a specific website. I will show you how to scrape the details like Name, Email, and Phone numbers, you just need to follow the pattern..",
-      "bids": 24,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 431,
-      "hourly": false,
-      "flags": [],
-      "score": 560
-    },
-    {
-      "title": "Unstructured PDF to Database",
-      "url": "https://www.freelancer.com/projects/optical-character-recognition/unstructured-pdf-database",
-      "budget_raw": "$186 Average bid",
-      "desc": "I have several PDFs filled with unstructured, free-form text that need to be converted into clean, reliable records ready for direct import into my database. Your task is to extract every relevant piece of text accurately, normalise it where necessary, and deliver it in a structured format (CSV or E",
-      "bids": 32,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 186,
-      "hourly": false,
-      "flags": [],
-      "score": 174
-    },
     {
       "title": "BI Reporting for Business Operations Data - 11/10/2026 03:25 EDT",
       "url": "https://www.freelancer.com/projects/business-intelligence/reporting-for-business-operations-data-40761723",
-      "budget_raw": "$7 / hr Average bid",
+      "budget_raw": "$10 / hr Average bid",
       "desc": "Operations Data in my last company Collaborate with business stakeholders to gather functional requirements and translate them into scalable BI reporting solutions. Designed and implemented robust data integration workflows by consolidating data from Excel, SharePoint, Salesforce, and SQL Server int",
-      "bids": 3,
+      "bids": 8,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
-      "usd": 7,
+      "usd": 10,
       "hourly": true,
       "flags": [],
-      "score": 168
+      "score": 208
     },
     {
-      "title": "PDF Text Extraction to SQL",
-      "url": "https://www.freelancer.com/projects/pdf/pdf-text-extraction-sql",
-      "budget_raw": "$197 Average bid",
-      "desc": "I have a batch of PDFs that contain only plain-text content. Every word from every page needs to land neatly in a single SQL table no images, no form fields, just raw text. Here is what the finished job looks like to me: A script (Python, Java, or similar) that reads each PDF, pulls out the complete",
-      "bids": 40,
+      "title": "Manual Data Entry From Paper",
+      "url": "https://www.freelancer.com/projects/data-entry/manual-data-entry-from-paper-40762416",
+      "budget_raw": "$156 Average bid",
+      "desc": "I have several stacks of paper records that need to be converted into clean, editable Office files. Everything must be typed manually no automated scraping or OCR because accuracy is critical and some pages contain handwritten notes. The source material switches between English and Hindi, so a natur",
+      "bids": 8,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 6,
-      "usd": 197,
+      "fit": 3,
+      "usd": 156,
       "hourly": false,
       "flags": [],
-      "score": 138
+      "score": 146
     },
     {
       "title": "Automate PDF Order Processing to Excel",
@@ -77,32 +49,18 @@
       "score": 114
     },
     {
-      "title": "Mixed Data Transfer to Database -- 2",
-      "url": "https://www.freelancer.com/projects/data-analysis/mixed-data-transfer-database-40761700",
-      "budget_raw": "$213 Average bid",
-      "desc": "I need help moving a collection of existing Excel spreadsheets containing both text and numerical fields into my central database. Your task is to take each file, check that every value matches the column headers provided, correct simple inconsistencies where they appear, and then import the cleaned",
-      "bids": 22,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 213,
-      "hourly": false,
-      "flags": [],
-      "score": 112
-    },
-    {
       "title": "JioMart Specs Entry",
       "url": "https://www.freelancer.com/projects/transcription/jiomart-specs-entry",
-      "budget_raw": "$7 / hr Average bid",
+      "budget_raw": "$8 / hr Average bid",
       "desc": "I need all grocery-category products on my JioMart seller panel populated with clean, accurate specifications and their corresponding images. I will give you a batch of scanned labels and shelf photos; from those you will extract every required text field (title, brand, weight, MRP, ingredients, nut",
-      "bids": 4,
+      "bids": 7,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
-      "usd": 7,
+      "usd": 8,
       "hourly": true,
       "flags": [],
-      "score": 105
+      "score": 110
     },
     {
       "title": "Manual Data Entry Assistance Needed - 05/10/2026 22:33 EDT",
@@ -119,6 +77,34 @@
       "score": 88
     },
     {
+      "title": "Excel & MIS Reporting Specialist | Data Analysis | Sales & Purchase Reports | Dashboards",
+      "url": "https://www.freelancer.com/projects/data-analysis/excel-mis-reporting-specialist-data",
+      "budget_raw": "$216 Average bid",
+      "desc": "I have several Excel workbooks that track daily sales and purchase activity. I need a specialist who can turn this raw data into meaningful MIS outputs cleaning what is there, analysing it for trends, and presenting the results in interactive dashboards that management can use immediately. Your core",
+      "bids": 26,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 216,
+      "hourly": false,
+      "flags": [],
+      "score": 88
+    },
+    {
+      "title": "Mixed Data Transfer to Database -- 2",
+      "url": "https://www.freelancer.com/projects/data-analysis/mixed-data-transfer-database-40761700",
+      "budget_raw": "$202 Average bid",
+      "desc": "I need help moving a collection of existing Excel spreadsheets containing both text and numerical fields into my central database. Your task is to take each file, check that every value matches the column headers provided, correct simple inconsistencies where they appear, and then import the cleaned",
+      "bids": 26,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 202,
+      "hourly": false,
+      "flags": [],
+      "score": 83
+    },
+    {
       "title": "Glasgow Property Data Cleaning",
       "url": "https://www.freelancer.com/projects/data-analysis/glasgow-property-data-cleaning",
       "budget_raw": "$50 / hr Average bid",
@@ -131,20 +117,6 @@
       "hourly": true,
       "flags": [],
       "score": 82
-    },
-    {
-      "title": "Investment Model Audit Needed",
-      "url": "https://www.freelancer.com/projects/financial-modeling/investment-model-audit-needed",
-      "budget_raw": "$678 Average bid",
-      "desc": "I have a detailed investment model in Excel that I now need an independent audit on. Your primary focus will be confirming the integrity of every formula and calculation and assessing whether the overall logic flows correctly from the underlying inputs through to the final outputs. While assumptions",
-      "bids": 25,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 678,
-      "hourly": false,
-      "flags": [],
-      "score": 80
     },
     {
       "title": "PDF Table Text Extraction Needed",
@@ -165,42 +137,28 @@
       "url": "https://www.freelancer.com/projects/data-visualization/excel-financial-data-dashboard",
       "budget_raw": "$15 / hr Average bid",
       "desc": "I have several raw financial spreadsheets that need to be brought together into one clean, easy-to-navigate workbook. Your job is to take the scattered data, enter anything still sitting in CSVs, and then use formulas VLOOKUP/XLOOKUP, INDEX-MATCH, SUMIFS and PivotTables to structure it logically. On",
-      "bids": 19,
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 15,
       "hourly": true,
       "flags": [],
-      "score": 74
+      "score": 67
     },
     {
       "title": "PDF Text Extraction & Formatting",
       "url": "https://www.freelancer.com/projects/copy-typing/pdf-text-extraction-formatting",
       "budget_raw": "$8 / hr Average bid",
       "desc": "I have a batch of PDFs that contain purely textual information laid out in flowing paragraphs. I need every sentence lifted out with 100 % accuracy and placed into my pre-defined table template so the content is clean, searchable and ready for downstream processing. You will read through each PDF, c",
-      "bids": 22,
+      "bids": 24,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
       "usd": 8,
       "hourly": true,
       "flags": [],
-      "score": 60
-    },
-    {
-      "title": "Custom Marketing CRM Development",
-      "url": "https://www.freelancer.com/projects/api-developmet/custom-marketing-crm-development",
-      "budget_raw": "$292 Average bid",
-      "desc": "I m building a purpose-built Marketing CRM that lets my team move seamlessly from capturing a lead to launching an automated ad campaign all from one place. I need a developer (or small team) who can design, code, and deploy the platform end-to-end, then hand it over with clear documentation and bas",
-      "bids": 40,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 292,
-      "hourly": false,
-      "flags": [],
-      "score": 51
+      "score": 53
     },
     {
       "title": "Manual PDF List Extraction",
@@ -245,20 +203,6 @@
       "score": 47
     },
     {
-      "title": "CEO Lead Research & Outreach",
-      "url": "https://www.freelancer.com/projects/email-marketing/ceo-lead-research-outreach",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I need help reaching out to fewer than 50 CEOs and company founders for an upcoming magazine feature. Your first task will be to identify each leader s full name, role, company, and most importantly a verified professional email address. Once gathered, you will place everything neatly into an Excel ",
-      "bids": 2,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 40
-    },
-    {
       "title": "Luxury Car Personal driver",
       "url": "https://www.freelancer.com/projects/time-management/luxury-car-personal-driver",
       "budget_raw": "$309 Average bid",
@@ -271,6 +215,34 @@
       "hourly": false,
       "flags": [],
       "score": 39
+    },
+    {
+      "title": "PDF Heading Extraction Task",
+      "url": "https://www.freelancer.com/projects/data-extraction/pdf-heading-extraction-task",
+      "budget_raw": "$4 / hr Average bid",
+      "desc": "I have a batch of PDF files that need their text content lifted out and saved as clean .txt files. The most important pieces for me are the headings and titles those must be captured accurately and appear first in each output file followed by the remaining text in the order it appears in the source.",
+      "bids": 18,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 4,
+      "usd": 4,
+      "hourly": true,
+      "flags": [],
+      "score": 37
+    },
+    {
+      "title": "CEO Lead Research & Outreach",
+      "url": "https://www.freelancer.com/projects/email-marketing/ceo-lead-research-outreach",
+      "budget_raw": "$10 / hr Average bid",
+      "desc": "I need help reaching out to fewer than 50 CEOs and company founders for an upcoming magazine feature. Your first task will be to identify each leader s full name, role, company, and most importantly a verified professional email address. Once gathered, you will place everything neatly into an Excel ",
+      "bids": 4,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 10,
+      "hourly": true,
+      "flags": [],
+      "score": 37
     },
     {
       "title": "Extract Names & Addresses to Excel",
@@ -287,46 +259,46 @@
       "score": 31
     },
     {
-      "title": "Meta-Odoo WhatsApp Integration Setup",
-      "url": "https://www.freelancer.com/projects/odoo/meta-odoo-whatsapp-integration-setup",
-      "budget_raw": "$517 Average bid",
-      "desc": "I need a specialist who can build our Meta Business Portfolio from the ground up and then connect the WhatsApp Business API directly to our existing Odoo CRM. Scope of the Meta side Configure Business Manager, Ad Accounts, and Page Management so they all sit inside a single company-owned portfolio. ",
-      "bids": 39,
+      "title": "Monthly GST & ITR Accounting",
+      "url": "https://www.freelancer.com/projects/tax-compliance/monthly-gst-itr-accounting",
+      "budget_raw": "$215 Average bid",
+      "desc": "I need a qualified accountant who can take full charge of our monthly compliance and reporting. The workload is steady well over 200 transactions every month and everything is already captured in Tally, so you should be fully comfortable navigating that environment for reconciliations, voucher check",
+      "bids": 3,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 517,
+      "fit": 1,
+      "usd": 215,
       "hourly": false,
       "flags": [],
-      "score": 31
+      "score": 26
+    },
+    {
+      "title": "Windows Desktop App Development Python/Java",
+      "url": "https://www.freelancer.com/projects/windows/windows-desktop-app-development-python",
+      "budget_raw": "$10 / hr Average bid",
+      "desc": "I have a Windows-only desktop tool to build and need a skilled coder who is comfortable working in either Python or Java. The core logic is already mapped out; what I m missing is clean, well-structured code, a straightforward GUI, and an installer so the program can be run easily on Windows 10 and ",
+      "bids": 34,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 4,
+      "usd": 10,
+      "hourly": true,
+      "flags": [],
+      "score": 25
     },
     {
       "title": "Nimay12345",
       "url": "https://www.freelancer.com/projects/natural-language-processing/nimay",
-      "budget_raw": "$9 / hr Average bid",
+      "budget_raw": "$10 / hr Average bid",
       "desc": "I need an NLP workflow that ingests social media posts, customer reviews, and email messages, then detects the dominant emotion Happy, Sad, or Angry in each piece of text. The solution should be reliable enough for daily, automated processing and simple to retrain as my data grows. I already have ra",
       "bids": 40,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 4,
-      "usd": 9,
+      "usd": 10,
       "hourly": true,
       "flags": [],
-      "score": 22
-    },
-    {
-      "title": "Handwritten Notes to Interactive PDF",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/handwritten-notes-interactive-pdf",
-      "budget_raw": "$223 Average bid",
-      "desc": "I have a set of handwritten class notes that include several sketched-out tables. I need everything turned into a single, clean PDF that is both searchable and visually faithful to the originals. Here is exactly what I m after: each page should show a clear scan of the handwritten content while the ",
-      "bids": 10,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 223,
-      "hourly": false,
-      "flags": [],
-      "score": 22
+      "score": 25
     },
     {
       "title": "Data Entry: Online Database Extraction",
@@ -357,88 +329,74 @@
       "score": 20
     },
     {
+      "title": "Handwritten Notes to Interactive PDF",
+      "url": "https://www.freelancer.com/projects/adobe-acrobat/handwritten-notes-interactive-pdf",
+      "budget_raw": "$212 Average bid",
+      "desc": "I have a set of handwritten class notes that include several sketched-out tables. I need everything turned into a single, clean PDF that is both searchable and visually faithful to the originals. Here is exactly what I m after: each page should show a clear scan of the handwritten content while the ",
+      "bids": 12,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 212,
+      "hourly": false,
+      "flags": [],
+      "score": 19
+    },
+    {
+      "title": "Affordable Cloud-Based Web Scraping & Webpage Change Detection System",
+      "url": "https://www.freelancer.com/projects/cloud-computing/affordable-cloud-based-web-scraping",
+      "budget_raw": "$29 Average bid",
+      "desc": "We are a startup seeking a practical, reliable, and low-cost cloud-based web scraping solution. ### 1. Current Situation Our previous PC-based Python system scraped 5,000 URLs with 18 XPath fields per URL in approximately four hours. It depends on local electricity, internet connectivity, and manual",
+      "bids": 20,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 29,
+      "hourly": false,
+      "flags": [],
+      "score": 17
+    },
+    {
       "title": "Automated Banner-Ad Viewer",
       "url": "https://www.freelancer.com/projects/web-development/automated-banner-viewer",
       "budget_raw": "$10 / hr Average bid",
       "desc": "I need a reliable script or small service that sits in a standard desktop web browser and cycles through roughly 1,000 banner ads every 24 hours. The goal is to leave it running, hit the daily quota automatically, and have clear proof that no impressions are being skipped. Core requirements Works en",
-      "bids": 32,
+      "bids": 33,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 10,
       "hourly": true,
       "flags": [],
-      "score": 19
+      "score": 16
     },
     {
-      "title": "Zomato & Swiggy API Integration",
-      "url": "https://www.freelancer.com/projects/api/zomato-swiggy-api-integration",
-      "budget_raw": "$86 Average bid",
-      "desc": "Access to the official Zomato and Swiggy partner APIs has to be provisioned and wired into my existing cloud-based POS. The connection must cover every operational touch-point menu synchronisation, live order tracking, and payment processing so staff see the same information the customer apps displa",
-      "bids": 40,
+      "title": "Texas LLC Reinstatement Assistance",
+      "url": "https://www.freelancer.com/projects/accounting/texas-llc-reinstatement-assistance",
+      "budget_raw": "$125 Average bid",
+      "desc": "My Texas-registered LLC was forfeited because I missed several annual franchise reports, and I now need it brought back to active status within the next month. The business never made any money and never got started. I m looking for someone who already understands the Secretary of State reinstatemen",
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 86,
+      "fit": 1,
+      "usd": 125,
       "hourly": false,
       "flags": [],
-      "score": 15
-    },
-    {
-      "title": "Sales Data Inventory Tracker in Excel",
-      "url": "https://www.freelancer.com/projects/data-analysis/sales-data-inventory-tracker-excel",
-      "budget_raw": "$29 Average bid",
-      "desc": "I need an Excel spreadsheet for inventory tracking with a focus on sales data. The spreadsheet should automatically update stock levels as sales occur. Key Requirements: - Track inventory based on sales data - Automatic stock updates in real-time Ideal Skills and Experience: - Proficient in Excel - ",
-      "bids": 36,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 29,
-      "hourly": false,
-      "flags": [],
-      "score": 14
-    },
-    {
-      "title": "Typed Lists to Excel",
-      "url": "https://www.freelancer.com/projects/data-analysis/typed-lists-excel",
-      "budget_raw": "$12839 Average bid",
-      "desc": "I have several typed documents that contain numerical data laid out as simple lists. I need each list entered into a clean, well-formatted Excel file. Every item should appear under a single header called Category ; no other columns are required at this stage, though I may ask for extra fields like ",
-      "bids": 19,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 12839,
-      "hourly": false,
-      "flags": [],
-      "score": 13
+      "score": 11
     },
     {
       "title": "Excel Number Entry Date Formatting",
       "url": "https://www.freelancer.com/projects/data-entry/excel-number-entry-date-formatting",
       "budget_raw": "$17 / hr Average bid",
       "desc": "I need help completing a small spreadsheet where all raw figures have to be typed in accurately and the date column must follow the DD/MM/YYYY style throughout. The source material is already organised; it simply needs to be keyed into Excel, double-checked for typos, and then have the dates convert",
-      "bids": 33,
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 17,
       "hourly": true,
       "flags": [],
-      "score": 12
-    },
-    {
-      "title": "Clean Mixed Data in Excel",
-      "url": "https://www.freelancer.com/projects/data-analysis/clean-mixed-data-excel",
-      "budget_raw": "$44 Average bid",
-      "desc": "I have a spreadsheet that blends text fields with numerical columns, and it needs a thorough clean-up inside Excel. The task centers on removing inconsistencies, catching and fixing obvious errors, standardising formats (dates, currencies, capitalisation), eliminating duplicates, and ensuring every ",
-      "bids": 33,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 44,
-      "hourly": false,
-      "flags": [],
-      "score": 9
+      "score": 11
     },
     {
       "title": "Instagram DM Outreach Help",
@@ -471,44 +429,16 @@
     {
       "title": "Tradetron Algo Trading Developer Wanted",
       "url": "https://www.freelancer.com/projects/risk-management/tradetron-algo-trading-developer-wanted",
-      "budget_raw": "$11 Average bid",
+      "budget_raw": "$10 Average bid",
       "desc": "Hiring: Experienced Tradetron Strategy Developer (Algo Trading) About the Role We are looking for an experienced Tradetron developer to build, test, and automate trading strategies on the Tradetron platform. This is not a pure coding role. We need someone who genuinely understands the stock market a",
-      "bids": 11,
+      "bids": 13,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 11,
+      "usd": 10,
       "hourly": false,
       "flags": [],
-      "score": 7
-    },
-    {
-      "title": "Excel Lookup Formula Expert",
-      "url": "https://www.freelancer.com/projects/excel-vba/excel-lookup-formula-expert",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I have a spreadsheet that relies on VLOOKUP / HLOOKUP style formulas, and I want every lookup to return the right value the first time, even when the sheet grows or the ranges move. Your job is to jump into the file, build or correct the lookup formulas, and leave me with a clear, reliable workbook ",
-      "bids": 31,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 7
-    },
-    {
-      "title": "PDF Data Preservation to Excel",
-      "url": "https://www.freelancer.com/projects/data-analysis/pdf-data-preservation-excel",
-      "budget_raw": "$42 Average bid",
-      "desc": "I have prepared a brief demonstration that takes a table-rich PDF and rebuilds it in Excel while putting data preservation front and center. In the workbook you will see every numerical value carried over exactly as it appears in the source file no rounding, truncation, or loss of precision. I also ",
-      "bids": 27,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 42,
-      "hourly": false,
-      "flags": [],
-      "score": 7
+      "score": 6
     },
     {
       "title": "iOS Network Flow Documentation",
@@ -525,11 +455,55 @@
       "score": 6
     },
     {
+      "title": "Commercial Cleaning Lead Generation Calls",
+      "url": "https://www.freelancer.com/projects/lead-generation/commercial-cleaning-lead-generation-40762283",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I need a confident, articulate cold-caller to reach out to local commercial facilities office buildings, medical suites, retail spaces and similar to uncover decision-makers who are open to discussing a new cleaning service. Your single focus is to generate qualified leads for my company s sales tea",
+      "bids": 12,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 8,
+      "hourly": true,
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 6
+    },
+    {
+      "title": "Excel Lookup Formula Expert",
+      "url": "https://www.freelancer.com/projects/excel-vba/excel-lookup-formula-expert",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I have a spreadsheet that relies on VLOOKUP / HLOOKUP style formulas, and I want every lookup to return the right value the first time, even when the sheet grows or the ranges move. Your job is to jump into the file, build or correct the lookup formulas, and leave me with a clear, reliable workbook ",
+      "bids": 33,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 8,
+      "hourly": true,
+      "flags": [],
+      "score": 6
+    },
+    {
+      "title": "PDF Data Preservation to Excel",
+      "url": "https://www.freelancer.com/projects/data-analysis/pdf-data-preservation-excel",
+      "budget_raw": "$41 Average bid",
+      "desc": "I have prepared a brief demonstration that takes a table-rich PDF and rebuilds it in Excel while putting data preservation front and center. In the workbook you will see every numerical value carried over exactly as it appears in the source file no rounding, truncation, or loss of precision. I also ",
+      "bids": 29,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 41,
+      "hourly": false,
+      "flags": [],
+      "score": 6
+    },
+    {
       "title": "Digitize 1,000 Numbers",
       "url": "https://www.freelancer.com/projects/data-annotation/digitize-numbers",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a set of 1,000 handwritten numbers that I need converted into a clean, machine-readable file. Accuracy is critical every digit must match the original entry exactly yet the job itself is straightforward: read each handwritten value and type it up. I m flexible on the final file type; once we ",
-      "bids": 15,
+      "bids": 16,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -539,42 +513,68 @@
       "score": 6
     },
     {
-      "title": "Bank Finance Business Plan Report",
-      "url": "https://www.freelancer.com/projects/business-plan-writing/bank-finance-business-plan-report",
-      "budget_raw": "$51 Average bid",
-      "desc": "I need a comprehensive business plan report specifically tailored for a bank-finance application. The document has to follow the structure and level of detail lenders expect, demonstrating both the viability of the venture and my ability to service debt. Please include these key components: Executiv",
-      "bids": 7,
+      "title": "Email id Phone Number Find",
+      "url": "https://www.freelancer.com/projects/data-collection/email-phone-number-find",
+      "budget_raw": "$17 Average bid",
+      "desc": "I have around 2000 company names and need a reliable freelancer to search Google and company websites and collect accurate contact details. Required Data: Company Name Official Email ID Mobile Number only No Landline Source URL Excel or Google Sheets Payment:1000 company / ₹700 valid leads. Fix pric",
+      "bids": 26,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 17,
+      "hourly": false,
+      "flags": [],
+      "score": 2
+    },
+    {
+      "title": "PDF Scanned Text Data Entry",
+      "url": "https://www.freelancer.com/projects/adobe-acrobat/pdf-scanned-text-data-entry",
+      "budget_raw": "$3 / hr Average bid",
+      "desc": "I have a batch of scanned documents saved as PDFs and need every bit of text accurately keyed into an editable format. The scans are clear, but they still require human attention automated OCR alone won t cut it for this job. I ll supply the PDFs via shared drive; you will return a clean, proof-read",
+      "bids": 4,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
-      "usd": 51,
-      "hourly": false,
+      "usd": 3,
+      "hourly": true,
       "flags": [],
-      "score": 5
+      "score": 2
     },
     {
-      "title": "Vehicle Database System with Owner's Contact",
-      "url": "https://www.freelancer.com/projects/database-development/vehicle-database-system-with-owner",
+      "title": "Convert PDFs to Plain Text",
+      "url": "https://www.freelancer.com/projects/data-entry/convert-pdfs-plain-text",
+      "budget_raw": "$36 Average bid",
+      "desc": "I have a collection of PDF files that need to be turned into clean, error-free plain-text files. The source pages are straightforward prose no tables, graphs, equations, or other special elements so the job is purely about accurate transcription. What I expect: One .txt file for every PDF provided, ",
+      "bids": 22,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 36,
+      "hourly": false,
+      "flags": [],
+      "score": 2
+    },
+    {
+      "title": "Poland Database Customer Lead Generation",
+      "url": "https://www.freelancer.com/projects/lead-generation/poland-database-customer-lead-generation",
       "budget_raw": "$16 Average bid",
-      "desc": "Project Title: Need a Large-Scale Vehicle Database with Phone Numbers I am looking for an experienced freelancer who can provide a large-scale, scalable vehicle database with phone numbers where legally available and authorized for use. Project Requirements: Large vehicle database with scalable acce",
-      "bids": 15,
+      "desc": "Find customers for databases in Poland. I dont know how to find them. Maybe from LinkedIn. You can use AI to find them. Only tru leads. Budget 10 USD.",
+      "bids": 36,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 16,
       "hourly": false,
-      "flags": [],
-      "score": 4
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 1
     }
   ],
   "refused": [
     {
       "title": "Indonesia & Malaysia SME Lead List",
       "reason": "listă masivă de date personale — GDPR și spam"
-    },
-    {
-      "title": "Verified OWA Email Leads Needed",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
       "title": "Sanitized USA Marketing Leads -- 2",
@@ -586,10 +586,6 @@
     },
     {
       "title": "US Consumer Email & Phone List",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
-    },
-    {
-      "title": "Email & Database VA Support",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {

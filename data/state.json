@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-11T12:20:27.869Z",
+  "generated_at": "2026-10-11T18:43:17.557Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 925,
+  "events_total": 930,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 188
+      "actions": 189
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 180
+      "actions": 181
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 372
+      "actions": 374
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 185
+      "actions": 186
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-11T18:43:17.509Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-11T18:42:25.437Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 10,
+      "status": null,
+      "desc": "Cel mai bun job: BI Reporting for Business Operations Data - 11/10/2026 03:25 EDT",
+      "evidence": "https://www.freelancer.com/projects/business-intelligence/reporting-for-business-operations-data-40761723",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-11T18:42:25.436Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 162 proiecte scanate → 40 potrivite, 5 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-11T18:42:12.718Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 39 scanate, 1 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-11T18:41:43.470Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 737 candidați → 0 bounty-uri reale (737 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-11T12:20:27.807Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 688 candidați → 0 bounty-uri reale (688 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-07T19:49:37.185Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1097 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-07T19:48:50.754Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 426,
-      "status": null,
-      "desc": "Cel mai bun job: Startup Funding Data Collection in Python",
-      "evidence": "https://www.freelancer.com/projects/python/startup-funding-data-collection-python",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-07T19:48:50.754Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 159 proiecte scanate → 34 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-07T19:48:38.155Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 39 scanate, 1 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-07T19:48:04.550Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 668 candidați → 0 bounty-uri reale (668 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 730,
+    "rejected": 775,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1093,
+        "score": 1085,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 549,
-        "per_slot": 549,
+        "participants": 553,
+        "per_slot": 553,
         "days_left": 53,
         "objective": true
       }
@@ -658,11 +658,11 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 397
+        "count": 414
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 114
+        "count": 141
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -670,38 +670,34 @@
       },
       {
         "reason": "prea competitiv",
-        "count": 35
+        "count": 26
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 22
+        "count": 19
       },
       {
         "reason": "fără premiu în bani",
+        "count": 18
+      },
+      {
+        "reason": "fork (task sintetic de benchmark)",
         "count": 17
       },
       {
         "reason": "regulament necitibil",
-        "count": 12
+        "count": 10
       },
       {
         "reason": "proiect inactiv",
-        "count": 8
+        "count": 9
       },
       {
         "reason": "prea aglomerat",
-        "count": 6
-      },
-      {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 5
+        "count": 8
       },
       {
         "reason": "revendicat activ",
-        "count": 2
-      },
-      {
-        "reason": "prea puțin timp de construit",
         "count": 2
       },
       {
@@ -714,6 +710,10 @@
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
+        "count": 1
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 1
       },
       {
