@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-12T01:06:51.687Z",
+  "generated_at": "2026-10-12T14:46:10.487Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 935,
+  "events_total": 940,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 190
+      "actions": 191
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 182
+      "actions": 183
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 376
+      "actions": 378
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 187
+      "actions": 188
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-12T14:46:10.423Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-12T14:45:23.198Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 219,
+      "status": null,
+      "desc": "Cel mai bun job: Power BI Sales Dashboard Creation",
+      "evidence": "https://www.freelancer.com/projects/data-analysis/power-sales-dashboard-creation",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-12T14:45:23.198Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 163 proiecte scanate → 49 potrivite, 6 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-12T14:45:10.370Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 36 scanate, 1 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-12T14:44:36.330Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 731 candidați → 0 bounty-uri reale (731 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-12T01:06:51.624Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 699 candidați → 0 bounty-uri reale (699 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-08T13:03:01.124Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1096 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 68 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-08T13:02:03.448Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 426,
-      "status": null,
-      "desc": "Cel mai bun job: Startup Funding Data Collection in Python",
-      "evidence": "https://www.freelancer.com/projects/python/startup-funding-data-collection-python",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-08T13:02:03.448Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 166 proiecte scanate → 36 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-08T13:01:50.366Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-08T13:01:14.343Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 695 candidați → 0 bounty-uri reale (695 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 772,
+    "rejected": 766,
     "top": [
       {
         "source": "comp-radar",
@@ -646,23 +646,23 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1075,
+        "score": 1056,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 558,
-        "per_slot": 558,
-        "days_left": 53,
+        "participants": 568,
+        "per_slot": 568,
+        "days_left": 52,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 405
+        "count": 396
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 148
+        "count": 146
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -674,7 +674,7 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 19
+        "count": 18
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -682,14 +682,18 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 17
+        "count": 15
       },
       {
         "reason": "regulament necitibil",
-        "count": 12
+        "count": 13
       },
       {
         "reason": "proiect inactiv",
+        "count": 9
+      },
+      {
+        "reason": "repo prea nou",
         "count": 9
       },
       {
@@ -701,19 +705,11 @@
         "count": 2
       },
       {
-        "reason": "repo prea nou",
-        "count": 1
-      },
-      {
         "reason": "deja adjudecat",
         "count": 1
       },
       {
         "reason": "maintainer cere oprirea PR-urilor",
-        "count": 1
-      },
-      {
-        "reason": "prea puțin timp de construit",
         "count": 1
       },
       {
