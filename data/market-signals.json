@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T13:49:14.505Z",
+  "generated_at": "2026-10-13T20:10:11.397Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1092,
+    "signals_total": 1091,
     "themes": [
       {
         "theme": "web",
@@ -178,13 +178,18 @@
       },
       {
         "theme": "built",
-        "mentions": 26,
+        "mentions": 27,
         "engagement": 160,
         "evidence": [
           {
             "text": "I built cloud transcoding 50x cheaper than AWS/Coconut/others – anyone need it?",
             "url": "https://news.ycombinator.com/item?id=46473479",
             "date": "2026-01-03"
+          },
+          {
+            "text": "I want this so badly. If Anthropic released this I would start using it on day one. If they launched a GitHub competitor built around it I would pay for it on d",
+            "url": "https://news.ycombinator.com/item?id=50077048",
+            "date": "2026-10-13"
           },
           {
             "text": "I think the slow down / pause vs acceleration framing is broken b/c it assumes there's basically only one forward direction which is to big and general models. ",
@@ -195,14 +200,9 @@
             "text": "My Samsung TV has some stupid voice assistant inside of it called Bixby. Not only is it useless, it's extremely annoying. I've had multiple experiences where it",
             "url": "https://news.ycombinator.com/item?id=49616404",
             "date": "2026-09-08"
-          },
-          {
-            "text": "Show HN: I'm a 13 year old who built a user feedback board for devs to ship fast",
-            "url": "https://news.ycombinator.com/item?id=44767486",
-            "date": "2025-08-02"
           }
         ],
-        "score": 79
+        "score": 81
       },
       {
         "theme": "browser",
@@ -262,7 +262,7 @@
       },
       {
         "theme": "computer",
-        "mentions": 19,
+        "mentions": 18,
         "engagement": 230,
         "evidence": [
           {
@@ -281,12 +281,12 @@
             "date": "2026-07-16"
           },
           {
-            "text": "$149 for a font for personal computer use is kind of steep! I would pay $20 for this, but the value has to be pretty high to pay $149 when there's a huge select",
-            "url": "https://news.ycombinator.com/item?id=48664411",
-            "date": "2026-06-24"
+            "text": "Yeah, all of them claim that... but I just walk into the bank and say I don't have an Android or Apple 'smart' phone, only a Linux pocket computer (Librem 5). S",
+            "url": "https://news.ycombinator.com/item?id=48781014",
+            "date": "2026-07-03"
           }
         ],
-        "score": 73
+        "score": 70
       },
       {
         "theme": "it.",
@@ -429,6 +429,34 @@
         "score": 66
       },
       {
+        "theme": "agent",
+        "mentions": 15,
+        "engagement": 258,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "They're not cheap at all. I did one xhigh Qwen 3.8 27B agentic coding task last week via OpenRouter and it cost me like $10. 99% of the cost was in input tokens",
+            "url": "https://news.ycombinator.com/item?id=49531259",
+            "date": "2026-09-02"
+          },
+          {
+            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
+            "url": "https://news.ycombinator.com/item?id=48873462",
+            "date": "2026-07-11"
+          },
+          {
+            "text": "The host isolation everyone is comparing on price is not the hard problem. gVisor vs a full VM is a real tradeoff. Most agent failures that actually hurt are no",
+            "url": "https://news.ycombinator.com/item?id=50071898",
+            "date": "2026-10-13"
+          }
+        ],
+        "score": 64
+      },
+      {
         "theme": "apps",
         "mentions": 17,
         "engagement": 194,
@@ -455,34 +483,6 @@
           }
         ],
         "score": 64
-      },
-      {
-        "theme": "agent",
-        "mentions": 14,
-        "engagement": 258,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "They're not cheap at all. I did one xhigh Qwen 3.8 27B agentic coding task last week via OpenRouter and it cost me like $10. 99% of the cost was in input tokens",
-            "url": "https://news.ycombinator.com/item?id=49531259",
-            "date": "2026-09-02"
-          },
-          {
-            "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
-            "url": "https://news.ycombinator.com/item?id=48873462",
-            "date": "2026-07-11"
-          },
-          {
-            "text": "congrats on the launch. i think the sandbox part is getting commoditized, like others said. the harder part is what the agent can touch inside it. you connect g",
-            "url": "https://news.ycombinator.com/item?id=50063391",
-            "date": "2026-10-12"
-          }
-        ],
-        "score": 61
       },
       {
         "theme": "different",
@@ -822,18 +822,13 @@
       },
       {
         "theme": "agents",
-        "mentions": 16,
+        "mentions": 15,
         "engagement": 112,
         "evidence": [
           {
             "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
             "url": "https://news.ycombinator.com/item?id=49008244",
             "date": "2026-07-22"
-          },
-          {
-            "text": "Right? What a hideous and repulsive vision of the future. No humanity, just artifice and comfortable lies. I’ll take genuine human society any day. I would pay ",
-            "url": "https://news.ycombinator.com/item?id=48628116",
-            "date": "2026-06-22"
           },
           {
             "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
@@ -844,9 +839,14 @@
             "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
             "url": "https://news.ycombinator.com/item?id=46425971",
             "date": "2025-12-29"
+          },
+          {
+            "text": "I'm not going to pretend I know how to do Github better than Github, but I almost can't believe how poor their support is for fine grained access tokens, org/in",
+            "url": "https://news.ycombinator.com/item?id=49104761",
+            "date": "2026-07-30"
           }
         ],
-        "score": 51
+        "score": 49
       }
     ],
     "loudest": [
