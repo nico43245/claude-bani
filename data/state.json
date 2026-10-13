@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-13T02:56:08.652Z",
+  "generated_at": "2026-10-13T13:49:14.560Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 945,
+  "events_total": 950,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 192
+      "actions": 193
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 184
+      "actions": 185
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 380
+      "actions": 382
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 189
+      "actions": 190
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-13T13:49:14.507Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1092 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-13T13:48:25.240Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 431,
+      "status": null,
+      "desc": "Cel mai bun job: Simple Microsoft Excel",
+      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-13T13:48:25.240Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 167 proiecte scanate → 39 potrivite, 7 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-13T13:48:12.436Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-13T13:47:34.953Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 713 candidați → 0 bounty-uri reale (713 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-13T02:56:08.597Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 704 candidați → 0 bounty-uri reale (704 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-09T01:50:21.229Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1096 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-09T01:49:32.607Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 427,
-      "status": null,
-      "desc": "Cel mai bun job: Startup Funding Data Collection in Python",
-      "evidence": "https://www.freelancer.com/projects/python/startup-funding-data-collection-python",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-09T01:49:32.607Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 164 proiecte scanate → 30 potrivite, 8 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-09T01:49:19.811Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-09T01:48:50.124Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 701 candidați → 0 bounty-uri reale (701 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 761,
+    "rejected": 749,
     "top": [
       {
         "source": "comp-radar",
@@ -646,31 +646,31 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1034,
+        "score": 1026,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 580,
-        "per_slot": 580,
-        "days_left": 52,
+        "participants": 585,
+        "per_slot": 585,
+        "days_left": 51,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 395
+        "count": 396
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 136
+        "count": 117
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 106
+        "count": 107
       },
       {
         "reason": "prea competitiv",
-        "count": 36
+        "count": 40
       },
       {
         "reason": "fork (task sintetic de benchmark)",
@@ -678,7 +678,7 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 16
+        "count": 17
       },
       {
         "reason": "fără premiu în bani",
@@ -686,15 +686,15 @@
       },
       {
         "reason": "regulament necitibil",
-        "count": 13
-      },
-      {
-        "reason": "proiect inactiv",
-        "count": 9
+        "count": 14
       },
       {
         "reason": "repo prea nou",
         "count": 9
+      },
+      {
+        "reason": "proiect inactiv",
+        "count": 8
       },
       {
         "reason": "prea aglomerat",
@@ -705,11 +705,11 @@
         "count": 2
       },
       {
-        "reason": "deja adjudecat",
+        "reason": "revendicat activ",
         "count": 1
       },
       {
-        "reason": "revendicat activ",
+        "reason": "deja adjudecat",
         "count": 1
       },
       {
