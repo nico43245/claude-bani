@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T00:58:57.239Z",
+  "generated_at": "2026-10-14T11:26:57.049Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
   ],
   "window_months": 24,
   "pain": {
-    "signals_total": 1091,
+    "signals_total": 1090,
     "themes": [
       {
         "theme": "web",
@@ -38,7 +38,7 @@
       },
       {
         "theme": "app",
-        "mentions": 27,
+        "mentions": 28,
         "engagement": 330,
         "evidence": [
           {
@@ -62,7 +62,7 @@
             "date": "2026-09-28"
           }
         ],
-        "score": 103
+        "score": 106
       },
       {
         "theme": "hours",
@@ -289,6 +289,34 @@
         "score": 71
       },
       {
+        "theme": "code",
+        "mentions": 46,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "I think it's less that recompilation is stealing the code, and more that it is a piece of the puzzle to 'stealing' the game experience (the thing that you would",
+            "url": "https://news.ycombinator.com/item?id=50056739",
+            "date": "2026-10-12"
+          },
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
+            "url": "https://news.ycombinator.com/item?id=47678065",
+            "date": "2026-04-07"
+          }
+        ],
+        "score": 70
+      },
+      {
         "theme": "computer",
         "mentions": 18,
         "engagement": 230,
@@ -317,34 +345,6 @@
         "score": 70
       },
       {
-        "theme": "code",
-        "mentions": 45,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "I think it's less that recompilation is stealing the code, and more that it is a piece of the puzzle to 'stealing' the game experience (the thing that you would",
-            "url": "https://news.ycombinator.com/item?id=50056739",
-            "date": "2026-10-12"
-          },
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
-            "url": "https://news.ycombinator.com/item?id=47678065",
-            "date": "2026-04-07"
-          }
-        ],
-        "score": 69
-      },
-      {
         "theme": "it.",
         "mentions": 57,
         "engagement": 18,
@@ -371,34 +371,6 @@
           }
         ],
         "score": 69
-      },
-      {
-        "theme": "system",
-        "mentions": 27,
-        "engagement": 92,
-        "evidence": [
-          {
-            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
-            "url": "https://news.ycombinator.com/item?id=49575215",
-            "date": "2026-09-05"
-          },
-          {
-            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
-            "url": "https://news.ycombinator.com/item?id=48982636",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
-            "url": "https://news.ycombinator.com/item?id=48947350",
-            "date": "2026-07-17"
-          },
-          {
-            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
-            "url": "https://news.ycombinator.com/item?id=49260810",
-            "date": "2026-08-11"
-          }
-        ],
-        "score": 66
       },
       {
         "theme": "open-source",
@@ -485,6 +457,34 @@
         "score": 64
       },
       {
+        "theme": "system",
+        "mentions": 26,
+        "engagement": 92,
+        "evidence": [
+          {
+            "text": "Author has a good head on their shoulders, but few if any companies are going to spend time on incident simulations for their SREs. Why not? Because even pre-AI",
+            "url": "https://news.ycombinator.com/item?id=49575215",
+            "date": "2026-09-05"
+          },
+          {
+            "text": "I’ve been through this situation with family members. I understand the frustration and agony. I also understand the hesitancy to pay for two months at a “retrea",
+            "url": "https://news.ycombinator.com/item?id=48982636",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "And in B2B or B2G you have customers with checklists of features they don't actually need because the person who wrote the checklist is friends with or paid by ",
+            "url": "https://news.ycombinator.com/item?id=48947350",
+            "date": "2026-07-17"
+          },
+          {
+            "text": "Don't worry about isolating the sound too much. If your human ear can identify a bad bearing even if the radio is on, you can train a model to do the same. Some",
+            "url": "https://news.ycombinator.com/item?id=49260810",
+            "date": "2026-08-11"
+          }
+        ],
+        "score": 64
+      },
+      {
         "theme": "different",
         "mentions": 28,
         "engagement": 70,
@@ -541,34 +541,6 @@
         "score": 60
       },
       {
-        "theme": "stop",
-        "mentions": 15,
-        "engagement": 215,
-        "evidence": [
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a pro",
-            "url": "https://news.ycombinator.com/item?id=49882007",
-            "date": "2026-09-28"
-          }
-        ],
-        "score": 60
-      },
-      {
         "theme": "launch",
         "mentions": 9,
         "engagement": 799,
@@ -597,36 +569,8 @@
         "score": 59
       },
       {
-        "theme": "company",
-        "mentions": 24,
-        "engagement": 80,
-        "evidence": [
-          {
-            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
-            "url": "https://news.ycombinator.com/item?id=49652797",
-            "date": "2026-09-11"
-          },
-          {
-            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
-            "url": "https://news.ycombinator.com/item?id=49294399",
-            "date": "2026-08-14"
-          },
-          {
-            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
-            "url": "https://news.ycombinator.com/item?id=48880155",
-            "date": "2026-07-12"
-          },
-          {
-            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
-            "url": "https://news.ycombinator.com/item?id=48814587",
-            "date": "2026-07-07"
-          }
-        ],
-        "score": 58
-      },
-      {
         "theme": "writing",
-        "mentions": 21,
+        "mentions": 22,
         "engagement": 96,
         "evidence": [
           {
@@ -650,7 +594,63 @@
             "date": "2026-03-19"
           }
         ],
-        "score": 57
+        "score": 59
+      },
+      {
+        "theme": "stop",
+        "mentions": 14,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a pro",
+            "url": "https://news.ycombinator.com/item?id=49882007",
+            "date": "2026-09-28"
+          }
+        ],
+        "score": 58
+      },
+      {
+        "theme": "company",
+        "mentions": 23,
+        "engagement": 80,
+        "evidence": [
+          {
+            "text": "Nuclear is the most expensive form of clean energy. It is likely to bankrupt at least one company. When Finland contracted with France to build their latest rea",
+            "url": "https://news.ycombinator.com/item?id=49652797",
+            "date": "2026-09-11"
+          },
+          {
+            "text": "Oh I'm not saying I don't want it. If the company would pay for it I certainly would use it. Just yesterday I was dealing with overlapping edge labels and at a ",
+            "url": "https://news.ycombinator.com/item?id=49294399",
+            "date": "2026-08-14"
+          },
+          {
+            "text": "Assuming you’re not talking about a loan to do this (at which point you’ve reinvented indentured servitude), back when there was a smaller pool of college gradu",
+            "url": "https://news.ycombinator.com/item?id=48880155",
+            "date": "2026-07-12"
+          },
+          {
+            "text": "The biggest difference between the cloud and AI is that an AWS server might cost 10x of what you would pay for if you bought your own, the overall expenditure i",
+            "url": "https://news.ycombinator.com/item?id=48814587",
+            "date": "2026-07-07"
+          }
+        ],
+        "score": 56
       },
       {
         "theme": "language",
