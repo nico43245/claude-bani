@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-10-13T20:09:21.853Z",
-  "scanned": 171,
-  "accepted": 39,
+  "generated_at": "2026-10-14T00:58:10.986Z",
+  "scanned": 169,
+  "accepted": 41,
   "refused_on_ethics": 7,
   "jobs": [
+    {
+      "title": "Python pytest suite for icalevents calendar parser Python (quick task #135)",
+      "url": "https://www.freelancer.com/projects/pandas/python-pytest-suite-for-icalevents",
+      "budget_raw": "$263 Average bid",
+      "desc": "Use the Python ecosystem (stdlib plus common PyPI libs) where it saves time. For I/O heavy work, consider asyncio or multiprocessing only if it clearly helps keep it simple first. The Python work centers on: icalevents calendar parser. Confirm Python version (3.10+ is fine) before you start if anyth",
+      "bids": 10,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 6,
+      "usd": 263,
+      "hourly": false,
+      "flags": [],
+      "score": 923
+    },
     {
       "title": "Simple Microsoft Excel",
       "url": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
@@ -21,16 +35,16 @@
     {
       "title": "AI Excel Dashboard Developer for Stock Analysis",
       "url": "https://www.freelancer.com/projects/ai-hw-sw/excel-dashboard-developer-for-stock",
-      "budget_raw": "$255 Average bid",
+      "budget_raw": "$250 Average bid",
       "desc": "Project: AI-Enabled Excel Dashboard for 30 Indian Stock Holdings Objective: Build a user-friendly Excel dashboard to monitor my Indian equity portfolio, identify concentration and fundamental risks, and generate automated weekly and quarterly reports. I do not have coding knowledge. Required deliver",
-      "bids": 26,
+      "bids": 27,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 6,
-      "usd": 255,
+      "usd": 250,
       "hourly": false,
       "flags": [],
-      "score": 418
+      "score": 380
     },
     {
       "title": "Automated Excel Stock Register with Summary for Garment Manufacturing",
@@ -61,20 +75,6 @@
       "score": 175
     },
     {
-      "title": "Python FastAPI task for mypy typing cleanup pass Python (v2 #13)",
-      "url": "https://www.freelancer.com/projects/pandas/python-fastapi-task-for-mypy",
-      "budget_raw": "$220 Average bid",
-      "desc": "Please write idiomatic Python with clear structure and docstrings on public functions. Add lightweight error handling; fail with messages that help debug input paths and API responses. The Python work centers on: mypy typing cleanup pass. Synthetic/sample inputs are enough for the demo run no live p",
-      "bids": 19,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 220,
-      "hourly": false,
-      "flags": [],
-      "score": 135
-    },
-    {
       "title": "Automate PDF Order Processing to Excel",
       "url": "https://www.freelancer.com/projects/power-automate/automate-pdf-order-processing-excel",
       "budget_raw": "$73 Average bid",
@@ -89,6 +89,34 @@
         "date personale — verifică GDPR și sursa"
       ],
       "score": 115
+    },
+    {
+      "title": "Maintainable Python module for Celery task retry fix Python (smoke test #106)",
+      "url": "https://www.freelancer.com/projects/pandas/maintainable-python-module-for-celery",
+      "budget_raw": "$198 Average bid",
+      "desc": "Deliver production-leaning Python: readable names, small functions, and a requirements file if needed. Include a `if __name__ == '__main__'` entry point and one documented example command. The Python work centers on: Celery task retry fix. I will review the Python code for readability first, then ed",
+      "bids": 26,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 198,
+      "hourly": false,
+      "flags": [],
+      "score": 81
+    },
+    {
+      "title": "Build Automation with n8n Flows and RAG Chatbot",
+      "url": "https://www.freelancer.com/projects/dot-net/build-automation-with-flows-rag",
+      "budget_raw": "$265 Average bid",
+      "desc": "I m looking for a professional who can assist in building two key AI projects for my portfolio: 1. Automating P1 & P2 issue ticketing using n8n flows: This involves creating workflows that automatically generate tickets based on the severity of issues, ensuring seamless automation. 2. Creating a cha",
+      "bids": 31,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 265,
+      "hourly": false,
+      "flags": [],
+      "score": 70
     },
     {
       "title": "PDF Table Text Extraction Needed",
@@ -133,10 +161,10 @@
       "score": 43
     },
     {
-      "title": "Bilingual RFQ Processing Assistant",
-      "url": "https://www.freelancer.com/projects/odoo/bilingual-rfq-processing-assistant",
+      "title": "AI-Driven Email Reply Automation",
+      "url": "https://www.freelancer.com/projects/android/driven-email-reply-automation",
       "budget_raw": "$7 / hr Average bid",
-      "desc": "I need support handling the commercial front-line of our industrial sales operation. Your core duty will be the prompt processing of incoming RFQs and price inquiries: extracting the technical and commercial details, confirming any missing information with prospects, and turning the request into a c",
+      "desc": "I need an application that reads incoming emails, pulls the requested numbers from my data source, and sends back a clear, professional reply without my involvement. The focus is strictly on automating email responses; later on I may explore data-entry or report-generation features, but the initial ",
       "bids": 26,
       "site": "freelancer",
       "verdict": "accept",
@@ -147,18 +175,18 @@
       "score": 41
     },
     {
-      "title": "Live Web Scrape to Excel",
-      "url": "https://www.freelancer.com/projects/web-scraping/live-web-scrape-excel",
-      "budget_raw": "$17 Average bid",
-      "desc": "I need a small, reliable script that continuously pulls text data from a specific website and pushes the results straight into an Excel worksheet in real time. The flow is simple: scrape clean (if needed) append or overwrite the target cells so the sheet always shows the freshest information without",
-      "bids": 29,
+      "title": "Project manager/developer (Claude Code)",
+      "url": "https://www.freelancer.com/projects/android/project-manager-developer-claude-code",
+      "budget_raw": "$198 Average bid",
+      "desc": "I m looking for someone who can wear both hats project manager and hands-on developer to drive a new web application from concept to production. We are looking for a project manager/developer (Claude Code) to lead a short V1: a tablet data-entry app that feeds a database we own, and mirrors the data",
+      "bids": 26,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 9,
-      "usd": 17,
+      "fit": 2,
+      "usd": 198,
       "hourly": false,
       "flags": [],
-      "score": 38
+      "score": 36
     },
     {
       "title": "HUL Financial Ratio Analysis",
@@ -189,53 +217,53 @@
       "score": 35
     },
     {
+      "title": "Full-Stack AI App Engineering",
+      "url": "https://www.freelancer.com/projects/java/full-stack-app-engineering",
+      "budget_raw": "$10 / hr Average bid",
+      "desc": "Title Mobile app (iOS, Android) and web app with AI document processing: client documents to CSV Project description Consulting company needs an app where clients submit financial documents. AI reads them, sorts and arranges the data, and produces a CSV file that imports into our software. The app r",
+      "bids": 26,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 10,
+      "hourly": true,
+      "flags": [],
+      "score": 33
+    },
+    {
+      "title": "Live Web Scrape to Excel",
+      "url": "https://www.freelancer.com/projects/web-scraping/live-web-scrape-excel",
+      "budget_raw": "$17 Average bid",
+      "desc": "I need a small, reliable script that continuously pulls text data from a specific website and pushes the results straight into an Excel worksheet in real time. The flow is simple: scrape clean (if needed) append or overwrite the target cells so the sheet always shows the freshest information without",
+      "bids": 32,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 9,
+      "usd": 17,
+      "hourly": false,
+      "flags": [],
+      "score": 28
+    },
+    {
       "title": "Excel Mixed Data Formatting",
       "url": "https://www.freelancer.com/projects/data-entry/excel-mixed-data-formatting",
       "budget_raw": "$14 / hr Average bid",
       "desc": "I have a batch of mixed text-and-numerical records that need to be keyed into a fresh Excel workbook, strictly ordered by date. After the entry phase I want the sheet transformed into a professional, easy-to-scan resource. Here s what the finished file must include. A structured Excel Table that exp",
-      "bids": 20,
+      "bids": 21,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 14,
       "hourly": true,
       "flags": [],
-      "score": 29
-    },
-    {
-      "title": "PDF Lines to Excel Sheet",
-      "url": "https://www.freelancer.com/projects/optical-character-recognition/pdf-lines-excel-sheet",
-      "budget_raw": "$5 / hr Average bid",
-      "desc": "I have a PDF made up entirely of plain-text lines and I need every line transferred accurately into an Excel workbook. No images, tables, or special formatting just straightforward text capture. You will receive the source PDF and return a clean .xlsx file with each original line occupying its own r",
-      "bids": 15,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 5,
-      "hourly": true,
-      "flags": [],
-      "score": 29
-    },
-    {
-      "title": "Text File to Excel Cleanup",
-      "url": "https://www.freelancer.com/projects/data-analysis/text-file-excel-cleanup",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I have a plain text data file that needs to be transformed into a tidy Excel worksheet. The work is very focused: Import the raw text. Remove every duplicate row so only unique records remain. Replace each missing value with the single placeholder I will provide once we start (feel free to suggest t",
-      "bids": 26,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 26
+      "score": 28
     },
     {
       "title": "Live Data Excel Sheet",
       "url": "https://www.freelancer.com/projects/data-analysis/cricket-live-score-excel-sheet",
       "budget_raw": "$14 Average bid",
       "desc": "I want an Excel workbook that lets me track live data in real time To make that possible, build a streamlined input panel simple text boxes or drop-downs so I can feed data quickly . Behind the scenes the workbook must hold the formulas and any VBA needed to keep the table live and automatically rol",
-      "bids": 12,
+      "bids": 13,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
@@ -243,6 +271,20 @@
       "hourly": false,
       "flags": [],
       "score": 24
+    },
+    {
+      "title": "PDF Lines to Excel Sheet",
+      "url": "https://www.freelancer.com/projects/optical-character-recognition/pdf-lines-excel-sheet",
+      "budget_raw": "$5 / hr Average bid",
+      "desc": "I have a PDF made up entirely of plain-text lines and I need every line transferred accurately into an Excel workbook. No images, tables, or special formatting just straightforward text capture. You will receive the source PDF and return a clean .xlsx file with each original line occupying its own r",
+      "bids": 20,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 5,
+      "hourly": true,
+      "flags": [],
+      "score": 23
     },
     {
       "title": "Hindi Numeric Entry to Excel",
@@ -263,20 +305,48 @@
       "url": "https://www.freelancer.com/projects/data-annotation/digitize-survey-forms-into-excel",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I have a small batch of survey responses fewer than fifty sitting as scanned image files. I need every answer lifted from those scans and typed, error-free, into an Excel workbook that I ll share once we start. Each survey is laid out identically, so once you understand the first one the rest should",
-      "bids": 19,
+      "bids": 20,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
       "usd": 9,
       "hourly": true,
       "flags": [],
-      "score": 20
+      "score": 19
+    },
+    {
+      "title": "Forex Trading Platform Revamp & Marketing Plan",
+      "url": "https://www.freelancer.com/projects/wordpress/forex-trading-platform-revamp-marketing",
+      "budget_raw": "$34 Average bid",
+      "desc": "LIQUID MARKETS WEBSITE OPTIMIZATION & 90-DAY DIGITAL MARKETING CAMPAIGN Project Overview We are looking for an experienced WordPress Developer, Python Programmer, and Digital Marketing Specialist to improve our existing website, optimize customer conversion journeys, implement reliable marketing tra",
+      "bids": 24,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 34,
+      "hourly": false,
+      "flags": [],
+      "score": 16
     },
     {
       "title": "Numeric Data Preprocessing for ML",
       "url": "https://www.freelancer.com/projects/data-analysis/numeric-data-preprocessing-for",
       "budget_raw": "$11 / hr Average bid",
       "desc": "I m sitting on large, messy numeric datasets and need them cleaned, engineered, and split so downstream models train smoothly. Your mission is to design a reproducible preprocessing pipeline: audit the raw CSVs, tackle missing or extreme values, scale or normalize where it counts, generate meaningfu",
+      "bids": 36,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 11,
+      "hourly": true,
+      "flags": [],
+      "score": 15
+    },
+    {
+      "title": "Tamil Nadu Software Trainers Needed",
+      "url": "https://www.freelancer.com/projects/artificial-intelligence/tamil-nadu-software-trainers-needed",
+      "budget_raw": "$11 / hr Average bid",
+      "desc": "I m setting up a training wing for my new start-up in Tamil Nadu and need seasoned instructors who can take full ownership of course creation and delivery. Right now the priority subjects are Power BI with SQL, Artificial Intelligence, and Python, but I m happy to speak with professionals in any mod",
       "bids": 36,
       "site": "freelancer",
       "verdict": "accept",
@@ -301,18 +371,18 @@
       "score": 14
     },
     {
-      "title": "MQTT to Hadoop Sales Data Pipeline",
-      "url": "https://www.freelancer.com/projects/docker/mqtt-hadoop-sales-data-pipeline",
-      "budget_raw": "$119 Average bid",
-      "desc": "PROJECT OVERVIEW We need a small, working proof of concept that collects retail sales transactions over MQTT, stores them locally in SQLite, loads them into Hadoop (HDFS + Hive) and produces basic sales reports. Everything must run on one machine with Docker so we can demo it and build on it later. ",
-      "bids": 10,
+      "title": "Python ML System Enhancement",
+      "url": "https://www.freelancer.com/projects/pytorch/python-system-enhancement",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I have an AI-driven application written in Python that is already live, but its performance is no longer where it needs to be. Rather than rewriting anything from scratch, I want a developer who can dive into the current codebase, spot the weak points, and apply machine-learning best practices to br",
+      "bids": 33,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 1,
-      "usd": 119,
-      "hourly": false,
+      "fit": 3,
+      "usd": 8,
+      "hourly": true,
       "flags": [],
-      "score": 12
+      "score": 13
     },
     {
       "title": "Excel to PDF Conversion",
@@ -329,34 +399,6 @@
       "score": 12
     },
     {
-      "title": "CIBIL Report PDF Editor",
-      "url": "https://www.freelancer.com/projects/adobe-acrobat/cibil-report-pdf-editor",
-      "budget_raw": "$14 / hr Average bid",
-      "desc": "I need a specialized PDF editor to modify a CIBIL report. Key tasks include: - Updating credit details: Accurately modify existing information. - Adding annotations or comments: Provide insights or notes directly on the PDF. Ideal skills and experience: - Proficiency in PDF editing tools - Attention",
-      "bids": 8,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 14,
-      "hourly": true,
-      "flags": [],
-      "score": 12
-    },
-    {
-      "title": "Data Analyst: Clean, Query, Visualize",
-      "url": "https://www.freelancer.com/projects/data-analysis/data-analyst-clean-query-visualize",
-      "budget_raw": "$19 Average bid",
-      "desc": "I have several raw datasets from different business systems that need to be turned into a single, reliable source of truth before we explore the story hidden inside. For the cleaning phase I ll rely on both Python (think pandas, NumPy, Jupyter notebooks) and advanced Excel techniques such as Power Q",
-      "bids": 36,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 19,
-      "hourly": false,
-      "flags": [],
-      "score": 10
-    },
-    {
       "title": "PDF to Word & Excel",
       "url": "https://www.freelancer.com/projects/optical-character-recognition/pdf-word-excel",
       "budget_raw": "$3 / hr Average bid",
@@ -369,6 +411,20 @@
       "hourly": true,
       "flags": [],
       "score": 10
+    },
+    {
+      "title": "Comprehensive Sportsbook & Live Casino API",
+      "url": "https://www.freelancer.com/projects/javascript/comprehensive-sportsbook-live-casino-api",
+      "budget_raw": "$75 Average bid",
+      "desc": "I'm in need of a sportsbook, cricket, and live casino betting api. help to find low cost. Key Requirements: - The sportsbook must support live betting, in-play statistics, and multiple sports coverage. - It should cover major sports including football, basketball, and tennis. It would be ideal for y",
+      "bids": 32,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 75,
+      "hourly": false,
+      "flags": [],
+      "score": 8
     },
     {
       "title": "Affordable Cloud-Based Web Scraping & Webpage Change Detection System",
@@ -399,39 +455,25 @@
       "score": 8
     },
     {
-      "title": "Comprehensive Sportsbook & Live Casino API",
-      "url": "https://www.freelancer.com/projects/javascript/comprehensive-sportsbook-live-casino-api",
-      "budget_raw": "$76 Average bid",
-      "desc": "I'm in need of a sportsbook, cricket, and live casino betting api. help to find low cost. Key Requirements: - The sportsbook must support live betting, in-play statistics, and multiple sports coverage. - It should cover major sports including football, basketball, and tennis. It would be ideal for y",
-      "bids": 33,
+      "title": "PostgreSQL Optimization for Django Platform",
+      "url": "https://www.freelancer.com/projects/django/postgresql-optimization-for-django",
+      "budget_raw": "$20 Average bid",
+      "desc": "Our online education portal, , is powered by Python primarily Django with a couple of small Flask services and everything funnels through a single PostgreSQL instance. Traffic and course data have grown quickly, and the database layer is now the clear bottleneck. What I need is a specialist who can ",
+      "bids": 37,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 76,
+      "fit": 5,
+      "usd": 20,
       "hourly": false,
       "flags": [],
-      "score": 7
-    },
-    {
-      "title": "Tamil Nadu Software Trainers Needed",
-      "url": "https://www.freelancer.com/projects/artificial-intelligence/tamil-nadu-software-trainers-needed",
-      "budget_raw": "$10 Average bid",
-      "desc": "I m setting up a training wing for my new start-up in Tamil Nadu and need seasoned instructors who can take full ownership of course creation and delivery. Right now the priority subjects are Power BI with SQL, Artificial Intelligence, and Python, but I m happy to speak with professionals in any mod",
-      "bids": 12,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 10,
-      "hourly": false,
-      "flags": [],
-      "score": 6
+      "score": 8
     },
     {
       "title": "Artificial Turf Prospect List",
       "url": "https://www.freelancer.com/projects/sales/artificial-turf-prospect-list",
       "budget_raw": "$20 Average bid",
       "desc": "I supply artificial turf products and now want to reach more potential buyers. The focus is purely on PRODUCTS not installation, maintenance, or consultation and I cover every segment of the market: Residential, Commercial, and Sports Fields. What I need from you is to call leads from my excel sheet",
-      "bids": 10,
+      "bids": 12,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
@@ -483,20 +525,6 @@
       "score": 5
     },
     {
-      "title": "Customer Service Data Analysis",
-      "url": "https://www.freelancer.com/projects/data-analysis/customer-service-data-analysis",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "I have a sizeable set of customer data and I want to turn it into clear, actionable insight that will directly improve our customers experience when they contact support. Your task is to take this raw information, clean it, explore it and surface the patterns that show where our service interactions",
-      "bids": 26,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 10,
-      "hourly": true,
-      "flags": [],
-      "score": 4
-    },
-    {
       "title": "Urgent Excel Password Recovery",
       "url": "https://www.freelancer.com/projects/data-recovery/urgent-excel-password-recovery",
       "budget_raw": "$10 Average bid",
@@ -509,20 +537,6 @@
       "hourly": false,
       "flags": [],
       "score": 3
-    },
-    {
-      "title": "Text File Data Cleaning",
-      "url": "https://www.freelancer.com/projects/data-cleansing/text-file-data-cleaning",
-      "budget_raw": "$4 / hr Average bid",
-      "desc": "Hey Folks, I have a batch of raw text files that contain customer records, but many of the fields are incomplete. I need twenty reliable freelancers located in the UK or USA to help me tidy these files so every record is complete and consistently formatted. Here is what the job involves: I will supp",
-      "bids": 23,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 4,
-      "hourly": true,
-      "flags": [],
-      "score": 2
     },
     {
       "title": "Sign & Upload Tax Audits",
@@ -543,7 +557,7 @@
       "url": "https://www.freelancer.com/projects/report-writing/turnitin-plagiarism-reports",
       "budget_raw": "$6 / hr Average bid",
       "desc": "I need a freelancer with verified Turnitin access to run AI and plagiarism reports for academic documents. Documents will be under 15,000 words each. I need official PDF reports showing both similarity percentage and AI detection score. This is for ongoing work, so I m looking for a reliable partner",
-      "bids": 25,
+      "bids": 28,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,

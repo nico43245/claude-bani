@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-13T20:10:11.462Z",
+  "generated_at": "2026-10-14T00:58:57.311Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 955,
+  "events_total": 960,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 194
+      "actions": 195
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 186
+      "actions": 187
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 384
+      "actions": 386
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 191
+      "actions": 192
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-14T00:58:57.249Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-14T00:58:10.987Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 263,
+      "status": null,
+      "desc": "Cel mai bun job: Python pytest suite for icalevents calendar parser Python (quick task #135)",
+      "evidence": "https://www.freelancer.com/projects/pandas/python-pytest-suite-for-icalevents",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-14T00:58:10.987Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 169 proiecte scanate → 41 potrivite, 7 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-14T00:57:58.026Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-14T00:57:25.911Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 710 candidați → 0 bounty-uri reale (710 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-13T20:10:11.398Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 676 candidați → 0 bounty-uri reale (676 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-09T19:21:39.409Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1094 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-09T19:20:47.399Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 8,
-      "status": null,
-      "desc": "Cel mai bun job: Excel ,vlookup",
-      "evidence": "https://www.freelancer.com/projects/data-processing/excel-vlookup",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-09T19:20:47.399Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 158 proiecte scanate → 32 potrivite, 7 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-09T19:20:34.588Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-09T19:20:01.628Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 676 candidați → 0 bounty-uri reale (676 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 747,
+    "rejected": 746,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1014,
+        "score": 1012,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 592,
-        "per_slot": 592,
+        "participants": 593,
+        "per_slot": 593,
         "days_left": 51,
         "objective": true
       }
@@ -658,7 +658,7 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 394
+        "count": 393
       },
       {
         "reason": "organizație-fermă cunoscută",
@@ -686,7 +686,7 @@
       },
       {
         "reason": "regulament necitibil",
-        "count": 13
+        "count": 12
       },
       {
         "reason": "repo prea nou",
@@ -698,7 +698,7 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 5
+        "count": 6
       },
       {
         "reason": "prea puțin timp de construit",

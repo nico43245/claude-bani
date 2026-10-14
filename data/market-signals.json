@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T20:10:11.397Z",
+  "generated_at": "2026-10-14T00:58:57.239Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -150,7 +150,7 @@
       },
       {
         "theme": "hate",
-        "mentions": 77,
+        "mentions": 76,
         "engagement": 13,
         "evidence": [
           {
@@ -174,7 +174,7 @@
             "date": "2025-12-07"
           }
         ],
-        "score": 86
+        "score": 85
       },
       {
         "theme": "built",
@@ -261,6 +261,34 @@
         "score": 74
       },
       {
+        "theme": "them",
+        "mentions": 71,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
+            "url": "https://news.ycombinator.com/item?id=49878407",
+            "date": "2026-09-28"
+          },
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
+          }
+        ],
+        "score": 71
+      },
+      {
         "theme": "computer",
         "mentions": 18,
         "engagement": 230,
@@ -289,62 +317,6 @@
         "score": 70
       },
       {
-        "theme": "it.",
-        "mentions": 58,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Among your friends and family, who use AI for fun, do they pay for it? Would they? My non-tech friends use AI to make funny meme images that they send around on",
-            "url": "https://news.ycombinator.com/item?id=49970150",
-            "date": "2026-10-05"
-          },
-          {
-            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
-            "url": "https://news.ycombinator.com/item?id=49794276",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
-            "url": "https://news.ycombinator.com/item?id=49623827",
-            "date": "2026-09-09"
-          }
-        ],
-        "score": 70
-      },
-      {
-        "theme": "them",
-        "mentions": 70,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
-            "url": "https://news.ycombinator.com/item?id=49878407",
-            "date": "2026-09-28"
-          },
-          {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
-          }
-        ],
-        "score": 70
-      },
-      {
         "theme": "code",
         "mentions": 45,
         "engagement": 41,
@@ -368,6 +340,34 @@
             "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
             "url": "https://news.ycombinator.com/item?id=47678065",
             "date": "2026-04-07"
+          }
+        ],
+        "score": 69
+      },
+      {
+        "theme": "it.",
+        "mentions": 57,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Among your friends and family, who use AI for fun, do they pay for it? Would they? My non-tech friends use AI to make funny meme images that they send around on",
+            "url": "https://news.ycombinator.com/item?id=49970150",
+            "date": "2026-10-05"
+          },
+          {
+            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
+            "url": "https://news.ycombinator.com/item?id=49794276",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
+            "url": "https://news.ycombinator.com/item?id=49623827",
+            "date": "2026-09-09"
           }
         ],
         "score": 69
