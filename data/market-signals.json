@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:26:57.049Z",
+  "generated_at": "2026-10-14T18:25:06.433Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -94,7 +94,7 @@
       },
       {
         "theme": "wish",
-        "mentions": 90,
+        "mentions": 91,
         "engagement": 11,
         "evidence": [
           {
@@ -118,7 +118,7 @@
             "date": "2025-03-15"
           }
         ],
-        "score": 98
+        "score": 99
       },
       {
         "theme": "spend",
@@ -178,7 +178,7 @@
       },
       {
         "theme": "built",
-        "mentions": 27,
+        "mentions": 26,
         "engagement": 160,
         "evidence": [
           {
@@ -202,35 +202,7 @@
             "date": "2026-09-08"
           }
         ],
-        "score": 81
-      },
-      {
-        "theme": "browser",
-        "mentions": 18,
-        "engagement": 287,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "it was nice while it lasted. I guess my next step is a jev+cron to sort good from bad. Browser automation here we come. Someone want to write a Firefox extensio",
-            "url": "https://news.ycombinator.com/item?id=50022196",
-            "date": "2026-10-09"
-          },
-          {
-            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
-            "url": "https://news.ycombinator.com/item?id=48973899",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          }
-        ],
-        "score": 75
+        "score": 79
       },
       {
         "theme": "search",
@@ -261,6 +233,90 @@
         "score": 74
       },
       {
+        "theme": "browser",
+        "mentions": 17,
+        "engagement": 287,
+        "evidence": [
+          {
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
+          },
+          {
+            "text": "it was nice while it lasted. I guess my next step is a jev+cron to sort good from bad. Browser automation here we come. Someone want to write a Firefox extensio",
+            "url": "https://news.ycombinator.com/item?id=50022196",
+            "date": "2026-10-09"
+          },
+          {
+            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
+            "url": "https://news.ycombinator.com/item?id=48973899",
+            "date": "2026-07-20"
+          },
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          }
+        ],
+        "score": 72
+      },
+      {
+        "theme": "code",
+        "mentions": 47,
+        "engagement": 41,
+        "evidence": [
+          {
+            "text": "I think it's less that recompilation is stealing the code, and more that it is a piece of the puzzle to 'stealing' the game experience (the thing that you would",
+            "url": "https://news.ycombinator.com/item?id=50056739",
+            "date": "2026-10-12"
+          },
+          {
+            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
+            "url": "https://news.ycombinator.com/item?id=49276538",
+            "date": "2026-08-12"
+          },
+          {
+            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
+            "url": "https://news.ycombinator.com/item?id=49152873",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
+            "url": "https://news.ycombinator.com/item?id=47678065",
+            "date": "2026-04-07"
+          }
+        ],
+        "score": 72
+      },
+      {
+        "theme": "it.",
+        "mentions": 60,
+        "engagement": 18,
+        "evidence": [
+          {
+            "text": "Among your friends and family, who use AI for fun, do they pay for it? Would they? My non-tech friends use AI to make funny meme images that they send around on",
+            "url": "https://news.ycombinator.com/item?id=49970150",
+            "date": "2026-10-05"
+          },
+          {
+            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
+            "url": "https://news.ycombinator.com/item?id=49794276",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
+            "url": "https://news.ycombinator.com/item?id=49623827",
+            "date": "2026-09-09"
+          }
+        ],
+        "score": 72
+      },
+      {
         "theme": "them",
         "mentions": 71,
         "engagement": 0,
@@ -287,34 +343,6 @@
           }
         ],
         "score": 71
-      },
-      {
-        "theme": "code",
-        "mentions": 46,
-        "engagement": 41,
-        "evidence": [
-          {
-            "text": "I think it's less that recompilation is stealing the code, and more that it is a piece of the puzzle to 'stealing' the game experience (the thing that you would",
-            "url": "https://news.ycombinator.com/item?id=50056739",
-            "date": "2026-10-12"
-          },
-          {
-            "text": "> With AI, \"bad\" engineers can now amplify their \"bad\" engineering x10 across the organization. It's even worse than that. We've got a CEO who has suddenly lear",
-            "url": "https://news.ycombinator.com/item?id=49276538",
-            "date": "2026-08-12"
-          },
-          {
-            "text": "Having worked in COBOL extensivly in the 80s and 90s, as well as working for a software house that did migrations (Craziest was Plan assembler to Dec Vax C). I ",
-            "url": "https://news.ycombinator.com/item?id=49152873",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "Claude Code and Opus used to do a great job a few months ago. It seemed to get it right more often than not. It seemed to be far better at figuring out what has",
-            "url": "https://news.ycombinator.com/item?id=47678065",
-            "date": "2026-04-07"
-          }
-        ],
-        "score": 70
       },
       {
         "theme": "computer",
@@ -345,64 +373,8 @@
         "score": 70
       },
       {
-        "theme": "it.",
-        "mentions": 57,
-        "engagement": 18,
-        "evidence": [
-          {
-            "text": "Among your friends and family, who use AI for fun, do they pay for it? Would they? My non-tech friends use AI to make funny meme images that they send around on",
-            "url": "https://news.ycombinator.com/item?id=49970150",
-            "date": "2026-10-05"
-          },
-          {
-            "text": "Various pharmacies in Canada will accept a US prescription and send you the medication via mail, usually at far cheaper than what you would pay for the same in ",
-            "url": "https://news.ycombinator.com/item?id=49794276",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
-            "url": "https://news.ycombinator.com/item?id=49623827",
-            "date": "2026-09-09"
-          }
-        ],
-        "score": 69
-      },
-      {
-        "theme": "open-source",
-        "mentions": 10,
-        "engagement": 961,
-        "evidence": [
-          {
-            "text": "Show HN: Runthru – open-source Interactive Demos",
-            "url": "https://news.ycombinator.com/item?id=49154806",
-            "date": "2026-08-03"
-          },
-          {
-            "text": "I'll preface this with a statement that as a European I want European alternatives to succeed, and MS-owned GitHub to shrivel and disappear. But in case anyone ",
-            "url": "https://news.ycombinator.com/item?id=48122710",
-            "date": "2026-05-13"
-          },
-          {
-            "text": "Every time I start a new open-source project, I end up creating a license manually on GitHub's UI, then manually updating the year and my name. I got tired of d",
-            "url": "https://news.ycombinator.com/item?id=46472289",
-            "date": "2026-01-03"
-          },
-          {
-            "text": "Show HN: Daffodil – Open-Source Ecommerce Framework to connect to any platform",
-            "url": "https://news.ycombinator.com/item?id=45250193",
-            "date": "2025-09-15"
-          }
-        ],
-        "score": 66
-      },
-      {
         "theme": "agent",
-        "mentions": 15,
+        "mentions": 16,
         "engagement": 258,
         "evidence": [
           {
@@ -426,7 +398,7 @@
             "date": "2026-10-13"
           }
         ],
-        "score": 64
+        "score": 67
       },
       {
         "theme": "apps",
@@ -513,6 +485,34 @@
         "score": 61
       },
       {
+        "theme": "open-source",
+        "mentions": 9,
+        "engagement": 961,
+        "evidence": [
+          {
+            "text": "Show HN: Runthru – open-source Interactive Demos",
+            "url": "https://news.ycombinator.com/item?id=49154806",
+            "date": "2026-08-03"
+          },
+          {
+            "text": "I'll preface this with a statement that as a European I want European alternatives to succeed, and MS-owned GitHub to shrivel and disappear. But in case anyone ",
+            "url": "https://news.ycombinator.com/item?id=48122710",
+            "date": "2026-05-13"
+          },
+          {
+            "text": "Every time I start a new open-source project, I end up creating a license manually on GitHub's UI, then manually updating the year and my name. I got tired of d",
+            "url": "https://news.ycombinator.com/item?id=46472289",
+            "date": "2026-01-03"
+          },
+          {
+            "text": "Show HN: Daffodil – Open-Source Ecommerce Framework to connect to any platform",
+            "url": "https://news.ycombinator.com/item?id=45250193",
+            "date": "2025-09-15"
+          }
+        ],
+        "score": 61
+      },
+      {
         "theme": "life",
         "mentions": 12,
         "engagement": 354,
@@ -536,6 +536,34 @@
             "text": "That's all I want! A not-completely-useless Siri, and performance/quality of life improvements. MacOS is fine. For the most part it gets out of my way. However ",
             "url": "https://news.ycombinator.com/item?id=49701697",
             "date": "2026-09-14"
+          }
+        ],
+        "score": 60
+      },
+      {
+        "theme": "stop",
+        "mentions": 15,
+        "engagement": 215,
+        "evidence": [
+          {
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
+          },
+          {
+            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
+            "url": "https://news.ycombinator.com/item?id=47775952",
+            "date": "2026-04-15"
+          },
+          {
+            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
+            "url": "https://news.ycombinator.com/item?id=47308829",
+            "date": "2026-03-09"
+          },
+          {
+            "text": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a pro",
+            "url": "https://news.ycombinator.com/item?id=49882007",
+            "date": "2026-09-28"
           }
         ],
         "score": 60
@@ -595,34 +623,6 @@
           }
         ],
         "score": 59
-      },
-      {
-        "theme": "stop",
-        "mentions": 14,
-        "engagement": 215,
-        "evidence": [
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          },
-          {
-            "text": "This should ironically start at the VC level - and that includes YC et al. Some one comes and says \"hey, we got this idea, we collect facial recognition data fo",
-            "url": "https://news.ycombinator.com/item?id=47775952",
-            "date": "2026-04-15"
-          },
-          {
-            "text": "Did Read; Take My Money Temperature changing rubber pushing studs outwards that add grip as the tire cools, absolutely brilliant if the outer layers haven't bee",
-            "url": "https://news.ycombinator.com/item?id=47308829",
-            "date": "2026-03-09"
-          },
-          {
-            "text": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a pro",
-            "url": "https://news.ycombinator.com/item?id=49882007",
-            "date": "2026-09-28"
-          }
-        ],
-        "score": 58
       },
       {
         "theme": "company",
@@ -737,34 +737,6 @@
         "score": 53
       },
       {
-        "theme": "public",
-        "mentions": 16,
-        "engagement": 126,
-        "evidence": [
-          {
-            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
-            "url": "https://news.ycombinator.com/item?id=49180441",
-            "date": "2026-08-05"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426362",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
-            "url": "https://news.ycombinator.com/item?id=49426299",
-            "date": "2026-08-24"
-          },
-          {
-            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
-            "url": "https://news.ycombinator.com/item?id=49637227",
-            "date": "2026-09-10"
-          }
-        ],
-        "score": 53
-      },
-      {
         "theme": "videos",
         "mentions": 12,
         "engagement": 233,
@@ -819,6 +791,34 @@
           }
         ],
         "score": 52
+      },
+      {
+        "theme": "public",
+        "mentions": 15,
+        "engagement": 126,
+        "evidence": [
+          {
+            "text": "IBM stuff is likely to expensive and optimized for different things. Same for the other Post-Mainframe stuff. You would pay for a lot of stuff you don't need, a",
+            "url": "https://news.ycombinator.com/item?id=49180441",
+            "date": "2026-08-05"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426362",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "> Today, though, almost everyone carries either a contactless credit card or a phone with an NFC wallet. I would pay $0.25 for access to a clean public toilet i",
+            "url": "https://news.ycombinator.com/item?id=49426299",
+            "date": "2026-08-24"
+          },
+          {
+            "text": "Firstly, you seem to be conflating \"know your customer\"/anti-money-laundering stuff with \"please explain why you're wiring this money because we don't want you ",
+            "url": "https://news.ycombinator.com/item?id=49637227",
+            "date": "2026-09-10"
+          }
+        ],
+        "score": 51
       },
       {
         "theme": "agents",

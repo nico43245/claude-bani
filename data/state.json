@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-14T11:26:57.106Z",
+  "generated_at": "2026-10-14T18:25:06.501Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 965,
+  "events_total": 970,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 196
+      "actions": 197
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 188
+      "actions": 189
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 388
+      "actions": 390
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 193
+      "actions": 194
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-14T18:25:06.435Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1090 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-14T18:24:19.158Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 196,
+      "status": null,
+      "desc": "Cel mai bun job: Python Flask utility for Google Sheets API sync Python (iteration #125)",
+      "evidence": "https://www.freelancer.com/projects/pandas/python-flask-utility-for-google",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-14T18:24:19.158Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 146 proiecte scanate → 45 potrivite, 6 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-14T18:24:06.437Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 38 scanate, 1 eligibile după citirea regulamentelor (37 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-14T18:23:38.057Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 711 candidați → 0 bounty-uri reale (711 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-14T11:26:57.050Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 677 candidați → 0 bounty-uri reale (677 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-10T12:07:40.686Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1092 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 48 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-10T12:06:47.092Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 124,
-      "status": null,
-      "desc": "Cel mai bun job: QuickBooks Data Integration for PowerBI",
-      "evidence": "https://www.freelancer.com/projects/power-bi/quickbooks-data-integration-for-powerbi",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-10T12:06:47.092Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 166 proiecte scanate → 42 potrivite, 4 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-10T12:06:33.851Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 38 scanate, 1 eligibile după citirea regulamentelor (37 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-10T12:05:57.418Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 676 candidați → 0 bounty-uri reale (676 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 741,
+    "rejected": 748,
     "top": [
       {
         "source": "comp-radar",
@@ -646,27 +646,27 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 1005,
+        "score": 998,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 597,
-        "per_slot": 597,
-        "days_left": 51,
+        "participants": 601,
+        "per_slot": 601,
+        "days_left": 50,
         "objective": true
       }
     ],
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 393
-      },
-      {
-        "reason": "organizație-fermă cunoscută",
-        "count": 111
+        "count": 394
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 104
+        "count": 113
+      },
+      {
+        "reason": "organizație-fermă cunoscută",
+        "count": 107
       },
       {
         "reason": "prea competitiv",
@@ -682,11 +682,11 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 14
+        "count": 15
       },
       {
         "reason": "regulament necitibil",
-        "count": 12
+        "count": 10
       },
       {
         "reason": "repo prea nou",
@@ -698,11 +698,11 @@
       },
       {
         "reason": "prea aglomerat",
-        "count": 5
+        "count": 6
       },
       {
         "reason": "prea puțin timp de construit",
-        "count": 3
+        "count": 4
       },
       {
         "reason": "premiu prea mic",
