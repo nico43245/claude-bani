@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-14T18:25:06.501Z",
+  "generated_at": "2026-10-15T00:22:15.802Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 970,
+  "events_total": 975,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 197
+      "actions": 198
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 189
+      "actions": 190
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 390
+      "actions": 392
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 194
+      "actions": 195
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-15T00:22:15.750Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1090 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-15T00:21:25.659Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 202,
+      "status": null,
+      "desc": "Cel mai bun job: Python bot for Discord reminder bot Python (batch A #139)",
+      "evidence": "https://www.freelancer.com/projects/pandas/python-bot-for-discord-reminder",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-15T00:21:25.659Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 146 proiecte scanate → 40 potrivite, 6 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-15T00:21:12.650Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 38 scanate, 1 eligibile după citirea regulamentelor (37 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-15T00:20:42.765Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 712 candidați → 0 bounty-uri reale (712 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-14T18:25:06.435Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 689 candidați → 0 bounty-uri reale (689 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-10T18:18:52.077Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1093 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-10T18:18:02.955Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 125,
-      "status": null,
-      "desc": "Cel mai bun job: QuickBooks Data Integration for PowerBI",
-      "evidence": "https://www.freelancer.com/projects/power-bi/quickbooks-data-integration-for-powerbi",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-10T18:18:02.955Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 166 proiecte scanate → 44 potrivite, 4 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-10T18:17:50.019Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 39 scanate, 1 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-10T18:17:15.617Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 677 candidați → 0 bounty-uri reale (677 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 748,
+    "rejected": 749,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 998,
+        "score": 992,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 601,
-        "per_slot": 601,
+        "participants": 605,
+        "per_slot": 605,
         "days_left": 50,
         "objective": true
       }
@@ -658,7 +658,7 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 394
+        "count": 395
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -666,7 +666,7 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 107
+        "count": 108
       },
       {
         "reason": "prea competitiv",
@@ -674,7 +674,7 @@
       },
       {
         "reason": "fără dovadă de finanțare",
-        "count": 20
+        "count": 19
       },
       {
         "reason": "fork (task sintetic de benchmark)",
