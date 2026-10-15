@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T11:02:49.572Z",
-  "scanned": 143,
-  "accepted": 39,
-  "refused_on_ethics": 8,
+  "generated_at": "2026-10-15T18:06:41.061Z",
+  "scanned": 151,
+  "accepted": 38,
+  "refused_on_ethics": 6,
   "jobs": [
     {
       "title": "Python bot for Discord reminder bot Python (batch A #139)",
@@ -19,32 +19,34 @@
       "score": 251
     },
     {
-      "title": "Word Docs to Excel Organizing",
-      "url": "https://www.freelancer.com/projects/data-analysis/word-docs-excel-organizing",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a collection of Word documents filled with text data that must be transferred into a well-structured Excel workbook. Your task is to extract the relevant text from each document, enter it accurately into the correct columns, and apply clear, consistent formatting so the file is easy to filter",
-      "bids": 2,
+      "title": "LinkedIn Email Extraction to Excel",
+      "url": "https://www.freelancer.com/projects/data-analysis/linkedin-email-extraction-excel",
+      "budget_raw": "$204 Average bid",
+      "desc": "This is a QUICK project. A couple of hours. I need a Excel sheet that captures email addresses taken directly from LinkedIn profiles. Every email must be sourced only from the profile itself no outside databases or enrichment tools so the sheet can be traced back to verifiable LinkedIn URLs. Alongsi",
+      "bids": 25,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 222
+      "usd": 204,
+      "hourly": false,
+      "flags": [
+        "date personale — verifică GDPR și sursa"
+      ],
+      "score": 249
     },
     {
-      "title": "Python Typer app for python-docx mail-merge helper Python (one-off #55)",
-      "url": "https://www.freelancer.com/projects/pandas/python-typer-app-for-python",
-      "budget_raw": "$213 Average bid",
-      "desc": "Please write idiomatic Python with clear structure and docstrings on public functions. Add lightweight error handling; fail with messages that help debug input paths and API responses. The Python work centers on: python-docx mail-merge helper. Confirm Python version (3.10+ is fine) before you start ",
-      "bids": 29,
+      "title": "MCA Company Details CSV Extraction",
+      "url": "https://www.freelancer.com/projects/data-extraction/mca-company-details-csv-extraction",
+      "budget_raw": "$198 Average bid",
+      "desc": "I need a clean, consolidated CSV that pulls the latest Company Details available on India s MCA portal. The scope is limited to three data groups registration information, director details, and financial statements for a set of companies I will share once we start. I am not interested in any other M",
+      "bids": 31,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 5,
-      "usd": 213,
+      "fit": 6,
+      "usd": 198,
       "hourly": false,
       "flags": [],
-      "score": 190
+      "score": 208
     },
     {
       "title": "Python Flask utility for Google Sheets API sync Python (iteration #125)",
@@ -61,32 +63,60 @@
       "score": 186
     },
     {
-      "title": "Python CLI for win32com Excel automation bridge Python (pilot #131)",
-      "url": "https://www.freelancer.com/projects/pandas/python-cli-for-win-com",
-      "budget_raw": "$230 Average bid",
-      "desc": "Scope is intentionally small; optimize for clarity and easy handoff in Python. Use logging (stdlib or loguru) so runs are easy to audit. The Python work centers on: win32com Excel automation bridge. I will review the Python code for readability first, then edge-case behavior. Tech stack: Python 3 on",
-      "bids": 36,
+      "title": "Python Typer app for python-docx mail-merge helper Python (one-off #55)",
+      "url": "https://www.freelancer.com/projects/pandas/python-typer-app-for-python",
+      "budget_raw": "$212 Average bid",
+      "desc": "Please write idiomatic Python with clear structure and docstrings on public functions. Add lightweight error handling; fail with messages that help debug input paths and API responses. The Python work centers on: python-docx mail-merge helper. Confirm Python version (3.10+ is fine) before you start ",
+      "bids": 30,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 5,
-      "usd": 230,
+      "usd": 212,
       "hourly": false,
       "flags": [],
-      "score": 112
+      "score": 172
     },
     {
-      "title": "PDF Data to Excel Conversion",
-      "url": "https://www.freelancer.com/projects/data-analysis/pdf-data-excel-conversion",
-      "budget_raw": "$210 Average bid",
-      "desc": "I have a set of PDFs that contain pure text and numerical data which I need transferred accurately into an Excel workbook. The layout can stay with standard, default formatting no custom headers or fancy color-coding just a clean sheet that mirrors the source values. Once the data is in place, add s",
-      "bids": 22,
+      "title": "Python CLI for win32com Excel automation bridge Python (pilot #131)",
+      "url": "https://www.freelancer.com/projects/pandas/python-cli-for-win-com",
+      "budget_raw": "$234 Average bid",
+      "desc": "Scope is intentionally small; optimize for clarity and easy handoff in Python. Use logging (stdlib or loguru) so runs are easy to audit. The Python work centers on: win32com Excel automation bridge. I will review the Python code for readability first, then edge-case behavior. Tech stack: Python 3 on",
+      "bids": 37,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 3,
-      "usd": 210,
+      "fit": 5,
+      "usd": 234,
       "hourly": false,
       "flags": [],
-      "score": 111
+      "score": 114
+    },
+    {
+      "title": "Verified Corporate Phone Number Sourcing",
+      "url": "https://www.freelancer.com/projects/data-entry/verified-corporate-phone-number-sourcing",
+      "budget_raw": "$273 Average bid",
+      "desc": "I ll provide you with a spreadsheet listing the target companies plus the exact job titles I m after Directors / VPs as well as Managers / Team Leads. Your task is to track down each person s direct phone number and have every single entry verified through a reputable third-party verification servic",
+      "bids": 12,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 273,
+      "hourly": false,
+      "flags": [],
+      "score": 99
+    },
+    {
+      "title": "Word Docs to Excel Organizing",
+      "url": "https://www.freelancer.com/projects/data-analysis/word-docs-excel-organizing",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a collection of Word documents filled with text data that must be transferred into a well-structured Excel workbook. Your task is to extract the relevant text from each document, enter it accurately into the correct columns, and apply clear, consistent formatting so the file is easy to filter",
+      "bids": 23,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 99
     },
     {
       "title": "Python FastAPI task for virtualenv bootstrap installer Python (sandbox #36)",
@@ -103,34 +133,6 @@
       "score": 80
     },
     {
-      "title": "Paper Contacts to Excel",
-      "url": "https://www.freelancer.com/projects/data-annotation/paper-contacts-excel",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a set of handwritten and printed contact sheets that I need converted into a clean, searchable Excel file. Your task is straightforward: carefully enter each person s name, phone number, and email address, then copy over any accompanying notes or comments into a separate column. I don t need ",
-      "bids": 2,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 80
-    },
-    {
-      "title": "Web-Scraped Data Form Entry",
-      "url": "https://www.freelancer.com/projects/data-annotation/web-scraped-data-form-entry",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "Every day I collect information through a small web-scraping routine and now need that data copied, without errors, into a secure online form. You will receive the scraped output (CSV/JSON, whichever you prefer) and your task is to transpose each record into the form fields exactly as provided. The ",
-      "bids": 28,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 70
-    },
-    {
       "title": "Build Robust Data Pipelines",
       "url": "https://www.freelancer.com/projects/etl/build-robust-data-pipelines",
       "budget_raw": "$216 Average bid",
@@ -140,20 +142,6 @@
       "verdict": "accept",
       "fit": 4,
       "usd": 216,
-      "hourly": false,
-      "flags": [],
-      "score": 67
-    },
-    {
-      "title": "Excel Data Migration & Merge",
-      "url": "https://www.freelancer.com/projects/data-analysis/excel-data-migration-merge",
-      "budget_raw": "$69 Average bid",
-      "desc": "I have several spreadsheets that need to be brought together into one clean, well-structured workbook. Your main focus will be migrating data from multiple sources, merging overlapping tables, and resolving any inconsistencies along the way. Here s what I m after: Collect each source file, import it",
-      "bids": 7,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 69,
       "hourly": false,
       "flags": [],
       "score": 67
@@ -173,60 +161,32 @@
       "score": 66
     },
     {
+      "title": "Web-Scraped Data Form Entry",
+      "url": "https://www.freelancer.com/projects/data-annotation/web-scraped-data-form-entry",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "Every day I collect information through a small web-scraping routine and now need that data copied, without errors, into a secure online form. You will receive the scraped output (CSV/JSON, whichever you prefer) and your task is to transpose each record into the form fields exactly as provided. The ",
+      "bids": 30,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 59
+    },
+    {
       "title": "Paper Contact Transcription to Excel",
       "url": "https://www.freelancer.com/projects/data-cleansing/paper-contact-transcription-excel",
       "budget_raw": "$8 / hr Average bid",
       "desc": "I have a stack of handwritten sheets containing a mix of personal and business contacts that now need to live in a clean, searchable Excel workbook. Every entry must include the full set of details name, phone number, email and mailing address exactly as they appear on the page. I don t have a rigid",
-      "bids": 7,
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 8,
       "hourly": true,
       "flags": [],
-      "score": 62
-    },
-    {
-      "title": "Categorized Data Entry Sheet",
-      "url": "https://www.freelancer.com/projects/google-sheets/categorized-data-entry-sheet",
-      "budget_raw": "$68 Average bid",
-      "desc": "I need a straightforward spreadsheet that lets my team capture text-based records and automatically places each entry into its correct category. The layout should be clean and distraction-free, so anyone can open the file and start typing without extra instructions. The categories themselves will be",
-      "bids": 9,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 68,
-      "hourly": false,
-      "flags": [],
-      "score": 62
-    },
-    {
-      "title": "PDF Table Text Extraction Needed",
-      "url": "https://www.freelancer.com/projects/data-extraction/pdf-table-text-extraction-needed",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have a collection of PDFs that contain well-formed tables; every page follows the same column layout, so column detection should be straightforward. All I need is the raw text from those tables, delivered as clean, line-break-friendly plain-text files. No Excel, no CSV just a clear text dump I can",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 6,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 51
-    },
-    {
-      "title": "Manual PDF List Extraction",
-      "url": "https://www.freelancer.com/projects/pdf/manual-pdf-list-extraction",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I need the list-style text pulled out of a set of PDFs and delivered in a clean, editable format. Automated scraping won t work for me here I m after a careful, manual capture so any bullet hierarchy, numbering, or indentation stays intact. While my priority is the text, if you come across embedded ",
-      "bids": 27,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 4,
-      "usd": 8,
-      "hourly": true,
-      "flags": [],
-      "score": 43
+      "score": 54
     },
     {
       "title": "Marginal VAT Filing Assistance",
@@ -241,20 +201,6 @@
       "hourly": false,
       "flags": [],
       "score": 41
-    },
-    {
-      "title": "Microsoft Excel Dashboard & Data Analysis Project",
-      "url": "https://www.freelancer.com/projects/data-analysis/microsoft-excel-dashboard-data-analysis",
-      "budget_raw": "$78 Average bid",
-      "desc": "Project Description I am looking for an experienced Microsoft Excel freelancer to help develop a professional Excel-based solution for data management, reporting, and analysis. Scope of Work: * Excel data cleaning and formatting * Advanced Excel formulas and functions * Pivot Tables and Pivot Charts",
-      "bids": 23,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 78,
-      "hourly": false,
-      "flags": [],
-      "score": 39
     },
     {
       "title": "Python Typer app for sentence-transformers similarity search Python (nightly run #145)",
@@ -285,29 +231,29 @@
       "score": 38
     },
     {
+      "title": "Paper Contacts to Excel",
+      "url": "https://www.freelancer.com/projects/data-annotation/paper-contacts-excel",
+      "budget_raw": "$9 / hr Average bid",
+      "desc": "I have a set of handwritten and printed contact sheets that I need converted into a clean, searchable Excel file. Your task is straightforward: carefully enter each person s name, phone number, and email address, then copy over any accompanying notes or comments into a separate column. I don t need ",
+      "bids": 22,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 9,
+      "hourly": true,
+      "flags": [],
+      "score": 38
+    },
+    {
       "title": "Python developer for YAML settings merger Python (iteration #50)",
       "url": "https://www.freelancer.com/projects/pandas/python-developer-for-yaml-settings",
       "budget_raw": "$206 Average bid",
       "desc": "This brief is for a focused Python task: script, small package, or single service module. Include a `if __name__ == '__main__'` entry point and one documented example command. The Python work centers on: YAML settings merger. Confirm Python version (3.10+ is fine) before you start if anything is unc",
-      "bids": 37,
+      "bids": 38,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
       "usd": 206,
-      "hourly": false,
-      "flags": [],
-      "score": 36
-    },
-    {
-      "title": "Python CLI for python-telegram-bot polling service Python (quick task #58)",
-      "url": "https://www.freelancer.com/projects/pandas/python-cli-for-python-telegram",
-      "budget_raw": "$204 Average bid",
-      "desc": "Deliver production-leaning Python: readable names, small functions, and a requirements file if needed. For I/O heavy work, consider asyncio or multiprocessing only if it clearly helps keep it simple first. The Python work centers on: python-telegram-bot polling service. Synthetic/sample inputs are e",
-      "bids": 40,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 3,
-      "usd": 204,
       "hourly": false,
       "flags": [],
       "score": 36
@@ -327,32 +273,46 @@
       "score": 36
     },
     {
-      "title": "Chinese Conversation Partner Needed",
-      "url": "https://www.freelancer.com/projects/chinese-tutoring/chinese-conversation-partner-needed",
-      "budget_raw": "$115 Average bid",
-      "desc": "I want to sharpen my Mandarin through friendly, regular conversation that stays grounded in the things I do every day .NET development, light video editing, system maintenance, and a fair bit of Excel data wrangling. The goal is simple: use real-world topics I already know to strengthen my vocabular",
-      "bids": 16,
+      "title": "Monthly GST Filing & Refunds",
+      "url": "https://www.freelancer.com/projects/financial-accounting/monthly-gst-filing-refunds",
+      "budget_raw": "$76 Average bid",
+      "desc": "I run a private limited company that needs ongoing assistance from a qualified Chartered Accountant. Each month you will take my Excel-based books, review the statements I have already prepared, and then: File the regular GST returns on time Prepare and submit any eligible GST refund applications I ",
+      "bids": 5,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 115,
+      "usd": 76,
       "hourly": false,
       "flags": [],
-      "score": 36
+      "score": 35
     },
     {
-      "title": "Type Purchase History Into Spreadsheet",
-      "url": "https://www.freelancer.com/projects/data-analysis/type-purchase-history-into-spreadsheet",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "The purchase history for my customers is still sitting in printed order forms and receipts, some of which include handwritten notes in the margins. I want every transaction re-keyed into a clean, well-structured spreadsheet (Excel or Google Sheets is fine) so I can finally run reports and analyse tr",
-      "bids": 23,
+      "title": "Excel Data Cleanup ASAP",
+      "url": "https://www.freelancer.com/projects/data-management/excel-data-cleanup-asap",
+      "budget_raw": "$191 Average bid",
+      "desc": "I have a Microsoft Excel workbook that has grown messy and it now needs an immediate refresh. The sheet contains duplicate rows, inconsistent cell formats, and several columns that should be locked down with proper data-validation rules. Your main objectives are to: Identify and eliminate every dupl",
+      "bids": 39,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 8,
-      "hourly": true,
+      "usd": 191,
+      "hourly": false,
       "flags": [],
-      "score": 32
+      "score": 34
+    },
+    {
+      "title": "Microsoft Excel Dashboard & Data Analysis Project",
+      "url": "https://www.freelancer.com/projects/data-analysis/microsoft-excel-dashboard-data-analysis",
+      "budget_raw": "$76 Average bid",
+      "desc": "Project Description I am looking for an experienced Microsoft Excel freelancer to help develop a professional Excel-based solution for data management, reporting, and analysis. Scope of Work: * Excel data cleaning and formatting * Advanced Excel formulas and functions * Pivot Tables and Pivot Charts",
+      "bids": 30,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 3,
+      "usd": 76,
+      "hourly": false,
+      "flags": [],
+      "score": 22
     },
     {
       "title": "Live Web Scrape to Excel",
@@ -369,32 +329,32 @@
       "score": 21
     },
     {
-      "title": "Excel Data Entry with Validation",
-      "url": "https://www.freelancer.com/projects/data-management/excel-data-entry-with-validation-40768283",
-      "budget_raw": "$8 / hr Average bid",
-      "desc": "I have a collection of raw information that must be typed into an organised Excel spreadsheet. Accuracy is critical, so I want each column protected by sensible data-validation rules drop-downs where categories are fixed, date limits where timelines matter, and automatic alerts for anything outside ",
-      "bids": 18,
+      "title": "Manual Mixed-Data Entry from Excel",
+      "url": "https://www.freelancer.com/projects/google-sheets/manual-mixed-data-entry-from",
+      "budget_raw": "$57 Average bid",
+      "desc": "I have several Excel sheets that need to be consolidated, and I want every cell transferred manually rather than through automated scripts. The files contain a mix of text descriptions and numerical values, with each row following a consistent column order. Your task is to copy-paste or re-type when",
+      "bids": 14,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
-      "usd": 8,
+      "usd": 57,
+      "hourly": false,
+      "flags": [],
+      "score": 19
+    },
+    {
+      "title": "Handwritten Data to Spreadsheet",
+      "url": "https://www.freelancer.com/projects/data-analysis/handwritten-data-spreadsheet",
+      "budget_raw": "$6 / hr Average bid",
+      "desc": "I have a collection of handwritten pages that contain both text and numerical information intermixed on each line. I need every piece of that content transferred into either an Excel file or a Google Sheet whichever you are most comfortable using so the final result is fully searchable and ready for",
+      "bids": 11,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 6,
       "hourly": true,
       "flags": [],
       "score": 18
-    },
-    {
-      "title": "Manual Excel Data Entry -- 2",
-      "url": "https://www.freelancer.com/projects/data-management/manual-excel-data-entry-40768540",
-      "budget_raw": "$11 Average bid",
-      "desc": "I have a collection of digital files mainly PDFs and a few existing spreadsheets that need to be transcribed with 100 % accuracy into a single, well-organized Excel workbook. The job is strictly manual data entry: no scraping tools or automated converters, so careful attention to detail is essential",
-      "bids": 18,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 5,
-      "usd": 11,
-      "hourly": false,
-      "flags": [],
-      "score": 15
     },
     {
       "title": "Numeric Data Preprocessing for ML",
@@ -411,11 +371,25 @@
       "score": 15
     },
     {
-      "title": "Automated Banner-Ad Viewer",
-      "url": "https://www.freelancer.com/projects/web-development/automated-banner-viewer",
+      "title": "Manual Excel Data Entry -- 2",
+      "url": "https://www.freelancer.com/projects/data-management/manual-excel-data-entry-40768540",
+      "budget_raw": "$11 Average bid",
+      "desc": "I have a collection of digital files mainly PDFs and a few existing spreadsheets that need to be transcribed with 100 % accuracy into a single, well-organized Excel workbook. The job is strictly manual data entry: no scraping tools or automated converters, so careful attention to detail is essential",
+      "bids": 20,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 5,
+      "usd": 11,
+      "hourly": false,
+      "flags": [],
+      "score": 14
+    },
+    {
+      "title": "Python Engineer for Chat Booking Assistant",
+      "url": "https://www.freelancer.com/projects/python/python-engineer-for-chat-booking",
       "budget_raw": "$10 / hr Average bid",
-      "desc": "I need a reliable script or small service that sits in a standard desktop web browser and cycles through roughly 1,000 banner ads every 24 hours. The goal is to leave it running, hit the daily quota automatically, and have clear proof that no impressions are being skipped. Core requirements Works en",
-      "bids": 37,
+      "desc": "Founding Engineer / Product Builder (Equity + Performance Upside) Habibot Habibot is a chat-first booking assistant: discover a place, understand the menu and atmosphere, request a booking, receive a real answer, and get a reminder no app download required. Telegram is the first live channel. WhatsA",
+      "bids": 40,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
@@ -425,18 +399,32 @@
       "score": 14
     },
     {
-      "title": "Python Engineer for Chat Booking Assistant",
-      "url": "https://www.freelancer.com/projects/python/python-engineer-for-chat-booking",
-      "budget_raw": "$10 / hr Average bid",
-      "desc": "Founding Engineer / Product Builder (Equity + Performance Upside) Habibot Habibot is a chat-first booking assistant: discover a place, understand the menu and atmosphere, request a booking, receive a real answer, and get a reminder no app download required. Telegram is the first live channel. WhatsA",
-      "bids": 38,
+      "title": "Excel Data Entry with Validation",
+      "url": "https://www.freelancer.com/projects/data-management/excel-data-entry-with-validation-40768283",
+      "budget_raw": "$8 / hr Average bid",
+      "desc": "I have a collection of raw information that must be typed into an organised Excel spreadsheet. Accuracy is critical, so I want each column protected by sensible data-validation rules drop-downs where categories are fixed, date limits where timelines matter, and automatic alerts for anything outside ",
+      "bids": 24,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 8,
+      "hourly": true,
+      "flags": [],
+      "score": 13
+    },
+    {
+      "title": "Categorized Data Entry Sheet",
+      "url": "https://www.freelancer.com/projects/google-sheets/categorized-data-entry-sheet",
+      "budget_raw": "$61 Average bid",
+      "desc": "I need a straightforward spreadsheet that lets my team capture text-based records and automatically places each entry into its correct category. The layout should be clean and distraction-free, so anyone can open the file and start typing without extra instructions. The categories themselves will be",
+      "bids": 34,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 3,
-      "usd": 10,
-      "hourly": true,
+      "usd": 61,
+      "hourly": false,
       "flags": [],
-      "score": 14
+      "score": 11
     },
     {
       "title": "Prospect Lead Research in Dubai",
@@ -453,18 +441,32 @@
       "score": 10
     },
     {
-      "title": "Test Chrome Extension for Sheets",
-      "url": "https://www.freelancer.com/projects/google-sheets/test-chrome-extension-for-sheets",
-      "budget_raw": "$52 Average bid",
-      "desc": "I ve built a lightweight Chrome extension that adds Excel-style shortcuts and full-colour tabs to Google Sheets, and I m ready for real-world feedback. (, ) If you spend a lot of your time inside Sheets running formulas and functions, you re exactly the type of user who can push the add-on hard and ",
-      "bids": 27,
+      "title": "UK Cosmetics SDS & CPSR Support",
+      "url": "https://www.freelancer.com/projects/compliance-auditing/cosmetics-sds-cpsr-support",
+      "budget_raw": "$180 Average bid",
+      "desc": "I have a portfolio of cosmetic formulas and a handful of CLP-covered household cleaning blends that now require full regulatory paperwork for the UK market. Right now I need someone who can jump straight in and: Draft brand-new Safety Data Sheets, COSHH assessments, and CLP labels where none exist. ",
+      "bids": 23,
       "site": "freelancer",
       "verdict": "accept",
-      "fit": 2,
-      "usd": 52,
+      "fit": 1,
+      "usd": 180,
       "hourly": false,
       "flags": [],
-      "score": 9
+      "score": 10
+    },
+    {
+      "title": "MCA AOC-4 & MGT-7 Data",
+      "url": "https://www.freelancer.com/projects/data-extraction/mca-aoc-mgt-data",
+      "budget_raw": "$3146 Average bid",
+      "desc": "I have to compile a clean, structured dataset from the Ministry of Corporate Affairs portal and need a specialist who can quickly pull the exact fields I require from the two annual filings: From MGT-7: current shareholding pattern and the key financial figures filed for the year From AOC-4: the lat",
+      "bids": 16,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 1,
+      "usd": 3146,
+      "hourly": false,
+      "flags": [],
+      "score": 7
     },
     {
       "title": "Comprehensive Sportsbook & Live Casino API",
@@ -485,35 +487,7 @@
       "url": "https://www.freelancer.com/projects/power-bi/aws-power-ticket-support",
       "budget_raw": "$9 / hr Average bid",
       "desc": "I manage a product team that logs every engineering and analytics task as a Jira ticket. I need a reliable specialist who can step in on a ticket-by-ticket basis and close work related to both AWS data engineering and Power BI dashboard development. On the AWS side the tickets you will pick up revol",
-      "bids": 16,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 1,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Comprehensive MS Office Assistance",
-      "url": "https://www.freelancer.com/projects/microsoft-word/comprehensive-office-assistance",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "I have several projects underway that span Word, Excel and PowerPoint, and I need an experienced Microsoft Office professional who can step in and handle them smoothly. For Word, the immediate priority is advanced document formatting applying consistent styles and headings, refining tables and chart",
-      "bids": 35,
-      "site": "freelancer",
-      "verdict": "accept",
-      "fit": 2,
-      "usd": 9,
-      "hourly": true,
-      "flags": [],
-      "score": 6
-    },
-    {
-      "title": "Executive Sales Dashboard Development",
-      "url": "https://www.freelancer.com/projects/business-intelligence/executive-sales-dashboard-development",
-      "budget_raw": "$9 / hr Average bid",
-      "desc": "EXECUTIVE SALES DASHBOARD *Title:* Executive Sales Dashboard - Interactive Performance Summary & Business Insights 1. Key Performance Indicators (KPIs) - Top Section - *Total Revenue:* $63,525.00 - *Total Profit:* $27,464.50 - *Units Sold:* 372 Units - *Profit Margin:* 43.2% 2. Regional Sales Breakd",
-      "bids": 17,
+      "bids": 18,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 1,
@@ -527,7 +501,7 @@
       "url": "https://www.freelancer.com/projects/optical-character-recognition/hindi-pdf-excel-conversion",
       "budget_raw": "$11 Average bid",
       "desc": "I have a multi-page PDF written entirely in a Hindi font and I need every record moved into a clean, analysis-ready Excel worksheet. The goal is to run data analysis later, so accuracy and consistent formatting matter more to me than sheer speed. The worksheet must follow a custom column layout, not",
-      "bids": 10,
+      "bids": 11,
       "site": "freelancer",
       "verdict": "accept",
       "fit": 2,
@@ -535,6 +509,20 @@
       "hourly": false,
       "flags": [],
       "score": 3
+    },
+    {
+      "title": "Zoho Commerce Catalog Manager & PO Drafter",
+      "url": "https://www.freelancer.com/projects/data-entry/zoho-commerce-catalog-manager-drafter",
+      "budget_raw": "$22 Average bid",
+      "desc": "We run a nutrition supplement store on Zoho Commerce and handle accounting in Zoho Books, no outside integrations needed. Work is paid per completed task, making the flow simple and transparent for both of us. This is a long term operational agreement. What I need done on a recurring basis: Add new ",
+      "bids": 31,
+      "site": "freelancer",
+      "verdict": "accept",
+      "fit": 2,
+      "usd": 22,
+      "hourly": false,
+      "flags": [],
+      "score": 2
     },
     {
       "title": "Social Media Textual Data Entry - 13/10/2026 12:47 EDT",
@@ -557,10 +545,6 @@
       "reason": "rezolvare/ocolire de CAPTCHA"
     },
     {
-      "title": "Bristol Hotels Contact Data",
-      "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
-    },
-    {
       "title": "Experienced Web Scrapers / Apollo List Builders Seeking U.S. Specialty Contractors",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
@@ -577,11 +561,7 @@
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     },
     {
-      "title": "Custom Mass Email Tracking Software",
-      "reason": "spam în masă"
-    },
-    {
-      "title": "Email Outreach Automation System Development",
+      "title": "Bristol, UK Hospitality Assets Contact Database - SpecifIc Postcodes",
       "reason": "colectare de adrese personale — GDPR, iar executantul răspunde"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:03:37.532Z",
+  "generated_at": "2026-10-15T18:07:29.729Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -66,7 +66,7 @@
       },
       {
         "theme": "hours",
-        "mentions": 95,
+        "mentions": 94,
         "engagement": 11,
         "evidence": [
           {
@@ -90,7 +90,7 @@
             "date": "2026-03-06"
           }
         ],
-        "score": 103
+        "score": 102
       },
       {
         "theme": "wish",
@@ -261,34 +261,6 @@
         "score": 73
       },
       {
-        "theme": "browser",
-        "mentions": 17,
-        "engagement": 287,
-        "evidence": [
-          {
-            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
-            "url": "https://news.ycombinator.com/item?id=49218628",
-            "date": "2026-08-08"
-          },
-          {
-            "text": "it was nice while it lasted. I guess my next step is a jev+cron to sort good from bad. Browser automation here we come. Someone want to write a Firefox extensio",
-            "url": "https://news.ycombinator.com/item?id=50022196",
-            "date": "2026-10-09"
-          },
-          {
-            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
-            "url": "https://news.ycombinator.com/item?id=48973899",
-            "date": "2026-07-20"
-          },
-          {
-            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
-            "url": "https://news.ycombinator.com/item?id=48931045",
-            "date": "2026-07-16"
-          }
-        ],
-        "score": 72
-      },
-      {
         "theme": "it.",
         "mentions": 59,
         "engagement": 18,
@@ -312,6 +284,34 @@
             "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
             "url": "https://news.ycombinator.com/item?id=49623827",
             "date": "2026-09-09"
+          }
+        ],
+        "score": 71
+      },
+      {
+        "theme": "them",
+        "mentions": 71,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
+            "url": "https://news.ycombinator.com/item?id=49878407",
+            "date": "2026-09-28"
+          },
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
           }
         ],
         "score": 71
@@ -345,32 +345,32 @@
         "score": 70
       },
       {
-        "theme": "them",
-        "mentions": 70,
-        "engagement": 0,
+        "theme": "browser",
+        "mentions": 16,
+        "engagement": 287,
         "evidence": [
           {
-            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
-            "url": "https://news.ycombinator.com/item?id=49878407",
-            "date": "2026-09-28"
+            "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
+            "url": "https://news.ycombinator.com/item?id=49218628",
+            "date": "2026-08-08"
           },
           {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
+            "text": "it was nice while it lasted. I guess my next step is a jev+cron to sort good from bad. Browser automation here we come. Someone want to write a Firefox extensio",
+            "url": "https://news.ycombinator.com/item?id=50022196",
+            "date": "2026-10-09"
           },
           {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
+            "text": "Happy Kagi user. I switched to Orion at some point, but due to bugs and battery drain, I had to switch back (to Safari!) As soon as those are fixed, I’m back ag",
+            "url": "https://news.ycombinator.com/item?id=48973899",
+            "date": "2026-07-20"
           },
           {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
+            "text": "Semantic web is good if you are making web documents not web applications. Have a type and: submit a form; reset a form; or not do anything with the related for",
+            "url": "https://news.ycombinator.com/item?id=48931045",
+            "date": "2026-07-16"
           }
         ],
-        "score": 70
+        "score": 69
       },
       {
         "theme": "agent",
@@ -458,7 +458,7 @@
       },
       {
         "theme": "different",
-        "mentions": 28,
+        "mentions": 29,
         "engagement": 70,
         "evidence": [
           {
@@ -482,7 +482,7 @@
             "date": "2026-07-03"
           }
         ],
-        "score": 61
+        "score": 62
       },
       {
         "theme": "open-source",
@@ -653,6 +653,34 @@
         "score": 55
       },
       {
+        "theme": "language",
+        "mentions": 11,
+        "engagement": 290,
+        "evidence": [
+          {
+            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
+            "url": "https://news.ycombinator.com/item?id=45086249",
+            "date": "2025-08-31"
+          },
+          {
+            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
+            "url": "https://news.ycombinator.com/item?id=45075127",
+            "date": "2025-08-30"
+          },
+          {
+            "text": "I don't think we speak the same language. I was refering to the use case (in C) that's been described by sph. Where you indeed malloc only the relevant size, an",
+            "url": "https://news.ycombinator.com/item?id=46511570",
+            "date": "2026-01-06"
+          },
+          {
+            "text": "You have a point when the situation is professional workspace communication. I'm able to code switch and drop idioms out of my language because e. g. \"that's a ",
+            "url": "https://news.ycombinator.com/item?id=48685041",
+            "date": "2026-06-26"
+          }
+        ],
+        "score": 53
+      },
+      {
         "theme": "world",
         "mentions": 25,
         "engagement": 58,
@@ -735,34 +763,6 @@
           }
         ],
         "score": 51
-      },
-      {
-        "theme": "language",
-        "mentions": 10,
-        "engagement": 290,
-        "evidence": [
-          {
-            "text": "Ask HN: Which Open Source License to Choose for a Python Language Server",
-            "url": "https://news.ycombinator.com/item?id=45086249",
-            "date": "2025-08-31"
-          },
-          {
-            "text": "Ask HN: Language Learning Tool combining ebooks, translations, audiobooks",
-            "url": "https://news.ycombinator.com/item?id=45075127",
-            "date": "2025-08-30"
-          },
-          {
-            "text": "I don't think we speak the same language. I was refering to the use case (in C) that's been described by sph. Where you indeed malloc only the relevant size, an",
-            "url": "https://news.ycombinator.com/item?id=46511570",
-            "date": "2026-01-06"
-          },
-          {
-            "text": "You have a point when the situation is professional workspace communication. I'm able to code switch and drop idioms out of my language because e. g. \"that's a ",
-            "url": "https://news.ycombinator.com/item?id=48685041",
-            "date": "2026-06-26"
-          }
-        ],
-        "score": 50
       },
       {
         "theme": "software",
