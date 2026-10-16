@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:10:18.880Z",
+  "generated_at": "2026-10-16T10:59:15.616Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -401,36 +401,8 @@
         "score": 67
       },
       {
-        "theme": "apps",
-        "mentions": 17,
-        "engagement": 194,
-        "evidence": [
-          {
-            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
-            "url": "https://news.ycombinator.com/item?id=49697808",
-            "date": "2026-09-14"
-          },
-          {
-            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
-            "url": "https://news.ycombinator.com/item?id=49264148",
-            "date": "2026-08-11"
-          },
-          {
-            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
-            "url": "https://news.ycombinator.com/item?id=47714893",
-            "date": "2026-04-10"
-          },
-          {
-            "text": "Wow, this looks very clean. I'm not the target audience, but if I was looking for a tool in this category, this would be highly attractive to me. Very subtle de",
-            "url": "https://news.ycombinator.com/item?id=47742556",
-            "date": "2026-04-12"
-          }
-        ],
-        "score": 64
-      },
-      {
         "theme": "system",
-        "mentions": 26,
+        "mentions": 25,
         "engagement": 92,
         "evidence": [
           {
@@ -454,7 +426,7 @@
             "date": "2026-08-11"
           }
         ],
-        "score": 64
+        "score": 63
       },
       {
         "theme": "different",
@@ -483,6 +455,34 @@
           }
         ],
         "score": 62
+      },
+      {
+        "theme": "apps",
+        "mentions": 16,
+        "engagement": 194,
+        "evidence": [
+          {
+            "text": "pretty sure it was even worse ten years ago cause very active twitter users would pay for 3rd party twitter apps (maybe twitter didn't have an official app back",
+            "url": "https://news.ycombinator.com/item?id=49697808",
+            "date": "2026-09-14"
+          },
+          {
+            "text": "They just released a major update, but it's not something I would pay a subscription for. I paid the lifetime fee in it's early days, but that doesn't unlock th",
+            "url": "https://news.ycombinator.com/item?id=49264148",
+            "date": "2026-08-11"
+          },
+          {
+            "text": "Is there a tool which eliminates the animation, also when switching between apps with cmd+tab? I almost never use ctrl+→, I just know what application I want to",
+            "url": "https://news.ycombinator.com/item?id=47714893",
+            "date": "2026-04-10"
+          },
+          {
+            "text": "Wow, this looks very clean. I'm not the target audience, but if I was looking for a tool in this category, this would be highly attractive to me. Very subtle de",
+            "url": "https://news.ycombinator.com/item?id=47742556",
+            "date": "2026-04-12"
+          }
+        ],
+        "score": 61
       },
       {
         "theme": "open-source",
@@ -626,7 +626,7 @@
       },
       {
         "theme": "company",
-        "mentions": 23,
+        "mentions": 24,
         "engagement": 80,
         "evidence": [
           {
@@ -650,7 +650,7 @@
             "date": "2026-07-07"
           }
         ],
-        "score": 56
+        "score": 58
       },
       {
         "theme": "language",
@@ -676,34 +676,6 @@
             "text": "You have a point when the situation is professional workspace communication. I'm able to code switch and drop idioms out of my language because e. g. \"that's a ",
             "url": "https://news.ycombinator.com/item?id=48685041",
             "date": "2026-06-26"
-          }
-        ],
-        "score": 53
-      },
-      {
-        "theme": "world",
-        "mentions": 25,
-        "engagement": 58,
-        "evidence": [
-          {
-            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
-            "url": "https://news.ycombinator.com/item?id=49687578",
-            "date": "2026-09-13"
-          },
-          {
-            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
-            "url": "https://news.ycombinator.com/item?id=49629894",
-            "date": "2026-09-09"
-          },
-          {
-            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
-            "url": "https://news.ycombinator.com/item?id=49488605",
-            "date": "2026-08-29"
-          },
-          {
-            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
-            "url": "https://news.ycombinator.com/item?id=48916578",
-            "date": "2026-07-15"
           }
         ],
         "score": 53
@@ -735,6 +707,34 @@
           }
         ],
         "score": 53
+      },
+      {
+        "theme": "world",
+        "mentions": 24,
+        "engagement": 58,
+        "evidence": [
+          {
+            "text": "> I've spent several 1000 dollars on AI products this month, roughly 3000 dollars. > Trust me, there are many other people like me in the world and the enterpri",
+            "url": "https://news.ycombinator.com/item?id=49687578",
+            "date": "2026-09-13"
+          },
+          {
+            "text": "How would you feel about applying the same rule to artists? I've seen people who work on art nonstop and think their art is really meaningful, get really into i",
+            "url": "https://news.ycombinator.com/item?id=49629894",
+            "date": "2026-09-09"
+          },
+          {
+            "text": "I would pay for an app that allows me to explore any city in the world in a similar matter.",
+            "url": "https://news.ycombinator.com/item?id=49488605",
+            "date": "2026-08-29"
+          },
+          {
+            "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
+            "url": "https://news.ycombinator.com/item?id=48916578",
+            "date": "2026-07-15"
+          }
+        ],
+        "score": 51
       },
       {
         "theme": "agents",

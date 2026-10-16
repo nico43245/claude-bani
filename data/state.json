@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-16T00:10:18.944Z",
+  "generated_at": "2026-10-16T10:59:15.687Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 990,
+  "events_total": 995,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 201
+      "actions": 202
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 193
+      "actions": 194
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 398
+      "actions": 400
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 198
+      "actions": 199
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-16T10:59:15.618Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-16T10:58:28.447Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 164,
+      "status": null,
+      "desc": "Cel mai bun job: Excel Sales Summary Dashboard",
+      "evidence": "https://www.freelancer.com/projects/data-analysis/excel-sales-summary-dashboard-40771004",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-16T10:58:28.447Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 163 proiecte scanate → 43 potrivite, 7 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-16T10:58:16.015Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 38 scanate, 1 eligibile după citirea regulamentelor (37 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-16T10:57:44.379Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 671 candidați → 0 bounty-uri reale (671 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-16T00:10:18.881Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 731 candidați → 0 bounty-uri reale (731 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-12T01:06:51.624Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-12T01:06:03.802Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 10,
-      "status": null,
-      "desc": "Cel mai bun job: BI Reporting for Business Operations Data - 11/10/2026 03:25 EDT",
-      "evidence": "https://www.freelancer.com/projects/business-intelligence/reporting-for-business-operations-data-40761723",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-12T01:06:03.802Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 163 proiecte scanate → 41 potrivite, 5 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-12T01:05:50.933Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 38 scanate, 1 eligibile după citirea regulamentelor (37 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-12T01:05:18.308Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 735 candidați → 0 bounty-uri reale (735 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 707,
+    "rejected": 708,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 957,
+        "score": 943,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 627,
-        "per_slot": 627,
+        "participants": 636,
+        "per_slot": 636,
         "days_left": 49,
         "objective": true
       }
@@ -658,15 +658,15 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 402
+        "count": 396
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 113
+        "count": 105
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 85
+        "count": 91
       },
       {
         "reason": "prea competitiv",
@@ -674,11 +674,15 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 14
+        "count": 15
+      },
+      {
+        "reason": "fără dovadă de finanțare",
+        "count": 12
       },
       {
         "reason": "regulament necitibil",
-        "count": 11
+        "count": 12
       },
       {
         "reason": "repo prea nou",
@@ -690,23 +694,15 @@
       },
       {
         "reason": "fork (task sintetic de benchmark)",
-        "count": 6
-      },
-      {
-        "reason": "fără dovadă de finanțare",
-        "count": 6
+        "count": 7
       },
       {
         "reason": "prea aglomerat",
-        "count": 5
+        "count": 6
       },
       {
         "reason": "premiu prea mic",
         "count": 3
-      },
-      {
-        "reason": "prea puțin timp de construit",
-        "count": 2
       },
       {
         "reason": "revendicat activ",
@@ -714,6 +710,10 @@
       },
       {
         "reason": "deja adjudecat",
+        "count": 1
+      },
+      {
+        "reason": "prea puțin timp de construit",
         "count": 1
       }
     ]
