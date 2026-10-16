@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:07:29.729Z",
+  "generated_at": "2026-10-16T00:10:18.880Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -261,6 +261,34 @@
         "score": 73
       },
       {
+        "theme": "them",
+        "mentions": 72,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
+            "url": "https://news.ycombinator.com/item?id=49878407",
+            "date": "2026-09-28"
+          },
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          },
+          {
+            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
+            "url": "https://news.ycombinator.com/item?id=49582833",
+            "date": "2026-09-06"
+          }
+        ],
+        "score": 72
+      },
+      {
         "theme": "it.",
         "mentions": 59,
         "engagement": 18,
@@ -284,34 +312,6 @@
             "text": "Well, if you could somehow guarantee that your book would sell enough copies in that two-year window to make a million dollars profit, it would make sense to pa",
             "url": "https://news.ycombinator.com/item?id=49623827",
             "date": "2026-09-09"
-          }
-        ],
-        "score": 71
-      },
-      {
-        "theme": "them",
-        "mentions": 71,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
-            "url": "https://news.ycombinator.com/item?id=49878407",
-            "date": "2026-09-28"
-          },
-          {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
           }
         ],
         "score": 71
@@ -626,7 +626,7 @@
       },
       {
         "theme": "company",
-        "mentions": 22,
+        "mentions": 23,
         "engagement": 80,
         "evidence": [
           {
@@ -650,7 +650,7 @@
             "date": "2026-07-07"
           }
         ],
-        "score": 55
+        "score": 56
       },
       {
         "theme": "language",

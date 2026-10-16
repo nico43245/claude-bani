@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-15T18:07:29.797Z",
+  "generated_at": "2026-10-16T00:10:18.944Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 985,
+  "events_total": 990,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 200
+      "actions": 201
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 192
+      "actions": 193
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 396
+      "actions": 398
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 197
+      "actions": 198
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-16T00:10:18.881Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-16T00:09:30.323Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 199,
+      "status": null,
+      "desc": "Cel mai bun job: LinkedIn Email Extraction to Excel",
+      "evidence": "https://www.freelancer.com/projects/data-analysis/linkedin-email-extraction-excel",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-16T00:09:30.323Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 160 proiecte scanate → 39 potrivite, 7 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-16T00:09:17.457Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 36 scanate, 1 eligibile după citirea regulamentelor (35 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-16T00:08:46.944Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 672 candidați → 0 bounty-uri reale (672 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-15T18:07:29.730Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 735 candidați → 0 bounty-uri reale (735 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-11T18:43:17.509Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-11T18:42:25.437Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 10,
-      "status": null,
-      "desc": "Cel mai bun job: BI Reporting for Business Operations Data - 11/10/2026 03:25 EDT",
-      "evidence": "https://www.freelancer.com/projects/business-intelligence/reporting-for-business-operations-data-40761723",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-11T18:42:25.436Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 162 proiecte scanate → 40 potrivite, 5 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-11T18:42:12.718Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 39 scanate, 1 eligibile după citirea regulamentelor (38 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-11T18:41:43.470Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 737 candidați → 0 bounty-uri reale (737 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 741,
+    "rejected": 707,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 963,
+        "score": 957,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 623,
-        "per_slot": 623,
+        "participants": 627,
+        "per_slot": 627,
         "days_left": 49,
         "objective": true
       }
@@ -658,7 +658,7 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 404
+        "count": 402
       },
       {
         "reason": "repo-fermă învățat automat",
@@ -666,27 +666,19 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 98
+        "count": 85
       },
       {
         "reason": "prea competitiv",
         "count": 41
       },
       {
-        "reason": "fork (task sintetic de benchmark)",
-        "count": 17
-      },
-      {
-        "reason": "fără dovadă de finanțare",
-        "count": 15
-      },
-      {
         "reason": "fără premiu în bani",
-        "count": 12
+        "count": 14
       },
       {
         "reason": "regulament necitibil",
-        "count": 12
+        "count": 11
       },
       {
         "reason": "repo prea nou",
@@ -695,6 +687,14 @@
       {
         "reason": "proiect inactiv",
         "count": 8
+      },
+      {
+        "reason": "fork (task sintetic de benchmark)",
+        "count": 6
+      },
+      {
+        "reason": "fără dovadă de finanțare",
+        "count": 6
       },
       {
         "reason": "prea aglomerat",
