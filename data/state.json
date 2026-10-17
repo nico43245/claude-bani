@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-17T10:20:51.142Z",
+  "generated_at": "2026-10-17T16:56:28.652Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 1010,
+  "events_total": 1015,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 205
+      "actions": 206
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 197
+      "actions": 198
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 406
+      "actions": 408
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 202
+      "actions": 203
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-17T16:56:28.588Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-17T16:55:40.093Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 220,
+      "status": null,
+      "desc": "Cel mai bun job: Office Automation & Date Formatting",
+      "evidence": "https://www.freelancer.com/projects/excel-vba/office-automation-date-formatting",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-17T16:55:40.093Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 169 proiecte scanate → 45 potrivite, 7 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-17T16:55:27.317Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 44 scanate, 1 eligibile după citirea regulamentelor (43 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-17T16:54:51.117Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 657 candidați → 0 bounty-uri reale (657 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-17T10:20:51.087Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 710 candidați → 0 bounty-uri reale (710 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-13T20:10:11.398Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-13T20:09:21.853Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 431,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-13T20:09:21.853Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 171 proiecte scanate → 39 potrivite, 7 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-13T20:09:09.097Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-13T20:08:34.025Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 711 candidați → 0 bounty-uri reale (711 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 697,
+    "rejected": 700,
     "top": [
       {
         "source": "comp-radar",
@@ -646,12 +646,12 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 927,
+        "score": 924,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 647,
-        "per_slot": 647,
-        "days_left": 48,
+        "participants": 649,
+        "per_slot": 649,
+        "days_left": 47,
         "objective": true
       }
     ],
@@ -662,11 +662,11 @@
       },
       {
         "reason": "organizație-fermă cunoscută",
-        "count": 98
+        "count": 97
       },
       {
         "reason": "repo-fermă învățat automat",
-        "count": 86
+        "count": 85
       },
       {
         "reason": "prea competitiv",
@@ -674,15 +674,15 @@
       },
       {
         "reason": "fără premiu în bani",
-        "count": 16
+        "count": 18
+      },
+      {
+        "reason": "fără dovadă de finanțare",
+        "count": 14
       },
       {
         "reason": "regulament necitibil",
         "count": 14
-      },
-      {
-        "reason": "fără dovadă de finanțare",
-        "count": 12
       },
       {
         "reason": "proiect inactiv",
@@ -714,6 +714,10 @@
       },
       {
         "reason": "deja adjudecat",
+        "count": 1
+      },
+      {
+        "reason": "termen prea îndepărtat",
         "count": 1
       }
     ]
