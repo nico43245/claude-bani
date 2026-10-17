@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:14:21.331Z",
+  "generated_at": "2026-10-17T10:20:51.086Z",
   "sources": [
     "Hacker News (Algolia)",
     "Google Suggest"
@@ -205,6 +205,34 @@
         "score": 77
       },
       {
+        "theme": "them",
+        "mentions": 74,
+        "engagement": 0,
+        "evidence": [
+          {
+            "text": "Monetization model? People would pay for activity of the agent over the network (how much content it checks for them), not ads. This is an attempt to kind of re",
+            "url": "https://news.ycombinator.com/item?id=50128795",
+            "date": "2026-10-17"
+          },
+          {
+            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
+            "url": "https://news.ycombinator.com/item?id=49878407",
+            "date": "2026-09-28"
+          },
+          {
+            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
+            "url": "https://news.ycombinator.com/item?id=49794733",
+            "date": "2026-09-21"
+          },
+          {
+            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
+            "url": "https://news.ycombinator.com/item?id=49769894",
+            "date": "2026-09-19"
+          }
+        ],
+        "score": 74
+      },
+      {
         "theme": "search",
         "mentions": 24,
         "engagement": 155,
@@ -231,34 +259,6 @@
           }
         ],
         "score": 74
-      },
-      {
-        "theme": "them",
-        "mentions": 73,
-        "engagement": 0,
-        "evidence": [
-          {
-            "text": "It's very interesting. I'm very enthusiastic about AI and coding, But I find myself agreeing with the author. Coding is not solved. Instead, I think what's clos",
-            "url": "https://news.ycombinator.com/item?id=49878407",
-            "date": "2026-09-28"
-          },
-          {
-            "text": "One possible reason is that Grok Bot consumes more quota because it uses their infra instead of your computer. I can't help much more than that, I did that rese",
-            "url": "https://news.ycombinator.com/item?id=49794733",
-            "date": "2026-09-21"
-          },
-          {
-            "text": "Well it’s more like commissioning art than making art yourself right? You want a painting of some specific thing to exist, so you find an artist you like and pa",
-            "url": "https://news.ycombinator.com/item?id=49769894",
-            "date": "2026-09-19"
-          },
-          {
-            "text": "It’s really not though. I’ve never had a quality issue from the guys I hire, that’s why I hire them. They deal with the heat incredibly well from an output pers",
-            "url": "https://news.ycombinator.com/item?id=49582833",
-            "date": "2026-09-06"
-          }
-        ],
-        "score": 73
       },
       {
         "theme": "code",
@@ -374,13 +374,18 @@
       },
       {
         "theme": "agent",
-        "mentions": 15,
+        "mentions": 16,
         "engagement": 258,
         "evidence": [
           {
             "text": "Show HN: Buddy – An iOS browser with an AI agent inside",
             "url": "https://news.ycombinator.com/item?id=49218628",
             "date": "2026-08-08"
+          },
+          {
+            "text": "Monetization model? People would pay for activity of the agent over the network (how much content it checks for them), not ads. This is an attempt to kind of re",
+            "url": "https://news.ycombinator.com/item?id=50128795",
+            "date": "2026-10-17"
           },
           {
             "text": "They're not cheap at all. I did one xhigh Qwen 3.8 27B agentic coding task last week via OpenRouter and it cost me like $10. 99% of the cost was in input tokens",
@@ -391,14 +396,9 @@
             "text": "Better skip the PoW part as it'll be wildly inefficient for most of the work done. Instead, exchange web traffic for actual $. Say, some kind of tokens that are",
             "url": "https://news.ycombinator.com/item?id=48873462",
             "date": "2026-07-11"
-          },
-          {
-            "text": "The host isolation everyone is comparing on price is not the hard problem. gVisor vs a full VM is a real tradeoff. Most agent failures that actually hurt are no",
-            "url": "https://news.ycombinator.com/item?id=50071898",
-            "date": "2026-10-13"
           }
         ],
-        "score": 64
+        "score": 67
       },
       {
         "theme": "system",
@@ -430,7 +430,7 @@
       },
       {
         "theme": "different",
-        "mentions": 29,
+        "mentions": 30,
         "engagement": 70,
         "evidence": [
           {
@@ -454,7 +454,7 @@
             "date": "2026-07-03"
           }
         ],
-        "score": 62
+        "score": 63
       },
       {
         "theme": "apps",
@@ -681,6 +681,34 @@
         "score": 53
       },
       {
+        "theme": "agents",
+        "mentions": 17,
+        "engagement": 112,
+        "evidence": [
+          {
+            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
+            "url": "https://news.ycombinator.com/item?id=49008244",
+            "date": "2026-07-22"
+          },
+          {
+            "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
+            "url": "https://news.ycombinator.com/item?id=48275460",
+            "date": "2026-05-26"
+          },
+          {
+            "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
+            "url": "https://news.ycombinator.com/item?id=46425971",
+            "date": "2025-12-29"
+          },
+          {
+            "text": "I'm not going to pretend I know how to do Github better than Github, but I almost can't believe how poor their support is for fine grained access tokens, org/in",
+            "url": "https://news.ycombinator.com/item?id=49104761",
+            "date": "2026-07-30"
+          }
+        ],
+        "score": 53
+      },
+      {
         "theme": "videos",
         "mentions": 12,
         "engagement": 233,
@@ -732,34 +760,6 @@
             "text": "Yes, but both would save on Docker licenses and it isn't as if anyone would pay for Docker tooling on Linux anyway. So how does Docker capitalise on this new to",
             "url": "https://news.ycombinator.com/item?id=48916578",
             "date": "2026-07-15"
-          }
-        ],
-        "score": 51
-      },
-      {
-        "theme": "agents",
-        "mentions": 16,
-        "engagement": 112,
-        "evidence": [
-          {
-            "text": "I would love a Kagi MCP to give my agents a better web search tool but they don't seem interested. I would pay for this.",
-            "url": "https://news.ycombinator.com/item?id=49008244",
-            "date": "2026-07-22"
-          },
-          {
-            "text": "Thanks for sharing this, I did not know about uruky. 5 euros no ads and unlimited take my money :) do you have pricing for agents search ?",
-            "url": "https://news.ycombinator.com/item?id=48275460",
-            "date": "2026-05-26"
-          },
-          {
-            "text": "is there such a tool, which is composable? I have my own VM's with agents installed inside, is there a tool which supports calling a codex/claude in a particula",
-            "url": "https://news.ycombinator.com/item?id=46425971",
-            "date": "2025-12-29"
-          },
-          {
-            "text": "I'm not going to pretend I know how to do Github better than Github, but I almost can't believe how poor their support is for fine grained access tokens, org/in",
-            "url": "https://news.ycombinator.com/item?id=49104761",
-            "date": "2026-07-30"
           }
         ],
         "score": 51

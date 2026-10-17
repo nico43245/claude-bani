@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-10-17T00:14:21.387Z",
+  "generated_at": "2026-10-17T10:20:51.142Z",
   "goal_usd": 100,
   "realized_usd": 0,
   "pending_usd": 0,
   "costs_usd": 0,
   "net_usd": 0,
   "progress_pct": 0,
-  "events_total": 1005,
+  "events_total": 1010,
   "tracks": [
     {
       "track": "bounty",
       "revenue": 0,
       "cost": 0,
-      "actions": 204
+      "actions": 205
     },
     {
       "track": "product",
       "revenue": 0,
       "cost": 0,
-      "actions": 196
+      "actions": 197
     },
     {
       "track": "freelance",
       "revenue": 0,
       "cost": 0,
-      "actions": 404
+      "actions": 406
     },
     {
       "track": "competitions",
       "revenue": 0,
       "cost": 0,
-      "actions": 201
+      "actions": 202
     }
   ],
   "activity": [
+    {
+      "ts": "2026-10-17T10:20:51.087Z",
+      "type": "action",
+      "track": "product",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scout de piață: 1091 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 69 subiecte cu cerere repetată",
+      "evidence": null,
+      "agent": "market-signals"
+    },
+    {
+      "ts": "2026-10-17T10:20:04.161Z",
+      "type": "opportunity",
+      "track": "freelance",
+      "amount_usd": 230,
+      "status": null,
+      "desc": "Cel mai bun job: Manual Product Data Entry",
+      "evidence": "https://www.freelancer.com/projects/data-management/manual-product-data-entry",
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-17T10:20:04.161Z",
+      "type": "action",
+      "track": "freelance",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar joburi: 171 proiecte scanate → 48 potrivite, 7 refuzate pe motive etice",
+      "evidence": null,
+      "agent": "gig-radar"
+    },
+    {
+      "ts": "2026-10-17T10:19:51.781Z",
+      "type": "action",
+      "track": "competitions",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Radar competiții: 41 scanate, 1 eligibile după citirea regulamentelor (40 respinse — premii false, restricții de participare, aglomerație).",
+      "evidence": "scouts/comp-radar.mjs",
+      "agent": "comp-radar"
+    },
+    {
+      "ts": "2026-10-17T10:19:16.499Z",
+      "type": "action",
+      "track": "bounty",
+      "amount_usd": 0,
+      "status": null,
+      "desc": "Scanare radar: 657 candidați → 0 bounty-uri reale (657 respinse ca ferme/nefinanțate)",
+      "evidence": null,
+      "agent": "bounty-radar"
+    },
     {
       "ts": "2026-10-17T00:14:21.333Z",
       "type": "action",
@@ -583,61 +633,11 @@
       "desc": "Scanare radar: 711 candidați → 0 bounty-uri reale (711 respinse ca ferme/nefinanțate)",
       "evidence": null,
       "agent": "bounty-radar"
-    },
-    {
-      "ts": "2026-10-13T13:49:14.507Z",
-      "type": "action",
-      "track": "product",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scout de piață: 1092 semnale de durere (HN) + 96 interogări de căutare (Google Suggest) → 70 subiecte cu cerere repetată",
-      "evidence": null,
-      "agent": "market-signals"
-    },
-    {
-      "ts": "2026-10-13T13:48:25.240Z",
-      "type": "opportunity",
-      "track": "freelance",
-      "amount_usd": 431,
-      "status": null,
-      "desc": "Cel mai bun job: Simple Microsoft Excel",
-      "evidence": "https://www.freelancer.com/projects/excel/simple-microsoft-excel-35260455",
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-13T13:48:25.240Z",
-      "type": "action",
-      "track": "freelance",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar joburi: 167 proiecte scanate → 39 potrivite, 7 refuzate pe motive etice",
-      "evidence": null,
-      "agent": "gig-radar"
-    },
-    {
-      "ts": "2026-10-13T13:48:12.436Z",
-      "type": "action",
-      "track": "competitions",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Radar competiții: 37 scanate, 1 eligibile după citirea regulamentelor (36 respinse — premii false, restricții de participare, aglomerație).",
-      "evidence": "scouts/comp-radar.mjs",
-      "agent": "comp-radar"
-    },
-    {
-      "ts": "2026-10-13T13:47:34.953Z",
-      "type": "action",
-      "track": "bounty",
-      "amount_usd": 0,
-      "status": null,
-      "desc": "Scanare radar: 713 candidați → 0 bounty-uri reale (713 respinse ca ferme/nefinanțate)",
-      "evidence": null,
-      "agent": "bounty-radar"
     }
   ],
   "opportunities": {
     "accepted": 1,
-    "rejected": 713,
+    "rejected": 697,
     "top": [
       {
         "source": "comp-radar",
@@ -646,11 +646,11 @@
         "reason": null,
         "title": "The Geologic Enhanced Mapping System (GEMS) Prize Challenge",
         "url": "https://www.drivendata.org/competitions/306/competition-doe-gems/",
-        "score": 935,
+        "score": 927,
         "prize_usd": 300000,
         "slots": 1,
-        "participants": 642,
-        "per_slot": 642,
+        "participants": 647,
+        "per_slot": 647,
         "days_left": 48,
         "objective": true
       }
@@ -658,15 +658,15 @@
     "rejection_reasons": [
       {
         "reason": "proiect prea mic",
-        "count": 395
-      },
-      {
-        "reason": "repo-fermă învățat automat",
-        "count": 104
+        "count": 398
       },
       {
         "reason": "organizație-fermă cunoscută",
         "count": 98
+      },
+      {
+        "reason": "repo-fermă învățat automat",
+        "count": 86
       },
       {
         "reason": "prea competitiv",
@@ -677,11 +677,11 @@
         "count": 16
       },
       {
-        "reason": "fără dovadă de finanțare",
-        "count": 13
+        "reason": "regulament necitibil",
+        "count": 14
       },
       {
-        "reason": "regulament necitibil",
+        "reason": "fără dovadă de finanțare",
         "count": 12
       },
       {
@@ -693,16 +693,20 @@
         "count": 7
       },
       {
-        "reason": "prea aglomerat",
-        "count": 7
+        "reason": "repo prea nou",
+        "count": 5
       },
       {
-        "reason": "repo prea nou",
-        "count": 6
+        "reason": "prea aglomerat",
+        "count": 5
       },
       {
         "reason": "premiu prea mic",
         "count": 3
+      },
+      {
+        "reason": "prea puțin timp de construit",
+        "count": 2
       },
       {
         "reason": "revendicat activ",
@@ -710,10 +714,6 @@
       },
       {
         "reason": "deja adjudecat",
-        "count": 1
-      },
-      {
-        "reason": "prea puțin timp de construit",
         "count": 1
       }
     ]
